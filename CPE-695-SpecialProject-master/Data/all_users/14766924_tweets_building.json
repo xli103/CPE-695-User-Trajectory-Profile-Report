@@ -1,0 +1,3996 @@
+{
+    "total_favorite_count": 6636, 
+    "total_tweets": 100, 
+    "screen_name": "MadiDangerously", 
+    "friends_count": 1755, 
+    "followers_count": 1455, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    45.99213185, 
+                    24.94406217
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...I don't celebrate #Halloween, but yesterday I opted to be \"TOMORROW\" aka \"A Moment In Time\".\u2026 https://t.co/pI6jUNQM7v", 
+                "created_at": "2016-11-01T22:34:52", 
+                "retweet_count": 0, 
+                "id": "793582104777031681", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92027413, 
+                    40.69571377
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241846065.0, 
+                    "type": "yes", 
+                    "id": 7522.0, 
+                    "name": "Brooklyn Heights Library"
+                }, 
+                {
+                    "osm_id": 241846074.0, 
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall"
+                }, 
+                {
+                    "osm_id": 241846109.0, 
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building"
+                }, 
+                {
+                    "osm_id": 249979270.0, 
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence"
+                }, 
+                {
+                    "osm_id": 250369747.0, 
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Today in #bushwick \ud83d\udc99\ud83d\udcab#PortraitsAndMimosas \nhttps://t.co/6jAG372ptj \n#photoshoot\u2026 https://t.co/Dh5VH8wjMf", 
+                "created_at": "2016-10-23T13:00:27", 
+                "retweet_count": 1, 
+                "id": "790176055332143104", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92027413, 
+                    40.69571377
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241846065.0, 
+                    "type": "yes", 
+                    "id": 7522.0, 
+                    "name": "Brooklyn Heights Library"
+                }, 
+                {
+                    "osm_id": 241846074.0, 
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall"
+                }, 
+                {
+                    "osm_id": 241846109.0, 
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building"
+                }, 
+                {
+                    "osm_id": 249979270.0, 
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence"
+                }, 
+                {
+                    "osm_id": 250369747.0, 
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A quick thank you to everyone who purchased a ticket to attend #PortraitsAndMimosas tomorrow!\u2026 https://t.co/b0kAtmZNjR", 
+                "created_at": "2016-10-22T20:42:02", 
+                "retweet_count": 0, 
+                "id": "789929830712217600", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@suzianalog had it jumpin last night!  womanproducer @nationalsawdust \n\n#doitdangerously\u2026 https://t.co/mUIbRIUorp", 
+                "created_at": "2016-10-22T05:29:05", 
+                "retweet_count": 1, 
+                "id": "789700077321322496", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.77309181, 
+                    32.06130301
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ #blu3magic } u guys got your tickets for #PortraitsAndMimosas this Sunday!!! check out the\u2026 https://t.co/Wc97BdZwCb", 
+                "created_at": "2016-10-20T16:15:23", 
+                "retweet_count": 0, 
+                "id": "789137950395236352", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92027413, 
+                    40.69571377
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241846065.0, 
+                    "type": "yes", 
+                    "id": 7522.0, 
+                    "name": "Brooklyn Heights Library"
+                }, 
+                {
+                    "osm_id": 241846074.0, 
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall"
+                }, 
+                {
+                    "osm_id": 241846109.0, 
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building"
+                }, 
+                {
+                    "osm_id": 249979270.0, 
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence"
+                }, 
+                {
+                    "osm_id": 250369747.0, 
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're hosting a photo shoot party next Sunday!!! Come thru for #PortraitsAndMimosas -- get your\u2026 https://t.co/Ct5d9aw5lg", 
+                "created_at": "2016-10-16T00:05:27", 
+                "retweet_count": 0, 
+                "id": "787444305497645056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92027413, 
+                    40.69571377
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241846065.0, 
+                    "type": "yes", 
+                    "id": 7522.0, 
+                    "name": "Brooklyn Heights Library"
+                }, 
+                {
+                    "osm_id": 241846074.0, 
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall"
+                }, 
+                {
+                    "osm_id": 241846109.0, 
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building"
+                }, 
+                {
+                    "osm_id": 249979270.0, 
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence"
+                }, 
+                {
+                    "osm_id": 250369747.0, 
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "on Sunday #OCTOBER23 come get your #PORTRAITS taken at #PortraitsAndMimosas -- a photo shoot\u2026 https://t.co/zf52j3pfMB", 
+                "created_at": "2016-10-12T23:03:29", 
+                "retweet_count": 0, 
+                "id": "786341550192070656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94111111, 
+                    40.68333333
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241821092.0, 
+                    "type": "yes", 
+                    "id": 1666.0, 
+                    "name": "Mazzola Bakery"
+                }, 
+                {
+                    "osm_id": 241823178.0, 
+                    "type": "yes", 
+                    "id": 2580.0, 
+                    "name": "Saint Augustines Protestant Episcopal Church"
+                }, 
+                {
+                    "osm_id": 250359155.0, 
+                    "type": "yes", 
+                    "id": 72660.0, 
+                    "name": "Bergen Bagels"
+                }, 
+                {
+                    "osm_id": 250984737.0, 
+                    "type": "yes", 
+                    "id": 83027.0, 
+                    "name": "Atlantic Center"
+                }, 
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }, 
+                {
+                    "osm_id": 295140396.0, 
+                    "type": "yes", 
+                    "id": 125780.0, 
+                    "name": "BROOK Interlocking"
+                }, 
+                {
+                    "osm_id": 300959014.0, 
+                    "type": "apartments", 
+                    "id": 126027.0, 
+                    "name": "255 Columbia"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ dngrsly en wndrlnd }\n\ntomorrow we'll be in the garden amongst the most glorious of flowers...\u2026 https://t.co/fKORl2Iukp", 
+                "created_at": "2016-10-07T20:05:17", 
+                "retweet_count": 0, 
+                "id": "784484766032756736", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94111111, 
+                    40.68333333
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241821092.0, 
+                    "type": "yes", 
+                    "id": 1666.0, 
+                    "name": "Mazzola Bakery"
+                }, 
+                {
+                    "osm_id": 241823178.0, 
+                    "type": "yes", 
+                    "id": 2580.0, 
+                    "name": "Saint Augustines Protestant Episcopal Church"
+                }, 
+                {
+                    "osm_id": 250359155.0, 
+                    "type": "yes", 
+                    "id": 72660.0, 
+                    "name": "Bergen Bagels"
+                }, 
+                {
+                    "osm_id": 250984737.0, 
+                    "type": "yes", 
+                    "id": 83027.0, 
+                    "name": "Atlantic Center"
+                }, 
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }, 
+                {
+                    "osm_id": 295140396.0, 
+                    "type": "yes", 
+                    "id": 125780.0, 
+                    "name": "BROOK Interlocking"
+                }, 
+                {
+                    "osm_id": 300959014.0, 
+                    "type": "apartments", 
+                    "id": 126027.0, 
+                    "name": "255 Columbia"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "WILD WOMAN TEA PARTY\nOctober 8 @ Bainbridge GARDEN\n12-6 pm // 277-279 Bainbridge Street,\u2026 https://t.co/OjTy3OIRoz", 
+                "created_at": "2016-10-03T23:49:40", 
+                "retweet_count": 0, 
+                "id": "783091682334089216", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98064347, 
+                    40.76420714
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 50603780.0, 
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid"
+                }, 
+                {
+                    "osm_id": 173800921.0, 
+                    "type": "yes", 
+                    "id": 892.0, 
+                    "name": "Lockheed A-12"
+                }, 
+                {
+                    "osm_id": 193611220.0, 
+                    "type": "yes", 
+                    "id": 961.0, 
+                    "name": "ProLogis"
+                }, 
+                {
+                    "osm_id": 259888102.0, 
+                    "type": "yes", 
+                    "id": 83609.0, 
+                    "name": "1717 Broadway"
+                }, 
+                {
+                    "osm_id": 265318744.0, 
+                    "type": "yes", 
+                    "id": 89417.0, 
+                    "name": "American Red Cross Greater New York Chaper"
+                }, 
+                {
+                    "osm_id": 265325191.0, 
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower"
+                }, 
+                {
+                    "osm_id": 265329549.0, 
+                    "type": "school", 
+                    "id": 90161.0, 
+                    "name": "Public School 58"
+                }, 
+                {
+                    "osm_id": 266155268.0, 
+                    "type": "yes", 
+                    "id": 93290.0, 
+                    "name": "The Marc"
+                }, 
+                {
+                    "osm_id": 266155267.0, 
+                    "type": "yes", 
+                    "id": 93318.0, 
+                    "name": "Studio 54"
+                }, 
+                {
+                    "osm_id": 277980023.0, 
+                    "type": "yes", 
+                    "id": 99183.0, 
+                    "name": "F-14 Tomcat"
+                }, 
+                {
+                    "osm_id": 292151070.0, 
+                    "type": "yes", 
+                    "id": 125741.0, 
+                    "name": "Comfort Inn"
+                }, 
+                {
+                    "osm_id": 371377293.0, 
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CLIENTWORK: @ADHonline MAY 2016\n\n#NowBooking: contact dngrsly.cr8tv@gmail.com for FALL 2016\u2026 https://t.co/TTpFpX9PNr", 
+                "created_at": "2016-09-30T00:42:18", 
+                "retweet_count": 0, 
+                "id": "781655374713716736", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98064347, 
+                    40.76420714
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 50603780.0, 
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid"
+                }, 
+                {
+                    "osm_id": 173800921.0, 
+                    "type": "yes", 
+                    "id": 892.0, 
+                    "name": "Lockheed A-12"
+                }, 
+                {
+                    "osm_id": 193611220.0, 
+                    "type": "yes", 
+                    "id": 961.0, 
+                    "name": "ProLogis"
+                }, 
+                {
+                    "osm_id": 259888102.0, 
+                    "type": "yes", 
+                    "id": 83609.0, 
+                    "name": "1717 Broadway"
+                }, 
+                {
+                    "osm_id": 265318744.0, 
+                    "type": "yes", 
+                    "id": 89417.0, 
+                    "name": "American Red Cross Greater New York Chaper"
+                }, 
+                {
+                    "osm_id": 265325191.0, 
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower"
+                }, 
+                {
+                    "osm_id": 265329549.0, 
+                    "type": "school", 
+                    "id": 90161.0, 
+                    "name": "Public School 58"
+                }, 
+                {
+                    "osm_id": 266155268.0, 
+                    "type": "yes", 
+                    "id": 93290.0, 
+                    "name": "The Marc"
+                }, 
+                {
+                    "osm_id": 266155267.0, 
+                    "type": "yes", 
+                    "id": 93318.0, 
+                    "name": "Studio 54"
+                }, 
+                {
+                    "osm_id": 277980023.0, 
+                    "type": "yes", 
+                    "id": 99183.0, 
+                    "name": "F-14 Tomcat"
+                }, 
+                {
+                    "osm_id": 292151070.0, 
+                    "type": "yes", 
+                    "id": 125741.0, 
+                    "name": "Comfort Inn"
+                }, 
+                {
+                    "osm_id": 371377293.0, 
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CLIENTWORK: @ADHonline MAY 2016\n\n#NowBooking: contact dngrsly.cr8tv@gmail.com for FALL 2016\u2026 https://t.co/aPZtRyk7IN", 
+                "created_at": "2016-09-30T00:42:10", 
+                "retweet_count": 0, 
+                "id": "781655342140755968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98064347, 
+                    40.76420714
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 50603780.0, 
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid"
+                }, 
+                {
+                    "osm_id": 173800921.0, 
+                    "type": "yes", 
+                    "id": 892.0, 
+                    "name": "Lockheed A-12"
+                }, 
+                {
+                    "osm_id": 193611220.0, 
+                    "type": "yes", 
+                    "id": 961.0, 
+                    "name": "ProLogis"
+                }, 
+                {
+                    "osm_id": 259888102.0, 
+                    "type": "yes", 
+                    "id": 83609.0, 
+                    "name": "1717 Broadway"
+                }, 
+                {
+                    "osm_id": 265318744.0, 
+                    "type": "yes", 
+                    "id": 89417.0, 
+                    "name": "American Red Cross Greater New York Chaper"
+                }, 
+                {
+                    "osm_id": 265325191.0, 
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower"
+                }, 
+                {
+                    "osm_id": 265329549.0, 
+                    "type": "school", 
+                    "id": 90161.0, 
+                    "name": "Public School 58"
+                }, 
+                {
+                    "osm_id": 266155268.0, 
+                    "type": "yes", 
+                    "id": 93290.0, 
+                    "name": "The Marc"
+                }, 
+                {
+                    "osm_id": 266155267.0, 
+                    "type": "yes", 
+                    "id": 93318.0, 
+                    "name": "Studio 54"
+                }, 
+                {
+                    "osm_id": 277980023.0, 
+                    "type": "yes", 
+                    "id": 99183.0, 
+                    "name": "F-14 Tomcat"
+                }, 
+                {
+                    "osm_id": 292151070.0, 
+                    "type": "yes", 
+                    "id": 125741.0, 
+                    "name": "Comfort Inn"
+                }, 
+                {
+                    "osm_id": 371377293.0, 
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CLIENTWORK: @ADHonline MAY 2016\n\n#NowBooking: contact dngrsly.cr8tv@gmail.com for FALL 2016\u2026 https://t.co/BRKYqmWDsS", 
+                "created_at": "2016-09-30T00:41:56", 
+                "retweet_count": 0, 
+                "id": "781655282262867969", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92027413, 
+                    40.69571377
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241846065.0, 
+                    "type": "yes", 
+                    "id": 7522.0, 
+                    "name": "Brooklyn Heights Library"
+                }, 
+                {
+                    "osm_id": 241846074.0, 
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall"
+                }, 
+                {
+                    "osm_id": 241846109.0, 
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building"
+                }, 
+                {
+                    "osm_id": 249979270.0, 
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence"
+                }, 
+                {
+                    "osm_id": 250369747.0, 
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ #CLIENTWORK: promo shoot for opheliacache Summer 2016\n\nPhotography by @MadiDangerously for\u2026 https://t.co/9FPRrDgrbl", 
+                "created_at": "2016-09-27T01:04:30", 
+                "retweet_count": 0, 
+                "id": "780573798902951937", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92027413, 
+                    40.69571377
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241846065.0, 
+                    "type": "yes", 
+                    "id": 7522.0, 
+                    "name": "Brooklyn Heights Library"
+                }, 
+                {
+                    "osm_id": 241846074.0, 
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall"
+                }, 
+                {
+                    "osm_id": 241846109.0, 
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building"
+                }, 
+                {
+                    "osm_id": 249979270.0, 
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence"
+                }, 
+                {
+                    "osm_id": 250369747.0, 
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ #CLIENTWORK: promo shoot for opheliacache Summer 2016\n\nPhotography by @MadiDangerously for\u2026 https://t.co/3vLztGiMNC", 
+                "created_at": "2016-09-27T00:58:21", 
+                "retweet_count": 0, 
+                "id": "780572250856644608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92027413, 
+                    40.69571377
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241846065.0, 
+                    "type": "yes", 
+                    "id": 7522.0, 
+                    "name": "Brooklyn Heights Library"
+                }, 
+                {
+                    "osm_id": 241846074.0, 
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall"
+                }, 
+                {
+                    "osm_id": 241846109.0, 
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building"
+                }, 
+                {
+                    "osm_id": 249979270.0, 
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence"
+                }, 
+                {
+                    "osm_id": 250369747.0, 
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ #CLIENTWORK: promo shoot for opheliacache Summer 2016\n\nPhotography by @MadiDangerously for\u2026 https://t.co/eQ3AqMkdxU", 
+                "created_at": "2016-09-27T00:55:25", 
+                "retweet_count": 0, 
+                "id": "780571512147509248", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95, 
+                    40.65
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ #CLIENTWORK: \nPromo shoot for #KYLEAHTORAE SS/17 collection \nPhotography by @MadiDangerously\u2026 https://t.co/IaAbWbPnCm", 
+                "created_at": "2016-09-26T23:56:55", 
+                "retweet_count": 0, 
+                "id": "780556791990091776", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    115.19740345, 
+                    -8.71168724
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ ...next stop: Journey to the spirit world... } @thebluebp #TheBlueBusProject #MagicSchoolBus\u2026 https://t.co/2WypVcA4m8", 
+                "created_at": "2016-09-20T03:19:29", 
+                "retweet_count": 0, 
+                "id": "778071051066630144", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97941125, 
+                    40.69710777
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241825946.0, 
+                    "type": "yes", 
+                    "id": 3494.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 241836209.0, 
+                    "type": "yes", 
+                    "id": 5061.0, 
+                    "name": "Jubilee Gallery"
+                }, 
+                {
+                    "osm_id": 250372681.0, 
+                    "type": "church", 
+                    "id": 74233.0, 
+                    "name": "Saint James Cathedral"
+                }, 
+                {
+                    "osm_id": 250373215.0, 
+                    "type": "yes", 
+                    "id": 74322.0, 
+                    "name": "US Eastern District Court"
+                }, 
+                {
+                    "osm_id": 250374493.0, 
+                    "type": "school", 
+                    "id": 74531.0, 
+                    "name": "New York City College of Technology - Midway Building"
+                }, 
+                {
+                    "osm_id": 259759689.0, 
+                    "type": "yes", 
+                    "id": 83576.0, 
+                    "name": "Liberty National Clubhouse"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "vibey times with @theeeempress at @afropunk .... evolutions of cool &amp; warm \ud83d\ude0d\u2728\ud83d\udc99\u2764\ufe0f\ud83c\udf6b\u2026 https://t.co/cZ8DqAodCS", 
+                "created_at": "2016-09-17T14:53:03", 
+                "retweet_count": 1, 
+                "id": "777158431622979584", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.02465751, 
+                    14.58010667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": ".\"..many moons ago this love was meant to be.  fresh off the spacewhip from another, galaxy...\"\u2026 https://t.co/UzJKDCFt3Y", 
+                "created_at": "2016-09-16T10:08:09", 
+                "retweet_count": 0, 
+                "id": "776724346840707072", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01154593, 
+                    40.70169722
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "bubble.pop.electric. \n\n#madidangerously #nyc\n#celebrate #doitdangerously #nycphotography\u2026 https://t.co/7R1FmWtueB", 
+                "created_at": "2016-09-16T07:20:05", 
+                "retweet_count": 0, 
+                "id": "776682048744488960", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.956726, 
+                    40.670313
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248237303.0, 
+                    "type": "yes", 
+                    "id": 26598.0, 
+                    "name": "Rachel's Taqueria"
+                }, 
+                {
+                    "osm_id": 248237363.0, 
+                    "type": "yes", 
+                    "id": 26666.0, 
+                    "name": "Holy Family & St. Thomas Aquinas"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "....dancing with angels under pale moon light. #helloblu3bird #fullmoon #harvestmoon\u2026 https://t.co/6WfQ5vrFL6", 
+                "created_at": "2016-09-16T07:16:36", 
+                "retweet_count": 0, 
+                "id": "776681175565922304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01154593, 
+                    40.70169722
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "be ready to receive. \n\n#doitdangerously #madidangerously #nyc\n#yemaya #oya #oshun\u2026 https://t.co/qhWT3cMpTb", 
+                "created_at": "2016-09-16T06:50:36", 
+                "retweet_count": 0, 
+                "id": "776674631688290304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01154593, 
+                    40.70169722
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "talk to the waters. tell them your dreams. \n\n#helloblu3bird #madidangerously #nyc\n#yemaya #oya\u2026 https://t.co/j2CQ91V8Lp", 
+                "created_at": "2016-09-16T06:47:54", 
+                "retweet_count": 0, 
+                "id": "776673950965329920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92645138, 
+                    40.79437012
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ ...now, you see... } \n@schoolboyq panoramanyc \ud83d\udcf7:: @MadiDangerously #doitdangerously\u2026 https://t.co/cIpzV2iwK8", 
+                "created_at": "2016-09-14T01:12:06", 
+                "retweet_count": 0, 
+                "id": "775864669374386177", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.25859265, 
+                    35.39401453
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ new directions. } \"you are enough. You see.\n\nYou deserve the life \nof your \ndreams. Your are\u2026 https://t.co/abnbHKIzwT", 
+                "created_at": "2016-09-13T10:30:53", 
+                "retweet_count": 0, 
+                "id": "775642904530415616", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    115.19740345, 
+                    -8.71168724
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"...forget all that shit keeping you trapped. All that shit they told you you need. \nBE who YOU\u2026 https://t.co/V2JPHtFyoY", 
+                "created_at": "2016-09-13T05:32:17", 
+                "retweet_count": 0, 
+                "id": "775567757182197760", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.25859265, 
+                    35.39401453
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ new paths. } \n\n\"TODAY'S a great day to be alive . so LIVE, like your living...\n\nroutine has\u2026 https://t.co/2AIrSNbKu5", 
+                "created_at": "2016-09-13T03:14:19", 
+                "retweet_count": 0, 
+                "id": "775533036838453248", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9369, 
+                    40.7302
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3343762.0, 
+                    "type": "yes", 
+                    "id": 80.0, 
+                    "name": "Vanderbilt Law School New York University"
+                }, 
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 241844932.0, 
+                    "type": "church", 
+                    "id": 7231.0, 
+                    "name": "Saint Mark's in-the-Bowery"
+                }, 
+                {
+                    "osm_id": 241845016.0, 
+                    "type": "office", 
+                    "id": 7256.0, 
+                    "name": "51 Astor Place"
+                }, 
+                {
+                    "osm_id": 247842676.0, 
+                    "type": "apartments", 
+                    "id": 10677.0, 
+                    "name": "Hilary Gardens"
+                }, 
+                {
+                    "osm_id": 247842673.0, 
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza"
+                }, 
+                {
+                    "osm_id": 247851934.0, 
+                    "type": "school", 
+                    "id": 11188.0, 
+                    "name": "Public School 19"
+                }, 
+                {
+                    "osm_id": 247855548.0, 
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex"
+                }, 
+                {
+                    "osm_id": 248166211.0, 
+                    "type": "yes", 
+                    "id": 22264.0, 
+                    "name": "Hemmerdinger Hall"
+                }, 
+                {
+                    "osm_id": 248166209.0, 
+                    "type": "yes", 
+                    "id": 22302.0, 
+                    "name": "Brown Building"
+                }, 
+                {
+                    "osm_id": 248166265.0, 
+                    "type": "yes", 
+                    "id": 22326.0, 
+                    "name": "Kimball Hall"
+                }, 
+                {
+                    "osm_id": 248166298.0, 
+                    "type": "church", 
+                    "id": 22327.0, 
+                    "name": "Judson Memorial Church"
+                }, 
+                {
+                    "osm_id": 317885073.0, 
+                    "type": "yes", 
+                    "id": 126136.0, 
+                    "name": "Jersey Journal Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ real quick... } so this past week and weekend has been super magical. forever grateful for all\u2026 https://t.co/weNcGUs4Yp", 
+                "created_at": "2016-09-13T00:23:31", 
+                "retweet_count": 0, 
+                "id": "775490055783743488", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.25859265, 
+                    35.39401453
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ \ud83c\udf00 https://t.co/07qw3AMnlI. // truth.seeker \ud83c\udf00} art by #MadiDangerously #RafetnaArt #MariamaRafetna\u2026 https://t.co/0T9mE6mSW2", 
+                "created_at": "2016-09-12T17:52:51", 
+                "retweet_count": 0, 
+                "id": "775391740257767424", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.25859265, 
+                    35.39401453
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"...often times, to us - unbeknownst\nthe universe sends us \nwhere we are needed most.\u2026 https://t.co/qU4ocRpQiU", 
+                "created_at": "2016-09-09T14:41:58", 
+                "retweet_count": 0, 
+                "id": "774256537745428481", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.901532, 
+                    40.6774
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241860593.0, 
+                    "type": "yes", 
+                    "id": 8754.0, 
+                    "name": "Dinosaur Bar-B-Que"
+                }, 
+                {
+                    "osm_id": 241860808.0, 
+                    "type": "school", 
+                    "id": 8865.0, 
+                    "name": "Rivendell School"
+                }, 
+                {
+                    "osm_id": 250457005.0, 
+                    "type": "yes", 
+                    "id": 80997.0, 
+                    "name": "Swedish Hospital"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"...he said I glided thru doors\nthat's normally never open. \n\ncame in with the sunshine \nbrought\u2026 https://t.co/wGZFaYnabX", 
+                "created_at": "2016-09-09T14:25:36", 
+                "retweet_count": 0, 
+                "id": "774252421639987200", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    115.19740345, 
+                    -8.71168724
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"... God got involved. GOD ALWAYS gets involved...\" #HelloBlu3bird #quotes #poetry\u2026 https://t.co/hmUR0xeSck", 
+                "created_at": "2016-09-09T14:12:54", 
+                "retweet_count": 0, 
+                "id": "774249223848095744", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    115.19740345, 
+                    -8.71168724
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Alwaysremember:\n\n1. Miracles are LOVE in action. \n2. Life is NOW. \n3. you are HERE.\u2026 https://t.co/ryGlehUlb3", 
+                "created_at": "2016-09-08T11:39:46", 
+                "retweet_count": 0, 
+                "id": "773848298373382144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92027413, 
+                    40.69571377
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241846065.0, 
+                    "type": "yes", 
+                    "id": 7522.0, 
+                    "name": "Brooklyn Heights Library"
+                }, 
+                {
+                    "osm_id": 241846074.0, 
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall"
+                }, 
+                {
+                    "osm_id": 241846109.0, 
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building"
+                }, 
+                {
+                    "osm_id": 249979270.0, 
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence"
+                }, 
+                {
+                    "osm_id": 250369747.0, 
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...enroute to @bondfireradio now to share my new song! Make sure you tune in! \ud83d\udc99\u2728\u2026 https://t.co/WLtA37i0t3", 
+                "created_at": "2016-09-07T14:04:21", 
+                "retweet_count": 0, 
+                "id": "773522295340077056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97995245, 
+                    40.6971338
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241825946.0, 
+                    "type": "yes", 
+                    "id": 3494.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 241836209.0, 
+                    "type": "yes", 
+                    "id": 5061.0, 
+                    "name": "Jubilee Gallery"
+                }, 
+                {
+                    "osm_id": 241836266.0, 
+                    "type": "yes", 
+                    "id": 5097.0, 
+                    "name": "Iron Chef House"
+                }, 
+                {
+                    "osm_id": 250372681.0, 
+                    "type": "church", 
+                    "id": 74233.0, 
+                    "name": "Saint James Cathedral"
+                }, 
+                {
+                    "osm_id": 250373215.0, 
+                    "type": "yes", 
+                    "id": 74322.0, 
+                    "name": "US Eastern District Court"
+                }, 
+                {
+                    "osm_id": 250374493.0, 
+                    "type": "school", 
+                    "id": 74531.0, 
+                    "name": "New York City College of Technology - Midway Building"
+                }, 
+                {
+                    "osm_id": 259759689.0, 
+                    "type": "yes", 
+                    "id": 83576.0, 
+                    "name": "Liberty National Clubhouse"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "swag. too much sauce.  @saulwilliams @afropunk #afropunk2016 #MadiDangerously #doitdangerously\u2026 https://t.co/BiUQUyWS8I", 
+                "created_at": "2016-09-05T15:04:48", 
+                "retweet_count": 0, 
+                "id": "772812735570665472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97923304, 
+                    40.69694779
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241825946.0, 
+                    "type": "yes", 
+                    "id": 3494.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 250372681.0, 
+                    "type": "church", 
+                    "id": 74233.0, 
+                    "name": "Saint James Cathedral"
+                }, 
+                {
+                    "osm_id": 250373215.0, 
+                    "type": "yes", 
+                    "id": 74322.0, 
+                    "name": "US Eastern District Court"
+                }, 
+                {
+                    "osm_id": 250374493.0, 
+                    "type": "school", 
+                    "id": 74531.0, 
+                    "name": "New York City College of Technology - Midway Building"
+                }, 
+                {
+                    "osm_id": 259759689.0, 
+                    "type": "yes", 
+                    "id": 83576.0, 
+                    "name": "Liberty National Clubhouse"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ messages sent and received /// talk.to.the.PEOPLE } @saulwilliams @afropunk #afropunk2016\u2026 https://t.co/s2yAPwn3fA", 
+                "created_at": "2016-09-05T14:48:14", 
+                "retweet_count": 0, 
+                "id": "772808563148333056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97861829, 
+                    40.69633848
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 390695789.0, 
+                    "type": "yes", 
+                    "id": 126613.0, 
+                    "name": "Dazzler Brooklyn"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "....never question who I am. GOD KNOWS! @saulwilliams @afropunk #afropunk2016 \n\n#doitdangerously\u2026 https://t.co/6imBkgpUCg", 
+                "created_at": "2016-09-05T10:14:59", 
+                "retweet_count": 0, 
+                "id": "772739800453578752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97893097, 
+                    40.69700462
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241825946.0, 
+                    "type": "yes", 
+                    "id": 3494.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 250372681.0, 
+                    "type": "church", 
+                    "id": 74233.0, 
+                    "name": "Saint James Cathedral"
+                }, 
+                {
+                    "osm_id": 250373215.0, 
+                    "type": "yes", 
+                    "id": 74322.0, 
+                    "name": "US Eastern District Court"
+                }, 
+                {
+                    "osm_id": 250374493.0, 
+                    "type": "school", 
+                    "id": 74531.0, 
+                    "name": "New York City College of Technology - Midway Building"
+                }, 
+                {
+                    "osm_id": 259759689.0, 
+                    "type": "yes", 
+                    "id": 83576.0, 
+                    "name": "Liberty National Clubhouse"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Afromysterics @afropunk #afropunk2016 #people #portraits #streetdreamsmag #makeportraits\u2026 https://t.co/shHV956hYe", 
+                "created_at": "2016-09-01T15:05:51", 
+                "retweet_count": 0, 
+                "id": "771363444763287552", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97923304, 
+                    40.69694779
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241825946.0, 
+                    "type": "yes", 
+                    "id": 3494.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 250372681.0, 
+                    "type": "church", 
+                    "id": 74233.0, 
+                    "name": "Saint James Cathedral"
+                }, 
+                {
+                    "osm_id": 250373215.0, 
+                    "type": "yes", 
+                    "id": 74322.0, 
+                    "name": "US Eastern District Court"
+                }, 
+                {
+                    "osm_id": 250374493.0, 
+                    "type": "school", 
+                    "id": 74531.0, 
+                    "name": "New York City College of Technology - Midway Building"
+                }, 
+                {
+                    "osm_id": 259759689.0, 
+                    "type": "yes", 
+                    "id": 83576.0, 
+                    "name": "Liberty National Clubhouse"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...how do you use your #freedom? @afropunk #afropunk2016 #people #portraits #streetdreamsmag\u2026 https://t.co/FMoev7coFq", 
+                "created_at": "2016-09-01T15:01:55", 
+                "retweet_count": 0, 
+                "id": "771362455842938880", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97923304, 
+                    40.69694779
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241825946.0, 
+                    "type": "yes", 
+                    "id": 3494.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 250372681.0, 
+                    "type": "church", 
+                    "id": 74233.0, 
+                    "name": "Saint James Cathedral"
+                }, 
+                {
+                    "osm_id": 250373215.0, 
+                    "type": "yes", 
+                    "id": 74322.0, 
+                    "name": "US Eastern District Court"
+                }, 
+                {
+                    "osm_id": 250374493.0, 
+                    "type": "school", 
+                    "id": 74531.0, 
+                    "name": "New York City College of Technology - Midway Building"
+                }, 
+                {
+                    "osm_id": 259759689.0, 
+                    "type": "yes", 
+                    "id": 83576.0, 
+                    "name": "Liberty National Clubhouse"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ #innercityblues @iamwetpaint } @afropunk #afropunk2016 #MadiDangerously #doitdangerously\u2026 https://t.co/mwwbgF93TS", 
+                "created_at": "2016-09-01T13:37:13", 
+                "retweet_count": 0, 
+                "id": "771341140574560256", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97917896, 
+                    40.6969549
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241825946.0, 
+                    "type": "yes", 
+                    "id": 3494.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 250372681.0, 
+                    "type": "church", 
+                    "id": 74233.0, 
+                    "name": "Saint James Cathedral"
+                }, 
+                {
+                    "osm_id": 250373215.0, 
+                    "type": "yes", 
+                    "id": 74322.0, 
+                    "name": "US Eastern District Court"
+                }, 
+                {
+                    "osm_id": 250374493.0, 
+                    "type": "school", 
+                    "id": 74531.0, 
+                    "name": "New York City College of Technology - Midway Building"
+                }, 
+                {
+                    "osm_id": 259759689.0, 
+                    "type": "yes", 
+                    "id": 83576.0, 
+                    "name": "Liberty National Clubhouse"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ groovtastic. } thundercat @afropunk #2015 #tbt \nPhoto by @madidangerously \n#DoitDangerously\u2026 https://t.co/lVRKsuTjzz", 
+                "created_at": "2016-08-26T12:20:19", 
+                "retweet_count": 0, 
+                "id": "769147460048588800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01642, 
+                    40.69288
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3700068.0, 
+                    "type": "yes", 
+                    "id": 504.0, 
+                    "name": "Castle Williams"
+                }, 
+                {
+                    "osm_id": 232065131.0, 
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office"
+                }, 
+                {
+                    "osm_id": 278396353.0, 
+                    "type": "yes", 
+                    "id": 101615.0, 
+                    "name": "Building 114"
+                }, 
+                {
+                    "osm_id": 405898216.0, 
+                    "type": "yes", 
+                    "id": 136580.0, 
+                    "name": "Building 110"
+                }, 
+                {
+                    "osm_id": 405898224.0, 
+                    "type": "yes", 
+                    "id": 136584.0, 
+                    "name": "Building 11"
+                }, 
+                {
+                    "osm_id": 405898225.0, 
+                    "type": "yes", 
+                    "id": 136683.0, 
+                    "name": "Building 112"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ ...we buy GOLD @santigold fullmoonfest }  \n\nPhoto by @madidangerously // check out the\u2026 https://t.co/fYL3GIu5ZP", 
+                "created_at": "2016-08-25T16:55:52", 
+                "retweet_count": 0, 
+                "id": "768854419316281344", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    115.19740345, 
+                    -8.71168724
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...you pulled me in your gravity. #FORYOUREYES\n\nI wrote and recorded some new magic! Click the\u2026 https://t.co/jMKhRPd7S2", 
+                "created_at": "2016-08-19T15:01:48", 
+                "retweet_count": 0, 
+                "id": "766651385643409409", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    115.19740345, 
+                    -8.71168724
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#TRU3MAGIC 2014 ~~ original art by #MadiDangerously #MariamaRafetna #rafetnaart \n\nOne of my favs\u2026 https://t.co/789WS81DhA", 
+                "created_at": "2016-08-15T04:06:23", 
+                "retweet_count": 0, 
+                "id": "765036891796307968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.25859265, 
+                    35.39401453
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ \ud83c\udf00 https://t.co/07qw3AMnlI. // truth.seeker \ud83c\udf00} art by #MadiDangerously #RafetnaArt #MariamaRafetna\u2026 https://t.co/0T9mE6mSW2", 
+                "created_at": "2016-08-13T16:40:45", 
+                "retweet_count": 0, 
+                "id": "764501958707281920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.972216, 
+                    40.77274259
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 193612488.0, 
+                    "type": "yes", 
+                    "id": 966.0, 
+                    "name": "CJ Korea Express"
+                }, 
+                {
+                    "osm_id": 193612487.0, 
+                    "type": "yes", 
+                    "id": 968.0, 
+                    "name": "1000 Castle Road"
+                }, 
+                {
+                    "osm_id": 265354534.0, 
+                    "type": "yes", 
+                    "id": 90615.0, 
+                    "name": "Metropolitan Opera House"
+                }, 
+                {
+                    "osm_id": 265354527.0, 
+                    "type": "yes", 
+                    "id": 90622.0, 
+                    "name": "David Geffen Hall"
+                }, 
+                {
+                    "osm_id": 269211267.0, 
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School"
+                }, 
+                {
+                    "osm_id": 269212824.0, 
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier"
+                }, 
+                {
+                    "osm_id": 269219551.0, 
+                    "type": "yes", 
+                    "id": 98027.0, 
+                    "name": "Congregation Habonim"
+                }, 
+                {
+                    "osm_id": 269219557.0, 
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa"
+                }, 
+                {
+                    "osm_id": 279480829.0, 
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial"
+                }, 
+                {
+                    "osm_id": 347377417.0, 
+                    "type": "yes", 
+                    "id": 126330.0, 
+                    "name": "600 Meadowlands Parkway"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ ...summer time we come alive, the caterpillars become the butterfliessss... } #comeflywithme\u2026 https://t.co/8oPJoERz76", 
+                "created_at": "2016-08-12T16:12:45", 
+                "retweet_count": 0, 
+                "id": "764132524637519872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    116.13472814, 
+                    -32.00753724
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...made some new artwork. #butterflies been calling. \n\n#madidangerously #rafetnaart\u2026 https://t.co/somBXyLkJ7", 
+                "created_at": "2016-08-12T16:08:32", 
+                "retweet_count": 0, 
+                "id": "764131464682303488", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92645138, 
+                    40.79437012
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ ...get GOD on the phone... } @kendricklamar \n\n\ud83d\udcf7: @MadiDangerously @madidangerously\u2026 https://t.co/478UxMGfLh", 
+                "created_at": "2016-08-12T15:17:52", 
+                "retweet_count": 0, 
+                "id": "764118714522402817", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92645138, 
+                    40.79437012
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"....No you're not easily impressed \nBut I possess qualities that you need to see \nLook at my\u2026 https://t.co/uQY8jMIZtl", 
+                "created_at": "2016-08-12T15:00:00", 
+                "retweet_count": 0, 
+                "id": "764114216479551492", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92645138, 
+                    40.79437012
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ ...drugs won't get you high like this here, NO. } @kendricklamar \n\n\ud83d\udcf7: @MadiDangerously\u2026 https://t.co/HN1xGFBsBI", 
+                "created_at": "2016-08-12T05:45:38", 
+                "retweet_count": 0, 
+                "id": "763974705720066049", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92645138, 
+                    40.79437012
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ ... L I V E. } @breezylovejoy panoramanyc \n\n\ud83d\udcf7: @MadiDangerously #doitdangerously\u2026 https://t.co/0QPXttTFAS", 
+                "created_at": "2016-07-31T15:33:03", 
+                "retweet_count": 0, 
+                "id": "759773877643907072", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92663077, 
+                    40.79410606
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ ...make 'em hear you... } @alabama_shakes panoramanyc \n\n\ud83d\udcf7:: @MadiDangerously #doitdangerously\u2026 https://t.co/slOlFU6RhU", 
+                "created_at": "2016-07-31T15:16:20", 
+                "retweet_count": 0, 
+                "id": "759769672216637441", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92645138, 
+                    40.79437012
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ set a tone. } @breezylovejoy panoramanyc \n\n\ud83d\udcf7:: @MadiDangerously @madidangerously\u2026 https://t.co/NiqDJzfYt5", 
+                "created_at": "2016-07-31T15:03:13", 
+                "retweet_count": 0, 
+                "id": "759766370024382464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    46.37822049, 
+                    24.78446448
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ \"evolution is inevitable. \nE M B R A C E  I T.\" } \n\n#helloblu3bird #cloudporn #sky\u2026 https://t.co/plfVKMuUPo", 
+                "created_at": "2016-07-31T14:32:01", 
+                "retweet_count": 0, 
+                "id": "759758518970908673", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92663077, 
+                    40.79410606
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ ...zone(d). } @gold_teef @devhynes panoramanyc \n\n\ud83d\udcf7:: #doitdangerously #madidangerously\u2026 https://t.co/2ARttAglQg", 
+                "created_at": "2016-07-31T05:10:00", 
+                "retweet_count": 0, 
+                "id": "759617083529388032", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92645138, 
+                    40.79437012
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "they never been you in a day in their life, but they wanna tell you how to do it. Fancy that.\u2026 https://t.co/R4ijUmoefU", 
+                "created_at": "2016-07-31T05:03:08", 
+                "retweet_count": 0, 
+                "id": "759615357179072512", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92663077, 
+                    40.79410606
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ arrivals &amp; departures. } @flatbushzombies \ud83d\udcf7:: #doitdangerously #madidangerously \n#panorama\u2026 https://t.co/fHoPgtzetZ", 
+                "created_at": "2016-07-31T04:47:11", 
+                "retweet_count": 0, 
+                "id": "759611342458331136", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92645138, 
+                    40.79437012
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{  p r e s e n c e  } \n\n@flatbushzombies panoramanyc \n\n\ud83d\udcf7:: #doitdangerously #madidangerously\u2026 https://t.co/V7P9vw12S4", 
+                "created_at": "2016-07-31T04:37:16", 
+                "retweet_count": 0, 
+                "id": "759608847329787904", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93986, 
+                    40.80371
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...don't you love it, when the sun teases the sky. giving herself. pieces at a time...\u2026 https://t.co/s8mQ21f0Y7", 
+                "created_at": "2016-07-24T13:43:56", 
+                "retweet_count": 0, 
+                "id": "757209706280718336", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91198158, 
+                    40.69695737
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241825946.0, 
+                    "type": "yes", 
+                    "id": 3494.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 250324410.0, 
+                    "type": "school", 
+                    "id": 65796.0, 
+                    "name": "Intermediate School 33"
+                }, 
+                {
+                    "osm_id": 250351783.0, 
+                    "type": "yes", 
+                    "id": 71003.0, 
+                    "name": "Saint Lucy's Roman Catholic Church"
+                }, 
+                {
+                    "osm_id": 250372681.0, 
+                    "type": "church", 
+                    "id": 74233.0, 
+                    "name": "Saint James Cathedral"
+                }, 
+                {
+                    "osm_id": 250373215.0, 
+                    "type": "yes", 
+                    "id": 74322.0, 
+                    "name": "US Eastern District Court"
+                }, 
+                {
+                    "osm_id": 250374493.0, 
+                    "type": "school", 
+                    "id": 74531.0, 
+                    "name": "New York City College of Technology - Midway Building"
+                }, 
+                {
+                    "osm_id": 259759689.0, 
+                    "type": "yes", 
+                    "id": 83576.0, 
+                    "name": "Liberty National Clubhouse"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...no matter what's falling apart around you. Continue CREATING. follow your PASSION. Follow\u2026 https://t.co/CF4Oe8mPZY", 
+                "created_at": "2016-07-22T00:55:28", 
+                "retweet_count": 0, 
+                "id": "756291539295494144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    46.37822049, 
+                    24.78446448
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udfb6 fork.in.the.road. @oddisee \n\n#thebeautyinall #music #instrumentals #production #musictherapy\u2026 https://t.co/TiGJNu5qXb", 
+                "created_at": "2016-07-21T06:58:19", 
+                "retweet_count": 0, 
+                "id": "756020464456171520", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.14353345, 
+                    39.97750691
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ rooftop vibrations }\n\n#PHILLY PHILLY PHILLY WE ARE KEEPING THE CELEBRATION GOING and THE\u2026 https://t.co/Cjf5a9JZer", 
+                "created_at": "2016-07-10T22:42:11", 
+                "retweet_count": 0, 
+                "id": "752271730471755780", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97984, 
+                    40.57538
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ ...made of far too much LIGHT to play petty games in the shade. } \n\n#tru3colouredgal\u2026 https://t.co/e34tdvRDQw", 
+                "created_at": "2016-06-26T19:29:59", 
+                "retweet_count": 0, 
+                "id": "747149929248919552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.23631714, 
+                    5.56579258
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ ...beauty all around you, do you see? } \n\n#helloblu3bird #cloudporn #conversationswithtrees\u2026 https://t.co/PGbegdqOzi", 
+                "created_at": "2016-06-25T14:52:19", 
+                "retweet_count": 0, 
+                "id": "746717664807108608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    45.99213185, 
+                    24.94406217
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...I know, I know - you need new portraits don't ya? \n\n#NOWBOOKING: contact me to schedule a\u2026 https://t.co/ou8bAjXfdi", 
+                "created_at": "2016-06-25T13:26:18", 
+                "retweet_count": 1, 
+                "id": "746696019358941184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.50459992, 
+                    65.00769935
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Idk what I was doing when I recorded this but, lol... \ud83d\ude0b\ud83d\ude0a \n\n#madidangerously #tru3magic\u2026 https://t.co/Wi2Jrwurhe", 
+                "created_at": "2016-06-21T10:19:20", 
+                "retweet_count": 0, 
+                "id": "745199414873030656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9218, 
+                    40.70762
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 53883375.0, 
+                    "type": "yes", 
+                    "id": 607.0, 
+                    "name": "Liberty Science Center"
+                }, 
+                {
+                    "osm_id": 68312595.0, 
+                    "type": "yes", 
+                    "id": 615.0, 
+                    "name": "200 Water Street"
+                }, 
+                {
+                    "osm_id": 232065148.0, 
+                    "type": "yes", 
+                    "id": 1182.0, 
+                    "name": "Communipaw Terminal"
+                }, 
+                {
+                    "osm_id": 277924004.0, 
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch"
+                }, 
+                {
+                    "osm_id": 278033589.0, 
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences"
+                }, 
+                {
+                    "osm_id": 278042262.0, 
+                    "type": "yes", 
+                    "id": 99272.0, 
+                    "name": "14 Wall Street"
+                }, 
+                {
+                    "osm_id": 278042264.0, 
+                    "type": "yes", 
+                    "id": 99273.0, 
+                    "name": "2 Wall Street"
+                }, 
+                {
+                    "osm_id": 278042265.0, 
+                    "type": "yes", 
+                    "id": 99274.0, 
+                    "name": "20 Pine Street"
+                }, 
+                {
+                    "osm_id": 278053481.0, 
+                    "type": "yes", 
+                    "id": 99280.0, 
+                    "name": "Empire Building"
+                }, 
+                {
+                    "osm_id": 278079587.0, 
+                    "type": "yes", 
+                    "id": 99550.0, 
+                    "name": "116 John Street"
+                }, 
+                {
+                    "osm_id": 279530782.0, 
+                    "type": "yes", 
+                    "id": 102186.0, 
+                    "name": "One Chase Manhattan Plaza"
+                }, 
+                {
+                    "osm_id": 292727352.0, 
+                    "type": "yes", 
+                    "id": 125754.0, 
+                    "name": "Insurance Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@thebkcollective block party breeze thru with the homies seastarsmovement_ \n\n#tru3magic\u2026 https://t.co/oDm8S0TWNx", 
+                "created_at": "2016-06-06T00:40:11", 
+                "retweet_count": 0, 
+                "id": "739617850999083008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97466842, 
+                    40.68710793
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248139328.0, 
+                    "type": "yes", 
+                    "id": 15622.0, 
+                    "name": "Darna"
+                }, 
+                {
+                    "osm_id": 248139326.0, 
+                    "type": "yes", 
+                    "id": 15665.0, 
+                    "name": "Nectar"
+                }, 
+                {
+                    "osm_id": 248145115.0, 
+                    "type": "school", 
+                    "id": 17237.0, 
+                    "name": "P.S. 29"
+                }, 
+                {
+                    "osm_id": 248165702.0, 
+                    "type": "yes", 
+                    "id": 21802.0, 
+                    "name": "Byelorussian Autocephalic Orthodox Church"
+                }, 
+                {
+                    "osm_id": 250965682.0, 
+                    "type": "yes", 
+                    "id": 82389.0, 
+                    "name": "Berlyn"
+                }, 
+                {
+                    "osm_id": 250966225.0, 
+                    "type": "yes", 
+                    "id": 82623.0, 
+                    "name": "Mark Morris Dance Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"...take your MAGIC with you, wherever you GO!\" @helloblu3bird #helloblu3bird \n\nOne of my fav\u2026 https://t.co/0S1oGcUzIu", 
+                "created_at": "2016-06-05T23:41:12", 
+                "retweet_count": 1, 
+                "id": "739603008263192577", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97466842, 
+                    40.68710793
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248139328.0, 
+                    "type": "yes", 
+                    "id": 15622.0, 
+                    "name": "Darna"
+                }, 
+                {
+                    "osm_id": 248139326.0, 
+                    "type": "yes", 
+                    "id": 15665.0, 
+                    "name": "Nectar"
+                }, 
+                {
+                    "osm_id": 248145115.0, 
+                    "type": "school", 
+                    "id": 17237.0, 
+                    "name": "P.S. 29"
+                }, 
+                {
+                    "osm_id": 248165702.0, 
+                    "type": "yes", 
+                    "id": 21802.0, 
+                    "name": "Byelorussian Autocephalic Orthodox Church"
+                }, 
+                {
+                    "osm_id": 250965682.0, 
+                    "type": "yes", 
+                    "id": 82389.0, 
+                    "name": "Berlyn"
+                }, 
+                {
+                    "osm_id": 250966225.0, 
+                    "type": "yes", 
+                    "id": 82623.0, 
+                    "name": "Mark Morris Dance Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "last week's bornday M A G I C  at @mosftgreene  hosted by @themarxman -- many thanks for\u2026 https://t.co/AHJpsbNxkQ", 
+                "created_at": "2016-06-05T23:25:58", 
+                "retweet_count": 0, 
+                "id": "739599170944827392", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97466842, 
+                    40.68710793
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248139328.0, 
+                    "type": "yes", 
+                    "id": 15622.0, 
+                    "name": "Darna"
+                }, 
+                {
+                    "osm_id": 248139326.0, 
+                    "type": "yes", 
+                    "id": 15665.0, 
+                    "name": "Nectar"
+                }, 
+                {
+                    "osm_id": 248145115.0, 
+                    "type": "school", 
+                    "id": 17237.0, 
+                    "name": "P.S. 29"
+                }, 
+                {
+                    "osm_id": 248165702.0, 
+                    "type": "yes", 
+                    "id": 21802.0, 
+                    "name": "Byelorussian Autocephalic Orthodox Church"
+                }, 
+                {
+                    "osm_id": 250965682.0, 
+                    "type": "yes", 
+                    "id": 82389.0, 
+                    "name": "Berlyn"
+                }, 
+                {
+                    "osm_id": 250966225.0, 
+                    "type": "yes", 
+                    "id": 82623.0, 
+                    "name": "Mark Morris Dance Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"...messages from the sky- fall, into our hearts, get carried on our feet, planted in our spirit\u2026 https://t.co/AXHmBLF1zG", 
+                "created_at": "2016-06-05T23:20:34", 
+                "retweet_count": 0, 
+                "id": "739597811986104320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97466842, 
+                    40.68710793
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248139328.0, 
+                    "type": "yes", 
+                    "id": 15622.0, 
+                    "name": "Darna"
+                }, 
+                {
+                    "osm_id": 248139326.0, 
+                    "type": "yes", 
+                    "id": 15665.0, 
+                    "name": "Nectar"
+                }, 
+                {
+                    "osm_id": 248145115.0, 
+                    "type": "school", 
+                    "id": 17237.0, 
+                    "name": "P.S. 29"
+                }, 
+                {
+                    "osm_id": 248165702.0, 
+                    "type": "yes", 
+                    "id": 21802.0, 
+                    "name": "Byelorussian Autocephalic Orthodox Church"
+                }, 
+                {
+                    "osm_id": 250965682.0, 
+                    "type": "yes", 
+                    "id": 82389.0, 
+                    "name": "Berlyn"
+                }, 
+                {
+                    "osm_id": 250966225.0, 
+                    "type": "yes", 
+                    "id": 82623.0, 
+                    "name": "Mark Morris Dance Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "aahhhhhh last night was great magical times with my magical friends! \u2728\ud83d\udc99 THANK YOU to everyone\u2026 https://t.co/mZXgMMchtj", 
+                "created_at": "2016-05-31T20:18:59", 
+                "retweet_count": 0, 
+                "id": "737740176810729474", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0052497, 
+                    40.72854428
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 27110669.0, 
+                    "type": "yes", 
+                    "id": 575.0, 
+                    "name": "North Garage"
+                }, 
+                {
+                    "osm_id": 213909916.0, 
+                    "type": "yes", 
+                    "id": 1030.0, 
+                    "name": "375 Hudson Street"
+                }, 
+                {
+                    "osm_id": 317884690.0, 
+                    "type": "yes", 
+                    "id": 126129.0, 
+                    "name": "Hudson County Community College - Building F"
+                }, 
+                {
+                    "osm_id": 331072217.0, 
+                    "type": "yes", 
+                    "id": 126275.0, 
+                    "name": "Holland Tunnel Ventilation Tower"
+                }, 
+                {
+                    "osm_id": 409652711.0, 
+                    "type": "yes", 
+                    "id": 138839.0, 
+                    "name": "Saint Michael's Church of Saint Jude"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...cuz #tbt... cuz he's a #Gemini... cuz he's fxckin @kendricklamar \u26a1\ufe0f\u26a1\ufe0f \n\n#madidangerously\u2026 https://t.co/mgQ96GCgaV", 
+                "created_at": "2016-05-27T05:59:54", 
+                "retweet_count": 0, 
+                "id": "736074432226025472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97917896, 
+                    40.6969549
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241825946.0, 
+                    "type": "yes", 
+                    "id": 3494.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 250372681.0, 
+                    "type": "church", 
+                    "id": 74233.0, 
+                    "name": "Saint James Cathedral"
+                }, 
+                {
+                    "osm_id": 250373215.0, 
+                    "type": "yes", 
+                    "id": 74322.0, 
+                    "name": "US Eastern District Court"
+                }, 
+                {
+                    "osm_id": 250374493.0, 
+                    "type": "school", 
+                    "id": 74531.0, 
+                    "name": "New York City College of Technology - Midway Building"
+                }, 
+                {
+                    "osm_id": 259759689.0, 
+                    "type": "yes", 
+                    "id": 83576.0, 
+                    "name": "Liberty National Clubhouse"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ groovtastic. } thundercat @afropunk #2015 #tbt \n\nPhoto by @madidangerously \n\n#DoitDangerously\u2026 https://t.co/lVRKsuBIaZ", 
+                "created_at": "2016-05-27T05:29:00", 
+                "retweet_count": 0, 
+                "id": "736066655361466369", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97466842, 
+                    40.68710793
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248139328.0, 
+                    "type": "yes", 
+                    "id": 15622.0, 
+                    "name": "Darna"
+                }, 
+                {
+                    "osm_id": 248139326.0, 
+                    "type": "yes", 
+                    "id": 15665.0, 
+                    "name": "Nectar"
+                }, 
+                {
+                    "osm_id": 248145115.0, 
+                    "type": "school", 
+                    "id": 17237.0, 
+                    "name": "P.S. 29"
+                }, 
+                {
+                    "osm_id": 248165702.0, 
+                    "type": "yes", 
+                    "id": 21802.0, 
+                    "name": "Byelorussian Autocephalic Orthodox Church"
+                }, 
+                {
+                    "osm_id": 250965682.0, 
+                    "type": "yes", 
+                    "id": 82389.0, 
+                    "name": "Berlyn"
+                }, 
+                {
+                    "osm_id": 250966225.0, 
+                    "type": "yes", 
+                    "id": 82623.0, 
+                    "name": "Mark Morris Dance Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Greetings earthlings and visitors on this blu3 marble... Next Monday I'm not only celebrating my\u2026 https://t.co/HN70fJ4otF", 
+                "created_at": "2016-05-25T21:23:49", 
+                "retweet_count": 0, 
+                "id": "735582164968955904", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95, 
+                    40.65
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#ATTHEPLAYGROUND:: \n#Repost @pearlsquared\n\u30fb\u30fb\u30fb\nIt's finally hot\u2600\ufe0f\ud83d\udc99 photo by : @madidangerously\u2026 https://t.co/HTaQLMF5eU", 
+                "created_at": "2016-05-23T19:35:40", 
+                "retweet_count": 0, 
+                "id": "734830173527248897", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "JUNE 18, come art &amp; brunch w/meeee \u2728\ud83c\udf00\u2728\n\nWill have a few pieces on view &amp; prints for sale!\u2026 https://t.co/hiK9lB12oP", 
+                "created_at": "2016-05-21T19:16:08", 
+                "retweet_count": 0, 
+                "id": "734100483409883137", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97775, 
+                    40.68673
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248145115.0, 
+                    "type": "school", 
+                    "id": 17237.0, 
+                    "name": "P.S. 29"
+                }, 
+                {
+                    "osm_id": 248153051.0, 
+                    "type": "yes", 
+                    "id": 17672.0, 
+                    "name": "Court Street Health & Fitness"
+                }, 
+                {
+                    "osm_id": 248153052.0, 
+                    "type": "yes", 
+                    "id": 17674.0, 
+                    "name": "Joya"
+                }, 
+                {
+                    "osm_id": 250979163.0, 
+                    "type": "yes", 
+                    "id": 82903.0, 
+                    "name": "Brooklyn Academy of Music"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Loooots of fun last night. Saw so many folks that I haven't seen in years. Met many new dope\u2026 https://t.co/dFn3JVeP38", 
+                "created_at": "2016-05-20T12:57:29", 
+                "retweet_count": 0, 
+                "id": "733642804518326272", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94072912, 
+                    40.64188774
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...if you could go back in time, what messages would you give to your 5yr old self? \n\n(my poses\u2026 https://t.co/snPCFQGwpH", 
+                "created_at": "2016-05-19T12:06:06", 
+                "retweet_count": 0, 
+                "id": "733267486351757314", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99722222, 
+                    40.71472222
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3359447.0, 
+                    "type": "yes", 
+                    "id": 117.0, 
+                    "name": "Louis J. Lefkowitz State Office Building"
+                }, 
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250269529.0, 
+                    "type": "yes", 
+                    "id": 57721.0, 
+                    "name": "United States Court of International Trade"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 259759697.0, 
+                    "type": "yes", 
+                    "id": 83579.0, 
+                    "name": "70 Greene Street"
+                }, 
+                {
+                    "osm_id": 259759698.0, 
+                    "type": "yes", 
+                    "id": 83581.0, 
+                    "name": "77 Hudson Street"
+                }, 
+                {
+                    "osm_id": 277890497.0, 
+                    "type": "yes", 
+                    "id": 99051.0, 
+                    "name": "Lilly O'Briens"
+                }, 
+                {
+                    "osm_id": 277890500.0, 
+                    "type": "yes", 
+                    "id": 99055.0, 
+                    "name": "Pure Green Cleaners"
+                }, 
+                {
+                    "osm_id": 277890515.0, 
+                    "type": "yes", 
+                    "id": 99068.0, 
+                    "name": "125 Barclay Street"
+                }, 
+                {
+                    "osm_id": 277904748.0, 
+                    "type": "yes", 
+                    "id": 99101.0, 
+                    "name": "Raccoon Lodge"
+                }, 
+                {
+                    "osm_id": 278093222.0, 
+                    "type": "yes", 
+                    "id": 99700.0, 
+                    "name": "Ted Weiss Federal Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...there's a strange thing that happens when you choose to follow the crowd. Not all bad. Not\u2026 https://t.co/lSN8CUD1u5", 
+                "created_at": "2016-05-19T11:25:46", 
+                "retweet_count": 0, 
+                "id": "733257335490150400", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99507299, 
+                    40.704216
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695753.0, 
+                    "type": "yes", 
+                    "id": 441.0, 
+                    "name": "Alexander Hamilton U.S. Custom House"
+                }, 
+                {
+                    "osm_id": 155440973.0, 
+                    "type": "yes", 
+                    "id": 792.0, 
+                    "name": "2 Broadway"
+                }, 
+                {
+                    "osm_id": 278053552.0, 
+                    "type": "yes", 
+                    "id": 99346.0, 
+                    "name": "Mad Dog and Beans"
+                }, 
+                {
+                    "osm_id": 278053554.0, 
+                    "type": "yes", 
+                    "id": 99349.0, 
+                    "name": "Stone Street Tavern"
+                }, 
+                {
+                    "osm_id": 278053562.0, 
+                    "type": "yes", 
+                    "id": 99361.0, 
+                    "name": "Beckett's Bar and Grill"
+                }, 
+                {
+                    "osm_id": 278053575.0, 
+                    "type": "yes", 
+                    "id": 99368.0, 
+                    "name": "Adrienne's Pizza Bar"
+                }, 
+                {
+                    "osm_id": 278053583.0, 
+                    "type": "yes", 
+                    "id": 99386.0, 
+                    "name": "Maritime Exchange Building"
+                }, 
+                {
+                    "osm_id": 278053613.0, 
+                    "type": "yes", 
+                    "id": 99403.0, 
+                    "name": "85 Broad Street"
+                }, 
+                {
+                    "osm_id": 278053612.0, 
+                    "type": "yes", 
+                    "id": 99405.0, 
+                    "name": "7 Hanover Square"
+                }, 
+                {
+                    "osm_id": 278076410.0, 
+                    "type": "yes", 
+                    "id": 99463.0, 
+                    "name": "111 Wall Street"
+                }, 
+                {
+                    "osm_id": 278076413.0, 
+                    "type": "yes", 
+                    "id": 99466.0, 
+                    "name": "77 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...when was the last time you committed to something/anything/anyone. how did that work out?\u2026 https://t.co/Ddy0NejG1W", 
+                "created_at": "2016-05-19T11:25:37", 
+                "retweet_count": 0, 
+                "id": "733257298206953472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95848, 
+                    40.806225
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "...the next message you need is right where you are... #LifeisNOW (5/6)  #helloblu3bird\u2026 https://t.co/FgwhsHNNDw", 
+                "created_at": "2016-05-10T22:36:10", 
+                "retweet_count": 0, 
+                "id": "730164556778082305", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0367, 
+                    38.8951
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Repost @oshunnyc\n\u30fb\u30fb\u30fb\n#flashbackfriday to our moment with the EMPRESS herself, Ms. Erykah Badu,\u2026 https://t.co/qfLpE7Na1S", 
+                "created_at": "2016-05-06T19:12:23", 
+                "retweet_count": 0, 
+                "id": "728663720155582464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93108478, 
+                    40.67953628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241834635.0, 
+                    "type": "school", 
+                    "id": 4775.0, 
+                    "name": "Public School K146 Brooklyn New School"
+                }, 
+                {
+                    "osm_id": 248164648.0, 
+                    "type": "yes", 
+                    "id": 21098.0, 
+                    "name": "Key Food"
+                }, 
+                {
+                    "osm_id": 250369114.0, 
+                    "type": "yes", 
+                    "id": 73798.0, 
+                    "name": "Fulton Bike Shop"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#AtThePlayground:: \"If you want to be creative, stay in part child, with the creativity and\u2026 https://t.co/NlODMlje5t", 
+                "created_at": "2016-05-05T12:24:30", 
+                "retweet_count": 0, 
+                "id": "728198683288690688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97445, 
+                    40.68538
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241844600.0, 
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies"
+                }, 
+                {
+                    "osm_id": 241844886.0, 
+                    "type": "yes", 
+                    "id": 7149.0, 
+                    "name": "Rite Aid"
+                }, 
+                {
+                    "osm_id": 248145126.0, 
+                    "type": "yes", 
+                    "id": 17439.0, 
+                    "name": "Kane Street Synagogue"
+                }, 
+                {
+                    "osm_id": 250979172.0, 
+                    "type": "yes", 
+                    "id": 82742.0, 
+                    "name": "Hanson Place Central United Methodist Church"
+                }, 
+                {
+                    "osm_id": 250979509.0, 
+                    "type": "yes", 
+                    "id": 82895.0, 
+                    "name": "Williamsburgh Savings Bank Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#MOOD \nArt by @Afromysterics\n\nModel: @azizaamusic \nPhoto by @MadiDangerously / @madidangerously\u2026 https://t.co/KbniH3Kre9", 
+                "created_at": "2016-05-04T18:25:58", 
+                "retweet_count": 1, 
+                "id": "727927262809460736", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95221608, 
+                    40.79818805
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "stand tall in the direction of your choosing. \n#MadiDangerously #DoItDangerously #DngrslyCr8tv\u2026 https://t.co/eIlSjgI2zX", 
+                "created_at": "2016-04-29T13:37:03", 
+                "retweet_count": 0, 
+                "id": "726042616370991104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00033212, 
+                    40.72550731
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110661.0, 
+                    "type": "yes", 
+                    "id": 553.0, 
+                    "name": "South Garage"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 249664614.0, 
+                    "type": "yes", 
+                    "id": 35433.0, 
+                    "name": "New York City Fire Museum"
+                }, 
+                {
+                    "osm_id": 249664631.0, 
+                    "type": "yes", 
+                    "id": 35451.0, 
+                    "name": "Trump SoHo"
+                }, 
+                {
+                    "osm_id": 362642225.0, 
+                    "type": "house", 
+                    "id": 126382.0, 
+                    "name": "Battello"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Repost @madidangerously\n\u30fb\u30fb\u30fb\nlittledragon  @govballnyc #govballnyc #govball2015 #MadiDangerously\u2026 https://t.co/RJyUlttoIV", 
+                "created_at": "2016-04-28T15:40:34", 
+                "retweet_count": 0, 
+                "id": "725711313276702724", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95972222, 
+                    40.71388889
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3696430.0, 
+                    "type": "yes", 
+                    "id": 460.0, 
+                    "name": "New York State Supreme Court"
+                }, 
+                {
+                    "osm_id": -3696564.0, 
+                    "type": "yes", 
+                    "id": 503.0, 
+                    "name": "Thurgood Marshall United States Courthouse"
+                }, 
+                {
+                    "osm_id": -6137836.0, 
+                    "type": "yes", 
+                    "id": 536.0, 
+                    "name": "Surrogate's Courthouse"
+                }, 
+                {
+                    "osm_id": 157880278.0, 
+                    "type": "yes", 
+                    "id": 800.0, 
+                    "name": "Emigrant Industrial Savings Bank Building"
+                }, 
+                {
+                    "osm_id": 241837976.0, 
+                    "type": "yes", 
+                    "id": 6132.0, 
+                    "name": "Vanessa's Dumpling House"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277890482.0, 
+                    "type": "yes", 
+                    "id": 99129.0, 
+                    "name": "Fiterman Hall"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 277919047.0, 
+                    "type": "yes", 
+                    "id": 99209.0, 
+                    "name": "200 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278105948.0, 
+                    "type": "public", 
+                    "id": 99801.0, 
+                    "name": "Daniel Patrick Moynihan United States Courthouse"
+                }, 
+                {
+                    "osm_id": 278256361.0, 
+                    "type": "yes", 
+                    "id": 100294.0, 
+                    "name": "David Sarnoff Building"
+                }, 
+                {
+                    "osm_id": 278256447.0, 
+                    "type": "church", 
+                    "id": 100388.0, 
+                    "name": "St. Augustine's Church"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CLIENTWORK: fulathela \n\nphotography by @MadiDangerously for #DNGRSLYCR8TV \n\n#portraits\u2026 https://t.co/m2XopGz3oo", 
+                "created_at": "2016-04-28T13:06:53", 
+                "retweet_count": 0, 
+                "id": "725672635904987136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91924647, 
+                    40.68796931
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 245221169.0, 
+                    "type": "school", 
+                    "id": 9986.0, 
+                    "name": "Brooklyn Heights Montessori School Annex"
+                }, 
+                {
+                    "osm_id": 245221186.0, 
+                    "type": "school", 
+                    "id": 9999.0, 
+                    "name": "Brooklyn Heights Montessori School"
+                }, 
+                {
+                    "osm_id": 248165819.0, 
+                    "type": "yes", 
+                    "id": 21873.0, 
+                    "name": "Saint Nicholas Antiochian Orthodox Church"
+                }, 
+                {
+                    "osm_id": 250302850.0, 
+                    "type": "school", 
+                    "id": 58190.0, 
+                    "name": "Public School 309"
+                }, 
+                {
+                    "osm_id": 250307536.0, 
+                    "type": "school", 
+                    "id": 59336.0, 
+                    "name": "Intermediate School 324"
+                }, 
+                {
+                    "osm_id": 250337692.0, 
+                    "type": "yes", 
+                    "id": 68957.0, 
+                    "name": "Higgins Hall"
+                }, 
+                {
+                    "osm_id": 250361396.0, 
+                    "type": "yes", 
+                    "id": 72788.0, 
+                    "name": "Brooklyn Masonic Temple"
+                }, 
+                {
+                    "osm_id": 250361579.0, 
+                    "type": "school", 
+                    "id": 72968.0, 
+                    "name": "Our Lady Queen of All Saints School"
+                }, 
+                {
+                    "osm_id": 278396433.0, 
+                    "type": "yes", 
+                    "id": 101651.0, 
+                    "name": "Building 324"
+                }, 
+                {
+                    "osm_id": 278396430.0, 
+                    "type": "yes", 
+                    "id": 101693.0, 
+                    "name": "Our Lady Star of the Sea Chapel"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ springtime fly} \n#CLIENTWORK: @pearlsquared \nphotography by @madidangerously for #DNGRSLYCR8TV\u2026 https://t.co/394JlUo6Pn", 
+                "created_at": "2016-04-25T20:10:33", 
+                "retweet_count": 0, 
+                "id": "724692091834621958", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91924647, 
+                    40.68796931
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 245221169.0, 
+                    "type": "school", 
+                    "id": 9986.0, 
+                    "name": "Brooklyn Heights Montessori School Annex"
+                }, 
+                {
+                    "osm_id": 245221186.0, 
+                    "type": "school", 
+                    "id": 9999.0, 
+                    "name": "Brooklyn Heights Montessori School"
+                }, 
+                {
+                    "osm_id": 248165819.0, 
+                    "type": "yes", 
+                    "id": 21873.0, 
+                    "name": "Saint Nicholas Antiochian Orthodox Church"
+                }, 
+                {
+                    "osm_id": 250302850.0, 
+                    "type": "school", 
+                    "id": 58190.0, 
+                    "name": "Public School 309"
+                }, 
+                {
+                    "osm_id": 250307536.0, 
+                    "type": "school", 
+                    "id": 59336.0, 
+                    "name": "Intermediate School 324"
+                }, 
+                {
+                    "osm_id": 250337692.0, 
+                    "type": "yes", 
+                    "id": 68957.0, 
+                    "name": "Higgins Hall"
+                }, 
+                {
+                    "osm_id": 250361396.0, 
+                    "type": "yes", 
+                    "id": 72788.0, 
+                    "name": "Brooklyn Masonic Temple"
+                }, 
+                {
+                    "osm_id": 250361579.0, 
+                    "type": "school", 
+                    "id": 72968.0, 
+                    "name": "Our Lady Queen of All Saints School"
+                }, 
+                {
+                    "osm_id": 278396433.0, 
+                    "type": "yes", 
+                    "id": 101651.0, 
+                    "name": "Building 324"
+                }, 
+                {
+                    "osm_id": 278396430.0, 
+                    "type": "yes", 
+                    "id": 101693.0, 
+                    "name": "Our Lady Star of the Sea Chapel"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CLIENTWORK: @pearlsquared \n\nphotography by @madidangerously for #DNGRSLYCR8TV \u2728$75 Spring\u2026 https://t.co/7UGrRi9YQW", 
+                "created_at": "2016-04-25T19:47:17", 
+                "retweet_count": 0, 
+                "id": "724686235663474693", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98976266, 
+                    40.70276865
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 274483198.0, 
+                    "type": "yes", 
+                    "id": 98498.0, 
+                    "name": "17 State Street"
+                }, 
+                {
+                    "osm_id": 278053486.0, 
+                    "type": "yes", 
+                    "id": 99308.0, 
+                    "name": "Four New York Plaza"
+                }, 
+                {
+                    "osm_id": 278053533.0, 
+                    "type": "yes", 
+                    "id": 99332.0, 
+                    "name": "One State Street Plaza"
+                }, 
+                {
+                    "osm_id": 278053534.0, 
+                    "type": "yes", 
+                    "id": 99333.0, 
+                    "name": "Shrine of Saint Elizabeth Ann Bayley Seton"
+                }, 
+                {
+                    "osm_id": 278053603.0, 
+                    "type": "yes", 
+                    "id": 99382.0, 
+                    "name": "3 New York Plaza"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{adventures down under the Manhattan bridge } \n\n#CLIENTWORK: faustodipino \n\nPhotography by\u2026 https://t.co/F5A04EZcUW", 
+                "created_at": "2016-04-25T18:07:36", 
+                "retweet_count": 0, 
+                "id": "724661149250129920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98976266, 
+                    40.70276865
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 274483198.0, 
+                    "type": "yes", 
+                    "id": 98498.0, 
+                    "name": "17 State Street"
+                }, 
+                {
+                    "osm_id": 278053486.0, 
+                    "type": "yes", 
+                    "id": 99308.0, 
+                    "name": "Four New York Plaza"
+                }, 
+                {
+                    "osm_id": 278053533.0, 
+                    "type": "yes", 
+                    "id": 99332.0, 
+                    "name": "One State Street Plaza"
+                }, 
+                {
+                    "osm_id": 278053534.0, 
+                    "type": "yes", 
+                    "id": 99333.0, 
+                    "name": "Shrine of Saint Elizabeth Ann Bayley Seton"
+                }, 
+                {
+                    "osm_id": 278053603.0, 
+                    "type": "yes", 
+                    "id": 99382.0, 
+                    "name": "3 New York Plaza"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ a cool shoot on cold dumbo day } \n#CLIENTWORK: faustodipino \nPhotography by @madidangerously\u2026 https://t.co/5HALgOWBch", 
+                "created_at": "2016-04-25T16:43:56", 
+                "retweet_count": 0, 
+                "id": "724640093399556096", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96264288, 
+                    40.66156894
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 249634654.0, 
+                    "type": "yes", 
+                    "id": 34015.0, 
+                    "name": "Pavillion Theater"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CLIENTWORK: jerichoroadinc \nPhoto by @halfbakedexp for #DNGRSLYCR8TV \nNOW BOOKING:\u2026 https://t.co/Hi8x7jqmcW", 
+                "created_at": "2016-04-18T01:38:56", 
+                "retweet_count": 0, 
+                "id": "721875628132319233", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96264288, 
+                    40.66156894
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 249634654.0, 
+                    "type": "yes", 
+                    "id": 34015.0, 
+                    "name": "Pavillion Theater"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CLIENTWORK: jerichoroadinc \nPhoto by @halfbakedexp for #DNGRSLYCR8TV \nNOW BOOKING:\u2026 https://t.co/JFrkccGOeQ", 
+                "created_at": "2016-04-18T01:38:29", 
+                "retweet_count": 0, 
+                "id": "721875515280334848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9745026, 
+                    40.6853485
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241844600.0, 
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies"
+                }, 
+                {
+                    "osm_id": 241844886.0, 
+                    "type": "yes", 
+                    "id": 7149.0, 
+                    "name": "Rite Aid"
+                }, 
+                {
+                    "osm_id": 248145126.0, 
+                    "type": "yes", 
+                    "id": 17439.0, 
+                    "name": "Kane Street Synagogue"
+                }, 
+                {
+                    "osm_id": 250979172.0, 
+                    "type": "yes", 
+                    "id": 82742.0, 
+                    "name": "Hanson Place Central United Methodist Church"
+                }, 
+                {
+                    "osm_id": 250979509.0, 
+                    "type": "yes", 
+                    "id": 82895.0, 
+                    "name": "Williamsburgh Savings Bank Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Afromysterics &amp; muse.. at oriinufilm trailer release at @mocada by @halfbakedexp #tbt  #oriinu\u2026 https://t.co/sdYvtnmxVB", 
+                "created_at": "2016-04-05T23:28:59", 
+                "retweet_count": 1, 
+                "id": "717494272820383744", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9745026, 
+                    40.6853485
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241844600.0, 
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies"
+                }, 
+                {
+                    "osm_id": 241844886.0, 
+                    "type": "yes", 
+                    "id": 7149.0, 
+                    "name": "Rite Aid"
+                }, 
+                {
+                    "osm_id": 248145126.0, 
+                    "type": "yes", 
+                    "id": 17439.0, 
+                    "name": "Kane Street Synagogue"
+                }, 
+                {
+                    "osm_id": 250979172.0, 
+                    "type": "yes", 
+                    "id": 82742.0, 
+                    "name": "Hanson Place Central United Methodist Church"
+                }, 
+                {
+                    "osm_id": 250979509.0, 
+                    "type": "yes", 
+                    "id": 82895.0, 
+                    "name": "Williamsburgh Savings Bank Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@ItSimplyChels  at oriinufilm release at @mocada by @halfbakedexp #tbt  #oriinu #doitdangerously\u2026 https://t.co/W3inFDYTqd", 
+                "created_at": "2016-04-05T23:28:45", 
+                "retweet_count": 0, 
+                "id": "717494212506304513", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9745026, 
+                    40.6853485
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241844600.0, 
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies"
+                }, 
+                {
+                    "osm_id": 241844886.0, 
+                    "type": "yes", 
+                    "id": 7149.0, 
+                    "name": "Rite Aid"
+                }, 
+                {
+                    "osm_id": 248145126.0, 
+                    "type": "yes", 
+                    "id": 17439.0, 
+                    "name": "Kane Street Synagogue"
+                }, 
+                {
+                    "osm_id": 250979172.0, 
+                    "type": "yes", 
+                    "id": 82742.0, 
+                    "name": "Hanson Place Central United Methodist Church"
+                }, 
+                {
+                    "osm_id": 250979509.0, 
+                    "type": "yes", 
+                    "id": 82895.0, 
+                    "name": "Williamsburgh Savings Bank Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "leading lady of oriinufilm --oriinufilm trailer release at @mocada by @halfbakedexp #tbt\u2026 https://t.co/DNPTOyTO1T", 
+                "created_at": "2016-04-05T18:37:41", 
+                "retweet_count": 0, 
+                "id": "717420963579695105", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9632874, 
+                    40.8119469
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ F R E E } \n#MLKNOW x #INDIAARIE \nJan.18.2016 at @riversidenyc \nPhoto by @halfbakedexp\u2026 https://t.co/rPHFdXgyqu", 
+                "created_at": "2016-04-05T18:13:20", 
+                "retweet_count": 0, 
+                "id": "717414835496026112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9745026, 
+                    40.6853485
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241844600.0, 
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies"
+                }, 
+                {
+                    "osm_id": 241844886.0, 
+                    "type": "yes", 
+                    "id": 7149.0, 
+                    "name": "Rite Aid"
+                }, 
+                {
+                    "osm_id": 248145126.0, 
+                    "type": "yes", 
+                    "id": 17439.0, 
+                    "name": "Kane Street Synagogue"
+                }, 
+                {
+                    "osm_id": 250979172.0, 
+                    "type": "yes", 
+                    "id": 82742.0, 
+                    "name": "Hanson Place Central United Methodist Church"
+                }, 
+                {
+                    "osm_id": 250979509.0, 
+                    "type": "yes", 
+                    "id": 82895.0, 
+                    "name": "Williamsburgh Savings Bank Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "oriinufilm trailer release at @mocada by @halfbakedexp #tbt \n#oshunnyc #oriinu #doitdangerously\u2026 https://t.co/1OQS7J0yPK", 
+                "created_at": "2016-04-05T17:54:09", 
+                "retweet_count": 0, 
+                "id": "717410007390752768", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96371226, 
+                    40.67143437
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3364727.0, 
+                    "type": "school", 
+                    "id": 331.0, 
+                    "name": "Public School 321"
+                }, 
+                {
+                    "osm_id": 248167232.0, 
+                    "type": "yes", 
+                    "id": 22990.0, 
+                    "name": "Lowe's"
+                }, 
+                {
+                    "osm_id": 248168055.0, 
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "{ Letting Go / P H O E N I X FLOW } \n@yahzarah live at @brooklynmuseum #1stsaturdays by\u2026 https://t.co/694dsysZLX", 
+                "created_at": "2016-03-09T05:52:27", 
+                "retweet_count": 1, 
+                "id": "707443912311496704", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96371226, 
+                    40.67143437
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3364727.0, 
+                    "type": "school", 
+                    "id": 331.0, 
+                    "name": "Public School 321"
+                }, 
+                {
+                    "osm_id": 248167232.0, 
+                    "type": "yes", 
+                    "id": 22990.0, 
+                    "name": "Lowe's"
+                }, 
+                {
+                    "osm_id": 248168055.0, 
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@yahzarah KILLED it live at @brooklynmuseum #1stsaturdays\n3.5.16 \nby @madidangerously\u2026 https://t.co/r5Q4STcfox", 
+                "created_at": "2016-03-09T05:52:09", 
+                "retweet_count": 0, 
+                "id": "707443838906982400", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

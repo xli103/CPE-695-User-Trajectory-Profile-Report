@@ -1,0 +1,661 @@
+{
+    "total_favorite_count": 101, 
+    "followers_count": 19, 
+    "total_tweets": 19, 
+    "user_id": 119983776, 
+    "screen_name": "Mishe476", 
+    "friends_count": 164, 
+    "buildings": {
+        "school": 2, 
+        "office": 4, 
+        "apartments": 14, 
+        "house": 2, 
+        "residential": 3, 
+        "commercial": 5, 
+        "supermarket": 2, 
+        "church": 4, 
+        "ship": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Good Friday power walk.\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f @ New York, New York https://t.co/Wp39rCPwrM", 
+            "id": "784501630280630272", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-07T21:12:18", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I guess zit zagging through crowds can make me walking really really fast if I got just over 12\u2026 https://t.co/rrEkpy8eO2", 
+            "id": "781561355686084608", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T18:28:42", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "It's not always a sunny day.\u2601\ufe0f @ Lower Manhattan https://t.co/FnYmrUP6SH", 
+            "id": "781154923903913984", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T15:33:41", 
+            "coordinates": [
+                -74.0119, 
+                40.7078
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Remembering 9-11 @ New York, New York https://t.co/L5tsBsV5sB", 
+            "id": "774950671900549122", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-11T12:40:12", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99123.0, 
+                    "name": "Gateway Plaza 500", 
+                    "osm_id": 277919044.0
+                }
+            ], 
+            "text": "The Window Crew keeping the view clean for us to see. Thank y'all!\ud83d\udc4b @ The Oculus at the World\u2026 https://t.co/EtxGMjE0DZ", 
+            "id": "773951629599006720", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-08T18:30:22", 
+            "coordinates": [
+                -74.01112478, 
+                40.7116409
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Gateway Plaza 500"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99123.0, 
+                    "name": "Gateway Plaza 500", 
+                    "osm_id": 277919044.0
+                }
+            ], 
+            "text": "Just posted a photo @ The Oculus at the World Trade Center https://t.co/fZuhqzMbCK", 
+            "id": "766636146185023488", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T14:01:15", 
+            "coordinates": [
+                -74.01107496, 
+                40.71149429
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Gateway Plaza 500"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church", 
+                    "osm_id": -3357433.0
+                }
+            ], 
+            "text": "Happy Friday for u working people.\ud83d\udc4b @ Washington Square Park https://t.co/wXycAVT1Sb", 
+            "id": "766608321310699520", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T12:10:41", 
+            "coordinates": [
+                -73.9975, 
+                40.73083333
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Our Lady of Pompeii Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Waiting to be seated @ P.J. Clarke's on the Hudson https://t.co/OTqedCH8H5", 
+            "id": "753968457150935041", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-15T15:04:22", 
+            "coordinates": [
+                -74.014867, 
+                40.714049
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Stay Puft Marshmallow Man  stop for a bite @ P.J. Clarke's on the Hudson https://t.co/9JjyX4A8De", 
+            "id": "753968166473084928", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-15T15:03:13", 
+            "coordinates": [
+                -74.014867, 
+                40.714049
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building", 
+                    "osm_id": 264768896.0
+                }
+            ], 
+            "text": "Waiting for #manhattanhenge2016 @ Flat Iron Building and Madison Square Park https://t.co/B63IDtkpy8", 
+            "id": "752635694762237952", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-11T22:48:27", 
+            "coordinates": [
+                -73.98946428, 
+                40.74126994
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "Flatiron Building"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }
+            ], 
+            "text": "Last day on the job @ 335 Adams Street Jay Street Metrotech https://t.co/qH2SXyrO5S", 
+            "id": "748605259044392960", 
+            "favorite_count": 1, 
+            "created_at": "2016-06-30T19:52:56", 
+            "coordinates": [
+                -73.9882271, 
+                40.6936415
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }
+            ], 
+            "text": "My last lunch from Lucianos in BK\ud83d\udc4f\ud83d\ude1f @ Lucianos Brooklyn https://t.co/GIBlBg2cKP", 
+            "id": "744959414826762241", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-20T18:25:39", 
+            "coordinates": [
+                -73.9866275, 
+                40.69399447
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99069.0, 
+                    "name": "7 World Trade Center", 
+                    "osm_id": 277890516.0
+                }
+            ], 
+            "text": "Happy Hump Day @ 7 World Trade Center https://t.co/Vnz80Y6sMJ", 
+            "id": "735441776450752513", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-25T12:05:58", 
+            "coordinates": [
+                -74.012, 
+                40.7133
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "7 World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower", 
+                    "osm_id": 265325191.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 90161.0, 
+                    "name": "Public School 58", 
+                    "osm_id": 265329549.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "Lol. Didn't expect this t-bone to be 27oz. Whoa!\ud83d\ude30 @ Iguana NYC https://t.co/XJiKpsMYCT", 
+            "id": "731649830091513856", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-15T00:58:07", 
+            "coordinates": [
+                -73.9829707, 
+                40.7640876
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "ship", 
+                "name": [
+                    "USS Intrepid"
+                ]
+            }, 
+            "building_frequency": {
+                "ship": 2, 
+                "school": 2, 
+                "supermarket": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "house", 
+                    "id": 126382.0, 
+                    "name": "Battello", 
+                    "osm_id": 362642225.0
+                }
+            ], 
+            "text": "First East River walk of the new year. @ East river park (fdr) https://t.co/Q0dgfdaiXN", 
+            "id": "729994816591814656", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-10T11:21:41", 
+            "coordinates": [
+                -73.97265668, 
+                40.7253331
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "house", 
+                "name": [
+                    "Battello"
+                ]
+            }, 
+            "building_frequency": {
+                "house": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building", 
+                    "osm_id": 264768896.0
+                }
+            ], 
+            "text": "Good Monday Monday morning. @ Flatiron Building https://t.co/tLdbTuyC4y", 
+            "id": "729626172934393856", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-09T10:56:50", 
+            "coordinates": [
+                -73.98972222, 
+                40.74111111
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "Flatiron Building"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "RIP on 448 W. Broadway and Prince St. @ New York, New York https://t.co/cXQdiOqp8a", 
+            "id": "724561497666383873", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-25T11:31:37", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }
+            ], 
+            "text": "Happy Hump Day @ Madison Square Park https://t.co/XMiMPaubFr", 
+            "id": "707535949626867712", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-09T11:58:10", 
+            "coordinates": [
+                -73.98836113, 
+                40.74222497
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church", 
+                    "osm_id": -3357433.0
+                }
+            ], 
+            "text": "Good Thursday Morning\ud83d\ude4b @ Washington Square Park https://t.co/rtkFAFoyV8", 
+            "id": "702828723427364864", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-25T12:13:20", 
+            "coordinates": [
+                -73.9975, 
+                40.73083333
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Our Lady of Pompeii Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

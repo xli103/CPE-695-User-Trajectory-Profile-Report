@@ -1,0 +1,918 @@
+{
+    "total_favorite_count": 3287, 
+    "total_tweets": 34, 
+    "screen_name": "KaavitaaSingh", 
+    "friends_count": 40, 
+    "followers_count": 2766, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Long time no selfie. #nyc #nycnights @ East Village, Manhattan https://t.co/9OEjAwnoCt", 
+                "created_at": "2016-10-25T06:54:41", 
+                "retweet_count": 0, 
+                "id": "790808785514270724", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Grey Cream #NYC @ East Village, Manhattan https://t.co/kGi2cQTGEa", 
+                "created_at": "2016-10-15T05:54:35", 
+                "retweet_count": 0, 
+                "id": "787169780897837056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98033503, 
+                    40.73831579
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3365139.0, 
+                    "type": "yes", 
+                    "id": 341.0, 
+                    "name": "The Jane"
+                }, 
+                {
+                    "osm_id": 264637734.0, 
+                    "type": "church", 
+                    "id": 84701.0, 
+                    "name": "Church of Saint Francis Xavier"
+                }, 
+                {
+                    "osm_id": 390366867.0, 
+                    "type": "school", 
+                    "id": 126619.0, 
+                    "name": "Public School 47"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Gramercy Park neighborhood https://t.co/QtqmGH339H", 
+                "created_at": "2016-10-12T23:56:58", 
+                "retweet_count": 0, 
+                "id": "786355008191143936", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98063401, 
+                    40.7394623
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27151977.0, 
+                    "type": "yes", 
+                    "id": 573.0, 
+                    "name": "W Hotel"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 248773606.0, 
+                    "type": "apartments", 
+                    "id": 28986.0, 
+                    "name": "Gramercy Place"
+                }, 
+                {
+                    "osm_id": 264761241.0, 
+                    "type": "dormitory", 
+                    "id": 86876.0, 
+                    "name": "NYU Gramercy Green"
+                }, 
+                {
+                    "osm_id": 288749896.0, 
+                    "type": "yes", 
+                    "id": 125721.0, 
+                    "name": "Whitney Museum of American Art"
+                }, 
+                {
+                    "osm_id": 351317831.0, 
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments"
+                }, 
+                {
+                    "osm_id": 351324370.0, 
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udc2a @ East 25th Street https://t.co/BUfnU6bIG2", 
+                "created_at": "2016-09-07T22:32:32", 
+                "retweet_count": 0, 
+                "id": "773650183380926464", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98063401, 
+                    40.7394623
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27151977.0, 
+                    "type": "yes", 
+                    "id": 573.0, 
+                    "name": "W Hotel"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 248773606.0, 
+                    "type": "apartments", 
+                    "id": 28986.0, 
+                    "name": "Gramercy Place"
+                }, 
+                {
+                    "osm_id": 264761241.0, 
+                    "type": "dormitory", 
+                    "id": 86876.0, 
+                    "name": "NYU Gramercy Green"
+                }, 
+                {
+                    "osm_id": 288749896.0, 
+                    "type": "yes", 
+                    "id": 125721.0, 
+                    "name": "Whitney Museum of American Art"
+                }, 
+                {
+                    "osm_id": 351317831.0, 
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments"
+                }, 
+                {
+                    "osm_id": 351324370.0, 
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Spirit Animal \ud83d\udc2a @ East 25th Street https://t.co/7MI1h8lwDt", 
+                "created_at": "2016-07-02T21:58:51", 
+                "retweet_count": 0, 
+                "id": "749361723279376388", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hi #instagram! It's been a while! @ New York, New York https://t.co/I6DPNB15ze", 
+                "created_at": "2016-06-23T21:37:48", 
+                "retweet_count": 0, 
+                "id": "746094934869049344", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98014142, 
+                    40.73828414
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3365139.0, 
+                    "type": "yes", 
+                    "id": 341.0, 
+                    "name": "The Jane"
+                }, 
+                {
+                    "osm_id": 250490660.0, 
+                    "type": "yes", 
+                    "id": 82129.0, 
+                    "name": "Church of the Village"
+                }, 
+                {
+                    "osm_id": 264637734.0, 
+                    "type": "church", 
+                    "id": 84701.0, 
+                    "name": "Church of Saint Francis Xavier"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Saturday #netflixandchill #nyc #saturdaynight @ Gramercy Park neighborhood https://t.co/WLMKjQlT5r", 
+                "created_at": "2016-04-24T00:08:41", 
+                "retweet_count": 0, 
+                "id": "724027243987656706", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Summer \ud83d\udc95\ud83c\uddfa\ud83c\uddf8 @ New York, New York https://t.co/EIlDQEcQin", 
+                "created_at": "2016-04-19T19:44:31", 
+                "retweet_count": 0, 
+                "id": "722511213637287939", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.0664501, 
+                    59.3393898
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Here\u00b4s to my dearest friend Ida, who keeps telling me that I don't need long hair to look pretty and\u2026 https://t.co/ALOXiOFkII", 
+                "created_at": "2015-11-13T14:07:43", 
+                "retweet_count": 1, 
+                "id": "665169170271739904", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.05385077, 
+                    59.27322017
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#goodnight instagram. @ Sk\u00f6nviksv\u00e4gen, Stureby https://t.co/CiW0A6Wk4a", 
+                "created_at": "2015-09-28T18:43:36", 
+                "retweet_count": 1, 
+                "id": "648568757514862592", 
+                "favorite_count": 10
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.03389935, 
+                    59.31801431
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Friyay! \ud83c\udf89 @ Borgargatan 2 https://t.co/6pMI22s74C", 
+                "created_at": "2015-09-04T09:23:28", 
+                "retweet_count": 1, 
+                "id": "639730487943135232", 
+                "favorite_count": 8
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.0711708, 
+                    59.3356209
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ass\u00e5 min h\u00e5rf\u00e4rg \u00e4ndras verkligen hela tiden nu.\nLite mer silvertoner sen \u00e4r jag nog n\u00f6jd! @ Finest.se https://t.co/wS3Dc2Ratw", 
+                "created_at": "2015-08-11T12:14:56", 
+                "retweet_count": 0, 
+                "id": "631076331753709568", 
+                "favorite_count": 15
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.22020226, 
+                    61.45493054
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I tried something new... \ud83d\udc9c\u2764\ufe0f @ L\u00e4ngelm\u00e4vesi https://t.co/Epn21wFKsC", 
+                "created_at": "2015-08-06T19:00:27", 
+                "retweet_count": 0, 
+                "id": "629366442341855233", 
+                "favorite_count": 8
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.4558506, 
+                    59.3010101
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Med denna fantastiskt grymma kollega jennygunnarson p\u00e5 #Anncelo50 \ud83d\udc95 #finestse \nIdag firar vi Annica\u2026 https://t.co/FIsMyLXhzs", 
+                "created_at": "2015-07-30T18:34:43", 
+                "retweet_count": 0, 
+                "id": "626823250207731713", 
+                "favorite_count": 10
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.01175535, 
+                    59.33626148
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#reunion med gamla @finest_se \ud83d\udc95\n#OG #vi\u00e4rfinest #finestse \nDessa tjejer! Saknar att jobba med er! \ud83d\ude18\u2026 https://t.co/04X3N9rDRu", 
+                "created_at": "2015-07-29T20:08:58", 
+                "retweet_count": 1, 
+                "id": "626484583844958208", 
+                "favorite_count": 12
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.0711708, 
+                    59.3356209
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#girls #finestse @ Finest.se https://t.co/IQp9ooumDD", 
+                "created_at": "2015-07-25T21:11:29", 
+                "retweet_count": 2, 
+                "id": "625050762834522112", 
+                "favorite_count": 10
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07142432, 
+                    59.33554002
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Makeup! @ Finest Office/Krog media AB https://t.co/vBcDdsgtMg", 
+                "created_at": "2015-07-20T13:30:41", 
+                "retweet_count": 0, 
+                "id": "623122858798153728", 
+                "favorite_count": 10
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07142432, 
+                    59.33554002
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I need a #tan \ud83d\ude29 @ Finest Office/Krog media AB https://t.co/MkHfrBBCrS", 
+                "created_at": "2015-07-16T07:34:38", 
+                "retweet_count": 0, 
+                "id": "621583707133059072", 
+                "favorite_count": 13
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07142432, 
+                    59.33554002
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Latest addition to my #sleeve \ud83d\ude0a @ Finest Office/Krog media AB https://t.co/agk4rIs20H", 
+                "created_at": "2015-06-30T13:53:06", 
+                "retweet_count": 1, 
+                "id": "615880745186369536", 
+                "favorite_count": 14
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07546685, 
+                    59.3124279
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cheers! \ud83c\udf89 @ Tv\u00e4rs\u00f6ver https://t.co/J6PtmOEqyy", 
+                "created_at": "2015-06-26T19:00:40", 
+                "retweet_count": 0, 
+                "id": "614508593161834497", 
+                "favorite_count": 10
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07117, 
+                    59.33562
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's Fridaaaaaayy! \ud83d\udc95\nAnd we are listening to some real good Hiphop at the @finest_se HQ! @ Finest\u2026 https://t.co/DE3Ew7ZE2Z", 
+                "created_at": "2015-05-29T08:40:12", 
+                "retweet_count": 1, 
+                "id": "604205588617256960", 
+                "favorite_count": 19
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07156036, 
+                    59.33016849
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "So Much Love! \ud83d\udc95\nFrom the opening of the cafeoperanightclub terrace! \n#one37event @ Caf\u00e9 Opera https://t.co/frcYjw62XK", 
+                "created_at": "2015-05-11T10:12:25", 
+                "retweet_count": 2, 
+                "id": "597705812727988224", 
+                "favorite_count": 19
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07156036, 
+                    59.33016849
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Badass bitches! \u2764\ufe0f #wifeys @ Caf\u00e9 Opera https://t.co/q2ViNBu29g", 
+                "created_at": "2015-05-07T22:01:15", 
+                "retweet_count": 1, 
+                "id": "596434647829078016", 
+                "favorite_count": 19
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07156036, 
+                    59.33016849
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This girl! \ud83c\udf89\ud83d\ude18\u2764\ufe0f \n#vi\u00e4rfinest one37event @finest_se  cafeoperanightclub @ Caf\u00e9 Opera https://t.co/1AabmNmPzp", 
+                "created_at": "2015-05-07T21:16:05", 
+                "retweet_count": 0, 
+                "id": "596423280225038336", 
+                "favorite_count": 22
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07117, 
+                    59.33562
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Jag och min kollega @alexandererwik p\u00e5 one37event kan det h\u00e4r med Goodiebags! \nDet \u00e4r mycket som\u2026 https://t.co/529RVkOjO3", 
+                "created_at": "2015-05-06T13:58:11", 
+                "retweet_count": 1, 
+                "id": "595950690914213888", 
+                "favorite_count": 19
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07117, 
+                    59.33562
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Jag och @beellonius tar en solpaus fr\u00e5n kontoret. #finestse #happyfriday #one37event @ Finest\u2026 https://t.co/06C2ofBALl", 
+                "created_at": "2015-04-24T12:36:04", 
+                "retweet_count": 0, 
+                "id": "591581370100637697", 
+                "favorite_count": 23
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07117, 
+                    59.33562
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I absolutely Love this tattoo, why? Because it's a part of my heritage. It makes me proud. But I\u2026 https://t.co/p5noiX6pAi", 
+                "created_at": "2015-04-16T07:07:35", 
+                "retweet_count": 0, 
+                "id": "588599602313465856", 
+                "favorite_count": 23
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07117, 
+                    59.33562
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Brighter days vs Darker Hair. \n#finestse #jag\u00e4rfinest @ Finest Office/Krog media AB https://t.co/qq2POqiuuy", 
+                "created_at": "2015-04-08T11:33:41", 
+                "retweet_count": 1, 
+                "id": "585767467068297218", 
+                "favorite_count": 26
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07198737, 
+                    59.33553461
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Details in Blog.\nCred: @beellonius @ http://t.co/pzVYvKOJ4p https://t.co/L0HxDBOu1l", 
+                "created_at": "2015-03-30T15:53:39", 
+                "retweet_count": 0, 
+                "id": "582571396016017408", 
+                "favorite_count": 25
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07117, 
+                    59.33562
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Puss! Och h\u00e4rlig Fredag p\u00e5 er! \nLovar att bli b\u00e4ttre p\u00e5 att blogga snart igen. Har vart s\u00e5 mycket den\u2026 https://t.co/AkVVLMCSfx", 
+                "created_at": "2015-03-27T12:42:48", 
+                "retweet_count": 3, 
+                "id": "581436205042130944", 
+                "favorite_count": 36
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07198737, 
+                    59.33553461
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Idag sminkade jag faktiskt mig. \nBrukar aldrig g\u00f6ra det men det var kul. Tog lite extra tid p\u00e5\u2026 https://t.co/ZYtqEwzFA9", 
+                "created_at": "2015-03-27T08:31:29", 
+                "retweet_count": 4, 
+                "id": "581372959018872832", 
+                "favorite_count": 34
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07198737, 
+                    59.33553461
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Chill Mode in my #airmax favorites! \ud83d\udc95\n#sneakers #streetstyle \nCred: feliciabellonius @ http://t.co/pzVYvKx7FP https://t.co/njGAgAjpyN", 
+                "created_at": "2015-03-21T18:01:32", 
+                "retweet_count": 3, 
+                "id": "579342089202208768", 
+                "favorite_count": 31
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07198737, 
+                    59.33553461
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "New Blogpost \ud83d\udc46\nCred: feliciabellonius @ http://t.co/pzVYvKOJ4p https://t.co/nBAdoamnmv", 
+                "created_at": "2015-03-20T16:50:20", 
+                "retweet_count": 2, 
+                "id": "578961784624791553", 
+                "favorite_count": 21
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.07198737, 
+                    59.33553461
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "More photos on the blog! \nCred: feliciabellonius @ http://t.co/pzVYvKOJ4p https://t.co/C4CCg3jpAb", 
+                "created_at": "2015-03-16T17:50:20", 
+                "retweet_count": 2, 
+                "id": "577527330681278464", 
+                "favorite_count": 28
+            }
+        }
+    ]
+}

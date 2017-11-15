@@ -1,0 +1,2996 @@
+{
+    "total_favorite_count": 5632, 
+    "total_tweets": 136, 
+    "screen_name": "RaiMattenhauer", 
+    "friends_count": 780, 
+    "followers_count": 2212, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -47.045085, 
+                    -23.162295
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u270c\u270c\u270c @ Itupeva City https://t.co/sOwUfWLvja", 
+                "created_at": "2016-11-13T00:16:33", 
+                "retweet_count": 0, 
+                "id": "797593959375761409", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66188536, 
+                    -23.61313283
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u00daltimo Abra\u00e7o do meu tchu! \u2764 @ Viana Bar Grill https://t.co/TPzTtoRO2s", 
+                "created_at": "2016-10-27T01:52:38", 
+                "retweet_count": 0, 
+                "id": "791457545386942464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.25937211, 
+                    -23.99776155
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a @ Praia Pitangueiras - Guaruj\u00e1 https://t.co/WCnvrjQhGV", 
+                "created_at": "2016-10-23T15:46:57", 
+                "retweet_count": 0, 
+                "id": "790217956751994881", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.58795962, 
+                    -23.56401512
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Quintal da Mooca in S\u00e3o Paulo https://t.co/hBLnSPkuAk", 
+                "created_at": "2016-10-22T15:57:08", 
+                "retweet_count": 0, 
+                "id": "789858131920711681", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.64961, 
+                    -23.5829
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Com os melhores de SP!\u2764\u2764 @vejasp @HamburguerTradi  #comerebeber @\u2026 https://t.co/eezwFWFTX5", 
+                "created_at": "2016-10-20T02:20:00", 
+                "retweet_count": 0, 
+                "id": "788927718180134913", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.63754447, 
+                    -23.55276291
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Meu tchula, meu companheiro de bagun\u00e7a vai deixar saudades!\u2026 https://t.co/PsKHNGjXST", 
+                "created_at": "2016-10-16T16:31:51", 
+                "retweet_count": 0, 
+                "id": "787692544616460288", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.63764383, 
+                    -23.55283364
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @LionsNightclub in S\u00e3o Paulo, SP https://t.co/o4vpIB1RCm", 
+                "created_at": "2016-10-16T04:24:55", 
+                "retweet_count": 0, 
+                "id": "787509602782941185", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66674071, 
+                    -23.59550067
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Tradi - @hamburguertradi in S\u00e3o Paulo, SP https://t.co/RuaypHlUf7", 
+                "created_at": "2016-10-12T16:53:45", 
+                "retweet_count": 0, 
+                "id": "786248503983009792", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6802949, 
+                    -23.64585369
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2764\u2764\u2764\u2764\u2764 @ Ch\u00e1cara Monte Alegre https://t.co/AkGMzapbe6", 
+                "created_at": "2016-10-12T03:12:14", 
+                "retweet_count": 0, 
+                "id": "786041762087305216", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -47.045085, 
+                    -23.162295
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e @ Itupeva City https://t.co/IpgghnxbY9", 
+                "created_at": "2016-10-08T19:38:25", 
+                "retweet_count": 0, 
+                "id": "784840390381867008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -47.045085, 
+                    -23.162295
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u270c\u270c\u270c @ Itupeva City https://t.co/5rwnfiDIPi", 
+                "created_at": "2016-10-08T08:09:56", 
+                "retweet_count": 0, 
+                "id": "784667127684923392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66817307, 
+                    -23.59950838
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @ESQUINADOTUIM in SAO PAULO, SP https://t.co/oyp9LdD55v", 
+                "created_at": "2016-10-06T21:53:02", 
+                "retweet_count": 0, 
+                "id": "784149493088477185", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99825044, 
+                    40.570657
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude0e\ud83d\ude0e @ Coney Island Beach Brooklyn N.Y. https://t.co/BREeFRHhb9", 
+                "created_at": "2016-10-05T23:31:03", 
+                "retweet_count": 0, 
+                "id": "783811773443039232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.56754737, 
+                    -23.5518024
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Temakeria Paulista in S\u00e3o Paulo, SP https://t.co/Od7Ximihrp", 
+                "created_at": "2016-10-05T21:58:47", 
+                "retweet_count": 0, 
+                "id": "783788550257016832", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.045, 
+                    38.8893
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Prometo que \u00e9 a \u00faltima \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a @ Lincoln Memorial Reflecting Pool https://t.co/9xP2NvL52b", 
+                "created_at": "2016-10-05T02:02:00", 
+                "retweet_count": 0, 
+                "id": "783487373208383488", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.03666667, 
+                    38.895
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude19\ud83d\ude19 @ Broken Washington D. C. https://t.co/vVCP2mKAg9", 
+                "created_at": "2016-10-03T10:03:37", 
+                "retweet_count": 0, 
+                "id": "782883797817782272", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.72657542, 
+                    39.15748268
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at The @Cheesecake Factory in Hanover, MD https://t.co/iM5RwZ7e3m", 
+                "created_at": "2016-10-02T23:13:00", 
+                "retweet_count": 0, 
+                "id": "782720067314343936", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.05250767, 
+                    38.92362296
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Aquela voltinha b\u00e1sica no parque.. @ White House, Washington D.C. https://t.co/TNvryYLQG0", 
+                "created_at": "2016-10-02T19:48:07", 
+                "retweet_count": 0, 
+                "id": "782668503170048000", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.03340379, 
+                    38.89665176
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @PineaDc in Washington, DC https://t.co/lrCM5cffIU", 
+                "created_at": "2016-10-02T17:21:45", 
+                "retweet_count": 0, 
+                "id": "782631668494503937", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.03666667, 
+                    38.895
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Visitando a miga internacional!  \u2764\u2764 @ Broken Washington D. C. https://t.co/Dbi6c8X1aW", 
+                "created_at": "2016-10-02T15:39:09", 
+                "retweet_count": 0, 
+                "id": "782605850053636096", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.97198801, 
+                    38.90670465
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at N.E. Washington, DC in Washington, DC https://t.co/dhnCVdzWK6", 
+                "created_at": "2016-10-02T15:08:39", 
+                "retweet_count": 0, 
+                "id": "782598173743276032", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.006678, 
+                    40.743982
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974145.0, 
+                    "type": "yes", 
+                    "id": 546.0, 
+                    "name": "Davidson Lab"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 158973820.0, 
+                    "type": "residential", 
+                    "id": 806.0, 
+                    "name": "Hayden Hall"
+                }, 
+                {
+                    "osm_id": 376010260.0, 
+                    "type": "school", 
+                    "id": 126559.0, 
+                    "name": "The Hudson School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Artichoke Basille's Pizza &amp; Bar in New York, NY https://t.co/2KgRJvai8Y", 
+                "created_at": "2016-10-02T02:57:58", 
+                "retweet_count": 0, 
+                "id": "782414290980630528", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.983644, 
+                    40.754014
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 159837290.0, 
+                    "type": "yes", 
+                    "id": 807.0, 
+                    "name": "World Apparel Center"
+                }, 
+                {
+                    "osm_id": 265258285.0, 
+                    "type": "yes", 
+                    "id": 88225.0, 
+                    "name": "Master Printers Building"
+                }, 
+                {
+                    "osm_id": 265272973.0, 
+                    "type": "yes", 
+                    "id": 88532.0, 
+                    "name": "The Hartford"
+                }, 
+                {
+                    "osm_id": 265302092.0, 
+                    "type": "yes", 
+                    "id": 89221.0, 
+                    "name": "1071 Sixth Avenue"
+                }, 
+                {
+                    "osm_id": 265302121.0, 
+                    "type": "commercial", 
+                    "id": 89255.0, 
+                    "name": "1065 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 265560958.0, 
+                    "type": "yes", 
+                    "id": 91976.0, 
+                    "name": "BP"
+                }, 
+                {
+                    "osm_id": 265560959.0, 
+                    "type": "yes", 
+                    "id": 91977.0, 
+                    "name": "Hess"
+                }, 
+                {
+                    "osm_id": 398440363.0, 
+                    "type": "commercial", 
+                    "id": 129286.0, 
+                    "name": "The Shops & Restaurants at Hudson Yards"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at The Roots Picnic in New York, NY https://t.co/5eW4GsxdHH", 
+                "created_at": "2016-10-01T21:49:11", 
+                "retweet_count": 0, 
+                "id": "782336586105192453", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98219084, 
+                    40.76443448
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 50603780.0, 
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid"
+                }, 
+                {
+                    "osm_id": 193611194.0, 
+                    "type": "yes", 
+                    "id": 939.0, 
+                    "name": "Command Web Offset, Inc."
+                }, 
+                {
+                    "osm_id": 193611197.0, 
+                    "type": "yes", 
+                    "id": 941.0, 
+                    "name": "Goya"
+                }, 
+                {
+                    "osm_id": 193611220.0, 
+                    "type": "yes", 
+                    "id": 961.0, 
+                    "name": "ProLogis"
+                }, 
+                {
+                    "osm_id": 259888102.0, 
+                    "type": "yes", 
+                    "id": 83609.0, 
+                    "name": "1717 Broadway"
+                }, 
+                {
+                    "osm_id": 265151966.0, 
+                    "type": "yes", 
+                    "id": 87811.0, 
+                    "name": "The Metro"
+                }, 
+                {
+                    "osm_id": 265318744.0, 
+                    "type": "yes", 
+                    "id": 89417.0, 
+                    "name": "American Red Cross Greater New York Chaper"
+                }, 
+                {
+                    "osm_id": 265318790.0, 
+                    "type": "yes", 
+                    "id": 89420.0, 
+                    "name": "Skyline Hotel"
+                }, 
+                {
+                    "osm_id": 265325191.0, 
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower"
+                }, 
+                {
+                    "osm_id": 265329549.0, 
+                    "type": "school", 
+                    "id": 90161.0, 
+                    "name": "Public School 58"
+                }, 
+                {
+                    "osm_id": 265357846.0, 
+                    "type": "yes", 
+                    "id": 90797.0, 
+                    "name": "Intrepid Museum"
+                }, 
+                {
+                    "osm_id": 266155268.0, 
+                    "type": "yes", 
+                    "id": 93290.0, 
+                    "name": "The Marc"
+                }, 
+                {
+                    "osm_id": 266155267.0, 
+                    "type": "yes", 
+                    "id": 93318.0, 
+                    "name": "Studio 54"
+                }, 
+                {
+                    "osm_id": 277980022.0, 
+                    "type": "yes", 
+                    "id": 99156.0, 
+                    "name": "Kfir C-2"
+                }, 
+                {
+                    "osm_id": 278400860.0, 
+                    "type": "yes", 
+                    "id": 101728.0, 
+                    "name": "Port Authority of New York and New Jersey"
+                }, 
+                {
+                    "osm_id": 282860708.0, 
+                    "type": "yes", 
+                    "id": 125616.0, 
+                    "name": "Hilton Garden Inn"
+                }, 
+                {
+                    "osm_id": 325214309.0, 
+                    "type": "yes", 
+                    "id": 126234.0, 
+                    "name": "F-16A Fighting Falcon"
+                }, 
+                {
+                    "osm_id": 325215737.0, 
+                    "type": "yes", 
+                    "id": 126235.0, 
+                    "name": "F-4N Phantom II"
+                }, 
+                {
+                    "osm_id": 371377293.0, 
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at PHD Terrace at Dream Midtown in New York, NY https://t.co/61ZzTLigx9", 
+                "created_at": "2016-10-01T06:39:28", 
+                "retweet_count": 0, 
+                "id": "782107647080292352", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95944517, 
+                    40.76736664
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 109269297.0, 
+                    "type": "yes", 
+                    "id": 663.0, 
+                    "name": "Museum of Arts and Design"
+                }, 
+                {
+                    "osm_id": 160326780.0, 
+                    "type": "yes", 
+                    "id": 825.0, 
+                    "name": "AT&T Switching Center"
+                }, 
+                {
+                    "osm_id": 163597767.0, 
+                    "type": "yes", 
+                    "id": 857.0, 
+                    "name": "Mercedes House"
+                }, 
+                {
+                    "osm_id": 193611193.0, 
+                    "type": "yes", 
+                    "id": 960.0, 
+                    "name": "ArrowPac"
+                }, 
+                {
+                    "osm_id": 193611223.0, 
+                    "type": "yes", 
+                    "id": 992.0, 
+                    "name": "Twin Med"
+                }, 
+                {
+                    "osm_id": 265152155.0, 
+                    "type": "yes", 
+                    "id": 87832.0, 
+                    "name": "6 Columbus"
+                }, 
+                {
+                    "osm_id": 265347583.0, 
+                    "type": "office", 
+                    "id": 90502.0, 
+                    "name": "The Arsenal"
+                }, 
+                {
+                    "osm_id": 266863999.0, 
+                    "type": "yes", 
+                    "id": 94453.0, 
+                    "name": "Permanent Mission of the Republic of the Congo to the United Nations"
+                }, 
+                {
+                    "osm_id": 266878037.0, 
+                    "type": "apartments", 
+                    "id": 95145.0, 
+                    "name": "Trump Palace Condominiums"
+                }, 
+                {
+                    "osm_id": 266886536.0, 
+                    "type": "yes", 
+                    "id": 95475.0, 
+                    "name": "Park Avenue Armory"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at 5 Napkin Burger in New York, NY https://t.co/gkXITFCgiZ", 
+                "created_at": "2016-09-30T20:50:52", 
+                "retweet_count": 0, 
+                "id": "781959521073819648", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99738133, 
+                    40.71922949
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 248771081.0, 
+                    "type": "yes", 
+                    "id": 28460.0, 
+                    "name": "The Oltarsh Building"
+                }, 
+                {
+                    "osm_id": 250052719.0, 
+                    "type": "yes", 
+                    "id": 41363.0, 
+                    "name": "Tribeca Grand Hotel"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 259782468.0, 
+                    "type": "yes", 
+                    "id": 83599.0, 
+                    "name": "Washington Commons"
+                }, 
+                {
+                    "osm_id": 310245651.0, 
+                    "type": "yes", 
+                    "id": 126066.0, 
+                    "name": "Independence Plaza I"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Aderindo a moda local! \ud83d\ude02 @ Little Italy in NYC https://t.co/pn1aj7oati", 
+                "created_at": "2016-09-30T18:49:36", 
+                "retweet_count": 0, 
+                "id": "781929003053641729", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98101431, 
+                    40.5733389
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Coney Island Beach &amp; Boardwalk - @coneyislandfun in Brooklyn, NY https://t.co/FKc5c1Xywn", 
+                "created_at": "2016-09-30T16:43:27", 
+                "retweet_count": 0, 
+                "id": "781897256664346624", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00330983, 
+                    40.74239352
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974144.0, 
+                    "type": "yes", 
+                    "id": 545.0, 
+                    "name": "Edwin A. Stevens Hall and DeBaun Auditorium"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264625640.0, 
+                    "type": "yes", 
+                    "id": 84177.0, 
+                    "name": "Dream Downtown"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at PH-D at Dream Downtown - @phdrooftopny in New York, NY https://t.co/py8N3gGUSx", 
+                "created_at": "2016-09-30T04:15:12", 
+                "retweet_count": 0, 
+                "id": "781708953864536064", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94033267, 
+                    40.80772393
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Aquela selfie b\u00e1sica de todo dia! \ud83d\ude04 @ Wall Street https://t.co/oatL52Cjhg", 
+                "created_at": "2016-09-30T00:16:45", 
+                "retweet_count": 0, 
+                "id": "781648944216543232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98555397, 
+                    40.74852699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 34633854.0, 
+                    "type": "office", 
+                    "id": 584.0, 
+                    "name": "\u5e1d\u570b\u5927\u5ec8"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264668305.0, 
+                    "type": "yes", 
+                    "id": 86072.0, 
+                    "name": "Penn South Building 8"
+                }, 
+                {
+                    "osm_id": 264685194.0, 
+                    "type": "yes", 
+                    "id": 86328.0, 
+                    "name": "The Epic"
+                }, 
+                {
+                    "osm_id": 264685227.0, 
+                    "type": "yes", 
+                    "id": 86370.0, 
+                    "name": "Tower 111"
+                }, 
+                {
+                    "osm_id": 264685189.0, 
+                    "type": "yes", 
+                    "id": 86403.0, 
+                    "name": "Nuchas"
+                }, 
+                {
+                    "osm_id": 321790145.0, 
+                    "type": "yes", 
+                    "id": 126180.0, 
+                    "name": "Saint Francis Friary"
+                }, 
+                {
+                    "osm_id": 396820651.0, 
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Empire State Building - @empirestatebldg in New York, NY https://t.co/dUu2ADvSxe", 
+                "created_at": "2016-09-29T18:39:21", 
+                "retweet_count": 0, 
+                "id": "781564037318443009", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98682804, 
+                    40.75101157
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138147416.0, 
+                    "type": "yes", 
+                    "id": 699.0, 
+                    "name": "One Penn Plaza"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 264656625.0, 
+                    "type": "yes", 
+                    "id": 85960.0, 
+                    "name": "Starrett-Lehigh Building"
+                }, 
+                {
+                    "osm_id": 264667030.0, 
+                    "type": "yes", 
+                    "id": 86092.0, 
+                    "name": "James Farley Post Office"
+                }, 
+                {
+                    "osm_id": 265302069.0, 
+                    "type": "yes", 
+                    "id": 89197.0, 
+                    "name": "Macy's Herald Square"
+                }, 
+                {
+                    "osm_id": 265302169.0, 
+                    "type": "yes", 
+                    "id": 89263.0, 
+                    "name": "Herald Square Building"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at 5 Boro Burger in New York, NY https://t.co/P7lfd1N5Xa", 
+                "created_at": "2016-09-29T17:46:36", 
+                "retweet_count": 0, 
+                "id": "781550762056884224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98595221, 
+                    40.75680569
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 58821294.0, 
+                    "type": "yes", 
+                    "id": 610.0, 
+                    "name": "15X Tollgate"
+                }, 
+                {
+                    "osm_id": 108160358.0, 
+                    "type": "yes", 
+                    "id": 662.0, 
+                    "name": "Port Authority Bus Terminal"
+                }, 
+                {
+                    "osm_id": 163629929.0, 
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway"
+                }, 
+                {
+                    "osm_id": 258646144.0, 
+                    "type": "yes", 
+                    "id": 83557.0, 
+                    "name": "U.S. Armed Forces Recruiting Station"
+                }, 
+                {
+                    "osm_id": 265282692.0, 
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street"
+                }, 
+                {
+                    "osm_id": 266034050.0, 
+                    "type": "yes", 
+                    "id": 93108.0, 
+                    "name": "Foxwoods Theatre"
+                }, 
+                {
+                    "osm_id": 266034046.0, 
+                    "type": "yes", 
+                    "id": 93116.0, 
+                    "name": "New 42nd Street Studios"
+                }, 
+                {
+                    "osm_id": 266034080.0, 
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square"
+                }, 
+                {
+                    "osm_id": 266143298.0, 
+                    "type": "yes", 
+                    "id": 93132.0, 
+                    "name": "AMC Empire 25"
+                }, 
+                {
+                    "osm_id": 266143341.0, 
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Sephora in New York, NY https://t.co/Lk2melICli", 
+                "created_at": "2016-09-29T01:53:23", 
+                "retweet_count": 0, 
+                "id": "781310874564845568", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97319485, 
+                    40.76386546
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 86216906.0, 
+                    "type": "commercial", 
+                    "id": 642.0, 
+                    "name": "Solow Building"
+                }, 
+                {
+                    "osm_id": 193611220.0, 
+                    "type": "yes", 
+                    "id": 961.0, 
+                    "name": "ProLogis"
+                }, 
+                {
+                    "osm_id": 238320858.0, 
+                    "type": "yes", 
+                    "id": 1190.0, 
+                    "name": "Holiday Inn Express"
+                }, 
+                {
+                    "osm_id": 265147960.0, 
+                    "type": "yes", 
+                    "id": 87553.0, 
+                    "name": "Paris Theatre"
+                }, 
+                {
+                    "osm_id": 265150601.0, 
+                    "type": "apartments", 
+                    "id": 87693.0, 
+                    "name": "Le Premier"
+                }, 
+                {
+                    "osm_id": 265150597.0, 
+                    "type": "theatre", 
+                    "id": 87702.0, 
+                    "name": "New York City Center"
+                }, 
+                {
+                    "osm_id": 265150611.0, 
+                    "type": "yes", 
+                    "id": 87728.0, 
+                    "name": "Avenue of the Americas Plaza"
+                }, 
+                {
+                    "osm_id": 265150598.0, 
+                    "type": "yes", 
+                    "id": 87771.0, 
+                    "name": "CitySpire Center"
+                }, 
+                {
+                    "osm_id": 266155271.0, 
+                    "type": "apartments", 
+                    "id": 93293.0, 
+                    "name": "888 8th Avenue"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude0a\ud83d\ude0a @ 5 Th Avenue New york https://t.co/e37hlpcASa", 
+                "created_at": "2016-09-29T00:24:52", 
+                "retweet_count": 0, 
+                "id": "781288600314994688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.60199937, 
+                    -23.57716509
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Clube Atletico Ypiranga (CAY) in S\u00e3o Paulo, SP https://t.co/XCAc01Pm6J", 
+                "created_at": "2016-09-25T17:12:53", 
+                "retweet_count": 0, 
+                "id": "780092723072237568", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.67216791, 
+                    -23.60502104
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Velocity Moema in S\u00e3o Paulo, SP https://t.co/k5ipcgAXDa", 
+                "created_at": "2016-09-20T21:51:43", 
+                "retweet_count": 0, 
+                "id": "778350954882228224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.64901518, 
+                    -23.54656096
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "S\u00f3 assim pra gente se encontrar! \u2764 @ Holy Burger https://t.co/55SgZ0i1Gd", 
+                "created_at": "2016-09-18T20:38:12", 
+                "retweet_count": 0, 
+                "id": "777607677849530368", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6339252, 
+                    -23.557878
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Migos na cantoria! \ud83c\udfa4\ud83c\udfa4 @ Chopperia Liberdade https://t.co/GvcG073gqr", 
+                "created_at": "2016-09-16T04:07:41", 
+                "retweet_count": 0, 
+                "id": "776633629703307264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.61315, 
+                    -23.55095
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf78\ud83c\udf78 @ \"Sailor Goes House\" https://t.co/rAoJVkqUMB", 
+                "created_at": "2016-09-11T06:55:50", 
+                "retweet_count": 0, 
+                "id": "774864009753427968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.7094957, 
+                    -23.6424504
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Prestigiando o melhor restaurante japon\u00eas de SP! #kinoshita #tasteofsaopaulo @ Taste of S\u00e3o Paulo https://t.co/Efy2A1Hcqv", 
+                "created_at": "2016-09-10T18:03:06", 
+                "retweet_count": 0, 
+                "id": "774669543088283648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.709553, 
+                    -23.641777
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Taste of S\u00e3o Paulo in S\u00e3o Paulo https://t.co/dEYoFpLVen", 
+                "created_at": "2016-09-10T17:36:04", 
+                "retweet_count": 0, 
+                "id": "774662739725807616", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.67216791, 
+                    -23.60502104
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Velocity Moema in S\u00e3o Paulo, SP https://t.co/BX599OrW9d", 
+                "created_at": "2016-09-08T22:57:38", 
+                "retweet_count": 0, 
+                "id": "774018890548457472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.59408595, 
+                    -23.54599224
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Assim que eu gosto, de acordar com c\u00e9u azul! \u2764 @ Alto Da Mooca https://t.co/XKudHf2Jue", 
+                "created_at": "2016-09-08T10:48:27", 
+                "retweet_count": 0, 
+                "id": "773835386091106304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.68955475, 
+                    -23.55545787
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf78\ud83c\udf78\ud83c\udf78 @ Razzmatazz https://t.co/NeM0V5QZwu", 
+                "created_at": "2016-09-04T03:20:35", 
+                "retweet_count": 0, 
+                "id": "772273125291593728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.55802662, 
+                    -23.55775494
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u270c\u270c @ Parque Ceret Analia Franco https://t.co/fWba8uLF7F", 
+                "created_at": "2016-09-03T17:10:24", 
+                "retweet_count": 0, 
+                "id": "772119567611076608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6439107, 
+                    -23.5858913
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf54\ud83c\udf1e @ Classic Burger https://t.co/BBCSftqN5o", 
+                "created_at": "2016-08-28T17:49:36", 
+                "retweet_count": 0, 
+                "id": "769955103008849920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.69441079, 
+                    -23.56145511
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Minhas gatassss \u2764\u2764\u2764\u2764 @ Garcia Bar https://t.co/bdw3p7hfct", 
+                "created_at": "2016-08-26T01:25:15", 
+                "retweet_count": 0, 
+                "id": "768982610437672960", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.56754737, 
+                    -23.5518024
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2764\u2764\u2764 (@ Temakeria Paulista in S\u00e3o Paulo, SP) https://t.co/a3PGGJAfgG", 
+                "created_at": "2016-08-25T01:20:40", 
+                "retweet_count": 0, 
+                "id": "768619068450562049", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.68173, 
+                    -23.59077
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Expectativa: Praia. Realidade : Av Juscelino Kubitschek. \ud83c\udf34\ud83c\udf34 @\u2026 https://t.co/7pRvZa36ht", 
+                "created_at": "2016-08-23T18:04:38", 
+                "retweet_count": 0, 
+                "id": "768146946422874114", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.61149368, 
+                    -23.5525468
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Migaaaa toca aiii \ud83d\ude4b #nostrilhos @ Nos Trilhos https://t.co/mw1ngVIIJ8", 
+                "created_at": "2016-08-23T00:37:11", 
+                "retweet_count": 0, 
+                "id": "767883346940665858", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.65623692, 
+                    -23.57259994
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#cookinglessons #bullger (@ Ca\u00ea Atelier de cozinha) https://t.co/LfKKnhPQNR", 
+                "created_at": "2016-08-15T22:36:03", 
+                "retweet_count": 0, 
+                "id": "765316150045581312", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.60090377, 
+                    -23.56088511
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bom dia amiguinhos! @ Mooca, Belo! https://t.co/rtxlc0lZwE", 
+                "created_at": "2016-08-11T10:37:14", 
+                "retweet_count": 0, 
+                "id": "763685701888147456", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.60090377, 
+                    -23.56088511
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Lute com determina\u00e7\u00e3o, abrace a vida com paix\u00e3o, perca com classe e\u2026 https://t.co/4gihs3dtgO", 
+                "created_at": "2016-08-09T01:37:32", 
+                "retweet_count": 0, 
+                "id": "762825104174772224", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.602686, 
+                    -23.553562
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dando aquele tapa no visu! (@ La Bella Donna in S\u00e3o Paul, SP) https://t.co/t7xGKAhX6x", 
+                "created_at": "2016-08-02T20:32:21", 
+                "retweet_count": 0, 
+                "id": "760573977530077184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6779856, 
+                    -23.52536051
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf54\ud83c\udf54 #tastegames #tamojunto @ Casa das Caldeiras https://t.co/0ozum2ofNN", 
+                "created_at": "2016-07-30T22:15:42", 
+                "retweet_count": 0, 
+                "id": "759512820711038978", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6779856, 
+                    -23.52536051
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u00c9 burger pra todo lado! #hamburgeiros #tastegames @ Casa das Caldeiras https://t.co/VvBtfWk1Na", 
+                "created_at": "2016-07-30T18:21:39", 
+                "retweet_count": 0, 
+                "id": "759453919508623362", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.5816158, 
+                    -23.4867168
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pra fechar bem o final de semana de drinks! @ Mocot\u00f3 Bar e Restaurante https://t.co/v3CIhbMLhT", 
+                "created_at": "2016-07-24T19:49:03", 
+                "retweet_count": 0, 
+                "id": "757301587471691778", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.61295331, 
+                    -23.51095014
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Tattoo Week 2016 https://t.co/ctUDOz7je5", 
+                "created_at": "2016-07-24T16:37:39", 
+                "retweet_count": 0, 
+                "id": "757253420080390144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6333, 
+                    -23.55
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bom domingo! \ud83d\ude18 @ S\u00e3o Paulo, Brazil https://t.co/obg67tRcR1", 
+                "created_at": "2016-06-26T14:43:03", 
+                "retweet_count": 0, 
+                "id": "747077719574319104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6667174, 
+                    -23.5954704
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gorda Feliz! \ud83d\ude0d @ Hamburgueria Tradi https://t.co/ve7aHI7g5f", 
+                "created_at": "2016-06-25T21:13:04", 
+                "retweet_count": 0, 
+                "id": "746813486605406208", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6333, 
+                    -23.55
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\" Volta teu rosto sempre na dire\u00e7\u00e3o do sol, e ent\u00e3o, as sombras ficar\u00e3o para tr\u00e1s. \" @ S\u00e3o\u2026 https://t.co/rNchfsGVgP", 
+                "created_at": "2016-06-14T23:40:16", 
+                "retweet_count": 0, 
+                "id": "742864260297035776", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66295081, 
+                    -23.59852768
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2764\u2764 (@ Djapa Restaurante in S\u00e3o Paulo, SP) https://t.co/c8Vz5VUsq3", 
+                "created_at": "2016-06-12T23:22:39", 
+                "retweet_count": 0, 
+                "id": "742135053472411648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6994286, 
+                    -23.5599594
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf54\ud83c\udf54 #burgernoquintal #hamburgeiros @ Sailor Burgers &amp; Beers https://t.co/xXgav6ALPK", 
+                "created_at": "2016-05-07T18:56:50", 
+                "retweet_count": 0, 
+                "id": "729022195733770240", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66668, 
+                    -23.59546
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Parab\u00e9ns iriiis\ud83d\udc9c\ud83d\udc9c #hamburgueriatradi @ Tradi https://t.co/TUij4jU4rU", 
+                "created_at": "2016-05-07T02:17:43", 
+                "retweet_count": 0, 
+                "id": "728770760320417792", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.73319754, 
+                    -23.50572052
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Conhecendo a casa da best\ud83d\udc97! @ City Am\u00e9rica https://t.co/WyZRfwzAvk", 
+                "created_at": "2016-05-01T00:45:03", 
+                "retweet_count": 0, 
+                "id": "726573109726289920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6333, 
+                    -23.55
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@hamburgeiros em a\u00e7\u00e3o! #hamburgeiros @ S\u00e3o Paulo, Brazil https://t.co/13TzDmgKsR", 
+                "created_at": "2016-04-24T18:25:35", 
+                "retweet_count": 0, 
+                "id": "724303287697215489", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.545627, 
+                    -23.5326423
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Show da bandadrivein !  S\u00f3 as girls\ud83d\udc97 #feelingprorock @ Espa\u00e7o Victory https://t.co/Nfn2pwphZS", 
+                "created_at": "2016-04-16T19:44:43", 
+                "retweet_count": 0, 
+                "id": "721424099243896832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6333, 
+                    -23.55
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pronta pra festa\ud83d\udc92 @ S\u00e3o Paulo, Brazil https://t.co/XXzuF3W351", 
+                "created_at": "2016-04-09T18:55:12", 
+                "retweet_count": 0, 
+                "id": "718874923029110784", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6994286, 
+                    -23.5599594
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pega no flagra\ud83d\ude31 @ Sailor Burgers &amp; Beers https://t.co/x5ckHl7i1v", 
+                "created_at": "2016-04-04T17:19:16", 
+                "retweet_count": 0, 
+                "id": "717038839957733377", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6994286, 
+                    -23.5599594
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tarde de sol e burgers. @ Sailor Burgers &amp; Beers https://t.co/fTaKrxrygu", 
+                "created_at": "2016-04-02T18:21:44", 
+                "retweet_count": 0, 
+                "id": "716329787522998272", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66668, 
+                    -23.59546
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Aqui estou mais um dia\ud83d\udc9c #hamburgueriatradi @ Hamburgueria Tradi https://t.co/un22slThQ1", 
+                "created_at": "2016-04-01T01:11:36", 
+                "retweet_count": 0, 
+                "id": "715708158761648129", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66668, 
+                    -23.59546
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udc9c\ud83c\udf54\ud83d\udc9c\ud83c\udf54 #hamburgueriatradi @ Tradi https://t.co/5rpZDgzll5", 
+                "created_at": "2016-03-31T01:09:00", 
+                "retweet_count": 0, 
+                "id": "715345112969166848", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.60679035, 
+                    -23.59285038
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Trabalho bom e trabalho com risadas\ud83d\ude02\ud83d\ude02 @ Ipiranga - Spaulo - SP https://t.co/JYl9alzBB6", 
+                "created_at": "2016-03-24T19:18:49", 
+                "retweet_count": 0, 
+                "id": "713082662634831872", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -43.9599609, 
+                    -19.8568592
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Amiguinhos do \ud83d\udc9c.. Mais uma viagem, mais um show de mtos que ainda vir\u00e3o! @ Quality Hotel Pampulha https://t.co/rlBPG1NCgG", 
+                "created_at": "2016-03-16T00:30:26", 
+                "retweet_count": 0, 
+                "id": "709899593216090112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -43.9374, 
+                    -19.93976
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude01\ud83d\ude01 @ Duke'n'Duke https://t.co/3EzTwEk25r", 
+                "created_at": "2016-03-13T17:13:37", 
+                "retweet_count": 0, 
+                "id": "709064889030057984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -43.93754482, 
+                    -19.93999404
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @DukenDuke in Belo Horizonte, MG w/ @thacavalheiro https://t.co/tcDff6SPJ9", 
+                "created_at": "2016-03-13T00:04:07", 
+                "retweet_count": 0, 
+                "id": "708805806037340162", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -43.97110462, 
+                    -19.86588248
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Adammm\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c #Maroon5emBH (@ Est\u00e1dio Governador Magalh\u00e3es Pinto (Mineir\u00e3o) - @minasarena in Belo Horizonte, MG) https://t.co/UTLMYENA5G", 
+                "created_at": "2016-03-12T02:45:59", 
+                "retweet_count": 0, 
+                "id": "708484150823665665", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -43.97124565, 
+                    -19.86522014
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Vaiiii Adam \ud83d\ude4c\ud83d\ude4c\ud83d\ude4c #Maroon5emBH @ Est\u00e1dio Mineir\u00e3o https://t.co/Bm1sRc1zrv", 
+                "created_at": "2016-03-12T00:48:30", 
+                "retweet_count": 0, 
+                "id": "708454585044758528", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66668, 
+                    -23.59546
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Em casa de buenas vendo BBB ai a vontade bateu! \ud83d\udc9c#hamburgueriatradi @ Hamburgueria Tradi https://t.co/xT0111s4rF", 
+                "created_at": "2016-03-07T02:24:44", 
+                "retweet_count": 0, 
+                "id": "706666863728697344", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.59338, 
+                    -23.5558319
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "De domingo.. @ BravoBistro https://t.co/jyfjbk2Who", 
+                "created_at": "2016-03-03T00:47:36", 
+                "retweet_count": 0, 
+                "id": "705192869099925505", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.59338, 
+                    -23.5558319
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tem coisa na vida que n\u00e3o muda!  Parab\u00e9ns danyyy \ud83d\udc9c\ud83d\udc9c @ BravoBistro https://t.co/3OY8ZZk83a", 
+                "created_at": "2016-02-28T23:35:49", 
+                "retweet_count": 0, 
+                "id": "704087642116333569", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.60085, 
+                    -23.59559
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Panquequinha hoje no almo\u00e7o! \ud83d\ude0b\ud83d\ude0b #herbalife @ Herbalife Silva Bueno https://t.co/OYCCerieDg", 
+                "created_at": "2016-02-26T16:21:24", 
+                "retweet_count": 0, 
+                "id": "703253539011821568", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.5858383, 
+                    -23.5580292
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udc92 @ Mans\u00e3o Isadora Cortez https://t.co/zwC9vw9e1Z", 
+                "created_at": "2016-02-21T23:46:03", 
+                "retweet_count": 0, 
+                "id": "701553501554364416", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6333, 
+                    -23.55
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude18\ud83d\ude18 @ S\u00e3o Paulo, Brazil https://t.co/4GWEN0pp8O", 
+                "created_at": "2016-02-20T23:17:57", 
+                "retweet_count": 0, 
+                "id": "701184041114963969", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6757164, 
+                    -23.5850105
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Reuni\u00e3o anual do @hamburgeiros #hamburgeiros @ P\u00e3o com Carne - Hamburgueria https://t.co/zfsDrYssh4", 
+                "created_at": "2016-02-17T00:08:10", 
+                "retweet_count": 0, 
+                "id": "699747128990658560", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.59805557, 
+                    -23.55916668
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bom domingo! @ Mooca https://t.co/8bcAeHUi5z", 
+                "created_at": "2016-02-14T15:32:16", 
+                "retweet_count": 0, 
+                "id": "698892520005181440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.60679035, 
+                    -23.59285038
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "De \u00f3culos tudo mundo \u00e9  bonito \ud83d\ude01\ud83d\ude0e @ Ipiranga - Spaulo - SP https://t.co/rQTrMGrBl1", 
+                "created_at": "2016-02-13T19:26:21", 
+                "retweet_count": 0, 
+                "id": "698589042703736832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -47.007227, 
+                    -23.12215792
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Primeiro bronze do ano\ud83c\udf1e\ud83c\udf1e @ Ch\u00e1cara Beija Flor https://t.co/oS6SDBFAZB", 
+                "created_at": "2016-02-08T23:51:24", 
+                "retweet_count": 0, 
+                "id": "696843803228008449", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6426978, 
+                    -23.54433952
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude0e\ud83d\ude0e @ Rep\u00fablica, Centro - S\u00e3o Paulo - SP https://t.co/UficNqxRCC", 
+                "created_at": "2016-02-07T16:47:37", 
+                "retweet_count": 0, 
+                "id": "696374770133286912", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.25821667, 
+                    25.67696111
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Saudades praia.. \ud83d\ude0d\ud83c\udf34 @ Matheson Hammock Park https://t.co/7TopxgkiXs", 
+                "created_at": "2016-02-04T01:36:27", 
+                "retweet_count": 0, 
+                "id": "695058302674341889", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66177943, 
+                    -23.59036998
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Mesmo estando toda quebrada at\u00e9  agora, adoro nossos passeios\ud83d\ude02\ud83d\ude02  #ibira @ Parque Ibirapuera -\u2026 https://t.co/K83bJOMcK6", 
+                "created_at": "2016-01-28T00:33:23", 
+                "retweet_count": 0, 
+                "id": "692505716825923585", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.68290202, 
+                    -23.5852262
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hummmm \ud83c\udf54\ud83c\udf54 #bk7pecados  #hamburgeiros @ Burger King Faria Lima https://t.co/UYTCeXT7SB", 
+                "created_at": "2016-01-14T23:41:42", 
+                "retweet_count": 0, 
+                "id": "687781668422311937", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6828307, 
+                    -23.58514775
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#bk7pecados (at @BurgerKingBr in S\u00e3o Paulo, SP) https://t.co/mPzkSksOnS", 
+                "created_at": "2016-01-14T22:38:39", 
+                "retweet_count": 0, 
+                "id": "687765801550622720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66668, 
+                    -23.59546
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Primeiro queimar,depois ganhar!! \ud83c\udf54\ud83d\udcaa #ibirapuera  #tradi #herbalife @ Tradi https://t.co/pLFIQDh9Xx", 
+                "created_at": "2016-01-14T00:59:10", 
+                "retweet_count": 0, 
+                "id": "687438775509729285", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.60210748, 
+                    -23.56285812
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Oi\ud83d\ude4b\ud83d\ude4b @ Mooca Sao Paulo https://t.co/GGO680pr7x", 
+                "created_at": "2016-01-12T22:24:23", 
+                "retweet_count": 0, 
+                "id": "687037435797176320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -47.00722303, 
+                    -23.12214578
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c @ Ch\u00e1cara Beija Flor https://t.co/lJc9wONpTZ", 
+                "created_at": "2016-01-03T16:19:46", 
+                "retweet_count": 0, 
+                "id": "683684184762757121", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -47.00722303, 
+                    -23.12214578
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Come\u00e7ando bem o ano! #fam\u00edlia #mulheresricas #chandon @ Ch\u00e1cara Beija Flor https://t.co/KEwceqm7LF", 
+                "created_at": "2016-01-01T16:51:39", 
+                "retweet_count": 0, 
+                "id": "682967431002910720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -47.00722303, 
+                    -23.12214578
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e @ Ch\u00e1cara Beija Flor https://t.co/dDnb8AsWqD", 
+                "created_at": "2016-01-01T15:21:17", 
+                "retweet_count": 0, 
+                "id": "682944691478867968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66668, 
+                    -23.59546
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Parab\u00e9ns liiii \ud83c\udf81\ud83c\udf81\ud83c\udf81 #tradi #hamburgueriatradi @ Tradi https://t.co/oLGSR6gemq", 
+                "created_at": "2015-12-27T22:30:47", 
+                "retweet_count": 0, 
+                "id": "681240838744240130", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.26015543, 
+                    -23.99782525
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pronta para a noite natalina \ud83c\udf84\ud83c\udf84\ud83c\udf84 @ Praia Pitangueiras / Guaruja-SP Brasil https://t.co/kq0Yh5hST2", 
+                "created_at": "2015-12-25T01:19:00", 
+                "retweet_count": 0, 
+                "id": "680196009335615494", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.5880661, 
+                    -23.5640354
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Friends \u263a\u263a @ Quintal da Mooca https://t.co/KmfqfMzlKO", 
+                "created_at": "2015-12-22T23:58:11", 
+                "retweet_count": 0, 
+                "id": "679450893629173760", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.5880661, 
+                    -23.5640354
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Friends\ud83d\ude0a @ Quintal da Mooca https://t.co/rtQ27Bmerd", 
+                "created_at": "2015-12-22T23:55:48", 
+                "retweet_count": 0, 
+                "id": "679450295164866561", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66668, 
+                    -23.59546
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Adoramos a visita de hoje! \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a #hamburgueriatradi @ Tradi https://t.co/jRhxuJt8cE", 
+                "created_at": "2015-12-20T20:38:46", 
+                "retweet_count": 0, 
+                "id": "678675934157885440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66668, 
+                    -23.59546
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Adoramos a visita de hoje!  \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a #hamburgueriatradi @ Tradi https://t.co/jRhxuJt8cE", 
+                "created_at": "2015-12-20T20:38:06", 
+                "retweet_count": 0, 
+                "id": "678675767115579393", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.66669828, 
+                    -23.59531978
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Tradi in S\u00e3o Paulo, SP https://t.co/LsJbyZGUXt", 
+                "created_at": "2015-12-13T22:18:25", 
+                "retweet_count": 0, 
+                "id": "676164295529492480", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.59183404, 
+                    -23.56990015
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Cadillac Burger in S\u00e3o Paulo, SP https://t.co/MGubjyfUy5", 
+                "created_at": "2015-12-01T23:47:30", 
+                "retweet_count": 0, 
+                "id": "671838061601361920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.67995252, 
+                    -23.5932495
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hummmm #mmsnabatalha @ Twitter Brasil https://t.co/rXxNcvzGV9", 
+                "created_at": "2015-11-26T01:43:49", 
+                "retweet_count": 0, 
+                "id": "669693005583032321", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.68001033, 
+                    -23.59324377
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @TwitterBrasil in S\u00e3o Paulo, SP https://t.co/js2sVoHOdy", 
+                "created_at": "2015-11-26T00:54:23", 
+                "retweet_count": 0, 
+                "id": "669680565453504512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.25980043, 
+                    25.67914074
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Queria um teletransporte agora!  #mathesonhammock #miami @ Matheson Hammock Park https://t.co/f7Fo29g9ov", 
+                "created_at": "2015-11-18T23:45:25", 
+                "retweet_count": 0, 
+                "id": "667126494834069504", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.19791685, 
+                    25.79945448
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lugar apaixonante \ud83d\udc9c #wynwoodwalls #miami @ Wynwood Arts District, Miami, Florida https://t.co/IYoc0aA4Ji", 
+                "created_at": "2015-11-17T01:57:18", 
+                "retweet_count": 0, 
+                "id": "666434906034184192", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.67930722, 
+                    -23.52005827
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf54\ud83c\udf54 #burgerfestoficial #burgerweekend #spburgerfest #hamburgeiros @ SP Burguer Fest https://t.co/K18NxBzwWh", 
+                "created_at": "2015-11-15T16:13:04", 
+                "retweet_count": 0, 
+                "id": "665925492411924481", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6827175, 
+                    -23.51773062
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Feirinha Gastron\u00f4mica Jardim das Perdizes in S\u00e3o Paulo https://t.co/txybg5bsfo", 
+                "created_at": "2015-11-15T14:13:29", 
+                "retweet_count": 0, 
+                "id": "665895399148924928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.15277778, 
+                    26.0725
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "De miami diretamente para o @spburgerfest!!  #oraculoburger #hamburgeiros @ Fort Lauderdale\u2013Hollywood\u2026 https://t.co/ftMAZdYauL", 
+                "created_at": "2015-11-14T19:27:23", 
+                "retweet_count": 0, 
+                "id": "665612005278097408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.25980043, 
+                    25.67914074
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udc4c\ud83d\udc4c #mathesonhammock @ Matheson Hammock Park https://t.co/unlo4iICeD", 
+                "created_at": "2015-11-14T12:28:10", 
+                "retweet_count": 0, 
+                "id": "665506505567899649", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.3683588, 
+                    25.79131734
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u00daltimo burger internacional! (at @Fuddruckers in Miami, FL) https://t.co/Z0Zzu33gF2", 
+                "created_at": "2015-11-14T01:29:00", 
+                "retweet_count": 0, 
+                "id": "665340624619577344", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.15478298, 
+                    25.6687146
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hoje \u00e9 dia de praiaaa \ud83c\udf1e\ud83c\udf1e\ud83c\udf1e @ Key Biscayne Island Beach https://t.co/44QwMXLu1z", 
+                "created_at": "2015-11-13T18:33:28", 
+                "retweet_count": 0, 
+                "id": "665236049719894018", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.17560482, 
+                    25.74644344
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Regina (@ Rickenbacker Marina in Key Biscayne, FL) https://t.co/t8p2gtl6Om", 
+                "created_at": "2015-11-13T17:27:19", 
+                "retweet_count": 0, 
+                "id": "665219404888727552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.18469762, 
+                    25.77738176
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": ". (@ Hard Rock Cafe Miami in Miami, FL) https://t.co/P5ccFbLGFQ", 
+                "created_at": "2015-11-13T02:53:50", 
+                "retweet_count": 0, 
+                "id": "664999582238154752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.18796444, 
+                    25.78116499
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at American Airlines Arena - @aaarena for @utahjazz vs @MiamiHEAT in Miami, FL https://t.co/lBW3uxy6At", 
+                "created_at": "2015-11-13T00:03:33", 
+                "retweet_count": 0, 
+                "id": "664956730233745409", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.32299981, 
+                    26.14954944
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Zinburger Wine &amp; Burger Bar - @zinburgereast in Sunrise, FL https://t.co/sigGFLSJbv https://t.co/CqjVcHkxUD", 
+                "created_at": "2015-11-12T21:33:45", 
+                "retweet_count": 0, 
+                "id": "664919031124742147", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.32078704, 
+                    26.15150329
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Sawgrass Mills in Sunrise, FL https://t.co/fqviiaDDJb", 
+                "created_at": "2015-11-12T15:33:50", 
+                "retweet_count": 0, 
+                "id": "664828456732131328", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.2594604, 
+                    25.7945499
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udc4c\ud83d\udc4c @ Sheraton Miami Airport Hotel &amp; Executive Meeting Center https://t.co/ISovYPtcZf", 
+                "created_at": "2015-11-12T12:29:25", 
+                "retweet_count": 0, 
+                "id": "664782044954763264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.2911, 
+                    25.8197
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Miami Springs, Florida https://t.co/KIxOyqPVt2", 
+                "created_at": "2015-11-11T22:22:13", 
+                "retweet_count": 0, 
+                "id": "664568841297657856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.28243961, 
+                    25.82147123
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at JR's Gourmet Burgers in Miami Springs, FL https://t.co/R2aGApxrOP", 
+                "created_at": "2015-11-11T20:58:13", 
+                "retweet_count": 0, 
+                "id": "664547701024010240", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.14385873, 
+                    25.79342608
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Burger &amp; Beer Joint (B&amp;B) - @bnbjoint in Miami Beach, FL https://t.co/dYHYzDEIV0", 
+                "created_at": "2015-11-10T20:20:03", 
+                "retweet_count": 0, 
+                "id": "664175709942870017", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.19791685, 
+                    25.79945448
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udd1d @ Wynwood Arts District, Miami, Florida https://t.co/joITQEKxzn", 
+                "created_at": "2015-11-10T19:57:41", 
+                "retweet_count": 0, 
+                "id": "664170079022653440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.1302414, 
+                    25.7829399
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf1e\ud83c\udf79 @ South Beach Miami https://t.co/2pbG6LTeJ6", 
+                "created_at": "2015-11-09T18:33:28", 
+                "retweet_count": 0, 
+                "id": "663786500388216832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.3758698, 
+                    25.7858009
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Dolphin Mall https://t.co/Uj3R5F8dmV", 
+                "created_at": "2015-11-08T22:09:35", 
+                "retweet_count": 0, 
+                "id": "663478497512439809", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.1173401, 
+                    26.0184708
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Primeiro burger internacional\ud83c\udf54\ud83c\udf54 @ Le Tub https://t.co/z2IFJVvF8z", 
+                "created_at": "2015-11-08T03:01:39", 
+                "retweet_count": 0, 
+                "id": "663189609854148608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.5821, 
+                    -23.5646975
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Padaria Panrico in S\u00e3o Paulo, SP https://t.co/Z9cX30XlrV", 
+                "created_at": "2015-10-27T08:39:08", 
+                "retweet_count": 0, 
+                "id": "658925887853875200", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.74451286, 
+                    -23.53038697
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#haveaniceburger (@ Galp\u00e3o Gastron\u00f4mico in S\u00e3o Paulo, Sp) https://t.co/dToZqYrteJ", 
+                "created_at": "2015-10-25T16:35:25", 
+                "retweet_count": 0, 
+                "id": "658320973805015040", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.64293338, 
+                    -23.5152651
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udfb5\ud83c\udfa4\ud83c\udfb6\ud83c\udfbc #loshermanos @ Los Hermanos - Arena Anhembi https://t.co/fe9BPzwD1G", 
+                "created_at": "2015-10-25T00:16:42", 
+                "retweet_count": 0, 
+                "id": "658074670877556737", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.64262772, 
+                    -23.51642032
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Los hermanos (@ Arena @AnhembiParque for Los Hermanos in S\u00e3o Paulo, SP) https://t.co/AsMPi41A3W", 
+                "created_at": "2015-10-24T23:31:34", 
+                "retweet_count": 0, 
+                "id": "658063312786202624", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.67180482, 
+                    -23.62619631
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#hamburgeiros (@ Burger Table in S\u00e3o Paulo) https://t.co/OlcxrV0a46 https://t.co/kbfgQNtSHR", 
+                "created_at": "2015-10-24T22:44:18", 
+                "retweet_count": 0, 
+                "id": "658051418952220672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.68562292, 
+                    -23.58434137
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Mori Sushi Ohta in S\u00e3o Paulo, SP https://t.co/0zZ9sbISrb", 
+                "created_at": "2015-10-21T22:49:13", 
+                "retweet_count": 0, 
+                "id": "656965489634246656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6561633, 
+                    -23.573201
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "E vaiiii come\u00e7ar #reidobacon #bigkahuna https://t.co/zzjCQp6nvQ", 
+                "created_at": "2015-10-19T23:52:18", 
+                "retweet_count": 0, 
+                "id": "656256590085881856", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.6559601, 
+                    -23.5734406
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Quem ser\u00e1 o rei do baconn??  \ud83c\udf54\ud83c\udf54 #eusouoreidobacon @ Big Kahuna https://t.co/00nj5adttL", 
+                "created_at": "2015-10-19T22:03:18", 
+                "retweet_count": 0, 
+                "id": "656229161292439553", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

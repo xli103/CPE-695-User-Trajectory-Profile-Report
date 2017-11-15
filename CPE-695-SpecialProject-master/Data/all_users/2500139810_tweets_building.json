@@ -1,0 +1,1013 @@
+{
+    "total_favorite_count": 2571, 
+    "total_tweets": 47, 
+    "screen_name": "CamiPereira2", 
+    "friends_count": 1964, 
+    "followers_count": 295, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.4888595, 
+                    -34.52645718
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Un finde sin ellas y ya las extra\u00f1o \ud83d\ude27\ud83d\udc9f @ A Eventos https://t.co/BcF8PQbtcS", 
+                "created_at": "2016-11-06T20:49:38", 
+                "retweet_count": 0, 
+                "id": "795367561907077120", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.57528413, 
+                    -34.64148343
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Del viernes \ud83c\udf78\ud83c\udf89 @ Dreamland (Pinar de Rocha) https://t.co/1B0MHiBRhj", 
+                "created_at": "2016-10-30T21:03:46", 
+                "retweet_count": 0, 
+                "id": "792834403613413376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.38903911, 
+                    -34.58770789
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Viej\u00edsima, pero mejor tarde que nunca. @ Alvear Palace Hotel https://t.co/Fz2aw21vio", 
+                "created_at": "2016-10-23T20:53:39", 
+                "retweet_count": 0, 
+                "id": "790295143303831553", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96756118, 
+                    40.75054477
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 48869328.0, 
+                    "type": "yes", 
+                    "id": 605.0, 
+                    "name": "\u806f\u5408\u570b"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 159899676.0, 
+                    "type": "yes", 
+                    "id": 812.0, 
+                    "name": "Socony-Mobil Building"
+                }, 
+                {
+                    "osm_id": 161163900.0, 
+                    "type": "yes", 
+                    "id": 828.0, 
+                    "name": "Pfizer Building"
+                }, 
+                {
+                    "osm_id": 161163902.0, 
+                    "type": "yes", 
+                    "id": 829.0, 
+                    "name": "Crystal Building"
+                }, 
+                {
+                    "osm_id": 161849936.0, 
+                    "type": "office", 
+                    "id": 840.0, 
+                    "name": "101 Park Avenue"
+                }, 
+                {
+                    "osm_id": 261243297.0, 
+                    "type": "yes", 
+                    "id": 83615.0, 
+                    "name": "One United Nations Plaza"
+                }, 
+                {
+                    "osm_id": 261248530.0, 
+                    "type": "yes", 
+                    "id": 83647.0, 
+                    "name": "Permanent Mission of the United States of America to the United Nations"
+                }, 
+                {
+                    "osm_id": 265301819.0, 
+                    "type": "yes", 
+                    "id": 89042.0, 
+                    "name": "crocs"
+                }, 
+                {
+                    "osm_id": 265301998.0, 
+                    "type": "yes", 
+                    "id": 89161.0, 
+                    "name": "Hilton Garden Inn"
+                }, 
+                {
+                    "osm_id": 265302051.0, 
+                    "type": "yes", 
+                    "id": 89184.0, 
+                    "name": "Old Navy"
+                }, 
+                {
+                    "osm_id": 265302069.0, 
+                    "type": "yes", 
+                    "id": 89197.0, 
+                    "name": "Macy's Herald Square"
+                }, 
+                {
+                    "osm_id": 265424408.0, 
+                    "type": "yes", 
+                    "id": 91118.0, 
+                    "name": "260 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 265427666.0, 
+                    "type": "yes", 
+                    "id": 91171.0, 
+                    "name": "National Distillers Building"
+                }, 
+                {
+                    "osm_id": 265516413.0, 
+                    "type": "apartments", 
+                    "id": 91950.0, 
+                    "name": "International Plaza"
+                }, 
+                {
+                    "osm_id": 265865046.0, 
+                    "type": "yes", 
+                    "id": 92677.0, 
+                    "name": "Lexington Tower"
+                }, 
+                {
+                    "osm_id": 265869516.0, 
+                    "type": "yes", 
+                    "id": 92694.0, 
+                    "name": "Bartholomew Building"
+                }, 
+                {
+                    "osm_id": 265869522.0, 
+                    "type": "office", 
+                    "id": 92700.0, 
+                    "name": "Lorillard Building"
+                }, 
+                {
+                    "osm_id": 265875655.0, 
+                    "type": "yes", 
+                    "id": 92744.0, 
+                    "name": "90 Park Avenue"
+                }, 
+                {
+                    "osm_id": 265875663.0, 
+                    "type": "yes", 
+                    "id": 92746.0, 
+                    "name": "261 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 265947374.0, 
+                    "type": "yes", 
+                    "id": 92860.0, 
+                    "name": "370 Lexington Avenue"
+                }, 
+                {
+                    "osm_id": 265947369.0, 
+                    "type": "yes", 
+                    "id": 92864.0, 
+                    "name": "360 Lexington Avenue"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }, 
+                {
+                    "osm_id": 292840084.0, 
+                    "type": "hotel", 
+                    "id": 125756.0, 
+                    "name": "Holiday Inn Express"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Embajadora de Estados Unidos, presente presidencia @ United Nations\u2026 https://t.co/rBlmPvorzb", 
+                "created_at": "2016-10-12T22:57:15", 
+                "retweet_count": 0, 
+                "id": "786339981799329792", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.4888595, 
+                    -34.52645718
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ella es Brisa, una de las personas m\u00e1s locas que conozco, pero una\u2026 https://t.co/9QvZef0X30", 
+                "created_at": "2016-10-05T20:14:15", 
+                "retweet_count": 0, 
+                "id": "783762247118192641", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.48333333, 
+                    -34.5
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hace mucho que no sub\u00eda una del atardecer...\ud83c\udf05 @ Olivos, Buenos Aires https://t.co/JsSp4Izq61", 
+                "created_at": "2016-09-25T20:46:51", 
+                "retweet_count": 0, 
+                "id": "780146569492459520", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.55, 
+                    -34.5333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Compa de escabio \ud83c\udf77\ud83d\ude09 @ Villa Ballester https://t.co/nKWueCs1Dq", 
+                "created_at": "2016-09-18T20:59:45", 
+                "retweet_count": 0, 
+                "id": "777613100384157696", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.55, 
+                    -34.5333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hermosa fiesta Vicky!\ud83c\udf89Estabas re linda y te sali\u00f3 todo m\u00e1s que\u2026 https://t.co/OoDvlwM5yT", 
+                "created_at": "2016-09-11T21:05:59", 
+                "retweet_count": 0, 
+                "id": "775077956158889984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.3664399, 
+                    -34.60322798
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Un toque movida y con un toque de viento @ Puerto Madero - Buenos Aires https://t.co/s8ngbSlQbr", 
+                "created_at": "2016-09-04T20:46:44", 
+                "retweet_count": 0, 
+                "id": "772536394573025280", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.3889255, 
+                    -34.5877024
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Una tarde diferente... @ Alvear Palace Hotel https://t.co/mkUUvDLt3U", 
+                "created_at": "2016-08-28T21:01:14", 
+                "retweet_count": 0, 
+                "id": "770003329799884801", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.62643088, 
+                    -34.38997592
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Viej\u00edsima \ud83d\udc46 @ Marinas Golf https://t.co/SxcP09DdFM", 
+                "created_at": "2016-08-21T21:07:16", 
+                "retweet_count": 0, 
+                "id": "767468132801863681", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.4888595, 
+                    -34.52645718
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Es viej\u00edsima pero est\u00e1bamos juntas y \u00e9ramos muy felices \ud83d\udc9e @ A Eventos https://t.co/HaJsArf4lK", 
+                "created_at": "2016-08-14T20:57:16", 
+                "retweet_count": 0, 
+                "id": "764928902858932225", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.3886691, 
+                    -34.58743052
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Una con ella \u2763\ud83d\udc9e @ Alvear Palace Hotel https://t.co/QUDe8UZgYJ", 
+                "created_at": "2016-07-17T22:17:33", 
+                "retweet_count": 0, 
+                "id": "754802243686260736", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.3667, 
+                    -34.6
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Puerto Madero https://t.co/0O6ffyBGIN", 
+                "created_at": "2016-07-10T21:09:25", 
+                "retweet_count": 0, 
+                "id": "752248382698184705", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.86491701, 
+                    -34.44440021
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "La botella de Coca-Cola le da el toque especial @ Sheraton Pilar https://t.co/A8Vi1IdRMP", 
+                "created_at": "2016-07-03T20:49:14", 
+                "retweet_count": 0, 
+                "id": "749706589616082944", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.45237, 
+                    -34.60616
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2757\ufe0fQuince Caro \u2757\ufe0f @ A Eventos https://t.co/Fvta1pahiu", 
+                "created_at": "2016-06-26T21:05:41", 
+                "retweet_count": 0, 
+                "id": "747174015035387905", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.3886691, 
+                    -34.58743052
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Alvear Palace Hotel https://t.co/GDKEHz4weO", 
+                "created_at": "2016-06-19T21:47:56", 
+                "retweet_count": 0, 
+                "id": "744647933736456192", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.367656, 
+                    -34.60486
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "memories \u2764\ufe0f\ud83c\udf39 @ Puerto Madero - Baires https://t.co/yI9EZgxwB9", 
+                "created_at": "2016-06-12T21:22:46", 
+                "retweet_count": 0, 
+                "id": "742104884418383877", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.86491701, 
+                    -34.44440021
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Sheraton Pilar https://t.co/Ce1k1ydwzz", 
+                "created_at": "2016-06-05T20:44:22", 
+                "retweet_count": 0, 
+                "id": "739558503497498624", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.45237, 
+                    -34.60616
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Las que me hacen pasar los mejores XV \u2764\ufe0f (observen a Brisa) @ A Eventos https://t.co/tptxbvcxo8", 
+                "created_at": "2016-05-28T20:30:26", 
+                "retweet_count": 0, 
+                "id": "736655895086661632", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.5281105, 
+                    -34.62603
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Extra\u00f1ando un poco de esto con ella @ Catamar\u00e1n Galileo eventos\u2026 https://t.co/OrhRYU9gP6", 
+                "created_at": "2016-05-22T21:16:43", 
+                "retweet_count": 0, 
+                "id": "734493217098469377", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.4217142, 
+                    -34.5805804
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Un sue\u00f1o hecho realidad\u2763\ud83d\udc9e/A dream come true\u2763\ud83d\udc9e/Un sogno che si avvera\u2763\ud83d\udc9e @ Feria Internacional del\u2026 https://t.co/uoYb2NIvW6", 
+                "created_at": "2016-05-15T20:24:40", 
+                "retweet_count": 0, 
+                "id": "731943400866492416", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.45237, 
+                    -34.60616
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Mis Carlas preferidas \u2764\ufe0f @ A Eventos https://t.co/9gX8Gmygzb", 
+                "created_at": "2016-05-13T22:39:57", 
+                "retweet_count": 0, 
+                "id": "731252670741282817", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.45237, 
+                    -34.60616
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Siempre con ellas \u2764\ufe0f @ A Eventos https://t.co/hVXpTcVHCE", 
+                "created_at": "2016-05-07T20:40:36", 
+                "retweet_count": 0, 
+                "id": "729048306622566402", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.45237, 
+                    -34.60616
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Siempre con ellas \u2764\ufe0f @ A Eventos https://t.co/7u5kcFxmwP", 
+                "created_at": "2016-05-07T01:08:50", 
+                "retweet_count": 0, 
+                "id": "728753425471709184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.45237, 
+                    -34.60616
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hermosa fiesta Caro! Estabas hermosa y todo te sali\u00f3 re lindo. Ojal\u00e1\u2026 https://t.co/BZuIXKQQ4K", 
+                "created_at": "2016-05-01T21:25:28", 
+                "retweet_count": 0, 
+                "id": "726885273137721344", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.36581811, 
+                    -34.59746012
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dijeron foto y nos copamos todas @ Sturla Viajes https://t.co/RIdeIHqrp2", 
+                "created_at": "2016-04-17T21:00:41", 
+                "retweet_count": 0, 
+                "id": "721805606433239040", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.5281105, 
+                    -34.62603
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf3aHAWAII\ud83c\udf3a @ Catamar\u00e1n Galileo eventos compartidos https://t.co/MSMunjIFRj", 
+                "created_at": "2016-04-13T22:01:32", 
+                "retweet_count": 0, 
+                "id": "720371367661727744", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.36583279, 
+                    -34.59747261
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hermosa fiesta Mechi!! La pas\u00e9 re lindo, ojal\u00e1 vos tambi\u00e9n lo hayas\u2026 https://t.co/mLNMu56w2J", 
+                "created_at": "2016-04-10T22:57:44", 
+                "retweet_count": 0, 
+                "id": "719298348637937664", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.62643088, 
+                    -34.38997592
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "XV de @caamisanchez01 \u2763\ud83c\udf89 @ Marinas Golf https://t.co/8h2tcH5FbG", 
+                "created_at": "2016-04-05T21:57:53", 
+                "retweet_count": 0, 
+                "id": "717471344061915136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.86491701, 
+                    -34.44440021
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udc90flowers\ud83d\udc90 @ Sheraton Pilar https://t.co/1KkwCzUuWJ", 
+                "created_at": "2016-03-19T21:51:45", 
+                "retweet_count": 0, 
+                "id": "711309207342096384", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.86491701, 
+                    -34.44440021
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "XV de Luli\u2763\ud83c\udf89 @ Sheraton Pilar https://t.co/C1mjQ3v4Tq", 
+                "created_at": "2016-03-13T22:49:05", 
+                "retweet_count": 0, 
+                "id": "709149310584274944", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.47306479, 
+                    -34.51923216
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "XV con ella \u2764\ufe0f @ Hotel Ramada Buenos Aires https://t.co/GTtOHV2Gqq", 
+                "created_at": "2016-03-01T21:41:28", 
+                "retweet_count": 0, 
+                "id": "704783637481459714", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.47306479, 
+                    -34.51923216
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "15 de Angie\u2763\ud83c\udf89 @ Hotel Ramada Buenos Aires https://t.co/OGUSh2IG8H", 
+                "created_at": "2016-02-28T01:37:22", 
+                "retweet_count": 0, 
+                "id": "703755840470323200", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.54156836, 
+                    -34.54535793
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udd76\ud83d\ude04 @ Villa Ballester, San Martin https://t.co/cI2Bf4erYI", 
+                "created_at": "2016-02-11T22:37:54", 
+                "retweet_count": 0, 
+                "id": "697912470917279744", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.54156836, 
+                    -34.54535793
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Friends \ud83d\udc9e\ud83d\udc6d @ Villa Ballester, San Martin https://t.co/KMWAHb66Qj", 
+                "created_at": "2016-01-24T00:31:14", 
+                "retweet_count": 0, 
+                "id": "691055624474529792", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.47070873, 
+                    -34.52031207
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Atardecer \ud83c\udf06 @ Rio Vicente Lopez https://t.co/Fl4NdiHP2t", 
+                "created_at": "2016-01-20T00:57:09", 
+                "retweet_count": 0, 
+                "id": "689612593309286401", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.52480669, 
+                    -34.50775983
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udc81\ud83c\udffc @ Unicenter https://t.co/FLXjcx6VsL", 
+                "created_at": "2016-01-17T01:21:34", 
+                "retweet_count": 0, 
+                "id": "688531576829915136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.52903352, 
+                    -34.49283565
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "EEEEL QUE NO LEVANTA LA MANOO, MANEJA LA LANCHA DE PREFECTURA \ud83d\udc6e\ud83c\udffb\ud83d\udc6e\ud83c\udffb @\u2026 https://t.co/LO5qKVKMCd", 
+                "created_at": "2016-01-16T01:33:58", 
+                "retweet_count": 0, 
+                "id": "688172310059040770", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.46721116, 
+                    -34.52387506
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf3e(Sin filtros) \ud83c\udf3e @ Rio Vicente Lopez https://t.co/hfCJKgk5qU", 
+                "created_at": "2016-01-14T01:08:26", 
+                "retweet_count": 0, 
+                "id": "687441106641010688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.526577, 
+                    -34.4909668
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "No pod\u00eda faltar una foto con la m\u00e1scara de Lanata y ella \ud83d\udc98 @ Carmela\u2026 https://t.co/hmgbsBHiKq", 
+                "created_at": "2016-01-13T01:10:28", 
+                "retweet_count": 0, 
+                "id": "687079232279855104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.52167, 
+                    -34.514675
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"El arte de la vida consiste en hacer de la vida una obra de\u2026 https://t.co/EMHMWSyliE", 
+                "created_at": "2016-01-09T01:12:50", 
+                "retweet_count": 0, 
+                "id": "685630273334185985", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.52646114, 
+                    -34.50782365
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Zara Unicenter https://t.co/9YaS5AGJSb", 
+                "created_at": "2016-01-08T01:27:35", 
+                "retweet_count": 0, 
+                "id": "685271598467788800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.526577, 
+                    -34.4909668
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ya se te extra\u00f1a\u2763 @ Carmela Eventos https://t.co/sKJU9iIu4h", 
+                "created_at": "2016-01-05T01:18:19", 
+                "retweet_count": 0, 
+                "id": "684182101600661504", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.4918426, 
+                    -34.5147664
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Olivos - Bs. As. https://t.co/gvs2aO0iN5", 
+                "created_at": "2016-01-03T01:30:20", 
+                "retweet_count": 0, 
+                "id": "683460351313186817", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.52903352, 
+                    -34.49283565
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Subo esta foto con vos porque para m\u00ed fue el momento m\u00e1s lindo de la\u2026 https://t.co/S2ZNHZEStz", 
+                "created_at": "2016-01-01T22:26:20", 
+                "retweet_count": 0, 
+                "id": "683051657098301440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.4918426, 
+                    -34.5147664
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Mi fiel compa\u00f1era @ Olivos - Bs. As. https://t.co/KELf7DEbIU", 
+                "created_at": "2015-12-24T00:58:24", 
+                "retweet_count": 0, 
+                "id": "679828436312035328", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,5639 @@
+{
+    "total_favorite_count": 8535, 
+    "total_tweets": 124, 
+    "screen_name": "ArthurBovino", 
+    "friends_count": 6571, 
+    "followers_count": 12983, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93326, 
+                    40.7075
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 68312595.0, 
+                    "type": "yes", 
+                    "id": 615.0, 
+                    "name": "200 Water Street"
+                }, 
+                {
+                    "osm_id": 109337830.0, 
+                    "type": "yes", 
+                    "id": 672.0, 
+                    "name": "Federal Hall National Memorial"
+                }, 
+                {
+                    "osm_id": 232065148.0, 
+                    "type": "yes", 
+                    "id": 1182.0, 
+                    "name": "Communipaw Terminal"
+                }, 
+                {
+                    "osm_id": 277924004.0, 
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch"
+                }, 
+                {
+                    "osm_id": 278042262.0, 
+                    "type": "yes", 
+                    "id": 99272.0, 
+                    "name": "14 Wall Street"
+                }, 
+                {
+                    "osm_id": 278042265.0, 
+                    "type": "yes", 
+                    "id": 99274.0, 
+                    "name": "20 Pine Street"
+                }, 
+                {
+                    "osm_id": 278053481.0, 
+                    "type": "yes", 
+                    "id": 99280.0, 
+                    "name": "Empire Building"
+                }, 
+                {
+                    "osm_id": 278053600.0, 
+                    "type": "yes", 
+                    "id": 99387.0, 
+                    "name": "1 Wall Street"
+                }, 
+                {
+                    "osm_id": 278053611.0, 
+                    "type": "yes", 
+                    "id": 99395.0, 
+                    "name": "65 Broadway"
+                }, 
+                {
+                    "osm_id": 278069577.0, 
+                    "type": "apartments", 
+                    "id": 99482.0, 
+                    "name": "10 Liberty Street"
+                }, 
+                {
+                    "osm_id": 278079587.0, 
+                    "type": "yes", 
+                    "id": 99550.0, 
+                    "name": "116 John Street"
+                }, 
+                {
+                    "osm_id": 278084737.0, 
+                    "type": "yes", 
+                    "id": 99560.0, 
+                    "name": "Bin no. 220"
+                }, 
+                {
+                    "osm_id": 279530782.0, 
+                    "type": "yes", 
+                    "id": 102186.0, 
+                    "name": "One Chase Manhattan Plaza"
+                }, 
+                {
+                    "osm_id": 292706409.0, 
+                    "type": "yes", 
+                    "id": 125749.0, 
+                    "name": "Four Points"
+                }, 
+                {
+                    "osm_id": 292727352.0, 
+                    "type": "yes", 
+                    "id": 125754.0, 
+                    "name": "Insurance Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ichiran in Bushwick! So good when we had it in JapN! Just wish this #ramen was in the\u2026 https://t.co/DLMYU8SqnH", 
+                "created_at": "2016-11-12T21:32:37", 
+                "retweet_count": 0, 
+                "id": "797552706076504068", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.978595, 
+                    40.72606
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247839731.0, 
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247850429.0, 
+                    "type": "yes", 
+                    "id": 11024.0, 
+                    "name": "Bapple Real Estate"
+                }, 
+                {
+                    "osm_id": 250265127.0, 
+                    "type": "yes", 
+                    "id": 56720.0, 
+                    "name": "Trinity Lower East Side"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Vote? Damn straight I did. This bicentennial baby is happy to have been able to vote for an\u2026 https://t.co/DvfIJi0KWU", 
+                "created_at": "2016-11-08T15:18:41", 
+                "retweet_count": 0, 
+                "id": "796009049967955968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9800644, 
+                    40.7341614
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 158413988.0, 
+                    "type": "yes", 
+                    "id": 805.0, 
+                    "name": "Zeckendorf Towers"
+                }, 
+                {
+                    "osm_id": 247861574.0, 
+                    "type": "yes", 
+                    "id": 11454.0, 
+                    "name": "Roosevelt Building"
+                }, 
+                {
+                    "osm_id": 249657690.0, 
+                    "type": "yes", 
+                    "id": 34714.0, 
+                    "name": "Consolidated Edison Company Building"
+                }, 
+                {
+                    "osm_id": 249663131.0, 
+                    "type": "yes", 
+                    "id": 35002.0, 
+                    "name": "Hospital for Joint Diseases"
+                }, 
+                {
+                    "osm_id": 264751895.0, 
+                    "type": "school", 
+                    "id": 86408.0, 
+                    "name": "Friends Seminary"
+                }, 
+                {
+                    "osm_id": 264752147.0, 
+                    "type": "church", 
+                    "id": 86500.0, 
+                    "name": "St. George's Church"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Quick #election2016 #everythingbagel with #creamcheese and Nova. @ Ess-a-Bagel 1st ave https://t.co/CWGysk8Bg4", 
+                "created_at": "2016-11-08T15:14:47", 
+                "retweet_count": 0, 
+                "id": "796008068333060096", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.978595, 
+                    40.72606
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247839731.0, 
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247850429.0, 
+                    "type": "yes", 
+                    "id": 11024.0, 
+                    "name": "Bapple Real Estate"
+                }, 
+                {
+                    "osm_id": 250265127.0, 
+                    "type": "yes", 
+                    "id": 56720.0, 
+                    "name": "Trinity Lower East Side"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Okay, I need to find out what it feels like to taste \"The Plateau of the Galaxy,\" or know what\u2026 https://t.co/XmaunDvdvW", 
+                "created_at": "2016-11-08T02:26:15", 
+                "retweet_count": 0, 
+                "id": "795814662390616064", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I know it's not tomato season, but these cocktail tomatoes \ud83c\udf45 slow-roasted are pretty delicious\u2026 https://t.co/K5wetwZS4b", 
+                "created_at": "2016-11-06T22:37:09", 
+                "retweet_count": 0, 
+                "id": "795394617189564416", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Making a blue cheese \ud83e\uddc0 tomato \ud83c\udf45 tart with @mouthfoods blue cheese powder... recipe TK @ East\u2026 https://t.co/MEG8XJPD76", 
+                "created_at": "2016-11-06T21:19:29", 
+                "retweet_count": 1, 
+                "id": "795375072630505473", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Making some healthy party snacks. These were easy but tasty: Baked zucchini chips with feta and\u2026 https://t.co/96jHAGN4Mk", 
+                "created_at": "2016-11-06T20:11:54", 
+                "retweet_count": 0, 
+                "id": "795358066690715649", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Chive, herb and turkey bacon cream cheese (low-fat) stuffed piquillo peppers #partyappetizers\u2026 https://t.co/Evot24eGho", 
+                "created_at": "2016-11-06T20:09:14", 
+                "retweet_count": 0, 
+                "id": "795357394796773376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Malt and peanut butter powdered #applechips #healthy #healthyfood #healthyrecipes #healthyeating\u2026 https://t.co/nIbaJJ82hI", 
+                "created_at": "2016-11-06T20:07:02", 
+                "retweet_count": 0, 
+                "id": "795356840217415680", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.978595, 
+                    40.72606
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247839731.0, 
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247850429.0, 
+                    "type": "yes", 
+                    "id": 11024.0, 
+                    "name": "Bapple Real Estate"
+                }, 
+                {
+                    "osm_id": 250265127.0, 
+                    "type": "yes", 
+                    "id": 56720.0, 
+                    "name": "Trinity Lower East Side"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sunset over the #lowereastside. Crazy beautiful #sunset @ Alphabet City, Manhattan https://t.co/U8sHFF7wHt", 
+                "created_at": "2016-11-06T01:08:33", 
+                "retweet_count": 0, 
+                "id": "795070332302491652", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Whoops. That was dumb. @ East Village, Manhattan https://t.co/w8sIPbMkC9", 
+                "created_at": "2016-11-05T22:46:54", 
+                "retweet_count": 0, 
+                "id": "795034685000810496", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Date, pistachio, chia, cacao and peanut butter balls #healthyfood #healthyeating #healthy @ East\u2026 https://t.co/FMWLC5pTDb", 
+                "created_at": "2016-11-05T22:45:55", 
+                "retweet_count": 0, 
+                "id": "795034439243988993", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ricotta, walnut and lemon #dip #easyrecipes @ East Village, Manhattan https://t.co/NVetOytETc", 
+                "created_at": "2016-11-05T19:26:47", 
+                "retweet_count": 0, 
+                "id": "794984322444984320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kalustyan's is great, but I love this place in my own hood for ALL my #spice needs #eastvillage\u2026 https://t.co/SR1ETHG1wo", 
+                "created_at": "2016-11-05T19:24:06", 
+                "retweet_count": 0, 
+                "id": "794983647250157568", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97802425, 
+                    40.74848983
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 34633854.0, 
+                    "type": "office", 
+                    "id": 584.0, 
+                    "name": "\u5e1d\u570b\u5927\u5ec8"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264668305.0, 
+                    "type": "yes", 
+                    "id": 86072.0, 
+                    "name": "Penn South Building 8"
+                }, 
+                {
+                    "osm_id": 264685194.0, 
+                    "type": "yes", 
+                    "id": 86328.0, 
+                    "name": "The Epic"
+                }, 
+                {
+                    "osm_id": 264685227.0, 
+                    "type": "yes", 
+                    "id": 86370.0, 
+                    "name": "Tower 111"
+                }, 
+                {
+                    "osm_id": 264685189.0, 
+                    "type": "yes", 
+                    "id": 86403.0, 
+                    "name": "Nuchas"
+                }, 
+                {
+                    "osm_id": 265301695.0, 
+                    "type": "yes", 
+                    "id": 88989.0, 
+                    "name": "CUNY Graduate School and University Center"
+                }, 
+                {
+                    "osm_id": 265419755.0, 
+                    "type": "church", 
+                    "id": 91058.0, 
+                    "name": "Church of the Incarnation"
+                }, 
+                {
+                    "osm_id": 321790145.0, 
+                    "type": "yes", 
+                    "id": 126180.0, 
+                    "name": "Saint Francis Friary"
+                }, 
+                {
+                    "osm_id": 396820651.0, 
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Life hack indeed. #sidewalksign #lifehack @ Shelburne NYC, an Affinia hotel https://t.co/0clS8D9SAA", 
+                "created_at": "2016-11-04T05:18:31", 
+                "retweet_count": 0, 
+                "id": "794408464357453825", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.960475, 
+                    40.78508889
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My city. Photo doesn't do it justice, but it sparkles in the @centralparknyc Reservoir. Taken\u2026 https://t.co/AaehXTeCfI", 
+                "created_at": "2016-11-04T05:16:46", 
+                "retweet_count": 0, 
+                "id": "794408022978285568", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98864864, 
+                    40.72968101
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 155075464.0, 
+                    "type": "university", 
+                    "id": 795.0, 
+                    "name": "Helen and Martin Kimmel Center for University Life"
+                }, 
+                {
+                    "osm_id": 247838584.0, 
+                    "type": "apartments", 
+                    "id": 10405.0, 
+                    "name": "Sculpture For Living"
+                }, 
+                {
+                    "osm_id": 247842670.0, 
+                    "type": "yes", 
+                    "id": 10773.0, 
+                    "name": "Tisch School of the Arts"
+                }, 
+                {
+                    "osm_id": 248166208.0, 
+                    "type": "university", 
+                    "id": 22322.0, 
+                    "name": "Elmer Holmes Bobst Library"
+                }, 
+                {
+                    "osm_id": 248166266.0, 
+                    "type": "yes", 
+                    "id": 22344.0, 
+                    "name": "Paulette Goddard Hall"
+                }, 
+                {
+                    "osm_id": 248234588.0, 
+                    "type": "yes", 
+                    "id": 26359.0, 
+                    "name": "Amity Hall"
+                }, 
+                {
+                    "osm_id": 292375847.0, 
+                    "type": "yes", 
+                    "id": 125745.0, 
+                    "name": "The Holland Hotel"
+                }, 
+                {
+                    "osm_id": 317884692.0, 
+                    "type": "yes", 
+                    "id": 126132.0, 
+                    "name": "Hudson County Community College - Building I"
+                }, 
+                {
+                    "osm_id": 317884693.0, 
+                    "type": "yes", 
+                    "id": 126140.0, 
+                    "name": "Hudson County Community College - Building J"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sunday special #yakinikuwest: #Kobe #shortrib #eastvillage #littlejapan @ Yakiniku West https://t.co/RTWnblpUFf", 
+                "created_at": "2016-10-31T01:49:12", 
+                "retweet_count": 0, 
+                "id": "792906235620229120", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.978595, 
+                    40.72606
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247839731.0, 
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247850429.0, 
+                    "type": "yes", 
+                    "id": 11024.0, 
+                    "name": "Bapple Real Estate"
+                }, 
+                {
+                    "osm_id": 250265127.0, 
+                    "type": "yes", 
+                    "id": 56720.0, 
+                    "name": "Trinity Lower East Side"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When the storm rolls in... #alphabetcity #torrential @ Alphabet City, Manhattan https://t.co/wj9M7kMlsR", 
+                "created_at": "2016-10-30T20:34:50", 
+                "retweet_count": 0, 
+                "id": "792827120695308292", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00288841, 
+                    40.73117147
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 317884686.0, 
+                    "type": "yes", 
+                    "id": 126126.0, 
+                    "name": "Hudson County Community College - Building B"
+                }, 
+                {
+                    "osm_id": 366526237.0, 
+                    "type": "retail", 
+                    "id": 126401.0, 
+                    "name": "Burger King"
+                }, 
+                {
+                    "osm_id": 366535521.0, 
+                    "type": "retail", 
+                    "id": 126413.0, 
+                    "name": "Sanai's"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#faiccosporkstore Italian Special. One of my favorite Italian subs. So thinly sliced\u2026 https://t.co/OFC4QKPddL", 
+                "created_at": "2016-10-30T17:57:59", 
+                "retweet_count": 0, 
+                "id": "792787648238718977", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tomato \ud83c\udf45 #gnocchi Boscaiola: mushroom \ud83c\udf44 sausage &amp; cherry tomatoes @PizzaByLuzzos #eastvillage @\u2026 https://t.co/HFgpkRAfCz", 
+                "created_at": "2016-10-30T03:53:58", 
+                "retweet_count": 0, 
+                "id": "792575244250808320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fall gardening: picked the #mentuccia to dry it out for winter ragu #italianfood #garden\u2026 https://t.co/B4WGUanRMs", 
+                "created_at": "2016-10-30T03:48:06", 
+                "retweet_count": 0, 
+                "id": "792573767633567744", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#churro #licenseplate #eastvillage @ East Village, Manhattan https://t.co/Ke2ujTULrT", 
+                "created_at": "2016-10-30T03:43:31", 
+                "retweet_count": 0, 
+                "id": "792572616825536512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Now THAT's an #eastvillage #breakfast to start the day: Appetizing Platter mileenddeli. @ East\u2026 https://t.co/RlVNoc9rLB", 
+                "created_at": "2016-10-30T03:37:41", 
+                "retweet_count": 0, 
+                "id": "792571148353626112", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98976266, 
+                    40.70276865
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 274483198.0, 
+                    "type": "yes", 
+                    "id": 98498.0, 
+                    "name": "17 State Street"
+                }, 
+                {
+                    "osm_id": 278053486.0, 
+                    "type": "yes", 
+                    "id": 99308.0, 
+                    "name": "Four New York Plaza"
+                }, 
+                {
+                    "osm_id": 278053533.0, 
+                    "type": "yes", 
+                    "id": 99332.0, 
+                    "name": "One State Street Plaza"
+                }, 
+                {
+                    "osm_id": 278053534.0, 
+                    "type": "yes", 
+                    "id": 99333.0, 
+                    "name": "Shrine of Saint Elizabeth Ann Bayley Seton"
+                }, 
+                {
+                    "osm_id": 278053603.0, 
+                    "type": "yes", 
+                    "id": 99382.0, 
+                    "name": "3 New York Plaza"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Oh dear, DUMBO. @realdonaldtrump #graffiti #election2016 #2016 #rnc2016 @ DUMBO, Brooklyn https://t.co/mFkh76k0An", 
+                "created_at": "2016-10-29T13:38:33", 
+                "retweet_count": 0, 
+                "id": "792359972986359808", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97618, 
+                    40.68327
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241821092.0, 
+                    "type": "yes", 
+                    "id": 1666.0, 
+                    "name": "Mazzola Bakery"
+                }, 
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dessert #pizza @ Barclays Center https://t.co/xGNhzmaihV", 
+                "created_at": "2016-10-29T00:55:56", 
+                "retweet_count": 0, 
+                "id": "792168053027069952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97618, 
+                    40.68327
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241821092.0, 
+                    "type": "yes", 
+                    "id": 1666.0, 
+                    "name": "Mazzola Bakery"
+                }, 
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@mouthfoods team out in the TOWN in a Friday night! #brooklyn @brooklynnets #nosleeptillbrooklyn\u2026 https://t.co/Y3dKutPSu7", 
+                "created_at": "2016-10-29T00:43:25", 
+                "retweet_count": 0, 
+                "id": "792164905147363328", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Funneled my #debate agita into making a #homemade #huckleberry and #applepie with a Parmesan and\u2026 https://t.co/cT8g8Ve6yg", 
+                "created_at": "2016-10-20T14:30:16", 
+                "retweet_count": 0, 
+                "id": "789111496982859776", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9945908, 
+                    40.7229118
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27111279.0, 
+                    "type": "yes", 
+                    "id": 565.0, 
+                    "name": "B.J.'s"
+                }, 
+                {
+                    "osm_id": 27111280.0, 
+                    "type": "yes", 
+                    "id": 567.0, 
+                    "name": "Shoprite"
+                }, 
+                {
+                    "osm_id": 249664475.0, 
+                    "type": "yes", 
+                    "id": 35365.0, 
+                    "name": "Holland Plaza Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "En route to the recent #sangennaro, I found a great #slice \ud83c\udf55#pizza #pizzacowboy @ Prince St. Pizza https://t.co/MLmSxHpCNS", 
+                "created_at": "2016-10-13T03:26:24", 
+                "retweet_count": 0, 
+                "id": "786407715723677696", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.978595, 
+                    40.72606
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247839731.0, 
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247850429.0, 
+                    "type": "yes", 
+                    "id": 11024.0, 
+                    "name": "Bapple Real Estate"
+                }, 
+                {
+                    "osm_id": 250265127.0, 
+                    "type": "yes", 
+                    "id": 56720.0, 
+                    "name": "Trinity Lower East Side"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When you can organize your food T-shirts by menu item... you may have a problem: too many great\u2026 https://t.co/F12whWl5ue", 
+                "created_at": "2016-10-13T01:51:42", 
+                "retweet_count": 0, 
+                "id": "786383882094571520", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98976266, 
+                    40.70276865
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 274483198.0, 
+                    "type": "yes", 
+                    "id": 98498.0, 
+                    "name": "17 State Street"
+                }, 
+                {
+                    "osm_id": 278053486.0, 
+                    "type": "yes", 
+                    "id": 99308.0, 
+                    "name": "Four New York Plaza"
+                }, 
+                {
+                    "osm_id": 278053533.0, 
+                    "type": "yes", 
+                    "id": 99332.0, 
+                    "name": "One State Street Plaza"
+                }, 
+                {
+                    "osm_id": 278053534.0, 
+                    "type": "yes", 
+                    "id": 99333.0, 
+                    "name": "Shrine of Saint Elizabeth Ann Bayley Seton"
+                }, 
+                {
+                    "osm_id": 278053603.0, 
+                    "type": "yes", 
+                    "id": 99382.0, 
+                    "name": "3 New York Plaza"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "*What* \"just popped in there?\" ... Dr Ray Stantz: [somberly] It's the Stay Puft Marshmallow Man\u2026 https://t.co/Cq0E5Z6pdc", 
+                "created_at": "2016-10-13T01:45:53", 
+                "retweet_count": 0, 
+                "id": "786382420559835138", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9975, 
+                    40.73083333
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3343762.0, 
+                    "type": "yes", 
+                    "id": 80.0, 
+                    "name": "Vanderbilt Law School New York University"
+                }, 
+                {
+                    "osm_id": -3357433.0, 
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church"
+                }, 
+                {
+                    "osm_id": 317884685.0, 
+                    "type": "yes", 
+                    "id": 126125.0, 
+                    "name": "Hudson County Community College - Building A"
+                }, 
+                {
+                    "osm_id": 317884686.0, 
+                    "type": "yes", 
+                    "id": 126126.0, 
+                    "name": "Hudson County Community College - Building B"
+                }, 
+                {
+                    "osm_id": 317884689.0, 
+                    "type": "yes", 
+                    "id": 126130.0, 
+                    "name": "Hudson County Community College - Building E"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "That moment when you're biking near @ottopizzeria and @babboristorante and the guy on the\u2026 https://t.co/gAq2dcLHNR", 
+                "created_at": "2016-10-12T22:38:42", 
+                "retweet_count": 1, 
+                "id": "786335310401634304", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.978595, 
+                    40.72606
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247839731.0, 
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247850429.0, 
+                    "type": "yes", 
+                    "id": 11024.0, 
+                    "name": "Bapple Real Estate"
+                }, 
+                {
+                    "osm_id": 250265127.0, 
+                    "type": "yes", 
+                    "id": 56720.0, 
+                    "name": "Trinity Lower East Side"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fava and hatch chile salad with lemon vinaigrette \ud83c\udf4b \ud83c\udf36 #homemade @ Alphabet City, Manhattan https://t.co/fjEKyo2UWP", 
+                "created_at": "2016-10-09T00:43:39", 
+                "retweet_count": 0, 
+                "id": "784917204454273024", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98734805, 
+                    40.72020408
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 245352063.0, 
+                    "type": "yes", 
+                    "id": 10014.0, 
+                    "name": "Rainbow Shops"
+                }, 
+                {
+                    "osm_id": 245352055.0, 
+                    "type": "yes", 
+                    "id": 10045.0, 
+                    "name": "Two Boots Pizza"
+                }, 
+                {
+                    "osm_id": 245352057.0, 
+                    "type": "yes", 
+                    "id": 10053.0, 
+                    "name": "Sawadee Thai Cuisine"
+                }, 
+                {
+                    "osm_id": 245352054.0, 
+                    "type": "yes", 
+                    "id": 10072.0, 
+                    "name": "Grove Medical Associates"
+                }, 
+                {
+                    "osm_id": 245352056.0, 
+                    "type": "yes", 
+                    "id": 10076.0, 
+                    "name": "Fenny Pharmacy"
+                }, 
+                {
+                    "osm_id": 247867323.0, 
+                    "type": "yes", 
+                    "id": 12191.0, 
+                    "name": "240 Centre Street"
+                }, 
+                {
+                    "osm_id": 248757338.0, 
+                    "type": "yes", 
+                    "id": 28213.0, 
+                    "name": "University Settlement House"
+                }, 
+                {
+                    "osm_id": 250052753.0, 
+                    "type": "yes", 
+                    "id": 41371.0, 
+                    "name": "32 Avenue of the Americas"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Otherworldly on the #lowereastside @lowlinenyc. Here's to hoping this underground park happens.\u2026 https://t.co/efxg1PxdDl", 
+                "created_at": "2016-10-08T22:33:08", 
+                "retweet_count": 0, 
+                "id": "784884360541532160", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.978595, 
+                    40.72606
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247839731.0, 
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247850429.0, 
+                    "type": "yes", 
+                    "id": 11024.0, 
+                    "name": "Bapple Real Estate"
+                }, 
+                {
+                    "osm_id": 250265127.0, 
+                    "type": "yes", 
+                    "id": 56720.0, 
+                    "name": "Trinity Lower East Side"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Oh, no food for us? Bye.\" #cats @ Alphabet City, Manhattan https://t.co/6MDI1ObSwN", 
+                "created_at": "2016-10-08T22:28:36", 
+                "retweet_count": 0, 
+                "id": "784883218294145025", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.978595, 
+                    40.72606
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247839731.0, 
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247850429.0, 
+                    "type": "yes", 
+                    "id": 11024.0, 
+                    "name": "Bapple Real Estate"
+                }, 
+                {
+                    "osm_id": 250265127.0, 
+                    "type": "yes", 
+                    "id": 56720.0, 
+                    "name": "Trinity Lower East Side"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Rainy #NYC night. May as well make some beef stock for @angmoore onion soup @ Alphabet City,\u2026 https://t.co/Sm4m0u60lO", 
+                "created_at": "2016-10-08T22:27:15", 
+                "retweet_count": 0, 
+                "id": "784882880392654848", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98546, 
+                    40.7270899
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 241829569.0, 
+                    "type": "yes", 
+                    "id": 4150.0, 
+                    "name": "Haveli"
+                }, 
+                {
+                    "osm_id": 241829644.0, 
+                    "type": "yes", 
+                    "id": 4152.0, 
+                    "name": "Beetle House NYC"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247848703.0, 
+                    "type": "yes", 
+                    "id": 10960.0, 
+                    "name": "University Towers Apartments I"
+                }, 
+                {
+                    "osm_id": 247848706.0, 
+                    "type": "yes", 
+                    "id": 10981.0, 
+                    "name": "University Towers Apartments III"
+                }, 
+                {
+                    "osm_id": 249663231.0, 
+                    "type": "church", 
+                    "id": 35116.0, 
+                    "name": "St. Anthony of Padua Church"
+                }, 
+                {
+                    "osm_id": 264854033.0, 
+                    "type": "yes", 
+                    "id": 87257.0, 
+                    "name": "Newport (Path)"
+                }, 
+                {
+                    "osm_id": 409390015.0, 
+                    "type": "yes", 
+                    "id": 137328.0, 
+                    "name": "B Bar & Grill"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sesame Tofu: Black Sesame, Salted Mustard thetangnyc @ The Tang https://t.co/3JGbm4GVoc", 
+                "created_at": "2016-10-08T06:03:02", 
+                "retweet_count": 0, 
+                "id": "784635191725793281", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99523, 
+                    40.69065
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 245132331.0, 
+                    "type": "residential", 
+                    "id": 9681.0, 
+                    "name": "100 Atlantic"
+                }, 
+                {
+                    "osm_id": 278396518.0, 
+                    "type": "yes", 
+                    "id": 101701.0, 
+                    "name": "Ligget Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Diavola: mozzarella, tomato sauce, spicy salame #pizza @luzzosbk @ Luzzo's BK https://t.co/Jf0fZfreLQ", 
+                "created_at": "2016-10-07T00:32:18", 
+                "retweet_count": 1, 
+                "id": "784189575224754176", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9871368, 
+                    40.7027817
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 274483198.0, 
+                    "type": "yes", 
+                    "id": 98498.0, 
+                    "name": "17 State Street"
+                }, 
+                {
+                    "osm_id": 278053486.0, 
+                    "type": "yes", 
+                    "id": 99308.0, 
+                    "name": "Four New York Plaza"
+                }, 
+                {
+                    "osm_id": 278053533.0, 
+                    "type": "yes", 
+                    "id": 99332.0, 
+                    "name": "One State Street Plaza"
+                }, 
+                {
+                    "osm_id": 278053534.0, 
+                    "type": "yes", 
+                    "id": 99333.0, 
+                    "name": "Shrine of Saint Elizabeth Ann Bayley Seton"
+                }, 
+                {
+                    "osm_id": 278053603.0, 
+                    "type": "yes", 
+                    "id": 99382.0, 
+                    "name": "3 New York Plaza"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#mouthlunch #mouthwatering #tacos #nationaltacoday @ Mouth https://t.co/nUwl2X0MgM", 
+                "created_at": "2016-10-07T00:15:57", 
+                "retweet_count": 0, 
+                "id": "784185460230946816", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99523, 
+                    40.69065
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 245132331.0, 
+                    "type": "residential", 
+                    "id": 9681.0, 
+                    "name": "100 Atlantic"
+                }, 
+                {
+                    "osm_id": 278396518.0, 
+                    "type": "yes", 
+                    "id": 101701.0, 
+                    "name": "Ligget Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#eatpizzaordie @luzzosbk #brooklyn @ Luzzo's BK https://t.co/7FmF2Hp930", 
+                "created_at": "2016-10-07T00:13:35", 
+                "retweet_count": 0, 
+                "id": "784184864794931200", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99523, 
+                    40.69065
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 245132331.0, 
+                    "type": "residential", 
+                    "id": 9681.0, 
+                    "name": "100 Atlantic"
+                }, 
+                {
+                    "osm_id": 278396518.0, 
+                    "type": "yes", 
+                    "id": 101701.0, 
+                    "name": "Ligget Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tony @luzzosbk describes his #pizza as a style that can be likened to a hybrid of #neapolitan\u2026 https://t.co/Eyuz0mNBg5", 
+                "created_at": "2016-10-07T00:07:31", 
+                "retweet_count": 0, 
+                "id": "784183338592591872", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#nyc @ East Village, Manhattan https://t.co/p9wEOQ4sDB", 
+                "created_at": "2016-10-06T23:46:13", 
+                "retweet_count": 0, 
+                "id": "784177977617768448", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9871368, 
+                    40.7027817
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 274483198.0, 
+                    "type": "yes", 
+                    "id": 98498.0, 
+                    "name": "17 State Street"
+                }, 
+                {
+                    "osm_id": 278053486.0, 
+                    "type": "yes", 
+                    "id": 99308.0, 
+                    "name": "Four New York Plaza"
+                }, 
+                {
+                    "osm_id": 278053533.0, 
+                    "type": "yes", 
+                    "id": 99332.0, 
+                    "name": "One State Street Plaza"
+                }, 
+                {
+                    "osm_id": 278053534.0, 
+                    "type": "yes", 
+                    "id": 99333.0, 
+                    "name": "Shrine of Saint Elizabeth Ann Bayley Seton"
+                }, 
+                {
+                    "osm_id": 278053603.0, 
+                    "type": "yes", 
+                    "id": 99382.0, 
+                    "name": "3 New York Plaza"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This Naturally fermented #sriracha #chilisauce from Kitchen Garden is a thinner, less sweet\u2026 https://t.co/IQxJigel8T", 
+                "created_at": "2016-10-06T20:40:51", 
+                "retweet_count": 0, 
+                "id": "784131328333717504", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9871368, 
+                    40.7027817
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 274483198.0, 
+                    "type": "yes", 
+                    "id": 98498.0, 
+                    "name": "17 State Street"
+                }, 
+                {
+                    "osm_id": 278053486.0, 
+                    "type": "yes", 
+                    "id": 99308.0, 
+                    "name": "Four New York Plaza"
+                }, 
+                {
+                    "osm_id": 278053533.0, 
+                    "type": "yes", 
+                    "id": 99332.0, 
+                    "name": "One State Street Plaza"
+                }, 
+                {
+                    "osm_id": 278053534.0, 
+                    "type": "yes", 
+                    "id": 99333.0, 
+                    "name": "Shrine of Saint Elizabeth Ann Bayley Seton"
+                }, 
+                {
+                    "osm_id": 278053603.0, 
+                    "type": "yes", 
+                    "id": 99382.0, 
+                    "name": "3 New York Plaza"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A warehouse of #mouthwatering #indie delights @mouthfoods #dumbo #brooklyn @ Mouth https://t.co/c1SvkkfxVG", 
+                "created_at": "2016-10-06T20:34:28", 
+                "retweet_count": 0, 
+                "id": "784129722032742402", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9871368, 
+                    40.7027817
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 274483198.0, 
+                    "type": "yes", 
+                    "id": 98498.0, 
+                    "name": "17 State Street"
+                }, 
+                {
+                    "osm_id": 278053486.0, 
+                    "type": "yes", 
+                    "id": 99308.0, 
+                    "name": "Four New York Plaza"
+                }, 
+                {
+                    "osm_id": 278053533.0, 
+                    "type": "yes", 
+                    "id": 99332.0, 
+                    "name": "One State Street Plaza"
+                }, 
+                {
+                    "osm_id": 278053534.0, 
+                    "type": "yes", 
+                    "id": 99333.0, 
+                    "name": "Shrine of Saint Elizabeth Ann Bayley Seton"
+                }, 
+                {
+                    "osm_id": 278053603.0, 
+                    "type": "yes", 
+                    "id": 99382.0, 
+                    "name": "3 New York Plaza"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If #kerfluffle isn't #mouthwatering I don't know what is. This stuff is crazy good. If you like\u2026 https://t.co/XIvFYIOz0m", 
+                "created_at": "2016-10-06T20:31:29", 
+                "retweet_count": 0, 
+                "id": "784128970308591616", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9871368, 
+                    40.7027817
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 274483198.0, 
+                    "type": "yes", 
+                    "id": 98498.0, 
+                    "name": "17 State Street"
+                }, 
+                {
+                    "osm_id": 278053486.0, 
+                    "type": "yes", 
+                    "id": 99308.0, 
+                    "name": "Four New York Plaza"
+                }, 
+                {
+                    "osm_id": 278053533.0, 
+                    "type": "yes", 
+                    "id": 99332.0, 
+                    "name": "One State Street Plaza"
+                }, 
+                {
+                    "osm_id": 278053534.0, 
+                    "type": "yes", 
+                    "id": 99333.0, 
+                    "name": "Shrine of Saint Elizabeth Ann Bayley Seton"
+                }, 
+                {
+                    "osm_id": 278053603.0, 
+                    "type": "yes", 
+                    "id": 99382.0, 
+                    "name": "3 New York Plaza"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Uh oh.... this is becoming a weekly occurrence. PB addiction. Time to restock on @mouthfoods\u2026 https://t.co/RfQFVVMbPd", 
+                "created_at": "2016-10-06T20:09:36", 
+                "retweet_count": 1, 
+                "id": "784123461849473025", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97645274, 
+                    40.7213906
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248771052.0, 
+                    "type": "yes", 
+                    "id": 28427.0, 
+                    "name": "Harney&Sons soho"
+                }, 
+                {
+                    "osm_id": 249664385.0, 
+                    "type": "yes", 
+                    "id": 35376.0, 
+                    "name": "The Drawing Center"
+                }, 
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 259782465.0, 
+                    "type": "yes", 
+                    "id": 83588.0, 
+                    "name": "Portofino Apartments"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#homemade Cape Malay Lamb #Curry with roasted #sunchokes #healthy #healthyfood #healthyliving @\u2026 https://t.co/BpnDTImOGV", 
+                "created_at": "2016-10-06T01:55:30", 
+                "retweet_count": 0, 
+                "id": "783848123013668864", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97645274, 
+                    40.7213906
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248771052.0, 
+                    "type": "yes", 
+                    "id": 28427.0, 
+                    "name": "Harney&Sons soho"
+                }, 
+                {
+                    "osm_id": 249664385.0, 
+                    "type": "yes", 
+                    "id": 35376.0, 
+                    "name": "The Drawing Center"
+                }, 
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 259782465.0, 
+                    "type": "yes", 
+                    "id": 83588.0, 
+                    "name": "Portofino Apartments"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Homemade #Vietnamese C\u00e0 Ri Prawn #Curry with giant Nigerian #prawn \ud83c\udf64\ud83c\udf36 @ Da Lower Eastside https://t.co/fC2EmoAk2F", 
+                "created_at": "2016-10-06T01:50:44", 
+                "retweet_count": 0, 
+                "id": "783846925820887040", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.981468, 
+                    40.725067
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3340429.0, 
+                    "type": "yes", 
+                    "id": 47.0, 
+                    "name": "Gina Keatley, CDN"
+                }, 
+                {
+                    "osm_id": 27110661.0, 
+                    "type": "yes", 
+                    "id": 553.0, 
+                    "name": "South Garage"
+                }, 
+                {
+                    "osm_id": 27111278.0, 
+                    "type": "yes", 
+                    "id": 564.0, 
+                    "name": "Westin"
+                }, 
+                {
+                    "osm_id": 247841436.0, 
+                    "type": "church", 
+                    "id": 10627.0, 
+                    "name": "Church of the Nativity"
+                }, 
+                {
+                    "osm_id": 297163345.0, 
+                    "type": "yes", 
+                    "id": 125795.0, 
+                    "name": "National Guard Armory"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pshhh, yeah I WISH there was a subway station on the corner of #avenueb and E7th #movieset\u2026 https://t.co/CqMCjEhAKG", 
+                "created_at": "2016-10-06T01:43:53", 
+                "retweet_count": 0, 
+                "id": "783845200166789120", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98528, 
+                    40.72793
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3340371.0, 
+                    "type": "yes", 
+                    "id": 38.0, 
+                    "name": "Merchants Building"
+                }, 
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 241822234.0, 
+                    "type": "yes", 
+                    "id": 1901.0, 
+                    "name": "Xi'an Famous Foods"
+                }, 
+                {
+                    "osm_id": 247842941.0, 
+                    "type": "dormitory", 
+                    "id": 10747.0, 
+                    "name": "Mercer Street Residence Hall"
+                }, 
+                {
+                    "osm_id": 249664942.0, 
+                    "type": "yes", 
+                    "id": 35518.0, 
+                    "name": "Engine 24 / Ladder 5 / Battalion 2"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pan-fried chicken and cashew #dumplings drunkendumpling #eastvillage @ Drunken Dumpling https://t.co/knsnz4OEp9", 
+                "created_at": "2016-10-06T01:39:25", 
+                "retweet_count": 0, 
+                "id": "783844075661201408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98528, 
+                    40.72793
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3340371.0, 
+                    "type": "yes", 
+                    "id": 38.0, 
+                    "name": "Merchants Building"
+                }, 
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 241822234.0, 
+                    "type": "yes", 
+                    "id": 1901.0, 
+                    "name": "Xi'an Famous Foods"
+                }, 
+                {
+                    "osm_id": 247842941.0, 
+                    "type": "dormitory", 
+                    "id": 10747.0, 
+                    "name": "Mercer Street Residence Hall"
+                }, 
+                {
+                    "osm_id": 249664942.0, 
+                    "type": "yes", 
+                    "id": 35518.0, 
+                    "name": "Engine 24 / Ladder 5 / Battalion 2"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Finally able to swing by and get in for pork soup dumplings drunkendumpling. Pretty thin\u2026 https://t.co/loVmFDbec4", 
+                "created_at": "2016-10-06T01:36:07", 
+                "retweet_count": 2, 
+                "id": "783843245453352964", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97645274, 
+                    40.7213906
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248771052.0, 
+                    "type": "yes", 
+                    "id": 28427.0, 
+                    "name": "Harney&Sons soho"
+                }, 
+                {
+                    "osm_id": 249664385.0, 
+                    "type": "yes", 
+                    "id": 35376.0, 
+                    "name": "The Drawing Center"
+                }, 
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 259782465.0, 
+                    "type": "yes", 
+                    "id": 83588.0, 
+                    "name": "Portofino Apartments"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Belon #oysters (Maine flats) @ Da Lower Eastside https://t.co/hInWTI1uHt", 
+                "created_at": "2016-10-02T23:40:08", 
+                "retweet_count": 0, 
+                "id": "782726892847788032", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97645274, 
+                    40.7213906
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248771052.0, 
+                    "type": "yes", 
+                    "id": 28427.0, 
+                    "name": "Harney&Sons soho"
+                }, 
+                {
+                    "osm_id": 249664385.0, 
+                    "type": "yes", 
+                    "id": 35376.0, 
+                    "name": "The Drawing Center"
+                }, 
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 259782465.0, 
+                    "type": "yes", 
+                    "id": 83588.0, 
+                    "name": "Portofino Apartments"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Homemade beef wat #easy #curry @ Da Lower Eastside https://t.co/CZ9I40TuzA", 
+                "created_at": "2016-10-02T23:37:22", 
+                "retweet_count": 0, 
+                "id": "782726195750244352", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97645274, 
+                    40.7213906
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248771052.0, 
+                    "type": "yes", 
+                    "id": 28427.0, 
+                    "name": "Harney&Sons soho"
+                }, 
+                {
+                    "osm_id": 249664385.0, 
+                    "type": "yes", 
+                    "id": 35376.0, 
+                    "name": "The Drawing Center"
+                }, 
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 259782465.0, 
+                    "type": "yes", 
+                    "id": 83588.0, 
+                    "name": "Portofino Apartments"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Homemade Japanese #beefcurry #easy #curry @ Da Lower Eastside https://t.co/zRYyvLNEtt", 
+                "created_at": "2016-10-02T23:34:58", 
+                "retweet_count": 0, 
+                "id": "782725591913099264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97645274, 
+                    40.7213906
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248771052.0, 
+                    "type": "yes", 
+                    "id": 28427.0, 
+                    "name": "Harney&Sons soho"
+                }, 
+                {
+                    "osm_id": 249664385.0, 
+                    "type": "yes", 
+                    "id": 35376.0, 
+                    "name": "The Drawing Center"
+                }, 
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 259782465.0, 
+                    "type": "yes", 
+                    "id": 83588.0, 
+                    "name": "Portofino Apartments"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Homemade #shrimp #penangcurry #easy #curry @ Da Lower Eastside https://t.co/uFB2A2Bsf9", 
+                "created_at": "2016-10-02T23:30:48", 
+                "retweet_count": 0, 
+                "id": "782724546021449728", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9643402, 
+                    40.7568703
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3573490.0, 
+                    "type": "yes", 
+                    "id": 392.0, 
+                    "name": "St. Bartholomew's"
+                }, 
+                {
+                    "osm_id": 58821294.0, 
+                    "type": "yes", 
+                    "id": 610.0, 
+                    "name": "15X Tollgate"
+                }, 
+                {
+                    "osm_id": 85393997.0, 
+                    "type": "yes", 
+                    "id": 636.0, 
+                    "name": "Waldorf-Astoria Hotel"
+                }, 
+                {
+                    "osm_id": 108160358.0, 
+                    "type": "yes", 
+                    "id": 662.0, 
+                    "name": "Port Authority Bus Terminal"
+                }, 
+                {
+                    "osm_id": 137885993.0, 
+                    "type": "commercial", 
+                    "id": 695.0, 
+                    "name": "General Electric Building"
+                }, 
+                {
+                    "osm_id": 163629929.0, 
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway"
+                }, 
+                {
+                    "osm_id": 163631696.0, 
+                    "type": "office", 
+                    "id": 858.0, 
+                    "name": "1155 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 165439147.0, 
+                    "type": "yes", 
+                    "id": 869.0, 
+                    "name": "World Diamond Tower"
+                }, 
+                {
+                    "osm_id": 258646144.0, 
+                    "type": "yes", 
+                    "id": 83557.0, 
+                    "name": "U.S. Armed Forces Recruiting Station"
+                }, 
+                {
+                    "osm_id": 265282692.0, 
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street"
+                }, 
+                {
+                    "osm_id": 265447070.0, 
+                    "type": "apartments", 
+                    "id": 91436.0, 
+                    "name": "Connaught Tower"
+                }, 
+                {
+                    "osm_id": 265483582.0, 
+                    "type": "apartments", 
+                    "id": 91753.0, 
+                    "name": "The Veneto"
+                }, 
+                {
+                    "osm_id": 265884678.0, 
+                    "type": "yes", 
+                    "id": 92802.0, 
+                    "name": "Doubletree Metropolitan Hotel"
+                }, 
+                {
+                    "osm_id": 265943129.0, 
+                    "type": "yes", 
+                    "id": 92847.0, 
+                    "name": "850 Third Avenue"
+                }, 
+                {
+                    "osm_id": 265943142.0, 
+                    "type": "yes", 
+                    "id": 92850.0, 
+                    "name": "Grolier Building"
+                }, 
+                {
+                    "osm_id": 265947377.0, 
+                    "type": "yes", 
+                    "id": 92869.0, 
+                    "name": "Terence Cardinal Cooke - Cathedral Library"
+                }, 
+                {
+                    "osm_id": 266010426.0, 
+                    "type": "commercial", 
+                    "id": 92987.0, 
+                    "name": "Colgate-Palmolive Building"
+                }, 
+                {
+                    "osm_id": 266034050.0, 
+                    "type": "yes", 
+                    "id": 93108.0, 
+                    "name": "Foxwoods Theatre"
+                }, 
+                {
+                    "osm_id": 266034046.0, 
+                    "type": "yes", 
+                    "id": 93116.0, 
+                    "name": "New 42nd Street Studios"
+                }, 
+                {
+                    "osm_id": 266034080.0, 
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square"
+                }, 
+                {
+                    "osm_id": 266143341.0, 
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square"
+                }, 
+                {
+                    "osm_id": 266149373.0, 
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway"
+                }, 
+                {
+                    "osm_id": 266170751.0, 
+                    "type": "theatre", 
+                    "id": 93510.0, 
+                    "name": "Hudson Theatre"
+                }, 
+                {
+                    "osm_id": 266170852.0, 
+                    "type": "commercial", 
+                    "id": 93578.0, 
+                    "name": "1166 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 266170766.0, 
+                    "type": "office", 
+                    "id": 93589.0, 
+                    "name": "Tower 45"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last #heirloomtomatoes #grandmapizza of the year @SofiaPizzaShop. Thanks for saving me a #slice,\u2026 https://t.co/3uIeTcUB7P", 
+                "created_at": "2016-10-02T23:26:03", 
+                "retweet_count": 0, 
+                "id": "782723351378792448", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97645274, 
+                    40.7213906
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248771052.0, 
+                    "type": "yes", 
+                    "id": 28427.0, 
+                    "name": "Harney&Sons soho"
+                }, 
+                {
+                    "osm_id": 249664385.0, 
+                    "type": "yes", 
+                    "id": 35376.0, 
+                    "name": "The Drawing Center"
+                }, 
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 259782465.0, 
+                    "type": "yes", 
+                    "id": 83588.0, 
+                    "name": "Portofino Apartments"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Homemade #chanamasala #easy #curry @ Da Lower Eastside https://t.co/Y7ai5UU8dB", 
+                "created_at": "2016-10-02T23:21:44", 
+                "retweet_count": 0, 
+                "id": "782722261392433153", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97645274, 
+                    40.7213906
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248771052.0, 
+                    "type": "yes", 
+                    "id": 28427.0, 
+                    "name": "Harney&Sons soho"
+                }, 
+                {
+                    "osm_id": 249664385.0, 
+                    "type": "yes", 
+                    "id": 35376.0, 
+                    "name": "The Drawing Center"
+                }, 
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 259782465.0, 
+                    "type": "yes", 
+                    "id": 83588.0, 
+                    "name": "Portofino Apartments"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Homemade #jungleboogie... er #junglecurry with pork loin @ Da Lower Eastside https://t.co/PiFG1zxS2D", 
+                "created_at": "2016-10-02T23:20:01", 
+                "retweet_count": 0, 
+                "id": "782721830234849280", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97645274, 
+                    40.7213906
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248771052.0, 
+                    "type": "yes", 
+                    "id": 28427.0, 
+                    "name": "Harney&Sons soho"
+                }, 
+                {
+                    "osm_id": 249664385.0, 
+                    "type": "yes", 
+                    "id": 35376.0, 
+                    "name": "The Drawing Center"
+                }, 
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 259782465.0, 
+                    "type": "yes", 
+                    "id": 83588.0, 
+                    "name": "Portofino Apartments"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A little home cooking: #chickentikkamasala #chickentikka @ Da Lower Eastside https://t.co/wqk0PIpigl", 
+                "created_at": "2016-10-02T23:16:13", 
+                "retweet_count": 0, 
+                "id": "782720876777267200", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0061, 
+                    40.7425
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974144.0, 
+                    "type": "yes", 
+                    "id": 545.0, 
+                    "name": "Edwin A. Stevens Hall and DeBaun Auditorium"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 182954082.0, 
+                    "type": "yes", 
+                    "id": 907.0, 
+                    "name": "Babbio Center"
+                }, 
+                {
+                    "osm_id": 182954150.0, 
+                    "type": "yes", 
+                    "id": 913.0, 
+                    "name": "Griffith Building"
+                }, 
+                {
+                    "osm_id": 258220220.0, 
+                    "type": "yes", 
+                    "id": 83553.0, 
+                    "name": "Stop & Shop"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Clams at the new losmariscos1 in Chelsea Market. Super citrusy @ Chelsea Market https://t.co/QAMzvo2yHD", 
+                "created_at": "2016-10-02T17:51:15", 
+                "retweet_count": 0, 
+                "id": "782639096325869568", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0061, 
+                    40.7425
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974144.0, 
+                    "type": "yes", 
+                    "id": 545.0, 
+                    "name": "Edwin A. Stevens Hall and DeBaun Auditorium"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 182954082.0, 
+                    "type": "yes", 
+                    "id": 907.0, 
+                    "name": "Babbio Center"
+                }, 
+                {
+                    "osm_id": 182954150.0, 
+                    "type": "yes", 
+                    "id": 913.0, 
+                    "name": "Griffith Building"
+                }, 
+                {
+                    "osm_id": 258220220.0, 
+                    "type": "yes", 
+                    "id": 83553.0, 
+                    "name": "Stop & Shop"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fish and enchilado #tacos losmariscos1. Tasty stuff \ud83c\udf2e\ud83c\udf64\ud83c\udf2e\ud83d\udc1f @ Chelsea Market https://t.co/BTpy1ZCgQU", 
+                "created_at": "2016-10-02T17:43:47", 
+                "retweet_count": 0, 
+                "id": "782637215188938752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92645, 
+                    40.82954
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We may be out of it, but that doesn't mean nothing to play for: #spoiler #sorrynotsorry @orioles\u2026 https://t.co/x7pmmaXmrM", 
+                "created_at": "2016-10-01T23:20:37", 
+                "retweet_count": 0, 
+                "id": "782359592470716416", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99405993, 
+                    40.70330567
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695755.0, 
+                    "type": "yes", 
+                    "id": 468.0, 
+                    "name": "Castle Clinton"
+                }, 
+                {
+                    "osm_id": 278053473.0, 
+                    "type": "office", 
+                    "id": 99276.0, 
+                    "name": "Broad Financial Center"
+                }, 
+                {
+                    "osm_id": 278053532.0, 
+                    "type": "office", 
+                    "id": 99327.0, 
+                    "name": "One Battery Park Plaza"
+                }, 
+                {
+                    "osm_id": 278076368.0, 
+                    "type": "yes", 
+                    "id": 99438.0, 
+                    "name": "NYPD Museum"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Crumbled fennel sausage on \"The Pizza\" at Ignazio's, a pizzeria I'd considered a mystery because\u2026 https://t.co/b1caLDJzKI", 
+                "created_at": "2016-10-01T16:49:44", 
+                "retweet_count": 0, 
+                "id": "782261225010978817", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99405993, 
+                    40.70330567
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695755.0, 
+                    "type": "yes", 
+                    "id": 468.0, 
+                    "name": "Castle Clinton"
+                }, 
+                {
+                    "osm_id": 278053473.0, 
+                    "type": "office", 
+                    "id": 99276.0, 
+                    "name": "Broad Financial Center"
+                }, 
+                {
+                    "osm_id": 278053532.0, 
+                    "type": "office", 
+                    "id": 99327.0, 
+                    "name": "One Battery Park Plaza"
+                }, 
+                {
+                    "osm_id": 278076368.0, 
+                    "type": "yes", 
+                    "id": 99438.0, 
+                    "name": "NYPD Museum"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "You like bacon and avocado together, you like tomato and avocado together, you like tomato and\u2026 https://t.co/WEy2s7yrEf", 
+                "created_at": "2016-09-30T22:45:21", 
+                "retweet_count": 0, 
+                "id": "781988331517345792", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.978595, 
+                    40.72606
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247839731.0, 
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247850429.0, 
+                    "type": "yes", 
+                    "id": 11024.0, 
+                    "name": "Bapple Real Estate"
+                }, 
+                {
+                    "osm_id": 250265127.0, 
+                    "type": "yes", 
+                    "id": 56720.0, 
+                    "name": "Trinity Lower East Side"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pumpkins aren't sad. Fall tomatoes... Are sad. @ Alphabet City, Manhattan https://t.co/7WEaZ0NJBC", 
+                "created_at": "2016-09-30T01:58:12", 
+                "retweet_count": 0, 
+                "id": "781674475196678144", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.978595, 
+                    40.72606
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247839731.0, 
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247850429.0, 
+                    "type": "yes", 
+                    "id": 11024.0, 
+                    "name": "Bapple Real Estate"
+                }, 
+                {
+                    "osm_id": 250265127.0, 
+                    "type": "yes", 
+                    "id": 56720.0, 
+                    "name": "Trinity Lower East Side"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ever used fresh turmeric? (I know, you keep forgetting if there's that \"extra\" 'r' in there...\u2026 https://t.co/n5EDklWQxO", 
+                "created_at": "2016-09-29T02:40:03", 
+                "retweet_count": 0, 
+                "id": "781322621480730624", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99220193, 
+                    40.72734277
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 27111276.0, 
+                    "type": "yes", 
+                    "id": 563.0, 
+                    "name": "Marriott Courtyard"
+                }, 
+                {
+                    "osm_id": 249663231.0, 
+                    "type": "church", 
+                    "id": 35116.0, 
+                    "name": "St. Anthony of Padua Church"
+                }, 
+                {
+                    "osm_id": 249665002.0, 
+                    "type": "yes", 
+                    "id": 35583.0, 
+                    "name": "Georgian Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#sidewalksigns are one of the best things about running in the #eastvillage #nyc @ Swift\u2026 https://t.co/Xlo9ifNBLM", 
+                "created_at": "2016-09-28T15:09:33", 
+                "retweet_count": 0, 
+                "id": "781148847745687552", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98610833, 
+                    40.73070388
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3343762.0, 
+                    "type": "yes", 
+                    "id": 80.0, 
+                    "name": "Vanderbilt Law School New York University"
+                }, 
+                {
+                    "osm_id": -3357433.0, 
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church"
+                }, 
+                {
+                    "osm_id": 247842673.0, 
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza"
+                }, 
+                {
+                    "osm_id": 247852537.0, 
+                    "type": "yes", 
+                    "id": 11264.0, 
+                    "name": "Radisson Martinique Hotel"
+                }, 
+                {
+                    "osm_id": 247855548.0, 
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex"
+                }, 
+                {
+                    "osm_id": 317716546.0, 
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church"
+                }, 
+                {
+                    "osm_id": 317884685.0, 
+                    "type": "yes", 
+                    "id": 126125.0, 
+                    "name": "Hudson County Community College - Building A"
+                }, 
+                {
+                    "osm_id": 317884689.0, 
+                    "type": "yes", 
+                    "id": 126130.0, 
+                    "name": "Hudson County Community College - Building E"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fried #pork #dumplings @mimichengs. Thin, crispy wrapper, juicy fresh filling. Mmm @ Mimi\u2026 https://t.co/QcHLP30scQ", 
+                "created_at": "2016-09-28T15:06:13", 
+                "retweet_count": 0, 
+                "id": "781148009912467456", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9643402, 
+                    40.7568703
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3573490.0, 
+                    "type": "yes", 
+                    "id": 392.0, 
+                    "name": "St. Bartholomew's"
+                }, 
+                {
+                    "osm_id": 58821294.0, 
+                    "type": "yes", 
+                    "id": 610.0, 
+                    "name": "15X Tollgate"
+                }, 
+                {
+                    "osm_id": 85393997.0, 
+                    "type": "yes", 
+                    "id": 636.0, 
+                    "name": "Waldorf-Astoria Hotel"
+                }, 
+                {
+                    "osm_id": 108160358.0, 
+                    "type": "yes", 
+                    "id": 662.0, 
+                    "name": "Port Authority Bus Terminal"
+                }, 
+                {
+                    "osm_id": 137885993.0, 
+                    "type": "commercial", 
+                    "id": 695.0, 
+                    "name": "General Electric Building"
+                }, 
+                {
+                    "osm_id": 163629929.0, 
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway"
+                }, 
+                {
+                    "osm_id": 163631696.0, 
+                    "type": "office", 
+                    "id": 858.0, 
+                    "name": "1155 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 165439147.0, 
+                    "type": "yes", 
+                    "id": 869.0, 
+                    "name": "World Diamond Tower"
+                }, 
+                {
+                    "osm_id": 258646144.0, 
+                    "type": "yes", 
+                    "id": 83557.0, 
+                    "name": "U.S. Armed Forces Recruiting Station"
+                }, 
+                {
+                    "osm_id": 265282692.0, 
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street"
+                }, 
+                {
+                    "osm_id": 265447070.0, 
+                    "type": "apartments", 
+                    "id": 91436.0, 
+                    "name": "Connaught Tower"
+                }, 
+                {
+                    "osm_id": 265483582.0, 
+                    "type": "apartments", 
+                    "id": 91753.0, 
+                    "name": "The Veneto"
+                }, 
+                {
+                    "osm_id": 265884678.0, 
+                    "type": "yes", 
+                    "id": 92802.0, 
+                    "name": "Doubletree Metropolitan Hotel"
+                }, 
+                {
+                    "osm_id": 265943129.0, 
+                    "type": "yes", 
+                    "id": 92847.0, 
+                    "name": "850 Third Avenue"
+                }, 
+                {
+                    "osm_id": 265943142.0, 
+                    "type": "yes", 
+                    "id": 92850.0, 
+                    "name": "Grolier Building"
+                }, 
+                {
+                    "osm_id": 265947377.0, 
+                    "type": "yes", 
+                    "id": 92869.0, 
+                    "name": "Terence Cardinal Cooke - Cathedral Library"
+                }, 
+                {
+                    "osm_id": 266010426.0, 
+                    "type": "commercial", 
+                    "id": 92987.0, 
+                    "name": "Colgate-Palmolive Building"
+                }, 
+                {
+                    "osm_id": 266034050.0, 
+                    "type": "yes", 
+                    "id": 93108.0, 
+                    "name": "Foxwoods Theatre"
+                }, 
+                {
+                    "osm_id": 266034046.0, 
+                    "type": "yes", 
+                    "id": 93116.0, 
+                    "name": "New 42nd Street Studios"
+                }, 
+                {
+                    "osm_id": 266034080.0, 
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square"
+                }, 
+                {
+                    "osm_id": 266143341.0, 
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square"
+                }, 
+                {
+                    "osm_id": 266149373.0, 
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway"
+                }, 
+                {
+                    "osm_id": 266170751.0, 
+                    "type": "theatre", 
+                    "id": 93510.0, 
+                    "name": "Hudson Theatre"
+                }, 
+                {
+                    "osm_id": 266170852.0, 
+                    "type": "commercial", 
+                    "id": 93578.0, 
+                    "name": "1166 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 266170766.0, 
+                    "type": "office", 
+                    "id": 93589.0, 
+                    "name": "Tower 45"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Grandma slice @SofiaPizzaShop. I missed the heirloom grandma #pizza this time apparently @ Sofia\u2026 https://t.co/rdy8KFwjN0", 
+                "created_at": "2016-09-28T00:55:59", 
+                "retweet_count": 0, 
+                "id": "780934044502650880", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9643402, 
+                    40.7568703
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3573490.0, 
+                    "type": "yes", 
+                    "id": 392.0, 
+                    "name": "St. Bartholomew's"
+                }, 
+                {
+                    "osm_id": 58821294.0, 
+                    "type": "yes", 
+                    "id": 610.0, 
+                    "name": "15X Tollgate"
+                }, 
+                {
+                    "osm_id": 85393997.0, 
+                    "type": "yes", 
+                    "id": 636.0, 
+                    "name": "Waldorf-Astoria Hotel"
+                }, 
+                {
+                    "osm_id": 108160358.0, 
+                    "type": "yes", 
+                    "id": 662.0, 
+                    "name": "Port Authority Bus Terminal"
+                }, 
+                {
+                    "osm_id": 137885993.0, 
+                    "type": "commercial", 
+                    "id": 695.0, 
+                    "name": "General Electric Building"
+                }, 
+                {
+                    "osm_id": 163629929.0, 
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway"
+                }, 
+                {
+                    "osm_id": 163631696.0, 
+                    "type": "office", 
+                    "id": 858.0, 
+                    "name": "1155 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 165439147.0, 
+                    "type": "yes", 
+                    "id": 869.0, 
+                    "name": "World Diamond Tower"
+                }, 
+                {
+                    "osm_id": 258646144.0, 
+                    "type": "yes", 
+                    "id": 83557.0, 
+                    "name": "U.S. Armed Forces Recruiting Station"
+                }, 
+                {
+                    "osm_id": 265282692.0, 
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street"
+                }, 
+                {
+                    "osm_id": 265447070.0, 
+                    "type": "apartments", 
+                    "id": 91436.0, 
+                    "name": "Connaught Tower"
+                }, 
+                {
+                    "osm_id": 265483582.0, 
+                    "type": "apartments", 
+                    "id": 91753.0, 
+                    "name": "The Veneto"
+                }, 
+                {
+                    "osm_id": 265884678.0, 
+                    "type": "yes", 
+                    "id": 92802.0, 
+                    "name": "Doubletree Metropolitan Hotel"
+                }, 
+                {
+                    "osm_id": 265943129.0, 
+                    "type": "yes", 
+                    "id": 92847.0, 
+                    "name": "850 Third Avenue"
+                }, 
+                {
+                    "osm_id": 265943142.0, 
+                    "type": "yes", 
+                    "id": 92850.0, 
+                    "name": "Grolier Building"
+                }, 
+                {
+                    "osm_id": 265947377.0, 
+                    "type": "yes", 
+                    "id": 92869.0, 
+                    "name": "Terence Cardinal Cooke - Cathedral Library"
+                }, 
+                {
+                    "osm_id": 266010426.0, 
+                    "type": "commercial", 
+                    "id": 92987.0, 
+                    "name": "Colgate-Palmolive Building"
+                }, 
+                {
+                    "osm_id": 266034050.0, 
+                    "type": "yes", 
+                    "id": 93108.0, 
+                    "name": "Foxwoods Theatre"
+                }, 
+                {
+                    "osm_id": 266034046.0, 
+                    "type": "yes", 
+                    "id": 93116.0, 
+                    "name": "New 42nd Street Studios"
+                }, 
+                {
+                    "osm_id": 266034080.0, 
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square"
+                }, 
+                {
+                    "osm_id": 266143341.0, 
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square"
+                }, 
+                {
+                    "osm_id": 266149373.0, 
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway"
+                }, 
+                {
+                    "osm_id": 266170751.0, 
+                    "type": "theatre", 
+                    "id": 93510.0, 
+                    "name": "Hudson Theatre"
+                }, 
+                {
+                    "osm_id": 266170852.0, 
+                    "type": "commercial", 
+                    "id": 93578.0, 
+                    "name": "1166 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 266170766.0, 
+                    "type": "office", 
+                    "id": 93589.0, 
+                    "name": "Tower 45"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Spinach Dip #slice @SofiaPizzaShop:  \"A creamy spinach &amp; artichoke blend on our signature\u2026 https://t.co/cgVePHNnjc", 
+                "created_at": "2016-09-28T00:50:18", 
+                "retweet_count": 0, 
+                "id": "780932610507870209", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9643402, 
+                    40.7568703
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3573490.0, 
+                    "type": "yes", 
+                    "id": 392.0, 
+                    "name": "St. Bartholomew's"
+                }, 
+                {
+                    "osm_id": 58821294.0, 
+                    "type": "yes", 
+                    "id": 610.0, 
+                    "name": "15X Tollgate"
+                }, 
+                {
+                    "osm_id": 85393997.0, 
+                    "type": "yes", 
+                    "id": 636.0, 
+                    "name": "Waldorf-Astoria Hotel"
+                }, 
+                {
+                    "osm_id": 108160358.0, 
+                    "type": "yes", 
+                    "id": 662.0, 
+                    "name": "Port Authority Bus Terminal"
+                }, 
+                {
+                    "osm_id": 137885993.0, 
+                    "type": "commercial", 
+                    "id": 695.0, 
+                    "name": "General Electric Building"
+                }, 
+                {
+                    "osm_id": 163629929.0, 
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway"
+                }, 
+                {
+                    "osm_id": 163631696.0, 
+                    "type": "office", 
+                    "id": 858.0, 
+                    "name": "1155 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 165439147.0, 
+                    "type": "yes", 
+                    "id": 869.0, 
+                    "name": "World Diamond Tower"
+                }, 
+                {
+                    "osm_id": 258646144.0, 
+                    "type": "yes", 
+                    "id": 83557.0, 
+                    "name": "U.S. Armed Forces Recruiting Station"
+                }, 
+                {
+                    "osm_id": 265282692.0, 
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street"
+                }, 
+                {
+                    "osm_id": 265447070.0, 
+                    "type": "apartments", 
+                    "id": 91436.0, 
+                    "name": "Connaught Tower"
+                }, 
+                {
+                    "osm_id": 265483582.0, 
+                    "type": "apartments", 
+                    "id": 91753.0, 
+                    "name": "The Veneto"
+                }, 
+                {
+                    "osm_id": 265884678.0, 
+                    "type": "yes", 
+                    "id": 92802.0, 
+                    "name": "Doubletree Metropolitan Hotel"
+                }, 
+                {
+                    "osm_id": 265943129.0, 
+                    "type": "yes", 
+                    "id": 92847.0, 
+                    "name": "850 Third Avenue"
+                }, 
+                {
+                    "osm_id": 265943142.0, 
+                    "type": "yes", 
+                    "id": 92850.0, 
+                    "name": "Grolier Building"
+                }, 
+                {
+                    "osm_id": 265947377.0, 
+                    "type": "yes", 
+                    "id": 92869.0, 
+                    "name": "Terence Cardinal Cooke - Cathedral Library"
+                }, 
+                {
+                    "osm_id": 266010426.0, 
+                    "type": "commercial", 
+                    "id": 92987.0, 
+                    "name": "Colgate-Palmolive Building"
+                }, 
+                {
+                    "osm_id": 266034050.0, 
+                    "type": "yes", 
+                    "id": 93108.0, 
+                    "name": "Foxwoods Theatre"
+                }, 
+                {
+                    "osm_id": 266034046.0, 
+                    "type": "yes", 
+                    "id": 93116.0, 
+                    "name": "New 42nd Street Studios"
+                }, 
+                {
+                    "osm_id": 266034080.0, 
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square"
+                }, 
+                {
+                    "osm_id": 266143341.0, 
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square"
+                }, 
+                {
+                    "osm_id": 266149373.0, 
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway"
+                }, 
+                {
+                    "osm_id": 266170751.0, 
+                    "type": "theatre", 
+                    "id": 93510.0, 
+                    "name": "Hudson Theatre"
+                }, 
+                {
+                    "osm_id": 266170852.0, 
+                    "type": "commercial", 
+                    "id": 93578.0, 
+                    "name": "1166 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 266170766.0, 
+                    "type": "office", 
+                    "id": 93589.0, 
+                    "name": "Tower 45"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "You always have to establish a baseline. A saucy #pizza slice at the relatively new slice joint\u2026 https://t.co/lct1lqfJZl", 
+                "created_at": "2016-09-27T23:50:24", 
+                "retweet_count": 0, 
+                "id": "780917538855251968", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9792275, 
+                    40.7277782
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 27111276.0, 
+                    "type": "yes", 
+                    "id": 563.0, 
+                    "name": "Marriott Courtyard"
+                }, 
+                {
+                    "osm_id": 241833272.0, 
+                    "type": "yes", 
+                    "id": 4667.0, 
+                    "name": "The Ukrainian Museum"
+                }, 
+                {
+                    "osm_id": 247842941.0, 
+                    "type": "dormitory", 
+                    "id": 10747.0, 
+                    "name": "Mercer Street Residence Hall"
+                }, 
+                {
+                    "osm_id": 248142953.0, 
+                    "type": "church", 
+                    "id": 16658.0, 
+                    "name": "St. Nicholas of Myra"
+                }, 
+                {
+                    "osm_id": 249657860.0, 
+                    "type": "yes", 
+                    "id": 34791.0, 
+                    "name": "The Father's Heart Ministry Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I called #debate backup: #pizza @ Gruppo https://t.co/ibsFW9qmB1", 
+                "created_at": "2016-09-27T01:31:01", 
+                "retweet_count": 0, 
+                "id": "780580471063412736", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98827459, 
+                    40.72891719
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 27110669.0, 
+                    "type": "yes", 
+                    "id": 575.0, 
+                    "name": "North Garage"
+                }, 
+                {
+                    "osm_id": 247838632.0, 
+                    "type": "yes", 
+                    "id": 10384.0, 
+                    "name": "Public Theater"
+                }, 
+                {
+                    "osm_id": 247838696.0, 
+                    "type": "yes", 
+                    "id": 10456.0, 
+                    "name": "NYU Health Center"
+                }, 
+                {
+                    "osm_id": 247842672.0, 
+                    "type": "yes", 
+                    "id": 10676.0, 
+                    "name": "Department of Psychology"
+                }, 
+                {
+                    "osm_id": 247842677.0, 
+                    "type": "yes", 
+                    "id": 10678.0, 
+                    "name": "Andre and Bella Meyer Hall of Physics"
+                }, 
+                {
+                    "osm_id": 248166212.0, 
+                    "type": "yes", 
+                    "id": 22252.0, 
+                    "name": "Henry Kaufman Management Center"
+                }, 
+                {
+                    "osm_id": 248166267.0, 
+                    "type": "yes", 
+                    "id": 22350.0, 
+                    "name": "Tisch Hall"
+                }, 
+                {
+                    "osm_id": 248166268.0, 
+                    "type": "university", 
+                    "id": 22409.0, 
+                    "name": "Warren Weaver Hall"
+                }, 
+                {
+                    "osm_id": 249665019.0, 
+                    "type": "yes", 
+                    "id": 35601.0, 
+                    "name": "Hudson Carpenter's Union"
+                }, 
+                {
+                    "osm_id": 317884690.0, 
+                    "type": "yes", 
+                    "id": 126129.0, 
+                    "name": "Hudson County Community College - Building F"
+                }, 
+                {
+                    "osm_id": 409652711.0, 
+                    "type": "yes", 
+                    "id": 138839.0, 
+                    "name": "Saint Michael's Church of Saint Jude"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pre-debate sustenance: #sliders @stmarkburgernyc. Named this #nyc's best slider for\u2026 https://t.co/6i7RZXtLZZ", 
+                "created_at": "2016-09-27T00:58:22", 
+                "retweet_count": 0, 
+                "id": "780572255730499584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95791, 
+                    40.64593
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#moz sure knows how to stage dramatic moments @angmoore @ Kings Theatre https://t.co/AxnQKNweVH", 
+                "created_at": "2016-09-26T00:46:43", 
+                "retweet_count": 0, 
+                "id": "780206936168009729", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "All the pizza. I want it. @ New York, New York https://t.co/qYF6BhufuV", 
+                "created_at": "2016-09-25T19:01:29", 
+                "retweet_count": 0, 
+                "id": "780120052368547841", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99650944, 
+                    40.72146749
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248771052.0, 
+                    "type": "yes", 
+                    "id": 28427.0, 
+                    "name": "Harney&Sons soho"
+                }, 
+                {
+                    "osm_id": 249664385.0, 
+                    "type": "yes", 
+                    "id": 35376.0, 
+                    "name": "The Drawing Center"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Street clams #sangennaro #littleitaly #nyc @ San Generro Feast-Little Italy https://t.co/s7lWU6miGg", 
+                "created_at": "2016-09-24T22:59:44", 
+                "retweet_count": 0, 
+                "id": "779817621915045888", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01475917, 
+                    40.71537404
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 259686626.0, 
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I"
+                }, 
+                {
+                    "osm_id": 404322369.0, 
+                    "type": "yes", 
+                    "id": 136248.0, 
+                    "name": "Museum of Russian Art"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Shake Shack Burger, NY https://t.co/CXcfOSSplK", 
+                "created_at": "2016-09-24T03:18:02", 
+                "retweet_count": 0, 
+                "id": "779520239411290112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01475917, 
+                    40.71537404
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 259686626.0, 
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I"
+                }, 
+                {
+                    "osm_id": 404322369.0, 
+                    "type": "yes", 
+                    "id": 136248.0, 
+                    "name": "Museum of Russian Art"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bavarian-Style Soft #Pretzel: Toasted soft pretzel topped with Bavarian spices #oktoberfest\u2026 https://t.co/pBgDs1mhJp", 
+                "created_at": "2016-09-24T03:14:54", 
+                "retweet_count": 0, 
+                "id": "779519450500435968", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99787, 
+                    40.73279
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27111256.0, 
+                    "type": "yes", 
+                    "id": 562.0, 
+                    "name": "Target"
+                }, 
+                {
+                    "osm_id": 248163424.0, 
+                    "type": "yes", 
+                    "id": 20331.0, 
+                    "name": "Tenth Church of Christ Scientist"
+                }, 
+                {
+                    "osm_id": 249666268.0, 
+                    "type": "yes", 
+                    "id": 36105.0, 
+                    "name": "Twin Peaks"
+                }, 
+                {
+                    "osm_id": 249666267.0, 
+                    "type": "school", 
+                    "id": 36106.0, 
+                    "name": "Public School 3"
+                }, 
+                {
+                    "osm_id": 265560949.0, 
+                    "type": "yes", 
+                    "id": 92013.0, 
+                    "name": "A&P"
+                }, 
+                {
+                    "osm_id": 317884695.0, 
+                    "type": "yes", 
+                    "id": 126133.0, 
+                    "name": "Impark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@8thstwinecellar shenanigans \ud83d\ude09\ud83c\udf78\ud83c\udf7a\ud83c\udf77\ud83c\udf7b #westvillage #nyc #sidewalksign @ 8th Street winecellar https://t.co/skBBkEYbIP", 
+                "created_at": "2016-09-23T14:54:35", 
+                "retweet_count": 0, 
+                "id": "779333145661411328", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.84358, 
+                    40.72048
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3697695.0, 
+                    "type": "school", 
+                    "id": 458.0, 
+                    "name": "Lower East Side Preparatory High School"
+                }, 
+                {
+                    "osm_id": 245352063.0, 
+                    "type": "yes", 
+                    "id": 10014.0, 
+                    "name": "Rainbow Shops"
+                }, 
+                {
+                    "osm_id": 245352066.0, 
+                    "type": "yes", 
+                    "id": 10020.0, 
+                    "name": "C.H. Martin"
+                }, 
+                {
+                    "osm_id": 245352085.0, 
+                    "type": "yes", 
+                    "id": 10037.0, 
+                    "name": "LITM"
+                }, 
+                {
+                    "osm_id": 245352089.0, 
+                    "type": "yes", 
+                    "id": 10038.0, 
+                    "name": "Golden Dry Cleaners"
+                }, 
+                {
+                    "osm_id": 245352091.0, 
+                    "type": "yes", 
+                    "id": 10041.0, 
+                    "name": "Orale Mexican Kitchen"
+                }, 
+                {
+                    "osm_id": 245352088.0, 
+                    "type": "retail", 
+                    "id": 10116.0, 
+                    "name": "H&R Block"
+                }, 
+                {
+                    "osm_id": 245352086.0, 
+                    "type": "yes", 
+                    "id": 10145.0, 
+                    "name": "Tender Shoot Farm"
+                }, 
+                {
+                    "osm_id": 247866912.0, 
+                    "type": "church", 
+                    "id": 12126.0, 
+                    "name": "San Lorenzo Ruiz Chapel"
+                }, 
+                {
+                    "osm_id": 247867323.0, 
+                    "type": "yes", 
+                    "id": 12191.0, 
+                    "name": "240 Centre Street"
+                }, 
+                {
+                    "osm_id": 248757338.0, 
+                    "type": "yes", 
+                    "id": 28213.0, 
+                    "name": "University Settlement House"
+                }, 
+                {
+                    "osm_id": 250049353.0, 
+                    "type": "yes", 
+                    "id": 41089.0, 
+                    "name": "388 Greenwich Street"
+                }, 
+                {
+                    "osm_id": 278284288.0, 
+                    "type": "yes", 
+                    "id": 100673.0, 
+                    "name": "LUDLOW GARAGE"
+                }, 
+                {
+                    "osm_id": 279780013.0, 
+                    "type": "apartments", 
+                    "id": 108735.0, 
+                    "name": "The Edge North Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If a slice of pizza could be ripe... This one from Gloria on Queens Blvd in Forest Hills @\u2026 https://t.co/GKDSEUPzvI", 
+                "created_at": "2016-09-23T00:54:19", 
+                "retweet_count": 0, 
+                "id": "779121682241974273", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0061, 
+                    40.7425
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974144.0, 
+                    "type": "yes", 
+                    "id": 545.0, 
+                    "name": "Edwin A. Stevens Hall and DeBaun Auditorium"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 182954082.0, 
+                    "type": "yes", 
+                    "id": 907.0, 
+                    "name": "Babbio Center"
+                }, 
+                {
+                    "osm_id": 182954150.0, 
+                    "type": "yes", 
+                    "id": 913.0, 
+                    "name": "Griffith Building"
+                }, 
+                {
+                    "osm_id": 258220220.0, 
+                    "type": "yes", 
+                    "id": 83553.0, 
+                    "name": "Stop & Shop"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Preview of the @LosTacosNo1 guys' new fish taco spot losmariscos1: seafood tostada. FANTASTIC.\u2026 https://t.co/5Hf0kHnQ9j", 
+                "created_at": "2016-09-22T23:58:34", 
+                "retweet_count": 0, 
+                "id": "779107654589374464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.5942078, 
+                    41.3176613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lunch on the farm @culinaryveginst #rootsempower2016 @farmerleejones #ohio @ Culinary Vegetable\u2026 https://t.co/W1yoqRK3nd", 
+                "created_at": "2016-09-20T17:18:50", 
+                "retweet_count": 2, 
+                "id": "778282280141877248", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.5942078, 
+                    41.3176613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sunchoke flowers @ Culinary Vegetable Institute at The Chef's Garden https://t.co/HDV5hNGir0", 
+                "created_at": "2016-09-20T15:09:23", 
+                "retweet_count": 0, 
+                "id": "778249704928907264", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.5942078, 
+                    41.3176613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "On the farm with @farmerleejones @angmoore torenw @foodnetwork @culinaryveginst\u2026 https://t.co/g4G8M8ZMn4", 
+                "created_at": "2016-09-20T14:48:16", 
+                "retweet_count": 2, 
+                "id": "778244388799537155", 
+                "favorite_count": 9
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.5942078, 
+                    41.3176613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Arugusabi. Just what you think. Pow. Right in the kisser #farmersmarket @culinaryveginst\u2026 https://t.co/tcDtZUZT99", 
+                "created_at": "2016-09-20T14:03:02", 
+                "retweet_count": 0, 
+                "id": "778233007060779008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.5942078, 
+                    41.3176613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"A walk through the garden,\" spent grains, ugly vegetables, dry-cured egg whites\u2026 https://t.co/foeVB3sbcy", 
+                "created_at": "2016-09-19T23:46:42", 
+                "retweet_count": 0, 
+                "id": "778017506036445185", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.5942078, 
+                    41.3176613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Silver Queen Corn and Lump Crab Bisque, corn crema, corn pollen from John Folse @culinaryveginst\u2026 https://t.co/uvRmYkTTEc", 
+                "created_at": "2016-09-19T23:27:59", 
+                "retweet_count": 0, 
+                "id": "778012794654453760", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.5942078, 
+                    41.3176613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Tomato Tomaato\" a tomato water (I love this stuff in cocktails) #martini (you had me at tomato\u2026 https://t.co/qiWFHB0iJV", 
+                "created_at": "2016-09-19T23:12:23", 
+                "retweet_count": 0, 
+                "id": "778008866730700800", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.5942078, 
+                    41.3176613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Charred glazed carrots with smoked pistachio, candied seeds. @hamptoncreek #blackgarlic #mayo\u2026 https://t.co/Erzrs6am2n", 
+                "created_at": "2016-09-19T23:00:57", 
+                "retweet_count": 0, 
+                "id": "778005990667091969", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.5942078, 
+                    41.3176613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Roots 2016, Waste Not, Want Not #rootsempower2016 @culinaryveginst @farmerleejones @ Culinary\u2026 https://t.co/IYVhDHWltQ", 
+                "created_at": "2016-09-19T22:55:22", 
+                "retweet_count": 1, 
+                "id": "778004587403960320", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.5942078, 
+                    41.3176613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "How excited was I to meet the @vitamix folks? I use mine twice a day at least. After chatting\u2026 https://t.co/QrNqm88wYy", 
+                "created_at": "2016-09-19T18:12:55", 
+                "retweet_count": 0, 
+                "id": "777933506710298625", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.5942078, 
+                    41.3176613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Simple things make all the difference @culinaryveginst #rootsempower2016 @farmerleejones\u2026 https://t.co/EIrxnOrrhi", 
+                "created_at": "2016-09-19T00:01:59", 
+                "retweet_count": 3, 
+                "id": "777658962326020097", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.57048045, 
+                    41.57117857
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hand-sliced #pepperoni @citizen_pie. Makes for a thicker crunch and chew #pizza #planet\u2026 https://t.co/kquOQaKyiS", 
+                "created_at": "2016-09-18T22:04:33", 
+                "retweet_count": 0, 
+                "id": "777629408467222528", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.60012098, 
+                    41.41891477
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A quick stop to look out on #lakeerie before heading over @culinaryveginst #rootsempower2016\u2026 https://t.co/mypz1VbS17", 
+                "created_at": "2016-09-18T21:58:50", 
+                "retweet_count": 2, 
+                "id": "777627970160697344", 
+                "favorite_count": 6
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.57048045, 
+                    41.57117857
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Smoked #pepperoni @citizen_pie, some of the thickest pepperoni I've had on a #pizza. I really\u2026 https://t.co/J0yDnjeobb", 
+                "created_at": "2016-09-18T19:27:51", 
+                "retweet_count": 0, 
+                "id": "777589973038067714", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.57048045, 
+                    41.57117857
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Americano - Mozz, pistachio cream sausage, red &amp; green onion, Calabrian chile @citizen_pie #ohio\u2026 https://t.co/tbkfz7v90O", 
+                "created_at": "2016-09-18T19:20:45", 
+                "retweet_count": 0, 
+                "id": "777588187476688900", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.693889, 
+                    41.499722
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Master's Pizza #cleveland #ilovepizza #pizzalover #pizzacowboy #ohio @ Public Square, Cleveland https://t.co/AkN6FullZG", 
+                "created_at": "2016-09-18T19:11:30", 
+                "retweet_count": 0, 
+                "id": "777585860288077824", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.6902929, 
+                    41.4989654
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"This is #Cleveland. Eat more meat.\" Only have to tell us once @chefsymon. Had to hit up\u2026 https://t.co/m3GUHNmw3i", 
+                "created_at": "2016-09-18T18:35:27", 
+                "retweet_count": 0, 
+                "id": "777576788193054720", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Wednesday and I needed to restock on @mouthfoods #peanutbutter to feed my recent obsession and\u2026 https://t.co/Hj983uboU2", 
+                "created_at": "2016-09-15T00:21:48", 
+                "retweet_count": 0, 
+                "id": "776214395999379460", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9871368, 
+                    40.7027817
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 274483198.0, 
+                    "type": "yes", 
+                    "id": 98498.0, 
+                    "name": "17 State Street"
+                }, 
+                {
+                    "osm_id": 278053486.0, 
+                    "type": "yes", 
+                    "id": 99308.0, 
+                    "name": "Four New York Plaza"
+                }, 
+                {
+                    "osm_id": 278053533.0, 
+                    "type": "yes", 
+                    "id": 99332.0, 
+                    "name": "One State Street Plaza"
+                }, 
+                {
+                    "osm_id": 278053534.0, 
+                    "type": "yes", 
+                    "id": 99333.0, 
+                    "name": "Shrine of Saint Elizabeth Ann Bayley Seton"
+                }, 
+                {
+                    "osm_id": 278053603.0, 
+                    "type": "yes", 
+                    "id": 99382.0, 
+                    "name": "3 New York Plaza"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When a series of locked doors at work leads you unexpectedly to the roof @mouthfoods #nyc\u2026 https://t.co/UEaiRaC2Fo", 
+                "created_at": "2016-09-15T00:14:02", 
+                "retweet_count": 0, 
+                "id": "776212444884664320", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.92608525, 
+                    35.68231347
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Beef tenderloin with four gras tenderloin at The Compound #santafe #newmexico @ The Compound\u2026 https://t.co/osvWPelEof", 
+                "created_at": "2016-09-11T03:31:40", 
+                "retweet_count": 0, 
+                "id": "774812626970902528", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.92608525, 
+                    35.68231347
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sweetbreads, foie gras and cepes #thecompound #santafe #newmexico @ The Compound Restaurant,\u2026 https://t.co/oREW2EMUrC", 
+                "created_at": "2016-09-11T03:28:06", 
+                "retweet_count": 0, 
+                "id": "774811729226305536", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.93276379, 
+                    35.6858266
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sunset @laposadasf @ La Posada de Santa Fe Resort &amp; Spa https://t.co/UHmDHSO8tx", 
+                "created_at": "2016-09-11T03:23:46", 
+                "retweet_count": 2, 
+                "id": "774810639076323329", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.9375788, 
+                    35.6851999
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It had to be done: #greenchile #cheeseburger at #santafebite \ud83c\udf36\ud83c\udf54. Thanks santafehits for helping\u2026 https://t.co/HR8fuf0m3w", 
+                "created_at": "2016-09-10T23:19:27", 
+                "retweet_count": 0, 
+                "id": "774749157567397888", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.96489, 
+                    35.66305
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This was a really interesting pastry I'd never had before: a Filipino cake topped with\u2026 https://t.co/a9fXOyMBbZ", 
+                "created_at": "2016-09-10T23:11:53", 
+                "retweet_count": 0, 
+                "id": "774747253080788992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.96691, 
+                    35.68539
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fermented #pickles @barriobrinery @ Barrio Brinery https://t.co/1t8NFb8Czt", 
+                "created_at": "2016-09-10T23:05:07", 
+                "retweet_count": 1, 
+                "id": "774745550264688640", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.93759092, 
+                    35.68934737
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Wow. Amazing bread pudding ilpiattosantafe @ediblesantafe #santafe #newmexico #SantaFeNM\u2026 https://t.co/iy74BjYz61", 
+                "created_at": "2016-09-10T22:57:26", 
+                "retweet_count": 0, 
+                "id": "774743615776165888", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.93759092, 
+                    35.68934737
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pizzette @ Il Piatto Italian Farmhouse Kitchen Santa Fe https://t.co/aa3sVgf5rr", 
+                "created_at": "2016-09-10T22:50:04", 
+                "retweet_count": 0, 
+                "id": "774741760358637569", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.93759092, 
+                    35.68934737
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gorgonzola and walnut ravioli with sundried tomato pesto Housemade charcuterie plate at\u2026 https://t.co/VBuI5iTMoX", 
+                "created_at": "2016-09-10T22:19:20", 
+                "retweet_count": 0, 
+                "id": "774734025969852416", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.93759092, 
+                    35.68934737
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Housemade charcuterie plate at #ilpiattosantafe @ediblesantafe #santafe #newmexico #SantaFeNM\u2026 https://t.co/bunaE4IeqI", 
+                "created_at": "2016-09-10T22:15:25", 
+                "retweet_count": 1, 
+                "id": "774733039830196228", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.93759092, 
+                    35.68934737
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Baked stuffed squash blossoms with ricotta, goat cheese, mascarpone and sweet pepper coulis\u2026 https://t.co/gm9srV37xg", 
+                "created_at": "2016-09-10T22:08:05", 
+                "retweet_count": 0, 
+                "id": "774731196081274880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#greenchile #cheesebread intergalactic_bread #santafefarmersmarket @ Santa Fe Farmers' Market https://t.co/Qqe83aP2y3", 
+                "created_at": "2016-09-10T21:09:12", 
+                "retweet_count": 1, 
+                "id": "774716378725179392", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Christmas #hatchchile @ediblesantafe #santafe #newmexico #SantaFeNM #TheCityDifferent\u2026 https://t.co/uLheKbap4S", 
+                "created_at": "2016-09-10T21:06:52", 
+                "retweet_count": 0, 
+                "id": "774715788825595904", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Santa Fe Farmers' Market https://t.co/1ggTu0gwsr", 
+                "created_at": "2016-09-10T18:55:27", 
+                "retweet_count": 0, 
+                "id": "774682716889636869", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Roasting #hatchchiles santafefarmersmarket romerofarms. Smells. So. Good. @ediblesantafe\u2026 https://t.co/AFofrp0akX", 
+                "created_at": "2016-09-10T18:52:55", 
+                "retweet_count": 0, 
+                "id": "774682082090024960", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.95011308, 
+                    35.69225775
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cheese enchilada con huevo: flat cheese enchilada with onions, pinto beans, hash browns,\u2026 https://t.co/JJa49YIfTq", 
+                "created_at": "2016-09-10T17:07:45", 
+                "retweet_count": 0, 
+                "id": "774655612831600640", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Judge @angmoore tasting one of seven #burgers we sampled during the amazing @ediblesantafe\u2026 https://t.co/nhbq9X00Ss", 
+                "created_at": "2016-09-10T05:41:05", 
+                "retweet_count": 0, 
+                "id": "774482807024386048", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Red Sage Green Chile #Cheeseburger @btrhilton thomashartwell: New Mexico grass-fed beef #burger\u2026 https://t.co/HKTcMtYzBf", 
+                "created_at": "2016-09-10T05:36:23", 
+                "retweet_count": 0, 
+                "id": "774481624499118081", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Oh. Wow. \"Plate Lickin' Chile #cheeseburger secondstreetbrewery secondstreetbreweryatrailyard\u2026 https://t.co/IfOGCgQMQ7", 
+                "created_at": "2016-09-10T05:25:02", 
+                "retweet_count": 0, 
+                "id": "774478771202232320", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "2016 Smackdown Burger @plazacafesouth: New Mexico, grass-fed with extra-sharp Cheddar and hot\u2026 https://t.co/pg07kglZqf", 
+                "created_at": "2016-09-10T05:08:33", 
+                "retweet_count": 0, 
+                "id": "774474622553161729", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Zilla Smackdown: Housemade #chorizo patty (pork loin, #bacon, gravesfarmers red chile)\u2026 https://t.co/NgG0wzdWBI", 
+                "created_at": "2016-09-10T04:53:10", 
+                "retweet_count": 0, 
+                "id": "774470749285474304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Loco-motive freighthousefood: 1/2 lb smashed chuck + brisket + smoked pork burger with\u2026 https://t.co/rQK1CRRmts", 
+                "created_at": "2016-09-10T01:12:01", 
+                "retweet_count": 0, 
+                "id": "774415094931460096", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dry-Ages Chuck Burger rwinnofanasazi edgarbeas: charred hatch chile, smoked ham, queso Oaxaca,\u2026 https://t.co/sT04G0QIbp", 
+                "created_at": "2016-09-10T00:57:42", 
+                "retweet_count": 0, 
+                "id": "774411492917739520", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.94904672, 
+                    35.68229739
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Santa Fe Autumn Roast innatloretto the_livingroomcafe:  angels_bakery bun, housemade\u2026 https://t.co/OalEKCUvfc", 
+                "created_at": "2016-09-10T00:48:33", 
+                "retweet_count": 0, 
+                "id": "774409189565292544", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.93779, 
+                    35.68948
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "thehivemarketsf  #honey tasting gregmenke  @ediblesantafe #santafe #ediblesmackdown @ The Hive\u2026 https://t.co/xIGUkcgooE", 
+                "created_at": "2016-09-09T21:06:08", 
+                "retweet_count": 0, 
+                "id": "774353218839126017", 
+                "favorite_count": 2
+            }
+        }
+    ]
+}

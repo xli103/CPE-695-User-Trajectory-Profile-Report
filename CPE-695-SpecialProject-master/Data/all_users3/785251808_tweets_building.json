@@ -1,0 +1,451 @@
+{
+    "total_favorite_count": 0, 
+    "followers_count": 202, 
+    "total_tweets": 7, 
+    "user_id": 785251808, 
+    "screen_name": "AccountempsJobs", 
+    "friends_count": 7, 
+    "buildings": {
+        "residential": 7, 
+        "construction": 7, 
+        "church": 8, 
+        "commercial": 7, 
+        "apartments": 15
+    }, 
+    "features": [
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 708.0, 
+                    "name": "Lincoln Building", 
+                    "osm_id": 138022483.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }, 
+                {
+                    "type": "residential", 
+                    "id": 88988.0, 
+                    "name": "The Atlas", 
+                    "osm_id": 265301705.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 92680.0, 
+                    "name": "Saint Agnes Church", 
+                    "osm_id": 265869490.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 92824.0, 
+                    "name": "Even Hotel", 
+                    "osm_id": 265883452.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125710.0, 
+                    "name": "Abington House", 
+                    "osm_id": 287697500.0
+                }
+            ], 
+            "text": "This #job might be a great fit for you: Compliance Analyst - https://t.co/512gxGzzFe #Accountemps #Finance #NewYork, NY #Hiring", 
+            "id": "798223908834971648", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T17:59:44", 
+            "coordinates": [
+                -73.9697795, 
+                40.7519846
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Olivia", 
+                    "Abington House"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "construction": 2, 
+                "church": 2, 
+                "commercial": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 708.0, 
+                    "name": "Lincoln Building", 
+                    "osm_id": 138022483.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }, 
+                {
+                    "type": "residential", 
+                    "id": 88988.0, 
+                    "name": "The Atlas", 
+                    "osm_id": 265301705.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 92680.0, 
+                    "name": "Saint Agnes Church", 
+                    "osm_id": 265869490.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 92824.0, 
+                    "name": "Even Hotel", 
+                    "osm_id": 265883452.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125710.0, 
+                    "name": "Abington House", 
+                    "osm_id": 287697500.0
+                }
+            ], 
+            "text": "Want to work at Accountemps? We're #hiring in #NewYork, NY! Click for details: https://t.co/EhjLhDJ5cB #Job #Accountemps #Accounting #Jobs", 
+            "id": "798215173433458689", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T17:25:02", 
+            "coordinates": [
+                -73.9697795, 
+                40.7519846
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Olivia", 
+                    "Abington House"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "construction": 2, 
+                "church": 2, 
+                "commercial": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 708.0, 
+                    "name": "Lincoln Building", 
+                    "osm_id": 138022483.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }, 
+                {
+                    "type": "residential", 
+                    "id": 88988.0, 
+                    "name": "The Atlas", 
+                    "osm_id": 265301705.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 92680.0, 
+                    "name": "Saint Agnes Church", 
+                    "osm_id": 265869490.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 92824.0, 
+                    "name": "Even Hotel", 
+                    "osm_id": 265883452.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125710.0, 
+                    "name": "Abington House", 
+                    "osm_id": 287697500.0
+                }
+            ], 
+            "text": "Interested in a #job in #NewYork, NY? This could be a great fit: https://t.co/Ci08xo1COa #Accountemps #Accounting #Hiring", 
+            "id": "797966079142170624", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T00:55:13", 
+            "coordinates": [
+                -73.9697795, 
+                40.7519846
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Olivia", 
+                    "Abington House"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "construction": 2, 
+                "church": 2, 
+                "commercial": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 708.0, 
+                    "name": "Lincoln Building", 
+                    "osm_id": 138022483.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }, 
+                {
+                    "type": "residential", 
+                    "id": 88988.0, 
+                    "name": "The Atlas", 
+                    "osm_id": 265301705.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 92680.0, 
+                    "name": "Saint Agnes Church", 
+                    "osm_id": 265869490.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 92824.0, 
+                    "name": "Even Hotel", 
+                    "osm_id": 265883452.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125710.0, 
+                    "name": "Abington House", 
+                    "osm_id": 287697500.0
+                }
+            ], 
+            "text": "Want to work at Accountemps? We're #hiring in #NewYork, NY! Click for details: https://t.co/aNYfoNH6T5 #Job #Accountemps #internship #Jobs", 
+            "id": "797836329627238400", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T16:19:38", 
+            "coordinates": [
+                -73.9697795, 
+                40.7519846
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Olivia", 
+                    "Abington House"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "construction": 2, 
+                "church": 2, 
+                "commercial": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 708.0, 
+                    "name": "Lincoln Building", 
+                    "osm_id": 138022483.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }, 
+                {
+                    "type": "residential", 
+                    "id": 88988.0, 
+                    "name": "The Atlas", 
+                    "osm_id": 265301705.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 92680.0, 
+                    "name": "Saint Agnes Church", 
+                    "osm_id": 265869490.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 92824.0, 
+                    "name": "Even Hotel", 
+                    "osm_id": 265883452.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125710.0, 
+                    "name": "Abington House", 
+                    "osm_id": 287697500.0
+                }
+            ], 
+            "text": "If you're looking for work in #NewYork, NY, check out this #job: https://t.co/pZZzpMKYaE #Accountemps #Finance #Hiring", 
+            "id": "797540343939940352", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T20:43:30", 
+            "coordinates": [
+                -73.9697795, 
+                40.7519846
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Olivia", 
+                    "Abington House"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "construction": 2, 
+                "church": 2, 
+                "commercial": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory", 
+                    "osm_id": 278069550.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "See our latest NY #job and click to apply: Staffing Manager - https://t.co/dtsndKsooC #Accountemps #Sales #Hiring", 
+            "id": "797496451672608768", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T17:49:05", 
+            "coordinates": [
+                -73.8286733, 
+                40.7071412
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 708.0, 
+                    "name": "Lincoln Building", 
+                    "osm_id": 138022483.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }, 
+                {
+                    "type": "residential", 
+                    "id": 88988.0, 
+                    "name": "The Atlas", 
+                    "osm_id": 265301705.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 92680.0, 
+                    "name": "Saint Agnes Church", 
+                    "osm_id": 265869490.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 92824.0, 
+                    "name": "Even Hotel", 
+                    "osm_id": 265883452.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125710.0, 
+                    "name": "Abington House", 
+                    "osm_id": 287697500.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job in #NewYork, NY? https://t.co/oeCxeXHbwb #Accountemps #Accounting #Hiring", 
+            "id": "797490897633951744", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T17:27:01", 
+            "coordinates": [
+                -73.9697795, 
+                40.7519846
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Olivia", 
+                    "Abington House"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "construction": 2, 
+                "church": 2, 
+                "commercial": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

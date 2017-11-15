@@ -1,0 +1,2492 @@
+{
+    "total_favorite_count": 191, 
+    "total_tweets": 85, 
+    "screen_name": "mgdozler", 
+    "friends_count": 604, 
+    "followers_count": 279, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97391563, 
+                    40.76246983
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3736388.0, 
+                    "type": "yes", 
+                    "id": 498.0, 
+                    "name": "Worldwide Plaza"
+                }, 
+                {
+                    "osm_id": 137883073.0, 
+                    "type": "yes", 
+                    "id": 694.0, 
+                    "name": "712 Fifth Avenue"
+                }, 
+                {
+                    "osm_id": 137874843.0, 
+                    "type": "yes", 
+                    "id": 712.0, 
+                    "name": "Gershwin Theatre"
+                }, 
+                {
+                    "osm_id": 145427087.0, 
+                    "type": "yes", 
+                    "id": 756.0, 
+                    "name": "Hilton New York"
+                }, 
+                {
+                    "osm_id": 260257168.0, 
+                    "type": "commercial", 
+                    "id": 83601.0, 
+                    "name": "MGM Building"
+                }, 
+                {
+                    "osm_id": 265149196.0, 
+                    "type": "yes", 
+                    "id": 87612.0, 
+                    "name": "Consulate General Argentina"
+                }, 
+                {
+                    "osm_id": 265149284.0, 
+                    "type": "yes", 
+                    "id": 87679.0, 
+                    "name": "Warwick Hotel"
+                }, 
+                {
+                    "osm_id": 265317863.0, 
+                    "type": "apartments", 
+                    "id": 89354.0, 
+                    "name": "Gotham West"
+                }, 
+                {
+                    "osm_id": 265331324.0, 
+                    "type": "apartments", 
+                    "id": 90187.0, 
+                    "name": "Longacre House"
+                }, 
+                {
+                    "osm_id": 265338408.0, 
+                    "type": "commercial", 
+                    "id": 90237.0, 
+                    "name": "One Worldwide Plaza"
+                }, 
+                {
+                    "osm_id": 265345374.0, 
+                    "type": "yes", 
+                    "id": 90289.0, 
+                    "name": "Trump Tower"
+                }, 
+                {
+                    "osm_id": 265345382.0, 
+                    "type": "yes", 
+                    "id": 90293.0, 
+                    "name": "Tiffany & Co."
+                }, 
+                {
+                    "osm_id": 265357850.0, 
+                    "type": "yes", 
+                    "id": 90786.0, 
+                    "name": "UPS"
+                }, 
+                {
+                    "osm_id": 266155269.0, 
+                    "type": "church", 
+                    "id": 93314.0, 
+                    "name": "Times Square Church"
+                }, 
+                {
+                    "osm_id": 266170799.0, 
+                    "type": "yes", 
+                    "id": 93538.0, 
+                    "name": "Sheraton New York Times Square Hotel"
+                }, 
+                {
+                    "osm_id": 279410766.0, 
+                    "type": "yes", 
+                    "id": 102038.0, 
+                    "name": "NJ02 Savvis Data Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I worship at the temple of democracy. My belief is the rule of law. That's why I confess Donald\u2026 https://t.co/s5cRS6Ku6l", 
+                "created_at": "2016-11-13T19:00:09", 
+                "retweet_count": 0, 
+                "id": "797876722884440065", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9975, 
+                    40.73083333
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3343762.0, 
+                    "type": "yes", 
+                    "id": 80.0, 
+                    "name": "Vanderbilt Law School New York University"
+                }, 
+                {
+                    "osm_id": -3357433.0, 
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church"
+                }, 
+                {
+                    "osm_id": 317884685.0, 
+                    "type": "yes", 
+                    "id": 126125.0, 
+                    "name": "Hudson County Community College - Building A"
+                }, 
+                {
+                    "osm_id": 317884686.0, 
+                    "type": "yes", 
+                    "id": 126126.0, 
+                    "name": "Hudson County Community College - Building B"
+                }, 
+                {
+                    "osm_id": 317884689.0, 
+                    "type": "yes", 
+                    "id": 126130.0, 
+                    "name": "Hudson County Community College - Building E"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pre-election Hillary pep rally with Madonna! The Madonna. #ExpressYourself by voting! #ImWithHer\u2026 https://t.co/ipzXj3RuYU", 
+                "created_at": "2016-11-08T02:48:46", 
+                "retweet_count": 0, 
+                "id": "795820327724953600", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99092984, 
+                    40.69502481
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241823711.0, 
+                    "type": "yes", 
+                    "id": 2771.0, 
+                    "name": "Teresa's"
+                }, 
+                {
+                    "osm_id": 241833149.0, 
+                    "type": "yes", 
+                    "id": 4664.0, 
+                    "name": "Hotel Bossert"
+                }, 
+                {
+                    "osm_id": 241846075.0, 
+                    "type": "yes", 
+                    "id": 7523.0, 
+                    "name": "BRIC Rotunda Gallery"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "On my way to my last shift to Text out the Vote (I won't call, but I'll text!) to elect Hillary\u2026 https://t.co/asC1qJ0bqL", 
+                "created_at": "2016-11-07T23:08:27", 
+                "retweet_count": 0, 
+                "id": "795764882494738433", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.988333, 
+                    40.755833
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -1860567.0, 
+                    "type": "yes", 
+                    "id": 4.0, 
+                    "name": "The New York Times Building"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 265296137.0, 
+                    "type": "yes", 
+                    "id": 88831.0, 
+                    "name": "Element"
+                }, 
+                {
+                    "osm_id": 266143344.0, 
+                    "type": "yes", 
+                    "id": 93160.0, 
+                    "name": "New Amsterdam Theatre"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My 10 year old self's wet dreams are coming true! About to see #Aladdin on #Broadway! #NewYork\u2026 https://t.co/5MBqZ4dkZk", 
+                "created_at": "2016-11-05T01:24:26", 
+                "retweet_count": 0, 
+                "id": "794711939242827777", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.84462595, 
+                    40.74615153
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 86710100.0, 
+                    "type": "yes", 
+                    "id": 639.0, 
+                    "name": "One Park Avenue"
+                }, 
+                {
+                    "osm_id": 156943046.0, 
+                    "type": "apartments", 
+                    "id": 796.0, 
+                    "name": "3 Park Avenue"
+                }, 
+                {
+                    "osm_id": 248144152.0, 
+                    "type": "yes", 
+                    "id": 16967.0, 
+                    "name": "McDonald's"
+                }, 
+                {
+                    "osm_id": 248144136.0, 
+                    "type": "yes", 
+                    "id": 16984.0, 
+                    "name": "Fairfield Inn"
+                }, 
+                {
+                    "osm_id": 264627649.0, 
+                    "type": "yes", 
+                    "id": 84230.0, 
+                    "name": "Pier 60"
+                }, 
+                {
+                    "osm_id": 264651243.0, 
+                    "type": "college", 
+                    "id": 85674.0, 
+                    "name": "Shirley Goodman Resource Center"
+                }, 
+                {
+                    "osm_id": 264651626.0, 
+                    "type": "commercial", 
+                    "id": 85727.0, 
+                    "name": "SVA Theater"
+                }, 
+                {
+                    "osm_id": 265261850.0, 
+                    "type": "yes", 
+                    "id": 88438.0, 
+                    "name": "2 Park Avenue"
+                }, 
+                {
+                    "osm_id": 278328269.0, 
+                    "type": "yes", 
+                    "id": 100942.0, 
+                    "name": "New York University Medical Center"
+                }, 
+                {
+                    "osm_id": 278328259.0, 
+                    "type": "apartments", 
+                    "id": 101016.0, 
+                    "name": "The Corinthian"
+                }, 
+                {
+                    "osm_id": 280369233.0, 
+                    "type": "school", 
+                    "id": 118373.0, 
+                    "name": "Public School 150"
+                }, 
+                {
+                    "osm_id": 281342577.0, 
+                    "type": "yes", 
+                    "id": 124524.0, 
+                    "name": "Long Island City Branch New York State Supreme Court"
+                }, 
+                {
+                    "osm_id": 288603699.0, 
+                    "type": "apartments", 
+                    "id": 125722.0, 
+                    "name": "Vision Machine"
+                }, 
+                {
+                    "osm_id": 288767466.0, 
+                    "type": "apartments", 
+                    "id": 125725.0, 
+                    "name": "500W21"
+                }, 
+                {
+                    "osm_id": 400539418.0, 
+                    "type": "yes", 
+                    "id": 131192.0, 
+                    "name": "Hoboken Catholic Academy"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Unisphere \ud83c\udf0d #kweens \ud83d\udc51 #scruff #NYC #NewYork #Queens @ Unisphere-Flushing Meadows Corona Park https://t.co/XmQ2upBHCj", 
+                "created_at": "2016-10-29T19:04:56", 
+                "retweet_count": 0, 
+                "id": "792442107944316928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Proudly voting (absentee) for Hillary Clinton during the final #debate2016! \ud83c\uddfa\ud83c\uddf8\ud83d\uddf3\ud83c\uddfa\ud83c\uddf8 #ImWithHer\u2026 https://t.co/L7d6q5t8KA", 
+                "created_at": "2016-10-20T01:15:57", 
+                "retweet_count": 0, 
+                "id": "788911600061198336", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95045987, 
+                    40.80993465
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I've discovered White Castle just in time for hibernation. Goodbye, world and waistline \u270c\ud83c\udffc\ufe0f#NYC\u2026 https://t.co/ug4xYFoFpT", 
+                "created_at": "2016-10-16T19:03:18", 
+                "retweet_count": 0, 
+                "id": "787730655777988608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99661064, 
+                    40.70198416
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 157001066.0, 
+                    "type": "yes", 
+                    "id": 794.0, 
+                    "name": "1 New York Plaza"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm in #Brooklyn?! It's ok, though... I have a #beard. #NYC #scruff #NewYork @ Brooklyn Bridge Park https://t.co/Pmqnb8JQc6", 
+                "created_at": "2016-10-15T19:06:29", 
+                "retweet_count": 0, 
+                "id": "787369067770327040", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9685875, 
+                    40.74934432
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 42500778.0, 
+                    "type": "yes", 
+                    "id": 602.0, 
+                    "name": "Daily News Building"
+                }, 
+                {
+                    "osm_id": 159895893.0, 
+                    "type": "yes", 
+                    "id": 815.0, 
+                    "name": "600 Third Avenue"
+                }, 
+                {
+                    "osm_id": 159899677.0, 
+                    "type": "yes", 
+                    "id": 819.0, 
+                    "name": "633 3rd Avenue"
+                }, 
+                {
+                    "osm_id": 264671930.0, 
+                    "type": "church", 
+                    "id": 86112.0, 
+                    "name": "Church of the Holy Apostles"
+                }, 
+                {
+                    "osm_id": 264685191.0, 
+                    "type": "yes", 
+                    "id": 86320.0, 
+                    "name": "Manhattan Mall"
+                }, 
+                {
+                    "osm_id": 264685192.0, 
+                    "type": "yes", 
+                    "id": 86323.0, 
+                    "name": "Hotel Pennsylvania"
+                }, 
+                {
+                    "osm_id": 265260925.0, 
+                    "type": "yes", 
+                    "id": 88289.0, 
+                    "name": "Herald Towers"
+                }, 
+                {
+                    "osm_id": 265419172.0, 
+                    "type": "yes", 
+                    "id": 90963.0, 
+                    "name": "Church of Our Saviour"
+                }, 
+                {
+                    "osm_id": 265517915.0, 
+                    "type": "yes", 
+                    "id": 91947.0, 
+                    "name": "Prospect Tower"
+                }, 
+                {
+                    "osm_id": 265520352.0, 
+                    "type": "apartments", 
+                    "id": 91970.0, 
+                    "name": "Woodstock Tower"
+                }, 
+                {
+                    "osm_id": 265520328.0, 
+                    "type": "yes", 
+                    "id": 91986.0, 
+                    "name": "Church of the Covenant"
+                }, 
+                {
+                    "osm_id": 265864905.0, 
+                    "type": "yes", 
+                    "id": 92639.0, 
+                    "name": "POD 39"
+                }, 
+                {
+                    "osm_id": 265865023.0, 
+                    "type": "apartments", 
+                    "id": 92673.0, 
+                    "name": "The Vanderbilt"
+                }, 
+                {
+                    "osm_id": 265864912.0, 
+                    "type": "yes", 
+                    "id": 92769.0, 
+                    "name": "Murray Hill East Suites"
+                }, 
+                {
+                    "osm_id": 293950322.0, 
+                    "type": "apartments", 
+                    "id": 125777.0, 
+                    "name": "200 Eleventh Avenue"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Watching the UN General Assembly appoint Antonio Guterres of #Portugal as the 9th #UN\u2026 https://t.co/8fWH4SNpdP", 
+                "created_at": "2016-10-13T15:10:53", 
+                "retweet_count": 0, 
+                "id": "786585003186532352", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96739401, 
+                    40.7497319
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 35938543.0, 
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 42500778.0, 
+                    "type": "yes", 
+                    "id": 602.0, 
+                    "name": "Daily News Building"
+                }, 
+                {
+                    "osm_id": 48869328.0, 
+                    "type": "yes", 
+                    "id": 605.0, 
+                    "name": "\u806f\u5408\u570b"
+                }, 
+                {
+                    "osm_id": 159899677.0, 
+                    "type": "yes", 
+                    "id": 819.0, 
+                    "name": "633 3rd Avenue"
+                }, 
+                {
+                    "osm_id": 264667033.0, 
+                    "type": "school", 
+                    "id": 86057.0, 
+                    "name": "Public School 33"
+                }, 
+                {
+                    "osm_id": 264685192.0, 
+                    "type": "yes", 
+                    "id": 86323.0, 
+                    "name": "Hotel Pennsylvania"
+                }, 
+                {
+                    "osm_id": 265301933.0, 
+                    "type": "yes", 
+                    "id": 89118.0, 
+                    "name": "Comfort Inn"
+                }, 
+                {
+                    "osm_id": 265302073.0, 
+                    "type": "yes", 
+                    "id": 89252.0, 
+                    "name": "Kratter Building"
+                }, 
+                {
+                    "osm_id": 265517922.0, 
+                    "type": "commercial", 
+                    "id": 91982.0, 
+                    "name": "Ford Foundation"
+                }, 
+                {
+                    "osm_id": 265864902.0, 
+                    "type": "yes", 
+                    "id": 92636.0, 
+                    "name": "Seton Hotel"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sacurrity Council \ud83d\udea8 #UN #UNSC #NYC #NewYork #scruff @ United Nations Security Council https://t.co/gds3VDFQPJ", 
+                "created_at": "2016-10-12T23:15:21", 
+                "retweet_count": 0, 
+                "id": "786344535307587584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98644, 
+                    40.75839
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 163474780.0, 
+                    "type": "yes", 
+                    "id": 859.0, 
+                    "name": "New York Marriott Marquis"
+                }, 
+                {
+                    "osm_id": 263194427.0, 
+                    "type": "yes", 
+                    "id": 83624.0, 
+                    "name": "420 West 42nd Street"
+                }, 
+                {
+                    "osm_id": 266033995.0, 
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School"
+                }, 
+                {
+                    "osm_id": 266034023.0, 
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower"
+                }, 
+                {
+                    "osm_id": 266034045.0, 
+                    "type": "yes", 
+                    "id": 93147.0, 
+                    "name": "InterContinental New York Times Square"
+                }, 
+                {
+                    "osm_id": 266149299.0, 
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre"
+                }, 
+                {
+                    "osm_id": 266149300.0, 
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre"
+                }, 
+                {
+                    "osm_id": 266149302.0, 
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149328.0, 
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "King of the (concrete) jungle. \ud83e\udd81 \ud83d\uddfd #NYC #NewYork #scruff @ Times Square, New York City https://t.co/fd2DE726Z6", 
+                "created_at": "2016-10-10T22:58:43", 
+                "retweet_count": 0, 
+                "id": "785615575561048068", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96753285, 
+                    40.75044396
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 35938543.0, 
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 48869328.0, 
+                    "type": "yes", 
+                    "id": 605.0, 
+                    "name": "\u806f\u5408\u570b"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 159899676.0, 
+                    "type": "yes", 
+                    "id": 812.0, 
+                    "name": "Socony-Mobil Building"
+                }, 
+                {
+                    "osm_id": 161163900.0, 
+                    "type": "yes", 
+                    "id": 828.0, 
+                    "name": "Pfizer Building"
+                }, 
+                {
+                    "osm_id": 161163902.0, 
+                    "type": "yes", 
+                    "id": 829.0, 
+                    "name": "Crystal Building"
+                }, 
+                {
+                    "osm_id": 161049888.0, 
+                    "type": "office", 
+                    "id": 830.0, 
+                    "name": "Grand Central Plaza"
+                }, 
+                {
+                    "osm_id": 161849936.0, 
+                    "type": "office", 
+                    "id": 840.0, 
+                    "name": "101 Park Avenue"
+                }, 
+                {
+                    "osm_id": 261243297.0, 
+                    "type": "yes", 
+                    "id": 83615.0, 
+                    "name": "One United Nations Plaza"
+                }, 
+                {
+                    "osm_id": 265301819.0, 
+                    "type": "yes", 
+                    "id": 89042.0, 
+                    "name": "crocs"
+                }, 
+                {
+                    "osm_id": 265301987.0, 
+                    "type": "yes", 
+                    "id": 89151.0, 
+                    "name": "Hampton Inn"
+                }, 
+                {
+                    "osm_id": 265301998.0, 
+                    "type": "yes", 
+                    "id": 89161.0, 
+                    "name": "Hilton Garden Inn"
+                }, 
+                {
+                    "osm_id": 265302051.0, 
+                    "type": "yes", 
+                    "id": 89184.0, 
+                    "name": "Old Navy"
+                }, 
+                {
+                    "osm_id": 265302069.0, 
+                    "type": "yes", 
+                    "id": 89197.0, 
+                    "name": "Macy's Herald Square"
+                }, 
+                {
+                    "osm_id": 265424408.0, 
+                    "type": "yes", 
+                    "id": 91118.0, 
+                    "name": "260 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 265427666.0, 
+                    "type": "yes", 
+                    "id": 91171.0, 
+                    "name": "National Distillers Building"
+                }, 
+                {
+                    "osm_id": 265516413.0, 
+                    "type": "apartments", 
+                    "id": 91950.0, 
+                    "name": "International Plaza"
+                }, 
+                {
+                    "osm_id": 265516393.0, 
+                    "type": "yes", 
+                    "id": 91955.0, 
+                    "name": "UN Mission Malaysia"
+                }, 
+                {
+                    "osm_id": 265516430.0, 
+                    "type": "yes", 
+                    "id": 91959.0, 
+                    "name": "UNICEF House"
+                }, 
+                {
+                    "osm_id": 265865046.0, 
+                    "type": "yes", 
+                    "id": 92677.0, 
+                    "name": "Lexington Tower"
+                }, 
+                {
+                    "osm_id": 265869522.0, 
+                    "type": "office", 
+                    "id": 92700.0, 
+                    "name": "Lorillard Building"
+                }, 
+                {
+                    "osm_id": 265875655.0, 
+                    "type": "yes", 
+                    "id": 92744.0, 
+                    "name": "90 Park Avenue"
+                }, 
+                {
+                    "osm_id": 265875663.0, 
+                    "type": "yes", 
+                    "id": 92746.0, 
+                    "name": "261 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 265947369.0, 
+                    "type": "yes", 
+                    "id": 92864.0, 
+                    "name": "360 Lexington Avenue"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }, 
+                {
+                    "osm_id": 292840084.0, 
+                    "type": "hotel", 
+                    "id": 125756.0, 
+                    "name": "Holiday Inn Express"
+                }, 
+                {
+                    "osm_id": 292840085.0, 
+                    "type": "hotel", 
+                    "id": 125767.0, 
+                    "name": "Hyatt Place"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "New desk at work has a good view... @UN_Photo #UN #UnitedStates @ United Nations, General Assembly https://t.co/c8HUUhP4h7", 
+                "created_at": "2016-10-05T23:12:05", 
+                "retweet_count": 0, 
+                "id": "783806998542372865", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986, 
+                    40.747
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 159871578.0, 
+                    "type": "yes", 
+                    "id": 821.0, 
+                    "name": "Tower 31"
+                }, 
+                {
+                    "osm_id": 182240448.0, 
+                    "type": "apartments", 
+                    "id": 901.0, 
+                    "name": "Castle Point Apartments"
+                }, 
+                {
+                    "osm_id": 236107988.0, 
+                    "type": "yes", 
+                    "id": 1189.0, 
+                    "name": "Eventi"
+                }, 
+                {
+                    "osm_id": 264627649.0, 
+                    "type": "yes", 
+                    "id": 84230.0, 
+                    "name": "Pier 60"
+                }, 
+                {
+                    "osm_id": 264627647.0, 
+                    "type": "yes", 
+                    "id": 84420.0, 
+                    "name": "Pier 61"
+                }, 
+                {
+                    "osm_id": 264651216.0, 
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall"
+                }, 
+                {
+                    "osm_id": 264651244.0, 
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center"
+                }, 
+                {
+                    "osm_id": 264651245.0, 
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center"
+                }, 
+                {
+                    "osm_id": 264651212.0, 
+                    "type": "dormitory", 
+                    "id": 85729.0, 
+                    "name": "Nagler Hall"
+                }, 
+                {
+                    "osm_id": 264669366.0, 
+                    "type": "yes", 
+                    "id": 86068.0, 
+                    "name": "Saint Eleftherios"
+                }, 
+                {
+                    "osm_id": 264669362.0, 
+                    "type": "yes", 
+                    "id": 86126.0, 
+                    "name": "Penn South Housing"
+                }, 
+                {
+                    "osm_id": 264685212.0, 
+                    "type": "yes", 
+                    "id": 86347.0, 
+                    "name": "DoubleTree"
+                }, 
+                {
+                    "osm_id": 265260919.0, 
+                    "type": "yes", 
+                    "id": 88279.0, 
+                    "name": "Kaskel and Kaskel Building"
+                }, 
+                {
+                    "osm_id": 265260929.0, 
+                    "type": "yes", 
+                    "id": 88292.0, 
+                    "name": "Hyatt Midtown"
+                }, 
+                {
+                    "osm_id": 400535611.0, 
+                    "type": "yes", 
+                    "id": 131032.0, 
+                    "name": "Monroe Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": ".time for a new (york/work) flow for a while. \ud83d\uddfd #NYC @ Midtown Manhattan https://t.co/g5R0oFks0w", 
+                "created_at": "2016-10-04T22:59:28", 
+                "retweet_count": 0, 
+                "id": "783441434246467584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.03258001, 
+                    38.89103649
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "About to check out the newest addition to the Smithsonian Institution with @uclarissa! #DC\u2026 https://t.co/X6DMEpRUsG", 
+                "created_at": "2016-10-02T21:24:02", 
+                "retweet_count": 0, 
+                "id": "782692642282876928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.05507, 
+                    38.89598
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Handsome date for \"Phantom of the Opera\"! #kencen #kennedycenter #kencenphantom\u2026 https://t.co/3NgJmBZlSd", 
+                "created_at": "2016-08-10T00:36:33", 
+                "retweet_count": 0, 
+                "id": "763172146508017665", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.02285861, 
+                    38.91705332
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Best birthday gift from this guy! #doze #scruff #dydo #dirtythirty #dozeNdags #gemsandchronic @\u2026 https://t.co/sCFDZKSIeR", 
+                "created_at": "2016-07-17T22:29:40", 
+                "retweet_count": 0, 
+                "id": "754805293779865600", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.06328, 
+                    47.49697
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hands down one of the coolest places to grab a drink. This awesome bar was created in and\u2026 https://t.co/OYlZnOSkJA", 
+                "created_at": "2016-07-12T15:08:29", 
+                "retweet_count": 0, 
+                "id": "752882327814938625", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.05275702, 
+                    47.49380158
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "With my heart pounding, I climbed up the Chain Bridge to take some pictures of #Budapest lit up\u2026 https://t.co/hBdxS55Nrj", 
+                "created_at": "2016-07-12T09:46:19", 
+                "retweet_count": 0, 
+                "id": "752801254057795585", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.04478, 
+                    47.5039
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Could it have been me? Could it have been you? Standing here, I was moved to tears asking myself\u2026 https://t.co/PCzvEQMox3", 
+                "created_at": "2016-07-11T18:16:21", 
+                "retweet_count": 0, 
+                "id": "752567216722157570", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.10917, 
+                    48.143
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Bratislava you were worth the visit. Don't let anyone tell you otherwise!  \ud83c\uddf8\ud83c\uddf0 #scruff #Slovakia\u2026 https://t.co/4eiw6aJQBy", 
+                "created_at": "2016-07-09T18:03:42", 
+                "retweet_count": 0, 
+                "id": "751839258873176065", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.3631, 
+                    48.2186
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm ready for my analysis, Dr. #Freud! \ud83d\udecb #SigmundFreud #scruff #Vienna #Austria @ Sigmund Freud\u2026 https://t.co/lH9NMGd1vz", 
+                "created_at": "2016-07-08T21:17:14", 
+                "retweet_count": 0, 
+                "id": "751525574447730688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.43150169, 
+                    50.08794303
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Prague's astronomical clock is magnificent! \u264b\ufe0f I loved being able to see the movement of the\u2026 https://t.co/VQd6ukD0Sv", 
+                "created_at": "2016-07-06T20:18:17", 
+                "retweet_count": 0, 
+                "id": "750785962792198144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.4167, 
+                    50.0833
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Czeching out the scene in #Prague! \ud83d\ude02 Was waiting to use that line! \ud83c\udde8\ud83c\uddff #graffiti #CzechRepublic\u2026 https://t.co/4qzlIOsyJC", 
+                "created_at": "2016-07-05T16:35:08", 
+                "retweet_count": 0, 
+                "id": "750367418501898240", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.75, 
+                    47.5575
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Prince Charming \ud83d\udc51 #LudwigFilter \ud83c\udff0 #Deutschland \ud83c\udde9\ud83c\uddea #Germany #Fatherland #scruff #DisneyPrincess\u2026 https://t.co/DJYEt2A2Nm", 
+                "created_at": "2016-07-04T16:53:05", 
+                "retweet_count": 0, 
+                "id": "750009548891500544", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    11.5747199, 
+                    48.13744
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Awesome day exploring #M\u00fcnchen! \ud83c\udde9\ud83c\uddea #Germany #Deutschland #scruff #Munich @ Marienplatz, M\u00fcnchen\u2026 https://t.co/jVaKP85vDZ", 
+                "created_at": "2016-07-03T12:31:37", 
+                "retweet_count": 0, 
+                "id": "749581360830885888", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    11.5747199, 
+                    48.13744
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hallo from M\u00fcnchen! \ud83c\udde9\ud83c\uddea #Germany #scruff @ Marienplatz, M\u00fcnchen , Deutschland https://t.co/784lFyJa4s", 
+                "created_at": "2016-07-02T17:57:39", 
+                "retweet_count": 0, 
+                "id": "749301022388985860", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14213893, 
+                    46.22792636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Wrapping up a great three weeks in #Geneva for #HRC32! Onward to some more adventures! \ud83d\ude8a #UN\u2026 https://t.co/Q83yDo64fX", 
+                "created_at": "2016-07-01T14:28:13", 
+                "retweet_count": 0, 
+                "id": "748885926567227392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14213893, 
+                    46.22792636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Update: Votes are not progressing well. Some states are committed to weakening the resolution on\u2026 https://t.co/MtW12rWnOo", 
+                "created_at": "2016-06-30T14:51:05", 
+                "retweet_count": 0, 
+                "id": "748529293831999488", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14213893, 
+                    46.22792636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#UN #HumanRights Council begins deliberation on resolution on sexual orientation and gender\u2026 https://t.co/85fjCOq9ZJ", 
+                "created_at": "2016-06-30T13:09:46", 
+                "retweet_count": 0, 
+                "id": "748503797001969664", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14213893, 
+                    46.22792636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Before the storm! \ud83c\udf2a #HRC32 #UN #Geneva #Switzerland @ Palais des Nations - UNOG - Gen\u00e8ve https://t.co/nxC4keHWdy", 
+                "created_at": "2016-06-30T12:41:11", 
+                "retweet_count": 0, 
+                "id": "748496603984474112", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14213893, 
+                    46.22792636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Aggressively #homoerotic sculpture at the #UN. #Geneva #Switzerland @ Palais des Nations - UNOG\u2026 https://t.co/OFE4RaN8tD", 
+                "created_at": "2016-06-29T16:04:41", 
+                "retweet_count": 0, 
+                "id": "748185429455712256", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.15, 
+                    46.2
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I ordered in French....but apparently not very well. #englishspeaking #stereotyping #Geneva\u2026 https://t.co/EP2W8v4mzK", 
+                "created_at": "2016-06-25T14:41:23", 
+                "retweet_count": 0, 
+                "id": "746714915356835840", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.15, 
+                    46.2
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hey #Geneva, what's good tonight? #scruff #Switzerland @ Geneva, Switzerland https://t.co/5J5coKRx3Y", 
+                "created_at": "2016-06-24T17:39:55", 
+                "retweet_count": 0, 
+                "id": "746397455562858496", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14244571, 
+                    46.22814037
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "In case you were wondering, the delegate from #Fiji does in fact drink Fiji Water! \ud83c\uddeb\ud83c\uddef\u2026 https://t.co/RJnRmEwH6f", 
+                "created_at": "2016-06-22T14:43:13", 
+                "retweet_count": 0, 
+                "id": "745628212240089091", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14213893, 
+                    46.22792636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I think this peacock was trying to flirt with me! #peacocking #UN #scruff #Geneva #Switzerland @\u2026 https://t.co/PQ30vEGW43", 
+                "created_at": "2016-06-20T14:18:30", 
+                "retweet_count": 0, 
+                "id": "744897214707707904", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14213893, 
+                    46.22792636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I love when the flags are waving! \ud83d\udca8\ud83c\uddfa\ud83c\uddf8 #UN #switzerland #Geneva @ Palais des Nations - UNOG - Gen\u00e8ve https://t.co/9EL4WQp9Zx", 
+                "created_at": "2016-06-20T10:51:25", 
+                "retweet_count": 0, 
+                "id": "744845103164862464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.15662757, 
+                    46.20596899
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thirsty in #Geneva. #thirsttrap #scruff #switzerland #redhat @ Jet d'eau Gen\u00e8ve https://t.co/SeCGJMpMKH", 
+                "created_at": "2016-06-18T13:12:04", 
+                "retweet_count": 0, 
+                "id": "744155722850541568", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14213893, 
+                    46.22792636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Come to the #USA booth! Yehaw! #UN #pride #Orlando #HRC32 #scruff #switzerland @ Palais des\u2026 https://t.co/vCm3oZOorZ", 
+                "created_at": "2016-06-17T17:21:58", 
+                "retweet_count": 0, 
+                "id": "743856222852415491", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14213893, 
+                    46.22792636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "USA is going gay for National Day @ungeneva for #HRC32 in honor of #Orlando. Wearing rainbow\u2026 https://t.co/hq63xq0qdh", 
+                "created_at": "2016-06-17T16:34:30", 
+                "retweet_count": 0, 
+                "id": "743844277424316417", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14713325, 
+                    46.21137247
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I voted early, but I'm still rep'ing Hillary in #Geneva the day of the #DCPrimary! #ImWithHer\u2026 https://t.co/BYJDoFEwXc", 
+                "created_at": "2016-06-14T19:45:22", 
+                "retweet_count": 11, 
+                "id": "742805147261100033", 
+                "favorite_count": 21
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.14213893, 
+                    46.22792636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Back in #Geneva for some good ol'-fashioned diplomacy! #UN #humanrights #scruff #nofilter @\u2026 https://t.co/NFb5raIgAI", 
+                "created_at": "2016-06-13T10:29:22", 
+                "retweet_count": 0, 
+                "id": "742302835753242624", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.44763772, 
+                    38.94902523
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The airport gave me one last reminder of the amazing #DCPride I celebrated with some pretty\u2026 https://t.co/EEqLnETng1", 
+                "created_at": "2016-06-12T20:36:07", 
+                "retweet_count": 0, 
+                "id": "742093143202353156", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.02968419, 
+                    38.90966559
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fantastically proud to call this guy mine! Makes it more sad to leave for so long. But drinks to\u2026 https://t.co/JPRQw39RRy", 
+                "created_at": "2016-06-11T22:46:32", 
+                "retweet_count": 0, 
+                "id": "741763576008867840", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.02363, 
+                    38.91803
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Desire. Thanks @yearsandyears for a great concert in #DC! Awesome time with siotaryn and\u2026 https://t.co/RzzLeP0kzw", 
+                "created_at": "2016-06-06T04:07:19", 
+                "retweet_count": 0, 
+                "id": "739669978283053060", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.02363, 
+                    38.91803
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Years and Years and ass and ass... #dc #dcgays #scruff @ 9:30 Club https://t.co/rFmOvSrqFI", 
+                "created_at": "2016-06-06T02:41:43", 
+                "retweet_count": 0, 
+                "id": "739648436320931843", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.38720686, 
+                    43.6426192
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Oh hai, #Toronto. You're neat. #Canada #\ud83c\udde8\ud83c\udde6 #vacation #adventure #scruff #greeneyes @ CN Tower /\u2026 https://t.co/KNkmM0qoyc", 
+                "created_at": "2016-05-11T18:22:36", 
+                "retweet_count": 0, 
+                "id": "730463129566482437", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.01799426, 
+                    38.90282564
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "C'mon #summerbody, peek through! #scruff #beard #gayboy #fitness #totesmasc @ VIDA Fitness At\u2026 https://t.co/RpibCToDFL", 
+                "created_at": "2016-03-27T01:22:40", 
+                "retweet_count": 0, 
+                "id": "713899002660425729", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.34140548, 
+                    50.89498624
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Stunned to hear about the explosions in Brussels. \n\nMy thoughts are with the family and friends\u2026 https://t.co/Z7msBuLtEB", 
+                "created_at": "2016-03-22T11:49:47", 
+                "retweet_count": 0, 
+                "id": "712244883851845632", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0367, 
+                    38.8951
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Did my small part! Collected signatures to put hillaryclinton on #DC's primary ballot! \ud83d\uddf3\u2026 https://t.co/1fdGeT5jH2", 
+                "created_at": "2016-03-11T14:05:37", 
+                "retweet_count": 0, 
+                "id": "708292798303211520", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0020387, 
+                    40.7338542
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 249664005.0, 
+                    "type": "yes", 
+                    "id": 35058.0, 
+                    "name": "Stonewalll Inn State Historic Site"
+                }, 
+                {
+                    "osm_id": 250270042.0, 
+                    "type": "yes", 
+                    "id": 57949.0, 
+                    "name": "The Memphis Downtown"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Obligatory \"gay in #NYC\" photo. #stonewall #LGBT #concretejungle @ Stonewall Inn https://t.co/jU1hsBISEN", 
+                "created_at": "2016-02-15T00:58:50", 
+                "retweet_count": 0, 
+                "id": "699035102668464128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98536297, 
+                    40.74843498
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 34633854.0, 
+                    "type": "office", 
+                    "id": 584.0, 
+                    "name": "\u5e1d\u570b\u5927\u5ec8"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264668305.0, 
+                    "type": "yes", 
+                    "id": 86072.0, 
+                    "name": "Penn South Building 8"
+                }, 
+                {
+                    "osm_id": 264685227.0, 
+                    "type": "yes", 
+                    "id": 86370.0, 
+                    "name": "Tower 111"
+                }, 
+                {
+                    "osm_id": 396820651.0, 
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Empire State Building lit in pink and pulsating like a beating heart. Pretty awesome! #NYC\u2026 https://t.co/R55GNBySrY", 
+                "created_at": "2016-02-14T22:54:12", 
+                "retweet_count": 0, 
+                "id": "699003738317414401", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0356926, 
+                    38.89724129
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ready to welcome hillaryclinton back home! #ImWithHer #Hillary2016 #DC #WashingtonDC @ The White\u2026 https://t.co/kpKGrWKQbR", 
+                "created_at": "2016-01-31T23:04:57", 
+                "retweet_count": 0, 
+                "id": "693933011809624064", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0290896, 
+                    38.9101833
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My walk to brunch was interrupted by a very sad, low-energy \"march\" for Bernie. Not today Satan,\u2026 https://t.co/SKsozAOVBw", 
+                "created_at": "2016-01-30T17:43:34", 
+                "retweet_count": 0, 
+                "id": "693489744886431745", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0367, 
+                    38.8951
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": ".mood. \u2744\ufe0f It's starting. #snowmaggedon #snowpocalypse #savemevodka #DC @ Washington, District of\u2026 https://t.co/bkzsCGxovk", 
+                "created_at": "2016-01-22T18:35:30", 
+                "retweet_count": 0, 
+                "id": "690603711672913920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.8954, 
+                    41.3012
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Such bad lighting in this picture, but just saw Chris Christie at the Omaha airport headed to\u2026 https://t.co/zRvtCnGySu", 
+                "created_at": "2016-01-18T17:29:30", 
+                "retweet_count": 0, 
+                "id": "689137550846341120", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -98.358, 
+                    40.9223
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Mother and son. I guess some people say we look alike?? What do you think? #Nebraska\u2026 https://t.co/vKOce1ylPr", 
+                "created_at": "2016-01-18T14:27:37", 
+                "retweet_count": 0, 
+                "id": "689091777584885760", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -98.08449459, 
+                    41.97960877
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "So, this is happening. Brrr! \u2603 #Nebraska #GreatPlains #prariehome @ City of Elgin https://t.co/ogfyyEq4Ku", 
+                "created_at": "2016-01-17T14:37:34", 
+                "retweet_count": 1, 
+                "id": "688731894242906112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -98.0294, 
+                    42.1286
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Father and son. #Nebraska #GreatPlains #familyfun #scruff @ Neligh, Nebraska https://t.co/eqlUV0lJyJ", 
+                "created_at": "2016-01-17T03:18:44", 
+                "retweet_count": 0, 
+                "id": "688561060534562817", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -98.0381317, 
+                    42.1328163
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Visited a special lady today, my Grandma Dozler! #Nebraska #GreatPlains #familyfun @ The Willows\u2026 https://t.co/tbMbvEhGCJ", 
+                "created_at": "2016-01-17T03:15:22", 
+                "retweet_count": 0, 
+                "id": "688560212073029633", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -99.0437241, 
+                    40.6704483
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fun family outing to the Kearney Archway Monument today! #familyfun #Nebraska #prariehome\u2026 https://t.co/7FUz2CqzZw", 
+                "created_at": "2016-01-16T00:44:48", 
+                "retweet_count": 0, 
+                "id": "688159935650074624", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.02690722, 
+                    38.88817608
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I was the biggest kid at the table, but I had stupid amounts of fun making my own take home\u2026 https://t.co/9z8rD6FCh9", 
+                "created_at": "2016-01-02T18:44:29", 
+                "retweet_count": 0, 
+                "id": "683358215350829058", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0367, 
+                    38.8951
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Getting home from a haircut and realizing I'm stuck with this big cowlick for a while! \ud83d\udc2e\ud83d\udc45 #scruff\u2026 https://t.co/t4gE2OYHhD", 
+                "created_at": "2015-12-29T02:34:42", 
+                "retweet_count": 0, 
+                "id": "681664611557322752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0489248, 
+                    38.89431681
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Today I was honored to meet U.S. Supreme Court Justice Stephen Breyer after a fascinating\u2026 https://t.co/IVMC6xI3I6", 
+                "created_at": "2015-12-10T19:40:08", 
+                "retweet_count": 0, 
+                "id": "675037299932078081", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0356926, 
+                    38.89724129
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Wearing #red today to commemorate #WorldAIDSDay with the hope of an #AIDSFreeGen! #\ud83d\udeabAIDS #DC\u2026 https://t.co/IBjNNMUswo", 
+                "created_at": "2015-12-01T22:34:32", 
+                "retweet_count": 0, 
+                "id": "671819698548305921", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.04829055, 
+                    38.89949725
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bus on fire outside Foggy Bottom Metro station! \ud83d\udd25\ud83d\ude8c\ud83d\udd25 @ The George Washington University https://t.co/kXFp2Vuf0Z", 
+                "created_at": "2015-11-12T22:14:08", 
+                "retweet_count": 0, 
+                "id": "664929195198300160", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0356926, 
+                    38.89724129
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Huge crowd on the South Lawn waiting for His Holiness to arrive. #PopeInDC #PopeInUS @ The White House https://t.co/cXNzfNJkFs", 
+                "created_at": "2015-09-23T12:50:41", 
+                "retweet_count": 0, 
+                "id": "646668005120835584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0356926, 
+                    38.89724129
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Arriving at the White House for the arrival of the Pope! #PopeInDC #PopeInUS #nofilter @ The White House https://t.co/ciRlhOJBMt", 
+                "created_at": "2015-09-23T11:27:45", 
+                "retweet_count": 0, 
+                "id": "646647133601447936", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0226593, 
+                    38.917141
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Another #SundayFunday at towndanceboutique \ud83c\udf78 #drinks #scruff #DCgays #DC #feelinmyself #seeninshaw @\u2026 https://t.co/heWG9Cyyao", 
+                "created_at": "2015-09-22T00:34:05", 
+                "retweet_count": 0, 
+                "id": "646120245711781888", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.01853944, 
+                    38.78544509
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Capped off a great day with great company with an evening ride on the Ferris wheel at National\u2026 https://t.co/HZc7Npb9Lz", 
+                "created_at": "2015-09-20T03:18:32", 
+                "retweet_count": 0, 
+                "id": "645436853475274752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0182114, 
+                    38.9028091
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "C'mon @taylor_gourmet, even @starbucks gets the name \"Michael\" right! \ud83d\ude02 #whotheeffisthat @ Taylor\u2026 https://t.co/hXThIawhND", 
+                "created_at": "2015-09-09T00:22:50", 
+                "retweet_count": 0, 
+                "id": "641406370026287104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.02191667, 
+                    38.91113889
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I have #uno or two questions about what happened here! \ud83d\ude1c I'm so #punny \ud83d\ude02 #seeninshaw #DC @ Shaw,\u2026 https://t.co/UTluDpnyPG", 
+                "created_at": "2015-08-18T14:52:11", 
+                "retweet_count": 0, 
+                "id": "633652618502479872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.03445078, 
+                    38.91025516
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Didn't realize my new haircut would be so--how do I describe it?--Hitler's Youth-ish. \ud83d\ude02 #haircut\u2026 https://t.co/VvTT8ElVAR", 
+                "created_at": "2015-08-06T19:19:18", 
+                "retweet_count": 0, 
+                "id": "629371187655745536", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.01746348, 
+                    38.89766219
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Closest I might get to #thebeach all summer! \u2600\ufe0f #scruff #balls #DC #DCgays #instamood @ National\u2026 https://t.co/3q0eBoTYSQ", 
+                "created_at": "2015-08-05T22:19:45", 
+                "retweet_count": 0, 
+                "id": "629054211595104257", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0489248, 
+                    38.89431681
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Today, the #UnitedStates and #Cuba officially restored full diplomatic relations. As a symbol of our\u2026 https://t.co/VEvcW3FPIp", 
+                "created_at": "2015-07-20T13:22:05", 
+                "retweet_count": 0, 
+                "id": "623120694713389056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0217, 
+                    38.9119
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This tree is all of us the morning after. \ud83d\udca6\ud83c\udf34 #mess #drunk #hungover #instamood #instapicoftheday @\u2026 https://t.co/RrrCdXImph", 
+                "created_at": "2015-07-01T12:12:56", 
+                "retweet_count": 0, 
+                "id": "616217926027354112", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.02398077, 
+                    38.89671421
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The new normal for #rushhour on #metro. \ud83d\ude8a\ud83d\udeab #wmata #delay #redline #metrocenter #crowd #instamood\u2026 https://t.co/UhjVyXVJSK", 
+                "created_at": "2015-06-29T22:01:46", 
+                "retweet_count": 0, 
+                "id": "615641332783181824", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.01847633, 
+                    38.90940862
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "So proud today! \ud83c\udf08 #LoveWins #LGBT #Equality #SCOTUS #MarriageEquality #Marriage #scruff #Pride #gay\u2026 https://t.co/9SNZvBwakA", 
+                "created_at": "2015-06-26T21:59:44", 
+                "retweet_count": 0, 
+                "id": "614553657007296512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0217, 
+                    38.9119
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My #summer wardrobe has finally arrived! \u2600\ufe0f\ud83c\udfbd\u2600\ufe0f So excited! #SunsOutGunsOut #HillaryClinton\u2026 https://t.co/vfQuhlmXnb", 
+                "created_at": "2015-06-25T22:55:53", 
+                "retweet_count": 0, 
+                "id": "614205400557223936", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.04892401, 
+                    38.89431674
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A shot of Deputy Secretary Heather Higginbottom at today's Pride event hosted by GLIFAA. \ud83c\udf08 When will\u2026 https://t.co/e0bpumL82w", 
+                "created_at": "2015-06-05T22:17:45", 
+                "retweet_count": 0, 
+                "id": "606948047654928386", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.02191667, 
+                    38.91113889
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Today's mood. Too accurate. #instamood #ZeroFucks #GiveZeroFucks #ZeroFucksGiven #\ud83d\udeab\ud83d\udc49\ud83c\udffb\ud83d\udc4c\ud83c\udffb\u2026 https://t.co/urgqpEQLCj", 
+                "created_at": "2015-05-27T00:16:00", 
+                "retweet_count": 0, 
+                "id": "603353925601886208", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0512181, 
+                    38.93002594
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Otter cuddle puddle! Gay Day at the Zoo! #otter #otters #gay #gayday #zoo #instagay #instamood\u2026 https://t.co/oQCspLSdtV", 
+                "created_at": "2015-05-03T16:25:52", 
+                "retweet_count": 1, 
+                "id": "594900691795206146", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.022698, 
+                    38.915751
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy hour with this bish! \ud83c\udf78 #happyhour #tipsy #thisbish #scruff #instagay #instamood\u2026 https://t.co/i6TADZ4Q9Q", 
+                "created_at": "2015-04-24T00:31:45", 
+                "retweet_count": 0, 
+                "id": "591399088853278720", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985411, 
+                    40.757005
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 58821294.0, 
+                    "type": "yes", 
+                    "id": 610.0, 
+                    "name": "15X Tollgate"
+                }, 
+                {
+                    "osm_id": 108160358.0, 
+                    "type": "yes", 
+                    "id": 662.0, 
+                    "name": "Port Authority Bus Terminal"
+                }, 
+                {
+                    "osm_id": 163629929.0, 
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway"
+                }, 
+                {
+                    "osm_id": 265282692.0, 
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street"
+                }, 
+                {
+                    "osm_id": 266033991.0, 
+                    "type": "theatre", 
+                    "id": 93064.0, 
+                    "name": "American Airlines Theatre"
+                }, 
+                {
+                    "osm_id": 266034050.0, 
+                    "type": "yes", 
+                    "id": 93108.0, 
+                    "name": "Foxwoods Theatre"
+                }, 
+                {
+                    "osm_id": 266143341.0, 
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square"
+                }, 
+                {
+                    "osm_id": 266149373.0, 
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Vanya and Sonia and Masha and Spike! Hilarious show! http://t.co/bCNhzljHB5", 
+                "created_at": "2013-04-21T02:30:35", 
+                "retweet_count": 0, 
+                "id": "325798690914725888", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.994352, 
+                    40.754632
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 265272969.0, 
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend"
+                }, 
+                {
+                    "osm_id": 265272972.0, 
+                    "type": "yes", 
+                    "id": 88533.0, 
+                    "name": "National Comedy Theater"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I have no idea what I'm even prohibited from doing.... http://t.co/wTKW9Xi34b", 
+                "created_at": "2013-04-20T16:11:02", 
+                "retweet_count": 0, 
+                "id": "325642773598437376", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.928603, 
+                    39.021405
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Suck it neigh-sayers...they're delicious! #IKEA #meatballs http://t.co/LUZMupDcJk", 
+                "created_at": "2013-03-23T20:16:25", 
+                "retweet_count": 0, 
+                "id": "315557666711805952", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,5107 @@
+{
+    "total_favorite_count": 2126, 
+    "total_tweets": 258, 
+    "screen_name": "L99igor", 
+    "friends_count": 420, 
+    "followers_count": 340, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.42214303, 
+                    44.74744428
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kex enjoying this lovely weather @ Cerak, Breza https://t.co/wAcdLb71BC", 
+                "created_at": "2016-11-13T16:28:26", 
+                "retweet_count": 0, 
+                "id": "797838545314545665", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.43469126, 
+                    44.80766129
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Halloween mask 2 - drunk guy in #kafana starting a fight @ Gradska Kafana https://t.co/14hcWhXeZ7", 
+                "created_at": "2016-10-29T13:14:08", 
+                "retweet_count": 0, 
+                "id": "792353827240411136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.43469126, 
+                    44.80766129
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Halloween mask - a guy who goes to #Kafana @ Gradska Kafana https://t.co/YZRi65CLQ1", 
+                "created_at": "2016-10-29T13:03:46", 
+                "retweet_count": 0, 
+                "id": "792351217565433856", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.47384957, 
+                    44.81938943
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking to @ivanatodorovi 's birthday and a happy ending of eternal pursuit of her's new\u2026 https://t.co/Kq6BqbFMEN", 
+                "created_at": "2016-10-27T22:26:49", 
+                "retweet_count": 0, 
+                "id": "791768139671502848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4715, 
+                    44.7805
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Special performance by uprising stars \ud83d\udc6f\ud83c\udfb6\ud83d\udc83\ud83c\udffc #lanana #minirapunzels @ Vojvode Stepe https://t.co/4NTpUJwrFE", 
+                "created_at": "2016-10-22T14:49:40", 
+                "retweet_count": 0, 
+                "id": "789841152983851008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.39628983, 
+                    44.81518788
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Winners stand and losers... Well, losers have to kneel xD #paintball #level99 @ Paintball\u2026 https://t.co/METQBMfqpf", 
+                "created_at": "2016-10-21T13:58:32", 
+                "retweet_count": 0, 
+                "id": "789465897983434752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.42214303, 
+                    44.74744428
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My crew here as it pose to be #slava #slavarica #bigupsttoma @ Cerak, Breza https://t.co/t0dbGSPFxE", 
+                "created_at": "2016-10-20T21:44:26", 
+                "retweet_count": 0, 
+                "id": "789220758245502976", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4612999, 
+                    44.8227196
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Showing off that #swag #hotsauce @ Kalemegdan - Belgrade, Serbia https://t.co/GwLF3q0okp", 
+                "created_at": "2016-10-16T21:38:52", 
+                "retweet_count": 0, 
+                "id": "787769807928070145", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.42152405, 
+                    44.83033912
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Barjaktar ( the flag waver ) substitute.  But then, the real on shows up. Tune in to see what\u2026 https://t.co/PApWEOeBQl", 
+                "created_at": "2016-10-16T10:14:20", 
+                "retweet_count": 0, 
+                "id": "787597539172315137", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9758739, 
+                    40.68307281
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#eslone #krewella @ Barclays Center https://t.co/GkHmoW3pnf", 
+                "created_at": "2016-10-03T02:17:32", 
+                "retweet_count": 1, 
+                "id": "782766503435366401", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9758739, 
+                    40.68307281
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Getting ready for #eslone #csgo finals between NAVI and VirtusPro @ Barclays Center https://t.co/QxwWAuH4jX", 
+                "created_at": "2016-10-03T00:39:06", 
+                "retweet_count": 1, 
+                "id": "782741734178582529", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97472222, 
+                    40.78055556
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#photobomb level #trex #museumofnaturalhistory @ New York Museum of Natural History https://t.co/MC14jV1KlS", 
+                "created_at": "2016-10-02T02:26:21", 
+                "retweet_count": 0, 
+                "id": "782406334536937472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.977177, 
+                    40.76147952
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 137707119.0, 
+                    "type": "commercial", 
+                    "id": 697.0, 
+                    "name": "AXA Equitable Center"
+                }, 
+                {
+                    "osm_id": 146028965.0, 
+                    "type": "commercial", 
+                    "id": 760.0, 
+                    "name": "UBS Building"
+                }, 
+                {
+                    "osm_id": 146028962.0, 
+                    "type": "commercial", 
+                    "id": 774.0, 
+                    "name": "Calyon Building"
+                }, 
+                {
+                    "osm_id": 148251193.0, 
+                    "type": "apartments", 
+                    "id": 783.0, 
+                    "name": "Museum Tower"
+                }, 
+                {
+                    "osm_id": 163502865.0, 
+                    "type": "theatre", 
+                    "id": 855.0, 
+                    "name": "Winter Garden Theatre"
+                }, 
+                {
+                    "osm_id": 164720439.0, 
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place"
+                }, 
+                {
+                    "osm_id": 259748031.0, 
+                    "type": "commercial", 
+                    "id": 83607.0, 
+                    "name": "CBS Building"
+                }, 
+                {
+                    "osm_id": 265317886.0, 
+                    "type": "yes", 
+                    "id": 89363.0, 
+                    "name": "Hess"
+                }, 
+                {
+                    "osm_id": 265320987.0, 
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church"
+                }, 
+                {
+                    "osm_id": 265338414.0, 
+                    "type": "yes", 
+                    "id": 90287.0, 
+                    "name": "Belvedere Hotel"
+                }, 
+                {
+                    "osm_id": 265357840.0, 
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier"
+                }, 
+                {
+                    "osm_id": 266151919.0, 
+                    "type": "yes", 
+                    "id": 93244.0, 
+                    "name": "Saint Malachy Church"
+                }, 
+                {
+                    "osm_id": 266151934.0, 
+                    "type": "yes", 
+                    "id": 93256.0, 
+                    "name": "Hilton Garden Inn"
+                }, 
+                {
+                    "osm_id": 266170798.0, 
+                    "type": "yes", 
+                    "id": 93540.0, 
+                    "name": "The Michelangelo"
+                }, 
+                {
+                    "osm_id": 278346578.0, 
+                    "type": "museum", 
+                    "id": 100954.0, 
+                    "name": "Museum of Modern Art"
+                }, 
+                {
+                    "osm_id": 279410766.0, 
+                    "type": "yes", 
+                    "id": 102038.0, 
+                    "name": "NJ02 Savvis Data Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Something most people would call #art #moma #nyc #sverigeinusa \ud83c\uddfa\ud83c\uddf8 @ MoMA The Museum of Modern Art https://t.co/KhBXwifGJf", 
+                "created_at": "2016-10-01T15:07:50", 
+                "retweet_count": 0, 
+                "id": "782235580398723072", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00916646, 
+                    40.71082107
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309471.0, 
+                    "type": "yes", 
+                    "id": 631.0, 
+                    "name": "200 Liberty Street"
+                }, 
+                {
+                    "osm_id": 166839381.0, 
+                    "type": "construction", 
+                    "id": 883.0, 
+                    "name": "Three World Trade Center"
+                }, 
+                {
+                    "osm_id": 277919043.0, 
+                    "type": "apartments", 
+                    "id": 99124.0, 
+                    "name": "Gateway Plaza 100"
+                }, 
+                {
+                    "osm_id": 277921806.0, 
+                    "type": "yes", 
+                    "id": 99131.0, 
+                    "name": "Gateway Plaza 300"
+                }, 
+                {
+                    "osm_id": 278039465.0, 
+                    "type": "yes", 
+                    "id": 99253.0, 
+                    "name": "195 Broadway"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Splinter spotted \ud83d\udc00\ud83d\udc40 #subway #zoo #sverigeinusa \ud83c\uddfa\ud83c\uddf8 @ Fulton Street Subway Station. https://t.co/1BHulA6Cuw", 
+                "created_at": "2016-10-01T00:06:17", 
+                "retweet_count": 0, 
+                "id": "782008700076777472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97936699, 
+                    40.75906157
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 42496314.0, 
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building"
+                }, 
+                {
+                    "osm_id": 145341302.0, 
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza"
+                }, 
+                {
+                    "osm_id": 159912554.0, 
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I"
+                }, 
+                {
+                    "osm_id": 163465869.0, 
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building"
+                }, 
+                {
+                    "osm_id": 243088863.0, 
+                    "type": "yes", 
+                    "id": 9403.0, 
+                    "name": "One MiMA Tower"
+                }, 
+                {
+                    "osm_id": 258619240.0, 
+                    "type": "yes", 
+                    "id": 83555.0, 
+                    "name": "TKTS"
+                }, 
+                {
+                    "osm_id": 265299994.0, 
+                    "type": "yes", 
+                    "id": 88948.0, 
+                    "name": "Saint Raphael's Church"
+                }, 
+                {
+                    "osm_id": 265320169.0, 
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149330.0, 
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater"
+                }, 
+                {
+                    "osm_id": 266149327.0, 
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre"
+                }, 
+                {
+                    "osm_id": 266170541.0, 
+                    "type": "theatre", 
+                    "id": 93316.0, 
+                    "name": "Cort Theatre"
+                }, 
+                {
+                    "osm_id": 266170797.0, 
+                    "type": "yes", 
+                    "id": 93541.0, 
+                    "name": "Simon and Schuster Building"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }, 
+                {
+                    "osm_id": 279400339.0, 
+                    "type": "yes", 
+                    "id": 102026.0, 
+                    "name": "Sheraton"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Doesn't matter if we are on top of NYC or somewhere else, with her - the feeling remains the\u2026 https://t.co/eb2dwhvHqR", 
+                "created_at": "2016-09-30T14:22:31", 
+                "retweet_count": 0, 
+                "id": "781861788363153408", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98717257, 
+                    40.75823574
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 266034023.0, 
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower"
+                }, 
+                {
+                    "osm_id": 266033992.0, 
+                    "type": "church", 
+                    "id": 93102.0, 
+                    "name": "Holy Cross Church"
+                }, 
+                {
+                    "osm_id": 266149299.0, 
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre"
+                }, 
+                {
+                    "osm_id": 266149300.0, 
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre"
+                }, 
+                {
+                    "osm_id": 266149334.0, 
+                    "type": "theatre", 
+                    "id": 93215.0, 
+                    "name": "Shubert Theatre"
+                }, 
+                {
+                    "osm_id": 266149328.0, 
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hate musicals but #broadway trully is something special. 11yrs old kid is playing main role in\u2026 https://t.co/Wd7Whm2X7l", 
+                "created_at": "2016-09-29T18:38:06", 
+                "retweet_count": 0, 
+                "id": "781563721881706496", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98805, 
+                    40.74395
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974145.0, 
+                    "type": "yes", 
+                    "id": 546.0, 
+                    "name": "Davidson Lab"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 158973820.0, 
+                    "type": "residential", 
+                    "id": 806.0, 
+                    "name": "Hayden Hall"
+                }, 
+                {
+                    "osm_id": 248143769.0, 
+                    "type": "yes", 
+                    "id": 16851.0, 
+                    "name": "Flatiron Hotel"
+                }, 
+                {
+                    "osm_id": 248144148.0, 
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus"
+                }, 
+                {
+                    "osm_id": 264627643.0, 
+                    "type": "yes", 
+                    "id": 84268.0, 
+                    "name": "Pier 57"
+                }, 
+                {
+                    "osm_id": 264629195.0, 
+                    "type": "church", 
+                    "id": 84380.0, 
+                    "name": "Saint Peter's Church"
+                }, 
+                {
+                    "osm_id": 265038894.0, 
+                    "type": "yes", 
+                    "id": 87243.0, 
+                    "name": "Cathedral of St. Sava"
+                }, 
+                {
+                    "osm_id": 265038916.0, 
+                    "type": "apartments", 
+                    "id": 87262.0, 
+                    "name": "The Vanguard Chelsea"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thank you guys for showing us this amazing spot! And have fun in Vegas ^^ #nyc #rooftop\u2026 https://t.co/w3MJ22EqJq", 
+                "created_at": "2016-09-29T03:00:20", 
+                "retweet_count": 0, 
+                "id": "781327722270318592", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99818544, 
+                    40.7070729
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 40010489.0, 
+                    "type": "yes", 
+                    "id": 591.0, 
+                    "name": "One Seaport Plaza"
+                }, 
+                {
+                    "osm_id": 109337830.0, 
+                    "type": "yes", 
+                    "id": 672.0, 
+                    "name": "Federal Hall National Memorial"
+                }, 
+                {
+                    "osm_id": 232065148.0, 
+                    "type": "yes", 
+                    "id": 1182.0, 
+                    "name": "Communipaw Terminal"
+                }, 
+                {
+                    "osm_id": 277924004.0, 
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch"
+                }, 
+                {
+                    "osm_id": 278053471.0, 
+                    "type": "yes", 
+                    "id": 99275.0, 
+                    "name": "Adams Express Building"
+                }, 
+                {
+                    "osm_id": 278042253.0, 
+                    "type": "yes", 
+                    "id": 99291.0, 
+                    "name": "Goldilox Towers"
+                }, 
+                {
+                    "osm_id": 278053530.0, 
+                    "type": "yes", 
+                    "id": 99330.0, 
+                    "name": "\u7d10\u7d04\u8b49\u5238\u4ea4\u6613\u6240"
+                }, 
+                {
+                    "osm_id": 278053531.0, 
+                    "type": "yes", 
+                    "id": 99331.0, 
+                    "name": "New York Stock Exchange"
+                }, 
+                {
+                    "osm_id": 278053485.0, 
+                    "type": "yes", 
+                    "id": 99371.0, 
+                    "name": "One Exchange Plaza"
+                }, 
+                {
+                    "osm_id": 278053600.0, 
+                    "type": "yes", 
+                    "id": 99387.0, 
+                    "name": "1 Wall Street"
+                }, 
+                {
+                    "osm_id": 278069550.0, 
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory"
+                }, 
+                {
+                    "osm_id": 278067736.0, 
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire"
+                }, 
+                {
+                    "osm_id": 278084743.0, 
+                    "type": "yes", 
+                    "id": 99556.0, 
+                    "name": "Brooklyn Bridge Sightseeing"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Had to do it #brooklynbridge #nyc #sverigeinusa \ud83c\uddfa\ud83c\uddf8 @ The Brooklyn Bridge New York City https://t.co/JhFO7DLxZI", 
+                "created_at": "2016-09-27T22:45:31", 
+                "retweet_count": 0, 
+                "id": "780901207707615233", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9952551, 
+                    40.74408847
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974142.0, 
+                    "type": "yes", 
+                    "id": 543.0, 
+                    "name": "Schaefer Athletic Center"
+                }, 
+                {
+                    "osm_id": 26974145.0, 
+                    "type": "yes", 
+                    "id": 546.0, 
+                    "name": "Davidson Lab"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 182240450.0, 
+                    "type": "yes", 
+                    "id": 902.0, 
+                    "name": "Jacobus Lounge"
+                }, 
+                {
+                    "osm_id": 264629195.0, 
+                    "type": "church", 
+                    "id": 84380.0, 
+                    "name": "Saint Peter's Church"
+                }, 
+                {
+                    "osm_id": 376010260.0, 
+                    "type": "school", 
+                    "id": 126559.0, 
+                    "name": "The Hudson School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This city brings out the best in everyone #NewYork Where business meets fashion @ West Village,\u2026 https://t.co/3sUSEDYDeB", 
+                "created_at": "2016-09-23T03:16:40", 
+                "retweet_count": 0, 
+                "id": "779157508711735296", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.44487, 
+                    44.81862
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#wow #Legion Dzo dead @ Savamala https://t.co/frA0eFDeMf", 
+                "created_at": "2016-08-30T17:46:39", 
+                "retweet_count": 0, 
+                "id": "770679137963048960", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45143918, 
+                    44.81415132
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#WoW #Legion Midnight Sales Event @ Savamala https://t.co/rRDOy4C2EB", 
+                "created_at": "2016-08-29T22:00:16", 
+                "retweet_count": 0, 
+                "id": "770380574431256577", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.91474464, 
+                    43.48404478
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#fam over everything @ Ribnjak SALUS - Aleksandrovac https://t.co/JO94R5XNPR", 
+                "created_at": "2016-08-22T22:37:17", 
+                "retweet_count": 0, 
+                "id": "767853176380911616", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.8225, 
+                    43.269167
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Frank Ocean - Nature Feels @ Kopaonik https://t.co/W48nmPpajm", 
+                "created_at": "2016-08-20T19:23:56", 
+                "retweet_count": 0, 
+                "id": "767079741333602304", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45509588, 
+                    44.81786652
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Melting new and old #architecture @ Usko\u010dka 7 https://t.co/wpbQoahzVP", 
+                "created_at": "2016-08-19T13:20:59", 
+                "retweet_count": 0, 
+                "id": "766626014919286785", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4411, 
+                    44.7644
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Random beautiful tree @ Ko\u0161utnjak https://t.co/AcVO64DrBv", 
+                "created_at": "2016-08-13T15:27:19", 
+                "retweet_count": 0, 
+                "id": "764483478121480192", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.86850683, 
+                    45.24810667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#exitmagic #dancearena #nickyromero @ Exit Festival Dance Arena https://t.co/0CHcGKYjtk", 
+                "created_at": "2016-07-10T00:29:32", 
+                "retweet_count": 0, 
+                "id": "751936356834766848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.862165, 
+                    45.25216
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Caught in that  #exitmagic @ Exit Festival https://t.co/zmXHuIf2AP", 
+                "created_at": "2016-07-09T00:22:31", 
+                "retweet_count": 0, 
+                "id": "751572202408013824", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.42214303, 
+                    44.74744428
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dat #sundaychill with ma main dawg #kex @ Cerak, Breza https://t.co/PVlk46ihkf", 
+                "created_at": "2016-07-03T15:29:43", 
+                "retweet_count": 0, 
+                "id": "749626180291231744", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.42214303, 
+                    44.74744428
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Shits about to go down \ud83e\udd10 #niceweatherinserbia #fuckhaarp @ Cerak, Breza https://t.co/2VROLBMx5q", 
+                "created_at": "2016-06-27T16:09:45", 
+                "retweet_count": 0, 
+                "id": "747461926901399552", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.50873602, 
+                    44.77073526
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Felt good seeing some familiar faces ^^ #kojekralj congratz to redbullrs team for another\u2026 https://t.co/HFEvns5BHQ", 
+                "created_at": "2016-06-26T21:10:25", 
+                "retweet_count": 0, 
+                "id": "747175204800045056", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.5, 
+                    60.8333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "There is only one proper way to cook #moose #beef in #Sweden #sverigeusverige #foodporn @ V\u00e4rmland https://t.co/c8Xpcw4nyR", 
+                "created_at": "2016-06-11T11:24:13", 
+                "retweet_count": 0, 
+                "id": "741591866471272448", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.7167, 
+                    59.8833
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "3d @ Sunnemo https://t.co/9Zxr1B29bO", 
+                "created_at": "2016-06-09T13:23:13", 
+                "retweet_count": 0, 
+                "id": "740897036325752832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.67422122, 
+                    59.91777609
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Train your senses and live the moment #sverigeusverige @ Lidsbron Beach https://t.co/N7ltacNGXV", 
+                "created_at": "2016-06-08T16:16:04", 
+                "retweet_count": 0, 
+                "id": "740578147939291136", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.7167, 
+                    59.8833
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#dunkcontest #minirapunzel #sverigeusverige @ Sunnemo https://t.co/SXFB1wkYfe", 
+                "created_at": "2016-06-06T19:57:27", 
+                "retweet_count": 0, 
+                "id": "739909087127822336", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4649, 
+                    44.7832
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "An ultimate accessory for todays game - a Greek guy #Stavros #RedStarVSOlympiakos @ Marakana\u2026 https://t.co/ULA06dbf0c", 
+                "created_at": "2016-05-08T18:03:26", 
+                "retweet_count": 0, 
+                "id": "729371142792810498", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.85277778, 
+                    35.22583333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Today, life is good #keeppounding #panthersnation @ Bank of America Stadium https://t.co/8PvJ2IU6Pj", 
+                "created_at": "2016-05-04T13:28:20", 
+                "retweet_count": 0, 
+                "id": "727852363055304706", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4369226, 
+                    44.81527822
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I love having people experience Belgrade for the first time because it reminds me how amazing\u2026 https://t.co/533SOAOdnw", 
+                "created_at": "2016-04-28T10:06:07", 
+                "retweet_count": 0, 
+                "id": "725627144924192768", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.88333333, 
+                    52.36666667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The land of #windmills #netherlands @ Netherlands https://t.co/vUrRcIlBtD", 
+                "created_at": "2016-04-20T08:43:37", 
+                "retweet_count": 0, 
+                "id": "722707279175401472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.4883539, 
+                    51.8834551
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "G2 EU LCS champions #lol #lolesports #ahoy #rotterdam #eulcs @ Rotterdam Ahoy https://t.co/ipjpwxRiP2", 
+                "created_at": "2016-04-18T07:35:18", 
+                "retweet_count": 0, 
+                "id": "721965310371328000", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8922, 
+                    52.3731
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Random tit on the road because #amsterdam @ Amsterdam, Netherlands https://t.co/C71dvUMOvR", 
+                "created_at": "2016-04-15T10:33:18", 
+                "retweet_count": 0, 
+                "id": "720922945368010757", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8922, 
+                    52.3731
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Regular #amsterdam #night @ Amsterdam, Netherlands https://t.co/BpzYmPll4G", 
+                "created_at": "2016-04-14T09:10:23", 
+                "retweet_count": 0, 
+                "id": "720539688671567872", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.29182676, 
+                    44.81993721
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gate c4... This is either a bad sign or I've been playin too much video games lately @ Nikola\u2026 https://t.co/X3O2UsXX0g", 
+                "created_at": "2016-04-11T03:53:09", 
+                "retweet_count": 0, 
+                "id": "719372690310709248", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.42214533, 
+                    44.74743552
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "For an uncensored shirtless version of \"sexy gardener\" check out my website ;) @ Cerak, Breza https://t.co/jwbBAojTup", 
+                "created_at": "2016-04-09T12:04:56", 
+                "retweet_count": 1, 
+                "id": "718771675236605952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.475045, 
+                    44.772742
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My birthday girl &lt;3 @ Jove Ili\u0107a https://t.co/4sSm53TzLH", 
+                "created_at": "2016-04-02T13:49:44", 
+                "retweet_count": 0, 
+                "id": "716261337140166656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4577892, 
+                    44.82021718
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Need that coffee bad @ Kafeterija Studentski Trg https://t.co/UJCVBbb6kf", 
+                "created_at": "2016-03-28T11:03:31", 
+                "retweet_count": 0, 
+                "id": "714407566588125184", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4454201, 
+                    44.81822558
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Back at it again @ Dragstor Play https://t.co/aJu7kMZ8QU", 
+                "created_at": "2016-03-27T00:35:10", 
+                "retweet_count": 0, 
+                "id": "713887048483078144", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.46232875, 
+                    44.82047824
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Octopus enjoying #belgrade #nightlife @ Blaznavac Kafe-bar https://t.co/Xgp9IDk7VC", 
+                "created_at": "2016-03-26T21:55:31", 
+                "retweet_count": 0, 
+                "id": "713846873115779072", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.7175, 
+                    44.6722
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "6 years ago... this happened #facebookmemories art by @matalive @ Grocka https://t.co/dH23J8Ojma", 
+                "created_at": "2016-03-15T17:36:22", 
+                "retweet_count": 0, 
+                "id": "709795389738766337", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4752864, 
+                    44.7847625
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sunday with baby Rapunzel \ud83c\udf80\ud83d\udeb2 @ Vozdovacki Park https://t.co/yD6arVInRK", 
+                "created_at": "2016-03-13T20:47:23", 
+                "retweet_count": 0, 
+                "id": "709118683168296960", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.02505624, 
+                    50.26639475
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Energy overload. My first #esports event, and its FUCKING AMAZING! #iem #katowice #esl @ Spodek\u2026 https://t.co/rfMgU6PKoE", 
+                "created_at": "2016-03-05T17:02:54", 
+                "retweet_count": 0, 
+                "id": "706163086940639232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.29182676, 
+                    44.81993721
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This is gonna be a loooong day #gotime #iem #katowice #omw @ Nikola Tesla airport, Belgrade Serbia https://t.co/XZBTAcGKxf", 
+                "created_at": "2016-03-04T12:27:42", 
+                "retweet_count": 0, 
+                "id": "705731443423580165", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.4386687, 
+                    41.78088558
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First, you must become one with the board and then you make sweet love to the mountain #bansko\u2026 https://t.co/Zer5dGNrLt", 
+                "created_at": "2016-02-28T16:43:10", 
+                "retweet_count": 0, 
+                "id": "703983795314290689", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.4386687, 
+                    41.78088558
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "On the 9th cloud @ bansko with rapunzel the bad ass boarder #bulgaria #bansko @ Bansko Ski Center https://t.co/JuDFqk9hdR", 
+                "created_at": "2016-02-27T15:03:13", 
+                "retweet_count": 0, 
+                "id": "703596254522163201", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.4386687, 
+                    41.78088558
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Boar game lit \u2744\u2744\u2744\ud83c\udfc2\ud83d\udd25\ud83d\udd25\ud83d\udd25 #bulgaria #bansko @ Bansko Ski Center https://t.co/8njBeJ2Kow", 
+                "created_at": "2016-02-26T19:13:52", 
+                "retweet_count": 0, 
+                "id": "703296942688903168", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.446872, 
+                    41.7771296
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#2chainz bulgarian style #bansko #bulgaria #skitrip @savicjelenaa @aandrejevic\u2026 https://t.co/2GcBsPAdqM", 
+                "created_at": "2016-02-26T15:34:29", 
+                "retweet_count": 1, 
+                "id": "703241733287579648", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.48796225, 
+                    41.84323661
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A very strange feeling of enjoying work even on your vacay #level99 @ Grand Hotel Bansko https://t.co/QRjn6FB7Hq", 
+                "created_at": "2016-02-23T16:49:52", 
+                "retweet_count": 0, 
+                "id": "702173540053868544", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.07951988, 
+                    44.34356187
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Perfect way to start a #roadtrip #crew #mcdonalds #imlovinit #roadtobansko @ McDonald's - Velika\u2026 https://t.co/TkRb023Mje", 
+                "created_at": "2016-02-22T10:20:21", 
+                "retweet_count": 0, 
+                "id": "701713125637275648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.81145228, 
+                    43.2844128
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Shitty weather results in too many pics xD #keeppoinding when it matters the most @ Kopaonik\u2026 https://t.co/EekgWwGdGE", 
+                "created_at": "2016-02-15T16:16:57", 
+                "retweet_count": 0, 
+                "id": "699266152556527617", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.81145228, 
+                    43.2844128
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last day in the #office #kopaonik #serbia @ Kopaonik  Ski Center https://t.co/s7Vhu2EksG", 
+                "created_at": "2016-02-15T13:00:35", 
+                "retweet_count": 0, 
+                "id": "699216736441208832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.42666667, 
+                    44.795
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Keep going forward, but its good to look back from time to time... especially when you're\u2026 https://t.co/6gUYFJoA6r", 
+                "created_at": "2016-02-11T17:48:49", 
+                "retweet_count": 0, 
+                "id": "697839721075077121", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.0, 
+                    42.1167
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Squad lookin mighty fine on dem slopes #borovets #bulgaria #squadgoals @ Borovets Ski Resort,\u2026 https://t.co/KkFNNTrqS2", 
+                "created_at": "2016-01-23T16:32:26", 
+                "retweet_count": 0, 
+                "id": "690935128609177600", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.0, 
+                    42.1167
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you dont aim too high then you aimed too low #bulgaria #borovets #represent #keeppounding\u2026 https://t.co/MRY7Z1QnTW", 
+                "created_at": "2016-01-22T15:09:40", 
+                "retweet_count": 0, 
+                "id": "690551914648440832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.60580321, 
+                    42.26530176
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Skiing and all the beautiful things that go along with it ^^ #borovets #bulgaria #skitrip @\u2026 https://t.co/66pIkr226p", 
+                "created_at": "2016-01-20T15:07:56", 
+                "retweet_count": 0, 
+                "id": "689826701178716160", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.60580321, 
+                    42.26530176
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Stairway to heaven #borovets #bulgaria #skilift @ Borovets Ski Resort, Bulgaria https://t.co/2oQdyhvFlR", 
+                "created_at": "2016-01-19T16:58:06", 
+                "retweet_count": 0, 
+                "id": "689492036601274369", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.60580321, 
+                    42.26530176
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fun fun @ Borovets Ski Resort, Bulgaria https://t.co/RfYhPv6wxK", 
+                "created_at": "2016-01-18T19:46:33", 
+                "retweet_count": 0, 
+                "id": "689172040960602112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.3731, 
+                    48.2083
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Chill with the sqad Vienna style @ Vienna, Austria https://t.co/u43eVRgK5o", 
+                "created_at": "2016-01-16T20:16:38", 
+                "retweet_count": 0, 
+                "id": "688454835495170049", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45584624, 
+                    44.81655724
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The finest #ribz in town @ RIB'Z / grill &amp; booze https://t.co/tN1s9yGj5T", 
+                "created_at": "2016-01-09T19:24:29", 
+                "retweet_count": 0, 
+                "id": "685904995192037376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.42219159, 
+                    44.74729568
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Only one guy I know likes snow more then me @ Cerak, Breza https://t.co/Cry7Rs9GTu", 
+                "created_at": "2016-01-05T15:00:59", 
+                "retweet_count": 0, 
+                "id": "684389133507248128", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.8225, 
+                    43.269167
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Had to see this pic on my cellphone to see the view I was missiong out while I was looking at my\u2026 https://t.co/aVwp878Nlm", 
+                "created_at": "2016-01-02T21:40:01", 
+                "retweet_count": 0, 
+                "id": "683402389647421444", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.42219159, 
+                    44.74729568
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Jos jedna jelka u kuci @ Cerak, Breza https://t.co/Jq28uM5pxx", 
+                "created_at": "2015-12-28T15:24:56", 
+                "retweet_count": 1, 
+                "id": "681496057826652161", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97472222, 
+                    40.78055556
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#tbt to time I got to spend with my fav dino #triceratops @ New York Museum of Natural History https://t.co/eXQeJDaxxb", 
+                "created_at": "2015-12-24T21:53:42", 
+                "retweet_count": 0, 
+                "id": "680144341713707012", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45654123, 
+                    44.81809454
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sharing the #christmasspirit \nphoto by _hamato_yoshi_ @ Knez Mihailova https://t.co/ToQhMrwRiO", 
+                "created_at": "2015-12-14T22:09:50", 
+                "retweet_count": 0, 
+                "id": "676524525559918592", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.47434999, 
+                    44.82126882
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#nicolasjaar #belgrade @ Hangar, Luka Beograd https://t.co/a6oPBnB0a3", 
+                "created_at": "2015-11-14T01:34:58", 
+                "retweet_count": 0, 
+                "id": "665342122858430464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.50805556, 
+                    44.7725
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#boardgames #cranium #action #doggystyle @ Medakovi\u0107 https://t.co/zfY9FKedLd", 
+                "created_at": "2015-11-12T21:24:56", 
+                "retweet_count": 0, 
+                "id": "664916812497309696", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4622, 
+                    44.8206
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's Sunday finnally! We ready for #GBvsCAR #carolinapanthers #panthersnation #KeepPounding\u2026 https://t.co/MkpsN3BZ5B", 
+                "created_at": "2015-11-08T16:53:54", 
+                "retweet_count": 0, 
+                "id": "663399053288427520", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.41343621, 
+                    44.84536358
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nije mi svejedno @ Zemunska Pijaca https://t.co/NByJQ9np5T", 
+                "created_at": "2015-11-06T22:42:23", 
+                "retweet_count": 0, 
+                "id": "662761976456724480", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4454201, 
+                    44.81822558
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#belgrade #nightlife #play #discoball @ Dragstor Play https://t.co/Ffa4MPgNrT", 
+                "created_at": "2015-11-01T00:29:30", 
+                "retweet_count": 0, 
+                "id": "660614604599480320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.435, 
+                    44.76666667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Make the most out of each day #autumn #kosutnjak #sverigenajesen #Panthers #win #gloriusday @ Ko\u0161utnjak https://t.co/DP2efKeNWF", 
+                "created_at": "2015-10-26T15:36:30", 
+                "retweet_count": 1, 
+                "id": "658668531555422209", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.38282098, 
+                    44.78060805
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Smokvica, Ada Ciganlija https://t.co/HcTErLHa55", 
+                "created_at": "2015-10-20T13:26:41", 
+                "retweet_count": 0, 
+                "id": "656461535934595072", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.44423997, 
+                    44.82030882
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Some real clubbing going down with @matalive @ Dragstor Play Splav https://t.co/o4B7Fb1Ids", 
+                "created_at": "2015-10-18T02:52:14", 
+                "retweet_count": 0, 
+                "id": "655577095213621248", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.48071792, 
+                    44.76467441
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Not an average rear mirror view #danube #silverlake #serbia @ Srebrno jezero https://t.co/jpfJmT5f4C", 
+                "created_at": "2015-10-08T15:53:31", 
+                "retweet_count": 0, 
+                "id": "652149836125306880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.47998458, 
+                    44.7645415
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Samo #bolidi . @ Silver Lake Resort https://t.co/e6Lb2mRGhC", 
+                "created_at": "2015-10-07T10:05:00", 
+                "retweet_count": 0, 
+                "id": "651699739839361028", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.35426577, 
+                    36.80887098
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Step aside children, I will show you how its done #turkey #side #aquapark #sverigeuturskoj @ Hotel\u2026 https://t.co/N23OHQAnpU", 
+                "created_at": "2015-10-03T16:51:59", 
+                "retweet_count": 0, 
+                "id": "650352606775259137", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.35426577, 
+                    36.80887098
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tiene sentido #beer #turkey #side #sverigeuturskoj @ Hotel Dream World Aqua https://t.co/GP31c7izs9", 
+                "created_at": "2015-10-01T19:18:12", 
+                "retweet_count": 0, 
+                "id": "649664631338889216", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.35618493, 
+                    36.80379219
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When in Turkey... you know what to do #shisha #turkey #side #sverigeuturskoj @ Eser Bar https://t.co/rZm0qYgiOT", 
+                "created_at": "2015-09-29T18:17:02", 
+                "retweet_count": 0, 
+                "id": "648924462423871488", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.35076661, 
+                    36.80861224
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fear of missing out football #fomof #nfl #keeppounding #panthersnation #turkey #side @ Dream World Aqua https://t.co/Z6G7QoFUnm", 
+                "created_at": "2015-09-28T07:20:04", 
+                "retweet_count": 0, 
+                "id": "648396741725814784", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.35426577, 
+                    36.80887098
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Need more days like this #turkey #side #dreamworld @ Hotel Dream World Aqua https://t.co/yjE0tz5IeO", 
+                "created_at": "2015-09-27T15:33:50", 
+                "retweet_count": 0, 
+                "id": "648158614293753856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.35426577, 
+                    36.80887098
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Let the #vacation begin #turkey #side @ Hotel Dream World Aqua https://t.co/lHGmi1vzS1", 
+                "created_at": "2015-09-26T18:48:50", 
+                "retweet_count": 0, 
+                "id": "647845301814992896", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.68728793, 
+                    44.44619377
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kobaya crew #bbq @ Mladenovac City https://t.co/JtjD1f8HCx", 
+                "created_at": "2015-09-05T15:39:51", 
+                "retweet_count": 0, 
+                "id": "640187596757422080", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.68728793, 
+                    44.44619377
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nije lose za jednu subotu #pool #chill #beer srbski san @ Mladenovac City https://t.co/JWGIktBerx", 
+                "created_at": "2015-09-05T15:27:33", 
+                "retweet_count": 0, 
+                "id": "640184498857082880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4196491, 
+                    44.8301506
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Impose your will @ Belgrade Beer Fest https://t.co/XvpFZf4I7Y", 
+                "created_at": "2015-08-23T21:55:05", 
+                "retweet_count": 0, 
+                "id": "635570983659769856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4196491, 
+                    44.8301506
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kraak and Smaak #beerfest #belgrade @ Belgrade Beer Fest https://t.co/RRg0UKTVei", 
+                "created_at": "2015-08-23T17:27:48", 
+                "retweet_count": 0, 
+                "id": "635503718868348928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4196491, 
+                    44.8301506
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#rotate #beerfest #belgrade #rogersanchez @ Belgrade Beer Fest https://t.co/dNS3HbhCVq", 
+                "created_at": "2015-08-19T23:05:46", 
+                "retweet_count": 0, 
+                "id": "634139221050171392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.38282098, 
+                    44.78060805
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#afterwork #chill @ Smokvica, Ada Ciganlija https://t.co/bSJvBZ0h3Z", 
+                "created_at": "2015-08-18T18:16:40", 
+                "retweet_count": 0, 
+                "id": "633704076321157120", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.42797118, 
+                    44.80441482
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My new ride #unlimityourself @ GTC https://t.co/Ti2r1ql6in", 
+                "created_at": "2015-08-11T10:42:53", 
+                "retweet_count": 0, 
+                "id": "631053166268817408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.89141398, 
+                    43.61458496
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#samorejv @ Lovefest https://t.co/x45OxCdaiT", 
+                "created_at": "2015-08-08T21:13:14", 
+                "retweet_count": 0, 
+                "id": "630124633786843136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.89141398, 
+                    43.61458496
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Blue tunel vision @ Lovefest https://t.co/yXIjDHGCnC", 
+                "created_at": "2015-08-07T20:34:00", 
+                "retweet_count": 0, 
+                "id": "629752371074236416", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.89141398, 
+                    43.61458496
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#poolparty #lovefest2015 @ Lovefest https://t.co/YjWX3JxvYf", 
+                "created_at": "2015-08-07T14:13:37", 
+                "retweet_count": 0, 
+                "id": "629656644687953920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.41638616, 
+                    44.73991821
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Feels good to be back in the #gym even if its for #pilates @ Athletic's Gym - Garden Centar https://t.co/qlg1w4limh", 
+                "created_at": "2015-08-05T17:38:05", 
+                "retweet_count": 0, 
+                "id": "628983327568084992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45197519, 
+                    44.825591
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#word @ Terassa Lounge https://t.co/f461a2Dx2t", 
+                "created_at": "2015-08-01T23:12:56", 
+                "retweet_count": 0, 
+                "id": "627618044097990656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.43509799, 
+                    44.81115341
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Its always a good time for #salsa @ Smokvica Savograd https://t.co/lmIW53xoNU", 
+                "created_at": "2015-07-30T16:24:09", 
+                "retweet_count": 0, 
+                "id": "626790394752299008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.88652499, 
+                    45.1462536
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#sunset #danube #vukovar @ Vukovar Dunav https://t.co/R8PLvI82L9", 
+                "created_at": "2015-07-27T14:52:13", 
+                "retweet_count": 0, 
+                "id": "625680092312825856", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.29229215, 
+                    45.10045763
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I hate mondays ! ^^ @ Bazeni Horizont https://t.co/Z5Ab7IWnST", 
+                "created_at": "2015-07-20T15:10:32", 
+                "retweet_count": 0, 
+                "id": "623147989218000896", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.86836811, 
+                    45.24821601
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#exitfest2015 #dancearena #rightnow #garrix @ Exit Festival Dance Arena https://t.co/ZjaQ4nD7mU", 
+                "created_at": "2015-07-12T00:58:37", 
+                "retweet_count": 0, 
+                "id": "620034492674220034", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.86836811, 
+                    45.24821601
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Welcome to the #dancearena #chrisliebing #exitfest2015 @ Exit Festival Dance Arena https://t.co/Dge1uNCrhb", 
+                "created_at": "2015-07-10T00:19:41", 
+                "retweet_count": 0, 
+                "id": "619299921011810304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.86153086, 
+                    45.2527869
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We here! #exit2015 #unlimityourself @ Petrovaradinska Tvr\u0111ava https://t.co/wugZX1XFXc", 
+                "created_at": "2015-07-09T17:56:00", 
+                "retweet_count": 0, 
+                "id": "619203360537870339", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.83608849, 
+                    45.36471178
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#sundaychill with @savicjelenaa @ Savi\u0107's Sala\u0161 https://t.co/M7wA537TiF", 
+                "created_at": "2015-07-05T17:42:01", 
+                "retweet_count": 1, 
+                "id": "617750290587103232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.83376679, 
+                    45.30533378
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Neko je posadio rode odmah pored Mega Rodica. Odusevljen sam ovim marketinskim trikom! #vraticeserode\u2026 https://t.co/hVGPWBFQUD", 
+                "created_at": "2015-07-05T16:14:59", 
+                "retweet_count": 0, 
+                "id": "617728390922149888", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.47318348, 
+                    44.80068011
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Let's explore!\" #babyrapunzel @ Salas 137 https://t.co/y7kxE9G8Pe", 
+                "created_at": "2015-06-30T18:48:22", 
+                "retweet_count": 0, 
+                "id": "615955051417333761", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.40472757, 
+                    44.80552833
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "So happy Im finally watching new #JurasicPark ^.^ @ Cineplexx Delta City https://t.co/WwtjyYfMWy", 
+                "created_at": "2015-06-28T14:52:38", 
+                "retweet_count": 0, 
+                "id": "615170951647506436", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.6067, 
+                    44.5675
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#priroda i #drustvo i #burgeri @ Popovic https://t.co/abwfQ5zD4i", 
+                "created_at": "2015-06-27T13:45:15", 
+                "retweet_count": 0, 
+                "id": "614791605212573700", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.44550593, 
+                    44.80942722
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sometimes all you need is a #hug #volimleto #redbull @ Freestyler Belgrade Night Club https://t.co/l5AgLGUZUv", 
+                "created_at": "2015-06-22T12:25:54", 
+                "retweet_count": 0, 
+                "id": "612959694819344385", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45806988, 
+                    44.81930481
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#chesterfield #filmstreetfestival #starwars #forceisstrong @ Studentski Park https://t.co/Qk9TJ2wmzq", 
+                "created_at": "2015-06-12T20:51:10", 
+                "retweet_count": 0, 
+                "id": "609462970175909888", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.50873602, 
+                    44.77073526
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#kojekralj saznacemo ovog vikenda. Ja sigurno nisam ali to me ne sprecava da ispoziram ko car u\u2026 https://t.co/jMd6bbmZwV", 
+                "created_at": "2015-06-12T16:32:21", 
+                "retweet_count": 0, 
+                "id": "609397837953155072", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.39946042, 
+                    44.79576054
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Imam kancelariju sa najboljim pogledom #officeday #dajetikrila #marlboro #splavcorso @ Splav Corso /\u2026 https://t.co/ZogguUZVq2", 
+                "created_at": "2015-06-11T15:44:23", 
+                "retweet_count": 0, 
+                "id": "609023381749571584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.46861308, 
+                    41.90928377
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "And the best is yet to come... #anniversary #sverigeurimu @ Piazza De Poppolo https://t.co/pnGwFHMPps", 
+                "created_at": "2015-05-25T11:53:33", 
+                "retweet_count": 0, 
+                "id": "602804694952628224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.48284029, 
+                    41.89537388
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My fav buidling and my fav gal #sverigeurimu #rome @ Altare della Patria https://t.co/7rPQXkY8Iz", 
+                "created_at": "2015-05-24T12:16:26", 
+                "retweet_count": 0, 
+                "id": "602448064775749632", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.47660989, 
+                    41.9102588
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Citt\u00e0 Etterna #rome #sverigeurimu @ Piazza del Popolo https://t.co/QlBkob19jV", 
+                "created_at": "2015-05-23T17:49:58", 
+                "retweet_count": 0, 
+                "id": "602169615842705409", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.4762193, 
+                    41.90926784
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Welcome to Rome \ud83d\ude0d\ud83c\udf55 #pizza #rome #sverigeurimu #machedici @ PizzaR\u00e9 https://t.co/DtIEIXgtd0", 
+                "created_at": "2015-05-23T15:17:38", 
+                "retweet_count": 0, 
+                "id": "602131276657729536", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45835628, 
+                    44.77824143
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Zahvalnica za moj rad i delo u vidu ex-yu vinyl diggers ploce od legende Red Bulla licno. A tu je i\u2026 https://t.co/lK4f96oQ4E", 
+                "created_at": "2015-05-19T16:40:22", 
+                "retweet_count": 0, 
+                "id": "600702547083599872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.34900744, 
+                    44.60419941
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@savicjelenaa in pursuit of happiness \ud83c\udf84\ud83d\udd0e\ud83c\udf40 @ Vrani\u0107 https://t.co/rHWSUVpO5K", 
+                "created_at": "2015-05-17T18:21:49", 
+                "retweet_count": 1, 
+                "id": "600003300491137024", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.34900744, 
+                    44.60419941
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A proper way to end the week #bbq #family @ Vrani\u0107 https://t.co/H8kDktDYVX", 
+                "created_at": "2015-05-17T16:32:53", 
+                "retweet_count": 0, 
+                "id": "599975890051833856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.84026112, 
+                    45.36676149
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sunday #rehab @ salas137 @ Sala\u0161 137 https://t.co/6itV25vVL9", 
+                "created_at": "2015-05-10T18:59:29", 
+                "retweet_count": 0, 
+                "id": "597476067717296128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.44508848, 
+                    44.8084096
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last night we had a few drinks \ud83d\ude0a#redbull #philipmorris #heineken #Repost jekic_anja @ Splav 94 https://t.co/vWS3LutKDu", 
+                "created_at": "2015-05-10T17:00:11", 
+                "retweet_count": 0, 
+                "id": "597446045379985408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.84026112, 
+                    45.36676149
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A perfect day to recharge my batteries @ Sala\u0161 137 https://t.co/TQMM4GBbpU", 
+                "created_at": "2015-05-01T18:58:46", 
+                "retweet_count": 0, 
+                "id": "594214394189488129", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.46255405, 
+                    44.81553903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last day of the Resonate Festival #resonate #res15 #redbull #belgrade @ Dom Omladine Beograda https://t.co/JZ2Jqsphvh", 
+                "created_at": "2015-04-18T20:22:44", 
+                "retweet_count": 0, 
+                "id": "589524482932482049", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.48949416, 
+                    44.81919972
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#belgrade #resonate @ Drugstore Beograd https://t.co/7xSRhdKDGJ", 
+                "created_at": "2015-04-14T20:46:49", 
+                "retweet_count": 0, 
+                "id": "588080991564128260", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.52802058, 
+                    44.7538643
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sunce i more...makar na slici #lefkada #greece #summer @ Lefkada, Greece https://t.co/udaKJJxYle", 
+                "created_at": "2015-03-28T11:14:54", 
+                "retweet_count": 1, 
+                "id": "581776472915996672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45468982, 
+                    44.81846912
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Za ozbiljnu glavu, ozbiljan burger #bratzna #kobniburger #burgerhouse #petarmakedonski @ Burger House https://t.co/pgBdtQ4wz4", 
+                "created_at": "2015-03-20T15:19:57", 
+                "retweet_count": 0, 
+                "id": "578939036422766592", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.44487, 
+                    44.81862
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "What to drink tonight?  Propper way to start a #weekend on #thursday @ Savamala https://t.co/MTFFrBivnK", 
+                "created_at": "2015-03-19T21:05:35", 
+                "retweet_count": 0, 
+                "id": "578663633099595776", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.69888019, 
+                    47.22026555
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I knew I was going on this slope but not on my second day of snowboarding in my life! When a student\u2026 https://t.co/jtjcdBMnR5", 
+                "created_at": "2015-03-06T19:35:31", 
+                "retweet_count": 0, 
+                "id": "573929923577950208", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.6892563, 
+                    47.20849005
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Good morning guys \ud83d\ude0e @ Kitzsteinhorn https://t.co/PX9lR5btbD", 
+                "created_at": "2015-03-06T08:56:36", 
+                "retweet_count": 0, 
+                "id": "573769136355979264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.68971041, 
+                    47.2090403
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Oh yeah, I can snowboard too! Superthanks to my bro coming straight from the Nis brka_nis #southside\u2026 https://t.co/dyMbLGaNRb", 
+                "created_at": "2015-03-05T19:05:01", 
+                "retweet_count": 0, 
+                "id": "573559861998456832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.68971041, 
+                    47.2090403
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Time to turn it up! #alps #austria #kaprun #elan #amphibio #wackysheep #ski @ Kitzsteinhorn, Kaprun https://t.co/tY2v4Cr9mN", 
+                "created_at": "2015-03-04T16:51:20", 
+                "retweet_count": 0, 
+                "id": "573163828105617408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.77126304, 
+                    47.29650084
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Perfect day at the slopes. Only thing thats missing is a Milka cow #zelamsee #austria #ski @ Zeel Am See https://t.co/mOZFcnWQfb", 
+                "created_at": "2015-03-03T19:43:42", 
+                "retweet_count": 1, 
+                "id": "572844818889646081", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45097384, 
+                    44.81342212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Awesome party #tbt #rbma #rbmaonair #clubnight #mikserfestival #egyptianlover \ud83d\udcf7 djurafiskultura @\u2026 https://t.co/1RjOIaVSBq", 
+                "created_at": "2015-02-26T19:07:28", 
+                "retweet_count": 0, 
+                "id": "571023760192606208", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4722544, 
+                    44.82320101
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Green laser eyes #bowdown #kptm #blacklight #lasers @ KPTM http://t.co/LT3OKGbFMF", 
+                "created_at": "2015-02-21T02:25:37", 
+                "retweet_count": 0, 
+                "id": "568959697736355840", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4722544, 
+                    44.82320101
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Laser green eyes #bowdown #kptm #blacklight @ KPTM http://t.co/KQbAa9Gb47", 
+                "created_at": "2015-02-21T02:20:32", 
+                "retweet_count": 0, 
+                "id": "568958417844498432", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.9897, 
+                    44.1556
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "In \ud83d\udc99 with \u2744 #smith #wackysheep #oneil #kopaonik @ Kr\u010dmar http://t.co/KruWgE4iMH", 
+                "created_at": "2015-02-17T12:42:36", 
+                "retweet_count": 0, 
+                "id": "567665417234427904", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.833555, 
+                    43.320869
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Payback is a bitch @ Gobelja, Kopaonik http://t.co/Od2U0SedqG", 
+                "created_at": "2015-02-17T11:04:09", 
+                "retweet_count": 0, 
+                "id": "567640642088873984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.84610506, 
+                    43.32103893
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Odabrana ekipica @ Pancicev vrh http://t.co/1sRDCavRHx", 
+                "created_at": "2015-02-15T16:18:05", 
+                "retweet_count": 0, 
+                "id": "566994867398918144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.8225, 
+                    43.269167
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Time to see what these can do #elan #amphibio #kopaonik #ski #winter @ Pan\u010di\u0107's Peak http://t.co/41VKxYpSfY", 
+                "created_at": "2015-02-15T13:12:53", 
+                "retweet_count": 0, 
+                "id": "566948261546962944", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.64640149, 
+                    43.67095449
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#zlatibor #serbia #tornik #winter @ Ski centar \"Tornik\" http://t.co/Arhsdx8mi0", 
+                "created_at": "2015-02-12T14:29:09", 
+                "retweet_count": 0, 
+                "id": "565880292750426112", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4164344, 
+                    44.7518884
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Welcome home babies &lt;3 #elan #amphibio #ski This is gonna be the best winter ever! \ud83d\udcf7 @savicjelenaa @\u2026 http://t.co/kEQYm3qjHr", 
+                "created_at": "2015-02-10T20:30:51", 
+                "retweet_count": 0, 
+                "id": "565246539736834051", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45145572, 
+                    44.81395281
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#mikser #designmarket #skrabac i #redbull @ Mikser Beograd http://t.co/9QRgWbkAys", 
+                "created_at": "2015-02-01T12:12:44", 
+                "retweet_count": 0, 
+                "id": "561859693807927298", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.89766515, 
+                    43.32056348
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Iz Nisa se vracamo mnogo zajebaniji #artofmusketeering #redbullsrb #zajebanaekipa #nis #onpremise @\u2026 http://t.co/VKEojjtvf4", 
+                "created_at": "2015-01-31T11:37:18", 
+                "retweet_count": 0, 
+                "id": "561488390500413440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.44821434, 
+                    44.81942418
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nom nom @ TORO Latin GastroBar http://t.co/DPn0BhbcVB", 
+                "created_at": "2015-01-22T18:53:44", 
+                "retweet_count": 0, 
+                "id": "558336731721007104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.39586067, 
+                    44.78884066
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Ada Ciganlija in Belgrade, Srbija https://t.co/n7GtCUrGfd http://t.co/uWoURWN9KL", 
+                "created_at": "2015-01-18T12:10:36", 
+                "retweet_count": 0, 
+                "id": "556785727246454784", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.46027928, 
+                    44.81599546
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#sunny #belgrade #winter @ Trg Republike http://t.co/ejEVfnqVIB", 
+                "created_at": "2015-01-16T16:59:39", 
+                "retweet_count": 0, 
+                "id": "556133694025785344", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.41638582, 
+                    44.75176658
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Welcome to the home of rap Gods #tbt #barclayscenter #brooklyn #nets #roc @ Barclays Center, Brooklyn http://t.co/L8mPg32hpa", 
+                "created_at": "2014-12-25T19:31:24", 
+                "retweet_count": 0, 
+                "id": "548199350317645824", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45082042, 
+                    44.81493006
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drugari, ne stignem uvek da vam javim za sva kul desavanja koja organizujem ali sada sve to mozete\u2026 http://t.co/5rYTGACVYQ", 
+                "created_at": "2014-12-15T18:22:45", 
+                "retweet_count": 1, 
+                "id": "544558193868046337", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4769804, 
+                    44.7924107
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@savicjelenaa kada shvati da moramo nazad u Beograd #kopaonik #winter #angrybirds @ Hotel \"Grand\"\u2026 http://t.co/qGiaURE1fL", 
+                "created_at": "2014-12-11T23:40:01", 
+                "retweet_count": 1, 
+                "id": "543188484090232834", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.46637227, 
+                    44.81806652
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Prosle godine je mikstura Red Bulla, Jegera, likera od breskve i soka pomorandze bila apsolutni hit.\u2026 http://t.co/bzQfAQ1Viq", 
+                "created_at": "2014-11-12T18:30:49", 
+                "retweet_count": 2, 
+                "id": "532601426284130305", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4641819, 
+                    44.80629009
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Wassup wassup #bcone #skc #belgrade @ SKC - Studenski Kulturni Centar http://t.co/2m5eCkJLmW", 
+                "created_at": "2014-03-29T16:10:38", 
+                "retweet_count": 0, 
+                "id": "449941712597962752", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.29992237, 
+                    41.95056682
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "E da, selim se. Sve sam ja to dobro osigurao @ Canyon Matka http://t.co/eI0AMGsI0A", 
+                "created_at": "2014-03-21T10:01:04", 
+                "retweet_count": 0, 
+                "id": "446949606673645568", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.92937614, 
+                    44.0249511
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kragujevac knows how to party @ \u0160umadija sajam http://t.co/vDkLrU4WaL", 
+                "created_at": "2014-03-14T23:19:56", 
+                "retweet_count": 0, 
+                "id": "444613932909858817", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45139849, 
+                    44.81386357
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Poceli smo #rbma #djpearsonsound #belgrade @ Mikser HOUSE http://t.co/nydFCsecJn", 
+                "created_at": "2014-03-08T16:27:55", 
+                "retweet_count": 0, 
+                "id": "442335918838775808", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45139849, 
+                    44.81386357
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thats whats up #rbma #djpearsonsound #belgrade #workshop @ Mikser HOUSE http://t.co/Ubz0cv3gHO", 
+                "created_at": "2014-03-08T16:24:14", 
+                "retweet_count": 0, 
+                "id": "442334991721447424", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.44629693, 
+                    44.79716254
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Beograd ima scenu #rbma @ BIGZ http://t.co/hrW3kpEu3g", 
+                "created_at": "2014-03-07T12:41:46", 
+                "retweet_count": 0, 
+                "id": "441916615970803712", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.48873735, 
+                    41.83801888
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#wackysheep represent @ \u0411\u0430\u043d\u0441\u043a\u043e (Bansko) http://t.co/4H1Vzwl4vY", 
+                "created_at": "2014-02-24T19:19:04", 
+                "retweet_count": 0, 
+                "id": "438030334710808576", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165979, 
+                    44.7518713
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Urbana legenda Beograda - Nenad Dzoni Rackovic http://t.co/psBDKKjAAu", 
+                "created_at": "2014-02-18T07:50:16", 
+                "retweet_count": 0, 
+                "id": "435682662930743296", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.46389238, 
+                    44.81391617
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Premijera filma \"What difference does it make\" #RBMA15 @ Kinoteka http://t.co/9lnD6WaZ0N", 
+                "created_at": "2014-02-17T22:46:26", 
+                "retweet_count": 0, 
+                "id": "435545804766724096", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4173421, 
+                    44.7517845
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kazem rayden mislim tesla", 
+                "created_at": "2014-02-17T00:18:43", 
+                "retweet_count": 0, 
+                "id": "435206641987096577", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4164071, 
+                    44.7519279
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@SavicJelenaa mozes i kod mene da budes srecna!", 
+                "created_at": "2014-02-16T13:50:35", 
+                "retweet_count": 0, 
+                "id": "435048566722416640", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4164815, 
+                    44.7518965
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kaze meni ortak: \" I kako da te covek ne ubije? KAKO? \"", 
+                "created_at": "2014-02-16T13:23:19", 
+                "retweet_count": 0, 
+                "id": "435041702517420033", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.416467, 
+                    44.7519084
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Samo zenama su bitni datumi. Kapiram da to ima veze sa mensttuacijom ili sta god", 
+                "created_at": "2014-02-16T09:21:28", 
+                "retweet_count": 0, 
+                "id": "434980839626403841", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4167198, 
+                    44.7518982
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Samo Bog zna koji ce rezultat biti, a vi upravo pricate sa njim.\" Ma kakav gospodin", 
+                "created_at": "2014-02-15T22:01:11", 
+                "retweet_count": 0, 
+                "id": "434809641164607488", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4167192, 
+                    44.751898
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fudbal pratim vrlo malo i to malo je samo zbog Ibrahimovica", 
+                "created_at": "2014-02-15T22:00:29", 
+                "retweet_count": 0, 
+                "id": "434809466027270144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4166847, 
+                    44.7518717
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ako postoji novi Jay Z onda je to J Cole fo sho", 
+                "created_at": "2014-02-15T21:56:48", 
+                "retweet_count": 0, 
+                "id": "434808537366417408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.9181035, 
+                    44.015775
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "U Srbiji dominantno zanimanje umetnici i strucnjaci. Zasto me ovo ne cudi? http://t.co/DEwaXxnjwQ", 
+                "created_at": "2014-02-15T10:30:51", 
+                "retweet_count": 0, 
+                "id": "434635912816123904", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.9134935, 
+                    44.0126792
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Izdvajam Umetnicki Kutak. WORD", 
+                "created_at": "2014-02-15T03:21:44", 
+                "retweet_count": 0, 
+                "id": "434527923820048384", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.910951, 
+                    44.0126855
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Rezime ove veceri je da ako izadjete u KGu, bez obzira koju muziku slusate, morate da svratite u Sodu, Umetnicki Kutak, Cokoladu i Volpe", 
+                "created_at": "2014-02-15T03:21:21", 
+                "retweet_count": 0, 
+                "id": "434527824675098624", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.91649317, 
+                    44.00985703
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Idemo (@ Volpe) [pic]: http://t.co/PYk85Y6fmw", 
+                "created_at": "2014-02-15T01:19:37", 
+                "retweet_count": 0, 
+                "id": "434497192523726848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.914042, 
+                    44.0128154
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Evo i jedne za dan zaljubljenih Peaches - Fuck the pain away https://t.co/BJR1ueO1fJ", 
+                "created_at": "2014-02-14T18:55:42", 
+                "retweet_count": 0, 
+                "id": "434400574889811968", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.9115313, 
+                    44.0106055
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Vcrs cekiram kragujevacki klabing. Verovatno najbolji klabing u CEEELOOOJ Sumadiji", 
+                "created_at": "2014-02-14T15:46:59", 
+                "retweet_count": 0, 
+                "id": "434353084773711872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.9115313, 
+                    44.0106055
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lapovo na pola puta izmedju Beograda i Nisa. Slucajnost?", 
+                "created_at": "2014-02-14T15:45:58", 
+                "retweet_count": 0, 
+                "id": "434352825737695234", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.5100598, 
+                    44.7728561
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nemam pare da dobrim kolima produzim penis, tako da ce i ovaj pit bul posluziti", 
+                "created_at": "2014-02-13T21:48:55", 
+                "retweet_count": 0, 
+                "id": "434081780036276225", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.5102131, 
+                    44.772849
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "JEBALI VAS TI VASI PIT BULOVI DA VAS JEBALI!!! sta kao jaci ste sto vam je pas krvolocniji ne kapiram", 
+                "created_at": "2014-02-13T21:47:54", 
+                "retweet_count": 0, 
+                "id": "434081523797864449", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165496, 
+                    44.7518451
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bora Drljaca mi vise lici na nesto sto postoji u South Parku nego u rlu", 
+                "created_at": "2014-02-11T22:54:22", 
+                "retweet_count": 0, 
+                "id": "433373475127197696", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165229, 
+                    44.7519222
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@onDreja25 ali niko nije okacio tvoju sliku u benkici iako imas 25 godina. To je postovanje", 
+                "created_at": "2014-02-11T17:28:28", 
+                "retweet_count": 0, 
+                "id": "433291457404096512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4163999, 
+                    44.7518242
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Osim one bebe koja na sve odgovara sa NO, to je jebeno preslatko", 
+                "created_at": "2014-02-11T17:25:23", 
+                "retweet_count": 0, 
+                "id": "433290682695188480", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4163946, 
+                    44.7518189
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pre nego sto okacite slike neke bebe, zapitajte se da li biste voleli da je vas neko tako ekploatisao za lajkove", 
+                "created_at": "2014-02-11T17:24:59", 
+                "retweet_count": 0, 
+                "id": "433290583248236544", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4168506, 
+                    44.75182
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fascinantno mi je sa kojim odusevljenjem ljudi kace statuse da su diplomirali. Nisu ni svesni u kom su tek tad kurcu", 
+                "created_at": "2014-02-11T17:06:25", 
+                "retweet_count": 0, 
+                "id": "433285910692896768", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165624, 
+                    44.7518641
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Deep throat - uzmi sve sto ti zivot pruza", 
+                "created_at": "2014-02-10T00:02:21", 
+                "retweet_count": 0, 
+                "id": "432665806913404928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4163498, 
+                    44.7520089
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Uproscava nesto sto mi dozivljavamo kao vrlo kompleksno. Valjda se toga i plasimo, da nismo toliko posebni", 
+                "created_at": "2014-02-08T10:21:44", 
+                "retweet_count": 0, 
+                "id": "432096903095156736", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165789, 
+                    44.7515488
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Psihologija je prelepa i potcenjena nauka", 
+                "created_at": "2014-02-08T10:19:55", 
+                "retweet_count": 0, 
+                "id": "432096446331228160", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.737296, 
+                    43.7697743
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Jokino vrelo\" i sta da pomislim???", 
+                "created_at": "2014-02-06T12:43:15", 
+                "retweet_count": 0, 
+                "id": "431407742855970816", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.6940835, 
+                    43.7265143
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Koristicu frizuru kao taktiku za prezivaljavanje u teskim vremenima. Omlet za rucak,dorucak i veceru", 
+                "created_at": "2014-02-06T07:39:04", 
+                "retweet_count": 0, 
+                "id": "431331190369701888", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.6940835, 
+                    43.7265143
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Samo cekam jednog jutra da se neka ptica isttipuje i snese jaje na ovo sto ja nazivam kosom", 
+                "created_at": "2014-02-06T07:37:04", 
+                "retweet_count": 0, 
+                "id": "431330688647057408", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.6941643, 
+                    43.7264116
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Na fejsbuku postoji nesto sto se zove dnevna doza Bore Drljace. Volim te Srbijo https://t.co/NoB4PB5TvJ", 
+                "created_at": "2014-02-05T20:19:02", 
+                "retweet_count": 0, 
+                "id": "431160057536200705", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.6955438, 
+                    43.727496
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tripujem dijetu,rucam ribu,budem gladniji posle rucka nego pre i pojedem kutiju jafe", 
+                "created_at": "2014-02-05T19:00:32", 
+                "retweet_count": 0, 
+                "id": "431140301215109120", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.696922, 
+                    43.7271412
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Uzice su mi nekako toliko odvratne da su mi gotivne", 
+                "created_at": "2014-02-05T18:52:06", 
+                "retweet_count": 0, 
+                "id": "431138179711004672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165063, 
+                    44.7518825
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Congratz to Seahawks D and Russell Wilson on their first Superbowl #SuperBowlXLVIII", 
+                "created_at": "2014-02-03T15:10:42", 
+                "retweet_count": 0, 
+                "id": "430357686270844929", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165063, 
+                    44.7518825
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Vucicu vrati se na Kripton http://t.co/L2DiZZbsKa", 
+                "created_at": "2014-02-03T15:07:47", 
+                "retweet_count": 0, 
+                "id": "430356951432966144", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165474, 
+                    44.7519059
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Razumihin nego sta. Najsladje kad se covek mesa gde mu nije mesto ;)", 
+                "created_at": "2014-02-02T09:29:56", 
+                "retweet_count": 0, 
+                "id": "429909542198317056", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45130046, 
+                    44.81459068
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Perfect birthday cake \ud83c\udf89 #superbowl #birthday @ Prohibicija http://t.co/OyQ9YcSXv3", 
+                "created_at": "2014-02-02T08:59:06", 
+                "retweet_count": 0, 
+                "id": "429901782861750272", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4491516, 
+                    44.8139431
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@J0handsome e fala", 
+                "created_at": "2014-02-01T23:56:04", 
+                "retweet_count": 0, 
+                "id": "429765120521404416", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4484895, 
+                    44.8141615
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Kad imas jednu svecicu na torti znaci da si bas mator\"", 
+                "created_at": "2014-02-01T23:47:37", 
+                "retweet_count": 0, 
+                "id": "429762997536710657", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45130046, 
+                    44.81459068
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ovo je vikend kada je i klabing ekstreman sport #dajetikrila @ Prohibicija http://t.co/11EI70Wmiu", 
+                "created_at": "2014-02-01T22:08:56", 
+                "retweet_count": 0, 
+                "id": "429738160093134848", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45607339, 
+                    44.81944966
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Svedska nije @ Jugoslovenska Kinoteka http://t.co/WNWYJTIpCI", 
+                "created_at": "2014-01-30T15:21:19", 
+                "retweet_count": 0, 
+                "id": "428910807284715520", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.46448121, 
+                    44.80054338
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ne morate da perete sve zube @ Stomatolo\u0161ka ordinacija An\u0111elkovi\u0107 http://t.co/22aRd56Xfx", 
+                "created_at": "2014-01-24T14:42:07", 
+                "retweet_count": 0, 
+                "id": "426726614341517312", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.42371154, 
+                    44.75729503
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Najbolje trcim u Kosutnjaku jer moram da bezim od kurjaka medjeda i serijskih ubica @ Ko\u0161utnjak - Trim http://t.co/uga6jZBiKD", 
+                "created_at": "2014-01-06T10:20:08", 
+                "retweet_count": 0, 
+                "id": "420137701770534912", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.47555447, 
+                    44.80563545
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Klub studenata tehnike - KST - @kst_beograd (Belgrade, Serbia) w/ 21 others [pic]: http://t.co/Woi3w3lMsl", 
+                "created_at": "2013-12-28T22:57:03", 
+                "retweet_count": 0, 
+                "id": "417066695136923648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.47070503, 
+                    44.80505693
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Zmaj @ Nikola Tesla Museum http://t.co/0wzhM53npD", 
+                "created_at": "2013-12-25T17:14:07", 
+                "retweet_count": 0, 
+                "id": "415893229612318720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.47070503, 
+                    44.80505693
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Konacno! (@ Nikola Tesla Museum w/ 2 others) http://t.co/GfdAqAo2d1", 
+                "created_at": "2013-12-25T16:00:21", 
+                "retweet_count": 0, 
+                "id": "415874664754601984", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165648, 
+                    44.7518827
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ovako to radi Nordeus u Srbiji. Da u Srbiji https://t.co/rGmHkHs8lL", 
+                "created_at": "2013-12-18T20:42:39", 
+                "retweet_count": 0, 
+                "id": "413408994724958208", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165488, 
+                    44.7518268
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Jebao me american horror story da me jebao. I KAD CE JEBENA POSLEDNJA EPIZODA????", 
+                "created_at": "2013-12-18T20:12:02", 
+                "retweet_count": 0, 
+                "id": "413401287871721473", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165686, 
+                    44.7518988
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sve zene bi volele da su vestice. Mada i nije da nisu.", 
+                "created_at": "2013-12-18T20:07:37", 
+                "retweet_count": 0, 
+                "id": "413400175508733952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165406, 
+                    44.7518558
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pravda za pse! \"Pep, the dog who was sentenced to life in prison for killing Pennsylvania Governor's cat. 1924 http://t.co/Dvuha0l4qp\"", 
+                "created_at": "2013-12-18T07:40:21", 
+                "retweet_count": 0, 
+                "id": "413212121963700224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4166358, 
+                    44.7519091
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ja stvarno ne razumem kako ostatak sveta prezivljava bez ovog naseg jogurta", 
+                "created_at": "2013-12-17T20:37:45", 
+                "retweet_count": 0, 
+                "id": "413045372471484416", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4164757, 
+                    44.7518843
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Dzoooooo @GOZvezdara @MejChocolate vencanje? :)", 
+                "created_at": "2013-12-16T13:24:13", 
+                "retweet_count": 0, 
+                "id": "412573883716632576", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4166117, 
+                    44.7518377
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Neobicno mi je drago sto sam video @krsto na rodnoj grudi", 
+                "created_at": "2013-12-14T16:17:37", 
+                "retweet_count": 0, 
+                "id": "411892742244274176", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4166295, 
+                    44.7518576
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Koliko ce mi ovo gruvati za dva meseca na skijanju https://t.co/iZ4tnauQXA", 
+                "created_at": "2013-12-14T16:13:57", 
+                "retweet_count": 0, 
+                "id": "411891823532314625", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165942, 
+                    44.751834
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Meni su njene onomatopeje savrsene", 
+                "created_at": "2013-12-14T16:12:31", 
+                "retweet_count": 0, 
+                "id": "411891460959924224", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.84023571, 
+                    43.85647103
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Penis shaped building @ U\u017eice http://t.co/ejqNxji4Rg", 
+                "created_at": "2013-12-14T12:33:35", 
+                "retweet_count": 0, 
+                "id": "411836364507054080", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.6954284, 
+                    43.7272029
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ako vas neko nesto pita i vi ne znate sta da kazete, alkohol je tacan odgovor.", 
+                "created_at": "2013-12-14T00:44:03", 
+                "retweet_count": 0, 
+                "id": "411657803561189376", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.6953704, 
+                    43.7271452
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Izmedju nas, mislim da Irish Pub ima neki ozbiljan beef sa Skalom u Uzicu", 
+                "created_at": "2013-12-14T00:23:21", 
+                "retweet_count": 0, 
+                "id": "411652593560326144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4164862, 
+                    44.7519013
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ja apsolutno nemam sposobnost da razlikujem ljude u istim uniformama o.O", 
+                "created_at": "2013-12-13T08:03:52", 
+                "retweet_count": 0, 
+                "id": "411406100601524224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165543, 
+                    44.751869
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A ovako ja vidim sebe... http://t.co/SKkqUXAlgN", 
+                "created_at": "2013-12-12T19:04:03", 
+                "retweet_count": 0, 
+                "id": "411209853869510656", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165528, 
+                    44.751889
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kada @Rakaprajm bude imao milion folovera, s ponosom cu moci da kazem da sam ja bio prvi ^^", 
+                "created_at": "2013-12-12T18:30:34", 
+                "retweet_count": 0, 
+                "id": "411201424543186945", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165461, 
+                    44.7518842
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sifra za najbolju palacinku: nutela, plazma, visnja i pavlaka. Chyeeaah", 
+                "created_at": "2013-12-12T18:26:52", 
+                "retweet_count": 0, 
+                "id": "411200495953674240", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.416506, 
+                    44.7519239
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Najveca ironija sto posle svih govana koje pojedem u toku dana, uredno pred spavanje popijem solju mleka sa 1.5% masti", 
+                "created_at": "2013-12-10T22:26:35", 
+                "retweet_count": 0, 
+                "id": "410536046821396480", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165574, 
+                    44.751895
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Napisao bih nesto o ovom danu ali ne bih da budem vulgaran", 
+                "created_at": "2013-12-10T22:13:54", 
+                "retweet_count": 0, 
+                "id": "410532852917604352", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4391227, 
+                    44.7536038
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Malo je poznato da je @ne_boj_seDUHa pregazio vevericu na Kosutnjaku. Eto cisto da znate sa kakvim covekom imate posla", 
+                "created_at": "2013-12-10T08:36:38", 
+                "retweet_count": 0, 
+                "id": "410327183132213248", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4164923, 
+                    44.7518984
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Neporecivi dokazi da je Tito vanzemaljac http://t.co/dPvrnpDj51", 
+                "created_at": "2013-12-09T23:06:01", 
+                "retweet_count": 0, 
+                "id": "410183581852778496", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165584, 
+                    44.7519107
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Koja je tacno poenta nalepnice \"beba u autu\"? Aha imas bebu u autu,skucacu se onda u nekog drugog.", 
+                "created_at": "2013-12-09T22:58:48", 
+                "retweet_count": 0, 
+                "id": "410181765979193346", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.7021749, 
+                    43.7263364
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Zlatiborski specijaliteti - kajmak on evriting", 
+                "created_at": "2013-12-09T11:13:17", 
+                "retweet_count": 0, 
+                "id": "410004218821754880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.7009325, 
+                    43.72632814
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Planina kajmaka @ Zlatiborsko Jezero http://t.co/PSU4KRfJJq", 
+                "created_at": "2013-12-09T11:09:51", 
+                "retweet_count": 0, 
+                "id": "410003351653609472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.6977976, 
+                    43.7269108
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Na Zlatiboru sajam kanadjanki i telecih glava", 
+                "created_at": "2013-12-08T20:46:04", 
+                "retweet_count": 0, 
+                "id": "409785975565725696", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4328696, 
+                    44.7938545
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Jbt, sta bi na kraju s tim Kosovom?", 
+                "created_at": "2013-12-05T18:34:26", 
+                "retweet_count": 0, 
+                "id": "408665682738696192", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165623, 
+                    44.7518845
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sve je to ljubav http://t.co/pvSzHNj27q", 
+                "created_at": "2013-12-03T23:17:03", 
+                "retweet_count": 0, 
+                "id": "408012030499905536", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4144386, 
+                    44.762213
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Zasto i dalje postoje ovi cekovi? Kao da nisu dovoljno dugacki redovi na kasama i bez baba sa cekovima", 
+                "created_at": "2013-12-01T14:35:46", 
+                "retweet_count": 0, 
+                "id": "407156068851412992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.46365711, 
+                    44.81708585
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Relahate muchacho (@ Bali Detox) http://t.co/vF0ihu4GuA", 
+                "created_at": "2013-12-01T11:12:52", 
+                "retweet_count": 0, 
+                "id": "407105007910420480", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165525, 
+                    44.751908
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Uopste me ne bi cudilo da je ovo potpuno istinito http://t.co/zjUpc21OkW", 
+                "created_at": "2013-12-01T01:34:13", 
+                "retweet_count": 0, 
+                "id": "406959388617080833", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165769, 
+                    44.7519098
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Meni je fascinantno u sta sve ljudi uspeju sebe da ubede samo da bi opravdali svoje ponasanje. Jebeni egocentrici", 
+                "created_at": "2013-12-01T01:22:45", 
+                "retweet_count": 0, 
+                "id": "406956500029280256", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165153, 
+                    44.7519208
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ne plasite se promena \"@HistoryInPics: An immigrant family on Ellis Island looking at the Statue of Liberty, 1930s. http://t.co/dBRemv9oZP\"", 
+                "created_at": "2013-11-30T08:31:16", 
+                "retweet_count": 0, 
+                "id": "406701955256713216", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.416496, 
+                    44.7518495
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Uzivam u svim blagodetima nove baterije za telefon i zivot je opet lep", 
+                "created_at": "2013-11-30T01:08:03", 
+                "retweet_count": 0, 
+                "id": "406590415669063680", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.49239874, 
+                    44.7981827
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pravda je zadovoljena (@ Kir\u0107anski) http://t.co/HYAPctNGgj", 
+                "created_at": "2013-11-29T10:38:15", 
+                "retweet_count": 0, 
+                "id": "406371521926811648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165889, 
+                    44.7516845
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sto bi lepo bilo kad bi i mi imali neki praznika na koji koljemo ove nase curke", 
+                "created_at": "2013-11-29T09:15:33", 
+                "retweet_count": 0, 
+                "id": "406350710176247808", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165564, 
+                    44.7519096
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dajte mi burek iz Kircanskog na infuziju da dodjem sebi", 
+                "created_at": "2013-11-29T09:08:53", 
+                "retweet_count": 0, 
+                "id": "406349032387530752", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.46761935, 
+                    44.82318277
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Crveni Cetvrtak (@ Radionica bar) http://t.co/CsizfzEo90", 
+                "created_at": "2013-11-28T20:29:22", 
+                "retweet_count": 0, 
+                "id": "406157893743149056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165149, 
+                    44.7518967
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nije bas dobra ideja raspravljati se sa mnom", 
+                "created_at": "2013-11-28T17:54:38", 
+                "retweet_count": 0, 
+                "id": "406118951635415040", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4165148, 
+                    44.7519017
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Veceras je jos jedan Crveni Cetvrtak, vidimo se! http://t.co/V8Oi3tMq1c", 
+                "created_at": "2013-11-28T16:55:24", 
+                "retweet_count": 1, 
+                "id": "406104045569716225", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4167406, 
+                    44.7487421
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@SavicJelenaa ne znam,znam da ne postoje vise", 
+                "created_at": "2013-11-28T16:19:56", 
+                "retweet_count": 0, 
+                "id": "406095123328815104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4769793, 
+                    44.805295
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cujem svakakve zanimljive stvari na poslu. KST je treci otvoren klub u Beogradu 1954.godine.", 
+                "created_at": "2013-11-28T15:03:07", 
+                "retweet_count": 0, 
+                "id": "406075789076332544", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4162049, 
+                    44.7486361
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kako je moguce da ne postoji Starcraft film? A da, lakse je napraviti nastavak scary movie-a.", 
+                "created_at": "2013-11-27T21:59:37", 
+                "retweet_count": 0, 
+                "id": "405818217090002944", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45289516, 
+                    44.78884066
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Spremamo Crveni Cetvrtak ;) (@ Muzej istorije Jugoslavije (Museum of Yugoslav history) - @muzejyu) http://t.co/EUUoAzzd8j", 
+                "created_at": "2013-11-27T14:01:18", 
+                "retweet_count": 0, 
+                "id": "405697846823120896", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4166528, 
+                    44.7518304
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pa picka vam materina vozite ta kola, ako pada kisa ne padaju meteori", 
+                "created_at": "2013-11-25T21:47:48", 
+                "retweet_count": 0, 
+                "id": "405090466997489664", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4164987, 
+                    44.7518772
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@thekatarina zar ne vidis sta radim, suptilno se prakticno sam pozivam kod vas", 
+                "created_at": "2013-11-24T14:27:01", 
+                "retweet_count": 0, 
+                "id": "404617154693455872", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4130722, 
+                    44.7650862
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@thekatarina obavesti me kad bude sledeci nastup :)", 
+                "created_at": "2013-11-24T11:49:01", 
+                "retweet_count": 0, 
+                "id": "404577390879592448", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.481617, 
+                    44.7920642
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@thekatarina pokidala set. Peticija vratimo @thekatarina za dj pultove beogradskih klubova.", 
+                "created_at": "2013-11-24T00:01:12", 
+                "retweet_count": 1, 
+                "id": "404399262563577856", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4499544, 
+                    44.8200597
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Na otvaranju novog kluba Fajront ima vise zaposlenih nego gostiju", 
+                "created_at": "2013-11-22T23:51:17", 
+                "retweet_count": 0, 
+                "id": "404034378948689920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4280975, 
+                    44.7906378
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Veceras u Mikseru ili imas brkove ili si niko", 
+                "created_at": "2013-11-22T20:37:54", 
+                "retweet_count": 0, 
+                "id": "403985714523938816", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.45139849, 
+                    44.81386357
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First row at the fashion shows (@ Mikser HOUSE - @mikserbeograd w/ 15 others) http://t.co/HnDC02tfYq", 
+                "created_at": "2013-11-22T20:30:54", 
+                "retweet_count": 0, 
+                "id": "403983951439888384", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.4164858, 
+                    44.7518311
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Moj mozak je odavno na zasluzenom odmoru \u2661", 
+                "created_at": "2013-11-22T16:22:06", 
+                "retweet_count": 0, 
+                "id": "403921340929155072", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.9119396, 
+                    44.0099304
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Volim da putujem sam jer onda mnogo lepo pevam ceo put", 
+                "created_at": "2013-11-21T15:46:58", 
+                "retweet_count": 0, 
+                "id": "403550109067382784", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.9119396, 
+                    44.0099304
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Vozim po ceo dan u Beogradu ali rush hour u Kragujevcu je pakao", 
+                "created_at": "2013-11-21T15:10:05", 
+                "retweet_count": 0, 
+                "id": "403540826015694848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.39964795, 
+                    44.79582069
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pticurina iskopa oko za cas @ Cruise http://t.co/5VLzn4JbCA", 
+                "created_at": "2013-11-07T20:39:40", 
+                "retweet_count": 0, 
+                "id": "398550340444110848", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

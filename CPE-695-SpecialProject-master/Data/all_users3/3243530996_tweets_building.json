@@ -1,0 +1,260 @@
+{
+    "total_favorite_count": 11710, 
+    "followers_count": 342, 
+    "total_tweets": 5, 
+    "user_id": 3243530996, 
+    "screen_name": "natateaaa", 
+    "friends_count": 304, 
+    "buildings": {
+        "school": 3, 
+        "apartments": 10, 
+        "university": 3, 
+        "hotel": 2, 
+        "supermarket": 2, 
+        "construction": 3, 
+        "ship": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 83618.0, 
+                    "name": "56 Leonard Street", 
+                    "osm_id": 261499928.0
+                }
+            ], 
+            "text": "does nyc have four hands now? two on broome &amp; mott and two on church &amp; leonard??? \ud83d\udc50\ud83c\udffb\ud83d\udc50\ud83c\udffb @ Two\u2026 https://t.co/fFV7izbCw5", 
+            "id": "786354772785795072", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:56:02", 
+            "coordinates": [
+                -74.0055108, 
+                40.7177971
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "New York Law School"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "construction": 2, 
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 83618.0, 
+                    "name": "56 Leonard Street", 
+                    "osm_id": 261499928.0
+                }
+            ], 
+            "text": "my brunch bby waitin on his cold brew \u2615\ufe0f @ Two Hands Restaurant &amp; Bar https://t.co/YycGzQZGKT", 
+            "id": "785983758604263424", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-11T23:21:45", 
+            "coordinates": [
+                -74.0055108, 
+                40.7177971
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "New York Law School"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "construction": 2, 
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "@whitneymuseum \ud83d\udc99 @ Whitney Museum of American Art https://t.co/vsCQUehmId", 
+            "id": "785636522083037185", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-11T00:21:57", 
+            "coordinates": [
+                -74.0085763, 
+                40.7395067
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments", 
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87564.0, 
+                    "name": "58 W 58", 
+                    "osm_id": 265147968.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 87696.0, 
+                    "name": "Le Parker M\u00e9ridien", 
+                    "osm_id": 265148531.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower", 
+                    "osm_id": 265325191.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125589.0, 
+                    "name": "La Premier", 
+                    "osm_id": 282863156.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "\"natalie what do you even do in new york\"\n\"go into stores I can't afford to take photos\" @ Barney's https://t.co/ejxCM25WzD", 
+            "id": "785249391871336448", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-09T22:43:38", 
+            "coordinates": [
+                -73.9713404, 
+                40.76455173
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "58 W 58", 
+                    "Stella Tower", 
+                    "La Premier"
+                ]
+            }, 
+            "building_frequency": {
+                "ship": 2, 
+                "hotel": 2, 
+                "supermarket": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "she can't be what you need if she's seventeeeeeen\ud83c\udf88\ud83c\udf89\ud83c\udf70 @ Whitney Museum of American Art https://t.co/v0FEyGV9Mb", 
+            "id": "783824895566163968", 
+            "favorite_count": 3, 
+            "created_at": "2016-10-06T00:23:12", 
+            "coordinates": [
+                -74.0085763, 
+                40.7395067
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments", 
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

@@ -1,0 +1,559 @@
+{
+    "total_favorite_count": 892, 
+    "followers_count": 6141, 
+    "total_tweets": 10, 
+    "user_id": 14332881, 
+    "screen_name": "karimkanji", 
+    "friends_count": 5717, 
+    "buildings": {
+        "school": 2, 
+        "office": 4, 
+        "theatre": 4, 
+        "apartments": 9, 
+        "commercial": 24, 
+        "roof": 5, 
+        "church": 3, 
+        "retail": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 599.0, 
+                    "name": "Morgan Stanley Building", 
+                    "osm_id": 42496284.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 761.0, 
+                    "name": "Exxon Building", 
+                    "osm_id": 146031971.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 817.0, 
+                    "name": "Manhattan Plaza Apartments II", 
+                    "osm_id": 159912559.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 83554.0, 
+                    "name": "Platinum", 
+                    "osm_id": 258619237.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89475.0, 
+                    "name": "The Strand", 
+                    "osm_id": 265319596.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 89572.0, 
+                    "name": "Film Center", 
+                    "osm_id": 265320243.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 93025.0, 
+                    "name": "St. Luke's Church", 
+                    "osm_id": 266024854.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93209.0, 
+                    "name": "Brooks Atkinson Theatre", 
+                    "osm_id": 266149301.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93539.0, 
+                    "name": "1270 Avenue of the Americas", 
+                    "osm_id": 266170801.0
+                }
+            ], 
+            "text": "Radio City Music Hall. #nyc #newyork #awnewyork #latergram #wanderlust #travel @ Radio City\u2026 https://t.co/sUr1iRjM73", 
+            "id": "781914891934400513", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-30T17:53:32", 
+            "coordinates": [
+                -73.97975636, 
+                40.75987811
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "McGraw-Hill Building", 
+                    "Morgan Stanley Building", 
+                    "Exxon Building", 
+                    "1270 Avenue of the Americas"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 5, 
+                "theatre": 2, 
+                "office": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 20242.0, 
+                    "name": "Washington Square Church", 
+                    "osm_id": 248163396.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126403.0, 
+                    "name": "Dunkin' Donuts", 
+                    "osm_id": 366534020.0
+                }
+            ], 
+            "text": "#AWNewYork closing party with The Roots! #newyork #music #hiphop #agencylife @ Webster Hall https://t.co/zxWODUjmpS", 
+            "id": "781668759996100608", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-30T01:35:29", 
+            "coordinates": [
+                -73.9888582, 
+                40.7315672
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Dunkin' Donuts"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "theatre", 
+                    "id": 93098.0, 
+                    "name": "New Victory Theater", 
+                    "osm_id": 266034047.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square", 
+                    "osm_id": 266034080.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square", 
+                    "osm_id": 266143341.0
+                }
+            ], 
+            "text": "High above #TimesSquare in #nyc\ud83d\uddfd #awnewyork @ Thomson Reuters https://t.co/ae3puNyyei", 
+            "id": "781568374409158656", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T18:56:35", 
+            "coordinates": [
+                -73.98671257, 
+                40.75649965
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "3 Times Square", 
+                    "11 Times Square"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "theatre": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "roof", 
+                    "id": 126164.0, 
+                    "name": "BP", 
+                    "osm_id": 320480762.0
+                }
+            ], 
+            "text": "Matt Hasselbeck, former NFL QB great, on sports and media panel at #AWNewYork @ Liberty Theater https://t.co/ZL0swJvJ6z", 
+            "id": "781493319339835394", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T13:58:21", 
+            "coordinates": [
+                -73.9888229, 
+                40.7560921
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "roof", 
+                "name": [
+                    "BP"
+                ]
+            }, 
+            "building_frequency": {
+                "roof": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower", 
+                    "osm_id": 86121621.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93561.0, 
+                    "name": "One Times Square", 
+                    "osm_id": 266170825.0
+                }, 
+                {
+                    "type": "roof", 
+                    "id": 126164.0, 
+                    "name": "BP", 
+                    "osm_id": 320480762.0
+                }
+            ], 
+            "text": "Joe Buck, Michael Strahan and NFL, FOX Sports execs. #awnewyork #nfl #newyork #fox @ The Town Hall https://t.co/JdPnv06EaP", 
+            "id": "781165233347895296", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-28T16:14:39", 
+            "coordinates": [
+                -73.98452712, 
+                40.7560144
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Bank of America Tower", 
+                    "One Times Square"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "roof": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower", 
+                    "osm_id": 86121621.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93561.0, 
+                    "name": "One Times Square", 
+                    "osm_id": 266170825.0
+                }, 
+                {
+                    "type": "roof", 
+                    "id": 126164.0, 
+                    "name": "BP", 
+                    "osm_id": 320480762.0
+                }
+            ], 
+            "text": "Facebook's COO Sheryl Sandberg deserves to be keynoting at #AWNewYork. A panel on #mobile ads\u2026 https://t.co/kfAexdtgPZ", 
+            "id": "780805137740759040", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-27T16:23:46", 
+            "coordinates": [
+                -73.98452712, 
+                40.7560144
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Bank of America Tower", 
+                    "One Times Square"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "roof": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street", 
+                    "osm_id": 265282692.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square", 
+                    "osm_id": 266143341.0
+                }
+            ], 
+            "text": "It's sethgodin at #AWNewYork in the historic BB King Blues Club. #talkaboutbacon #Marketing @\u2026 https://t.co/sq4dcxlXgf", 
+            "id": "780788688045432832", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-27T15:18:24", 
+            "coordinates": [
+                -73.98879272, 
+                40.75680289
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "11 Times Square"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square", 
+                    "osm_id": 266034080.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square", 
+                    "osm_id": 266143341.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93561.0, 
+                    "name": "One Times Square", 
+                    "osm_id": 266170825.0
+                }
+            ], 
+            "text": "Hey minazasani. Show this to kahzmir. It's David Jones and Mathieu de Fayet from #Niantic. The\u2026 https://t.co/GbGi5l8nLG", 
+            "id": "780517938575138817", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-26T21:22:32", 
+            "coordinates": [
+                -73.9861242, 
+                40.75637117
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "3 Times Square", 
+                    "11 Times Square", 
+                    "One Times Square"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower", 
+                    "osm_id": 86121621.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93561.0, 
+                    "name": "One Times Square", 
+                    "osm_id": 266170825.0
+                }, 
+                {
+                    "type": "roof", 
+                    "id": 126164.0, 
+                    "name": "BP", 
+                    "osm_id": 320480762.0
+                }
+            ], 
+            "text": "Paul Haggis and Jackson Browne. #awnewyork #artistsforpeace @ The Town Hall https://t.co/e0EZReXtlX", 
+            "id": "780452432719515648", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-26T17:02:14", 
+            "coordinates": [
+                -73.98452712, 
+                40.7560144
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Bank of America Tower", 
+                    "One Times Square"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "roof": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 695.0, 
+                    "name": "General Electric Building", 
+                    "osm_id": 137885993.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway", 
+                    "osm_id": 163629929.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 858.0, 
+                    "name": "1155 Avenue of the Americas", 
+                    "osm_id": 163631696.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street", 
+                    "osm_id": 265282692.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91306.0, 
+                    "name": "Plaza 400", 
+                    "osm_id": 265434512.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91436.0, 
+                    "name": "Connaught Tower", 
+                    "osm_id": 265447070.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91753.0, 
+                    "name": "The Veneto", 
+                    "osm_id": 265483582.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92987.0, 
+                    "name": "Colgate-Palmolive Building", 
+                    "osm_id": 266010426.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square", 
+                    "osm_id": 266034080.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square", 
+                    "osm_id": 266143341.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway", 
+                    "osm_id": 266149373.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93510.0, 
+                    "name": "Hudson Theatre", 
+                    "osm_id": 266170751.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93578.0, 
+                    "name": "1166 Avenue of the Americas", 
+                    "osm_id": 266170852.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 93589.0, 
+                    "name": "Tower 45", 
+                    "osm_id": 266170766.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 121153.0, 
+                    "name": "Intermediate School 204", 
+                    "osm_id": 280616731.0
+                }
+            ], 
+            "text": "Final home game. 2016 regular season. #ballpark #baseball #mets #Phillies\u2026 https://t.co/imJ1UkiKw5", 
+            "id": "780091305959489536", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-25T17:07:15", 
+            "coordinates": [
+                -73.84603374, 
+                40.75685585
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "General Electric Building", 
+                    "1500 Broadway", 
+                    "Colgate-Palmolive Building", 
+                    "3 Times Square", 
+                    "11 Times Square", 
+                    "1501 Broadway", 
+                    "1166 Avenue of the Americas"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "commercial": 8, 
+                "theatre": 2, 
+                "office": 3, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

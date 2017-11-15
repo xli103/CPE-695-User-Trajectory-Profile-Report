@@ -1,0 +1,3320 @@
+{
+    "total_favorite_count": 2328, 
+    "followers_count": 349, 
+    "total_tweets": 84, 
+    "user_id": 618959599, 
+    "screen_name": "StephP1", 
+    "friends_count": 897, 
+    "buildings": {
+        "school": 43, 
+        "industrial": 6, 
+        "theatre": 12, 
+        "office": 11, 
+        "apartments": 68, 
+        "residential": 3, 
+        "hospital": 2, 
+        "hotel": 2, 
+        "commercial": 24, 
+        "supermarket": 3, 
+        "civic": 3, 
+        "tower": 3, 
+        "college": 5, 
+        "library": 2, 
+        "church": 14, 
+        "cathedral": 2, 
+        "ship": 3, 
+        "retail": 5, 
+        "public": 3
+    }, 
+    "features": [
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99376.0, 
+                    "name": "1 Whitehall Street", 
+                    "osm_id": 278053579.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 126464.0, 
+                    "name": "St. Ann's Warehouse", 
+                    "osm_id": 373709849.0
+                }
+            ], 
+            "text": "On a dark day, some light. \u2764\ufe0f\n.\n#newthingeveryday #theatre #brooklyn #dumbo #danielkitson #mouse\u2026 https://t.co/n4mEVJCQle", 
+            "id": "796551961508245504", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-10T03:16:01", 
+            "coordinates": [
+                -73.99282873, 
+                40.70378981
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "St. Ann's Warehouse"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "What is happening America?! #election #newthingeveryday #nervous @ Park Slope https://t.co/ykIF0a8otl", 
+            "id": "796188283520905217", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-09T03:10:53", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "college", 
+                    "id": 85681.0, 
+                    "name": "David Dubinsky Student Center", 
+                    "osm_id": 264651248.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe", 
+                    "osm_id": 396820651.0
+                }
+            ], 
+            "text": "Because Mondays are made for wagyu beef, truffle mash and catch ups with beautiful ladies.\u2026 https://t.co/OCroMryD6f", 
+            "id": "795823488573509632", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-08T03:01:20", 
+            "coordinates": [
+                -73.99163, 
+                40.7480199
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Christa McAuliffe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "college": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 28057.0, 
+                    "name": "Soterios Ellenas School", 
+                    "osm_id": 248681544.0
+                }, 
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "When you have friends round for dinner and they smash dessert out of the park with a homemade\u2026 https://t.co/w4LNS8ATmw", 
+            "id": "795454943486504960", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-07T02:36:52", 
+            "coordinates": [
+                -73.94472222, 
+                40.66305556
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Soterios Ellenas School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall", 
+                    "osm_id": 241846074.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building", 
+                    "osm_id": 241846109.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence", 
+                    "osm_id": 249979270.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology", 
+                    "osm_id": 250369747.0
+                }
+            ], 
+            "text": "Adventures in Bushwick.\n.\n.\n#newthingeveryday #bushwick #foodpornfest #foodporn #brooklyn #eats\u2026 https://t.co/wa6O48Mda0", 
+            "id": "795061114115649536", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-06T00:31:55", 
+            "coordinates": [
+                -73.92027413, 
+                40.69571377
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "New York City College of Technology - Namm Hall", 
+                    "New York City College of Technology - Adams Street Building", 
+                    "Bushwick Leaders' High School for Academic Excellence", 
+                    "New York City College of Technology"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies", 
+                    "osm_id": 241844600.0
+                }
+            ], 
+            "text": "Happy #halloween! #newthingeveryday #dayofthedead #brooklyn @ Boerum Hill https://t.co/kKuo1kBABT", 
+            "id": "792578720624152576", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T04:07:47", 
+            "coordinates": [
+                -73.98444444, 
+                40.685
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "School For International Studies"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 87837.0, 
+                    "name": "The Colonnade", 
+                    "osm_id": 265152145.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97892.0, 
+                    "name": "The Westport", 
+                    "osm_id": 269201860.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97917.0, 
+                    "name": "Harborview Terrace II", 
+                    "osm_id": 269199818.0
+                }
+            ], 
+            "text": "Standard work day.\n.\n.\n#halloween #redfusefun #newthingeveryday #mysteryof7a @ Columbus Circle https://t.co/3ONjSc5dCS", 
+            "id": "791756806209081344", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-27T21:41:47", 
+            "coordinates": [
+                -73.98194444, 
+                40.76805556
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Colonnade", 
+                    "The Westport", 
+                    "Harborview Terrace II"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89367.0, 
+                    "name": "Riverbank West", 
+                    "osm_id": 265312773.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93262.0, 
+                    "name": "750 Seventh Avenue", 
+                    "osm_id": 266151941.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93264.0, 
+                    "name": "Brill Building", 
+                    "osm_id": 266151940.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93300.0, 
+                    "name": "Ambassador Theatre", 
+                    "osm_id": 266151908.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93317.0, 
+                    "name": "Eugene O'Neill Theatre", 
+                    "osm_id": 266151909.0
+                }
+            ], 
+            "text": "When you spend your Tuesday night spontaneously watching AMAZING female comediennes from SNL and\u2026 https://t.co/EIZs0Ontj4", 
+            "id": "791094117505785856", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-26T01:48:30", 
+            "coordinates": [
+                -73.98400751, 
+                40.76111893
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "750 Seventh Avenue", 
+                    "Brill Building"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "theatre": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 28057.0, 
+                    "name": "Soterios Ellenas School", 
+                    "osm_id": 248681544.0
+                }, 
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "We decided it's important we take some time off from tech each week, so the Parry family did\u2026 https://t.co/4dvE2gifxS", 
+            "id": "790400248615165952", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-24T03:51:18", 
+            "coordinates": [
+                -73.97312, 
+                40.66318264
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Soterios Ellenas School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 5660.0, 
+                    "name": "Saint Marys School", 
+                    "osm_id": 241836933.0
+                }
+            ], 
+            "text": "Lazy Saturday and Mexican deliciousness make for a lovely weekend!\n.\n.\n#latergram #brooklyn\u2026 https://t.co/4Ugox8GIRh", 
+            "id": "790381751143165952", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-24T02:37:48", 
+            "coordinates": [
+                -73.9633976, 
+                40.6768596
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Saint Marys School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 10898.0, 
+                    "name": "Saint Michael's Church", 
+                    "osm_id": 247845662.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 57038.0, 
+                    "name": "Public School 64", 
+                    "osm_id": 250265859.0
+                }
+            ], 
+            "text": "Reunited with this beautiful pair - my face hurts from laughing! *Missing from the photo -\u2026 https://t.co/qL0UH9Qha0", 
+            "id": "789671966856843264", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-22T03:37:22", 
+            "coordinates": [
+                -73.97890707, 
+                40.72395736
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 64"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower", 
+                    "osm_id": 265325191.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 90161.0, 
+                    "name": "Public School 58", 
+                    "osm_id": 265329549.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "Singing and sandwiches make for a fun Thursday. First time trying Carnegie Deli, a New York\u2026 https://t.co/DHX05kNhbm", 
+            "id": "789276309155409923", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-21T01:25:10", 
+            "coordinates": [
+                -73.98119936, 
+                40.76419841
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "ship", 
+                "name": [
+                    "USS Intrepid"
+                ]
+            }, 
+            "building_frequency": {
+                "ship": 2, 
+                "school": 2, 
+                "supermarket": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93221.0, 
+                    "name": "John Golden Theatre", 
+                    "osm_id": 266149325.0
+                }
+            ], 
+            "text": "Flying solo for some Tuesday night culture at #TheEncounter for today's\u2026 https://t.co/ZmZj8bSB8N", 
+            "id": "788515059391660033", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-18T23:00:14", 
+            "coordinates": [
+                -73.98792, 
+                40.75886
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "John Golden Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 87837.0, 
+                    "name": "The Colonnade", 
+                    "osm_id": 265152145.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97917.0, 
+                    "name": "Harborview Terrace II", 
+                    "osm_id": 269199818.0
+                }
+            ], 
+            "text": "#thedayafter My first ever Gatorade. This is going to count as my #newthingeveryday as I am\u2026 https://t.co/FfaZ0A6kVd", 
+            "id": "787023780367495168", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-14T20:14:26", 
+            "coordinates": [
+                -73.98278715, 
+                40.76780672
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Colonnade", 
+                    "Harborview Terrace II"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "theatre", 
+                    "id": 93180.0, 
+                    "name": "Bernard B. Jacobs Theatre", 
+                    "osm_id": 266149298.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93221.0, 
+                    "name": "John Golden Theatre", 
+                    "osm_id": 266149325.0
+                }
+            ], 
+            "text": "About last night... #newthingeveryday #latergram #nyc #cocktails \ud83c\udf78 @ Bathtub Gin New York https://t.co/ezFNKaTF4M", 
+            "id": "786894139757568000", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-14T11:39:17", 
+            "coordinates": [
+                -73.98745947, 
+                40.75867067
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Bernard B. Jacobs Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "John Golden Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86071.0, 
+                    "name": "Public School 33", 
+                    "osm_id": 264667014.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 86197.0, 
+                    "name": "Church of St. John the Baptist", 
+                    "osm_id": 264678414.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 86325.0, 
+                    "name": "Church of Saint Francis of Assisi", 
+                    "osm_id": 264685193.0
+                }
+            ], 
+            "text": "Much more fun than cooking dinner... #newthingeveryday #urbaneats #nyc #eats #broadwaybites @\u2026 https://t.co/704rYaDsUH", 
+            "id": "786352621430968320", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:47:29", 
+            "coordinates": [
+                -73.988364, 
+                40.74892724
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of St. John the Baptist", 
+                    "Church of Saint Francis of Assisi"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "church": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 806.0, 
+                    "name": "Hayden Hall", 
+                    "osm_id": 158973820.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 84380.0, 
+                    "name": "Saint Peter's Church", 
+                    "osm_id": 264629195.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 126559.0, 
+                    "name": "The Hudson School", 
+                    "osm_id": 376010260.0
+                }
+            ], 
+            "text": "#newthingeveryday with one of my favorite New Yorkers. Dinner, drinks and watching the\u2026 https://t.co/ujp6XMf3Im", 
+            "id": "786037287989698560", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T02:54:27", 
+            "coordinates": [
+                -74.00149048, 
+                40.74396527
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "Hayden Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "#newthingeveryday New pie shop, book and mydadwrotea for a winning Monday! #brooklyn\u2026 https://t.co/DpjJipInny", 
+            "id": "785665493172641792", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-11T02:17:05", 
+            "coordinates": [
+                -73.96889, 
+                40.67703
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 599.0, 
+                    "name": "Morgan Stanley Building", 
+                    "osm_id": 42496284.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 761.0, 
+                    "name": "Exxon Building", 
+                    "osm_id": 146031971.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 817.0, 
+                    "name": "Manhattan Plaza Apartments II", 
+                    "osm_id": 159912559.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 83554.0, 
+                    "name": "Platinum", 
+                    "osm_id": 258619237.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89475.0, 
+                    "name": "The Strand", 
+                    "osm_id": 265319596.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 89572.0, 
+                    "name": "Film Center", 
+                    "osm_id": 265320243.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 93025.0, 
+                    "name": "St. Luke's Church", 
+                    "osm_id": 266024854.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93209.0, 
+                    "name": "Brooks Atkinson Theatre", 
+                    "osm_id": 266149301.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93539.0, 
+                    "name": "1270 Avenue of the Americas", 
+                    "osm_id": 266170801.0
+                }
+            ], 
+            "text": "#newthingeveryday #pmjtour at #radiocity #datenight #tgif #nyc #music #gig #concert\u2026 https://t.co/95bVFMIk3s", 
+            "id": "784542977481928704", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-07T23:56:36", 
+            "coordinates": [
+                -73.97975636, 
+                40.75987811
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "McGraw-Hill Building", 
+                    "Morgan Stanley Building", 
+                    "Exxon Building", 
+                    "1270 Avenue of the Americas"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 5, 
+                "theatre": 2, 
+                "office": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower", 
+                    "osm_id": 265325191.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 90161.0, 
+                    "name": "Public School 58", 
+                    "osm_id": 265329549.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "Meatballs is leaving! Devastated to lose this beauty but unbelievably happy for her. \u2764\ufe0f\n\nShe's a\u2026 https://t.co/1EHqpER0Sb", 
+            "id": "784196407997636609", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-07T00:59:27", 
+            "coordinates": [
+                -73.98301549, 
+                40.76445238
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "ship", 
+                "name": [
+                    "USS Intrepid"
+                ]
+            }, 
+            "building_frequency": {
+                "ship": 2, 
+                "school": 2, 
+                "supermarket": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 97917.0, 
+                    "name": "Harborview Terrace II", 
+                    "osm_id": 269199818.0
+                }
+            ], 
+            "text": "'I'll filter it girls and we'll look fine...' #newthingeveryday - reunited with two of my\u2026 https://t.co/0DHP1fHv1X", 
+            "id": "783873558778933249", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T03:36:34", 
+            "coordinates": [
+                -73.98528189, 
+                40.76791494
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Harborview Terrace II"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99123.0, 
+                    "name": "Gateway Plaza 500", 
+                    "osm_id": 277919044.0
+                }
+            ], 
+            "text": "Had to buy a new iPhone, but at least the price of idiocy meant seeing this beauty again. Plus I\u2026 https://t.co/iktAfHC7Uz", 
+            "id": "772635435319324674", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-05T03:20:17", 
+            "coordinates": [
+                -74.01112478, 
+                40.7116409
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Gateway Plaza 500"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 5660.0, 
+                    "name": "Saint Marys School", 
+                    "osm_id": 241836933.0
+                }
+            ], 
+            "text": "#latergram because I broke my phone....Saturday was a lovely day of grills, bar crawls to hunt\u2026 https://t.co/hzkpn6dU24", 
+            "id": "772611360756789252", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-05T01:44:37", 
+            "coordinates": [
+                -73.98031, 
+                40.67687
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Saint Marys School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "Burgers and catch-ups with Mr. P makes my heart happy. #brooklyn #eats #crownheights #monday\u2026 https://t.co/3vy0Cq6hg4", 
+            "id": "770444216350625792", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-30T02:13:09", 
+            "coordinates": [
+                -73.95796, 
+                40.67242
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "public", 
+                    "id": 27674.0, 
+                    "name": "Hamilton Avenue Marine Transfer Station", 
+                    "osm_id": 248240178.0
+                }
+            ], 
+            "text": "#newthingeveryday #sundaysupper - amazingly generous friends who hosted 22 people at their\u2026 https://t.co/ZlvQ0P6yIJ", 
+            "id": "770083670279454720", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-29T02:20:29", 
+            "coordinates": [
+                -73.976389, 
+                40.668889
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "public", 
+                "name": [
+                    "Hamilton Avenue Marine Transfer Station"
+                ]
+            }, 
+            "building_frequency": {
+                "public": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 88213.0, 
+                    "name": "St. Michael's Church", 
+                    "osm_id": 265258280.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 129286.0, 
+                    "name": "The Shops & Restaurants at Hudson Yards", 
+                    "osm_id": 398440363.0
+                }
+            ], 
+            "text": "Beautiful outdoor concert to wrap the week. #newthingeveryday #nyc #free #bryantpark #music\u2026 https://t.co/PAFTJKWLyy", 
+            "id": "769305347580424192", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-26T22:47:42", 
+            "coordinates": [
+                -73.98504, 
+                40.75355
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "The Shops & Restaurants at Hudson Yards"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "public", 
+                    "id": 27674.0, 
+                    "name": "Hamilton Avenue Marine Transfer Station", 
+                    "osm_id": 248240178.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 78482.0, 
+                    "name": "Public School 39", 
+                    "osm_id": 250430372.0
+                }
+            ], 
+            "text": "#newthingeveryday Watching #et under the stars at #brooklynbotanicgarden. Not a bad way to spend\u2026 https://t.co/0P2NU8T9LP", 
+            "id": "768635101118918656", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-25T02:24:23", 
+            "coordinates": [
+                -73.96304505, 
+                40.6687389
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 39"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "public": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 93293.0, 
+                    "name": "888 8th Avenue", 
+                    "osm_id": 266155271.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 123620.0, 
+                    "name": "The Link", 
+                    "osm_id": 281324352.0
+                }
+            ], 
+            "text": "#newthingeveryday #colbert Fulfilling another #nyc #bucketlist activity! #cbs #liveaudience @\u2026 https://t.co/KVsw6PY7KY", 
+            "id": "768171988284092416", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-23T19:44:08", 
+            "coordinates": [
+                -73.98280455, 
+                40.76363481
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "888 8th Avenue", 
+                    "The Link"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 35095.0, 
+                    "name": "St. Joseph's Church", 
+                    "osm_id": 249664033.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 36106.0, 
+                    "name": "Public School 3", 
+                    "osm_id": 249666267.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36148.0, 
+                    "name": "Church of St. Luke in the Fields", 
+                    "osm_id": 249666372.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126406.0, 
+                    "name": "McLaughlin Funeral Home", 
+                    "osm_id": 366536439.0
+                }
+            ], 
+            "text": "#latergram #newthingeveryday yesterday was shopping with Mr P. @ 14th Street https://t.co/81GiPbzKeL", 
+            "id": "768051029296447488", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-23T11:43:29", 
+            "coordinates": [
+                -73.98993, 
+                40.73256
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Joseph's Church", 
+                    "Church of St. Luke in the Fields"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2, 
+                "church": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 101130.0, 
+                    "name": "Public School 27", 
+                    "osm_id": 278372029.0
+                }
+            ], 
+            "text": "#newthingeveryday today - fully back on it with an African dance class! So bad at it, but so\u2026 https://t.co/cVogsCsMEZ", 
+            "id": "766805763020955648", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-20T01:15:15", 
+            "coordinates": [
+                -73.96261, 
+                40.67751
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 27"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 17237.0, 
+                    "name": "P.S. 29", 
+                    "osm_id": 248145115.0
+                }
+            ], 
+            "text": "I recommend going to hide in some AC and watching this lovely movie whilst #nyc remembers it's a\u2026 https://t.co/2NWKIX07DT", 
+            "id": "764676562302210048", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-14T04:14:34", 
+            "coordinates": [
+                -73.97775, 
+                40.68673
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "P.S. 29"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 98007.0, 
+                    "name": "Holy Trinity Lutheran Church", 
+                    "osm_id": 269219552.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98013.0, 
+                    "name": "The Park Ten", 
+                    "osm_id": 269219553.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98028.0, 
+                    "name": "Liberty Lofts", 
+                    "osm_id": 269212825.0
+                }
+            ], 
+            "text": "#newthingeveryday First #centralpark run with my beautiful training buddy es.wo - she's so\u2026 https://t.co/T5TVsMZlLK", 
+            "id": "762794305752817664", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-08T23:35:09", 
+            "coordinates": [
+                -73.97188376, 
+                40.77212461
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Park Ten", 
+                    "The Grand Tier", 
+                    "Liberty Lofts"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 87837.0, 
+                    "name": "The Colonnade", 
+                    "osm_id": 265152145.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97892.0, 
+                    "name": "The Westport", 
+                    "osm_id": 269201860.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97917.0, 
+                    "name": "Harborview Terrace II", 
+                    "osm_id": 269199818.0
+                }
+            ], 
+            "text": "Not too shabby a work hide out today... \u2764\ufe0f #nyc #centralpark #views @ 59th Street \u2013 Columbus Circle https://t.co/oHzus2r6n8", 
+            "id": "762682601270341632", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-08T16:11:16", 
+            "coordinates": [
+                -73.981934, 
+                40.767997
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Colonnade", 
+                    "The Westport", 
+                    "Harborview Terrace II"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "hospital", 
+                    "id": 78818.0, 
+                    "name": "New York Methodist Hospital - Main Campus", 
+                    "osm_id": 250431518.0
+                }
+            ], 
+            "text": "Cool sculpture spotted at #bbg tonight. #nofilter @ Brooklyn Botanic Garden https://t.co/dvE7p0FXk4", 
+            "id": "761035713836032001", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-04T03:07:08", 
+            "coordinates": [
+                -73.96333594, 
+                40.66832121
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "hospital", 
+                "name": [
+                    "New York Methodist Hospital - Main Campus"
+                ]
+            }, 
+            "building_frequency": {
+                "hospital": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 596.0, 
+                    "name": "One Rockefeller Plaza", 
+                    "osm_id": 42500728.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 670.0, 
+                    "name": "J.P. Stevens Company Tower", 
+                    "osm_id": 109284804.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 687.0, 
+                    "name": "Mutual of America", 
+                    "osm_id": 118476490.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 700.0, 
+                    "name": "345 Park Avenue", 
+                    "osm_id": 137891657.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 811.0, 
+                    "name": "The Orion", 
+                    "osm_id": 158854338.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 888.0, 
+                    "name": "Swiss Bank Tower", 
+                    "osm_id": 164644677.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91350.0, 
+                    "name": "The Bristol", 
+                    "osm_id": 265438077.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91664.0, 
+                    "name": "The Brevard", 
+                    "osm_id": 265461403.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93184.0, 
+                    "name": "Helen Hayes Theatre", 
+                    "osm_id": 266149304.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93216.0, 
+                    "name": "St. James Theatre", 
+                    "osm_id": 266149336.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93511.0, 
+                    "name": "Lyceum Theatre", 
+                    "osm_id": 266170755.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 125771.0, 
+                    "name": "Roman Catholic Archdiocese of New York", 
+                    "osm_id": 293815463.0
+                }
+            ], 
+            "text": "Reason 5,782 I \u2764\ufe0f Erica: she'll trek with me to #flushing on a Tuesday for a two restaurant\u2026 https://t.co/qu6dKxuoln", 
+            "id": "760647709154021376", 
+            "favorite_count": 2, 
+            "created_at": "2016-08-03T01:25:20", 
+            "coordinates": [
+                -73.82228068, 
+                40.75790183
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "One Rockefeller Plaza", 
+                    "J.P. Stevens Company Tower", 
+                    "Mutual of America", 
+                    "345 Park Avenue", 
+                    "Swiss Bank Tower"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 6, 
+                "office": 2, 
+                "theatre": 4, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 101130.0, 
+                    "name": "Public School 27", 
+                    "osm_id": 278372029.0
+                }
+            ], 
+            "text": "Kicked August off right this morning for my #newthingeveryday - great Vinyasa #yoga class to\u2026 https://t.co/xMnnBAZnRn", 
+            "id": "760324926150742017", 
+            "favorite_count": 3, 
+            "created_at": "2016-08-02T04:02:43", 
+            "coordinates": [
+                -73.96261, 
+                40.67751
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 27"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 4775.0, 
+                    "name": "Public School K146 Brooklyn New School", 
+                    "osm_id": 241834635.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 20998.0, 
+                    "name": "Public School 133", 
+                    "osm_id": 248164516.0
+                }
+            ], 
+            "text": "#newthingeveryday - new wheels! #bike #cycling #brooklyn @ Bicycle Habitat Vanderbilt https://t.co/q2eup7dN0p", 
+            "id": "759938009190064128", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-01T02:25:15", 
+            "coordinates": [
+                -73.96826, 
+                40.67989
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School K146 Brooklyn New School", 
+                    "Public School 133"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 331.0, 
+                    "name": "Public School 321", 
+                    "osm_id": -3364727.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 345.0, 
+                    "name": "Traymore", 
+                    "osm_id": -3364783.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 347.0, 
+                    "name": "Woodrow Wilson", 
+                    "osm_id": -3364779.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA", 
+                    "osm_id": 248168055.0
+                }
+            ], 
+            "text": "Spicy chicken bun dreams... #korean #newthingeveryday #crownheights #brooklyn #eats @ Bunsmith https://t.co/FtOYuUjXXH", 
+            "id": "759599419130056709", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-31T03:59:48", 
+            "coordinates": [
+                -73.95739, 
+                40.67188
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Traymore", 
+                    "Woodrow Wilson"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "hotel", 
+                    "id": 7890.0, 
+                    "name": "Hotel le Bleu", 
+                    "osm_id": 241850500.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 80657.0, 
+                    "name": "Saint Theresas School", 
+                    "osm_id": 250451732.0
+                }
+            ], 
+            "text": "#wineflight Pretending I'm back in Paris... #allmine \ud83c\udf77 @ Brooklyn Winery https://t.co/YRJLdAZGKO", 
+            "id": "759599012253200384", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-31T03:58:11", 
+            "coordinates": [
+                -73.95703, 
+                40.673218
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Saint Theresas School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "hotel": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 87584.0, 
+                    "name": "Gainsborough Studios", 
+                    "osm_id": 265147542.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 90453.0, 
+                    "name": "The Arsenal", 
+                    "osm_id": 265347582.0
+                }
+            ], 
+            "text": "If you go past this sign, life gets a lot darker and you can never unsee things... \ud83d\ude37\ud83d\udca9 @ Park\u2026 https://t.co/vOEsZ6V9JA", 
+            "id": "759544809384243201", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-31T00:22:48", 
+            "coordinates": [
+                -73.96561664, 
+                40.76727368
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "The Arsenal"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 87584.0, 
+                    "name": "Gainsborough Studios", 
+                    "osm_id": 265147542.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 90453.0, 
+                    "name": "The Arsenal", 
+                    "osm_id": 265347582.0
+                }
+            ], 
+            "text": "\ud83c\udf35 @ Park Avenue Armory https://t.co/QD5eJopDJu", 
+            "id": "759541062163660801", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-31T00:07:55", 
+            "coordinates": [
+                -73.96561664, 
+                40.76727368
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "The Arsenal"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 87584.0, 
+                    "name": "Gainsborough Studios", 
+                    "osm_id": 265147542.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 90453.0, 
+                    "name": "The Arsenal", 
+                    "osm_id": 265347582.0
+                }
+            ], 
+            "text": "\ud83c\udf88 @ Park Avenue Armory https://t.co/7kPIYFhEqO", 
+            "id": "759540613104668672", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-31T00:06:08", 
+            "coordinates": [
+                -73.96561664, 
+                40.76727368
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "The Arsenal"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 87584.0, 
+                    "name": "Gainsborough Studios", 
+                    "osm_id": 265147542.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 90453.0, 
+                    "name": "The Arsenal", 
+                    "osm_id": 265347582.0
+                }
+            ], 
+            "text": "Loving this shot of the roving musician reflected in the artwork. #shadow #newthingeveryday\u2026 https://t.co/TWFcBOdCqj", 
+            "id": "759540299119128576", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-31T00:04:53", 
+            "coordinates": [
+                -73.96561664, 
+                40.76727368
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "The Arsenal"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 87584.0, 
+                    "name": "Gainsborough Studios", 
+                    "osm_id": 265147542.0
+                }
+            ], 
+            "text": "Is this why the exhibition is called The Back Door? #bum \ud83c\udf51#modernart #newthingeveryday @ Martin\u2026 https://t.co/i2khBKeilu", 
+            "id": "759527837346983936", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-30T23:15:22", 
+            "coordinates": [
+                -73.9662107, 
+                40.767313
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Gainsborough Studios"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 87584.0, 
+                    "name": "Gainsborough Studios", 
+                    "osm_id": 265147542.0
+                }
+            ], 
+            "text": "Balloon fun at #martincreed for today's #newthingeveryday #parkavenuearmory #nyc #art #modernart\u2026 https://t.co/oD46a8vWVi", 
+            "id": "759518481813479424", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-30T22:38:11", 
+            "coordinates": [
+                -73.9662107, 
+                40.767313
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Gainsborough Studios"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 28057.0, 
+                    "name": "Soterios Ellenas School", 
+                    "osm_id": 248681544.0
+                }, 
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "#newthingeveryday #gregoryporter #bric #celebratebrooklyn #brooklyn #prospectpark @ BRIC\u2026 https://t.co/isy4UyddoT", 
+            "id": "758864788818530304", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-29T03:20:39", 
+            "coordinates": [
+                -73.97618356, 
+                40.66318452
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Soterios Ellenas School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 5660.0, 
+                    "name": "Saint Marys School", 
+                    "osm_id": 241836933.0
+                }
+            ], 
+            "text": "#sleepisfortheweak #newthingeveryday #livemusic #brooklyn #sleepingtongues #crownheights #gig @\u2026 https://t.co/awBJzE1Z3x", 
+            "id": "758511882055651328", 
+            "favorite_count": 2, 
+            "created_at": "2016-07-28T03:58:19", 
+            "coordinates": [
+                -73.96351814, 
+                40.67681614
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Saint Marys School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 92216.0, 
+                    "name": "Beulah Church of the Nazarene", 
+                    "osm_id": 265733506.0
+                }
+            ], 
+            "text": "#newthingeveryday Delicious Dominican dinner at a local place. Loving the new neighborhood!\u2026 https://t.co/fJ6gBsahvj", 
+            "id": "757771249913397248", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-26T02:55:19", 
+            "coordinates": [
+                -73.96180203, 
+                40.67890891
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Beulah Church of the Nazarene"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm", 
+                    "osm_id": 264656621.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }, 
+                {
+                    "type": "library", 
+                    "id": 89209.0, 
+                    "name": "\u7d10\u7d04\u5716\u66f8\u9928", 
+                    "osm_id": 265302076.0
+                }
+            ], 
+            "text": "Team Bradshaw are in town! \u2764\ufe0f #family #newthingeveryday #nyc #cocktails #sundayfunday @ Campbell\u2026 https://t.co/uIo61NisU7", 
+            "id": "757402218177794048", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-25T02:28:55", 
+            "coordinates": [
+                -73.9778, 
+                40.7526
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Ohm", 
+                    "The Olivia"
+                ]
+            }, 
+            "building_frequency": {
+                "library": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20998.0, 
+                    "name": "Public School 133", 
+                    "osm_id": 248164516.0
+                }
+            ], 
+            "text": "#boomerang that nightmares are made of... #brooklyn #cat #korean @ Tygershark https://t.co/QFbvt0aqer", 
+            "id": "757059699875340288", 
+            "favorite_count": 2, 
+            "created_at": "2016-07-24T03:47:52", 
+            "coordinates": [
+                -73.9676999, 
+                40.68035
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 133"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20998.0, 
+                    "name": "Public School 133", 
+                    "osm_id": 248164516.0
+                }
+            ], 
+            "text": "#newthingeveryday #korean #eats Octopus, dumplings and pork dreams on a hot #nyc Saturday night\u2026 https://t.co/vgxtMJIP9S", 
+            "id": "757059486603280384", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-24T03:47:01", 
+            "coordinates": [
+                -73.9676999, 
+                40.68035
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 133"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 28057.0, 
+                    "name": "Soterios Ellenas School", 
+                    "osm_id": 248681544.0
+                }, 
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Yummy #newthingeveryday - swordfish kebabs and dinner with my husband. Nice to be back \u2764\ufe0f #nyc\u2026 https://t.co/GBrbqv6Kxw", 
+            "id": "756686893580898304", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-23T03:06:28", 
+            "coordinates": [
+                -73.94472222, 
+                40.66305556
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Soterios Ellenas School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 4775.0, 
+                    "name": "Public School K146 Brooklyn New School", 
+                    "osm_id": 241834635.0
+                }
+            ], 
+            "text": "#newthingeveryday #sundayfunday #crownheights Neighborhood adventures and a quest to find the\u2026 https://t.co/Y1v9Lq5pjT", 
+            "id": "754842163553374208", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-18T00:56:10", 
+            "coordinates": [
+                -73.97169699, 
+                40.67910743
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School K146 Brooklyn New School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "#latergram Lots of fun #newthingeveryday yesterday; #brunch, #ghostbusters and a #crownheights\u2026 https://t.co/iohYe5p6Zr", 
+            "id": "754692581255180288", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-17T15:01:47", 
+            "coordinates": [
+                -73.96503886, 
+                40.68307732
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 126069.0, 
+                    "name": "Marine 1", 
+                    "osm_id": 311665216.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "Pretending to be way cooler than I am and learning to #scratch #dj #newthingeveryday #music\u2026 https://t.co/AHeXwxo4a4", 
+            "id": "754083228856815616", 
+            "favorite_count": 2, 
+            "created_at": "2016-07-15T22:40:26", 
+            "coordinates": [
+                -74.00734, 
+                40.74062
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "Marine 1"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 28057.0, 
+                    "name": "Soterios Ellenas School", 
+                    "osm_id": 248681544.0
+                }, 
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Remembering today, amongst the tragedy, that France is a nation of beauty, art and culture. \u2764\ufe0f\ud83c\uddeb\ud83c\uddf7\u2026 https://t.co/JeCaAHSI2z", 
+            "id": "753791924360847360", 
+            "favorite_count": 4, 
+            "created_at": "2016-07-15T03:22:54", 
+            "coordinates": [
+                -73.97618356, 
+                40.66318452
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Soterios Ellenas School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "The remnants...tonight's #newthingeveryday was magnificent. A supper club at Patricia's\u2026 https://t.co/PqD3qgordU", 
+            "id": "723343667805696000", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-22T02:52:24", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street", 
+                    "osm_id": 247839731.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 56500.0, 
+                    "name": "Public School 34", 
+                    "osm_id": 250264472.0
+                }
+            ], 
+            "text": "A beautiful #spring day for a 5 mile walk to #greenpoint for perogis, donuts and #gp_market\u2026 https://t.co/XtrsGWFph9", 
+            "id": "721853234416119809", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-18T00:09:57", 
+            "coordinates": [
+                -73.95209471, 
+                40.72607149
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 34"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 4775.0, 
+                    "name": "Public School K146 Brooklyn New School", 
+                    "osm_id": 241834635.0
+                }
+            ], 
+            "text": "Tonight, for #newthingeveryday an improvised musical based on the story of a couple in the\u2026 https://t.co/ksJfWmcs5H", 
+            "id": "721126793109979137", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-16T00:03:20", 
+            "coordinates": [
+                -73.98353, 
+                40.67911
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School K146 Brooklyn New School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower", 
+                    "osm_id": 86121621.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 669.0, 
+                    "name": "Times Square Tower", 
+                    "osm_id": 109285745.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 691.0, 
+                    "name": "277 Park Avenue", 
+                    "osm_id": 137860913.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 762.0, 
+                    "name": "Postum Building", 
+                    "osm_id": 146220936.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 781.0, 
+                    "name": "North American Plywood Building", 
+                    "osm_id": 150402504.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92928.0, 
+                    "name": "Fred F. French Building", 
+                    "osm_id": 266010344.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93159.0, 
+                    "name": "Nederlander Theatre", 
+                    "osm_id": 266143337.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93399.0, 
+                    "name": "Putman Building", 
+                    "osm_id": 266170632.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93558.0, 
+                    "name": "530 5th Avenue", 
+                    "osm_id": 266170820.0
+                }
+            ], 
+            "text": "Today's #newthingeveryday was a delicious goat's cheese sandwich from this place on 3rd Ave.\u2026 https://t.co/Fxh7yLJLs8", 
+            "id": "719932762837413888", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-12T16:58:41", 
+            "coordinates": [
+                -73.970699, 
+                40.755416
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Bank of America Tower", 
+                    "Times Square Tower", 
+                    "277 Park Avenue", 
+                    "Postum Building", 
+                    "Fred F. French Building", 
+                    "Putman Building", 
+                    "530 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 8, 
+                "theatre": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 4775.0, 
+                    "name": "Public School K146 Brooklyn New School", 
+                    "osm_id": 241834635.0
+                }
+            ], 
+            "text": "Close to the wire today, but nailed a #newthingeveryday after #lindyhop class by trying out\u2026 https://t.co/xzMQWn3Sc5", 
+            "id": "719718473232986112", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-12T02:47:10", 
+            "coordinates": [
+                -73.98217586, 
+                40.67966332
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School K146 Brooklyn New School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Let's go Islanders! #brooklyn #hockey #islanders #newthingeveryday #nyc #sundayfunday @ Barclays\u2026 https://t.co/QZVWibxPw3", 
+            "id": "719305390152925185", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-10T23:25:43", 
+            "coordinates": [
+                -73.97618, 
+                40.68327
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 5660.0, 
+                    "name": "Saint Marys School", 
+                    "osm_id": 241836933.0
+                }
+            ], 
+            "text": "#repost #brooklyn #tougholdbirds #saturday @ the way station https://t.co/ay1WxjSejI", 
+            "id": "719027291221803008", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-10T05:00:39", 
+            "coordinates": [
+                -73.9633876, 
+                40.6768075
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Saint Marys School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 5660.0, 
+                    "name": "Saint Marys School", 
+                    "osm_id": 241836933.0
+                }
+            ], 
+            "text": "\u2764\ufe0f this lady #brooklyn #expat #nyc @ the way station https://t.co/LCiDa7yP8j", 
+            "id": "718995813821759490", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-10T02:55:34", 
+            "coordinates": [
+                -73.9633876, 
+                40.6768075
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Saint Marys School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Bespoke lipstick making: such a fun way to spend a Saturday! #newthingeveryday #beauty #nyc\u2026 https://t.co/sMtLrnF9vt", 
+            "id": "718931180280815617", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-09T22:38:45", 
+            "coordinates": [
+                -74.0018518, 
+                40.7260877
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 90777.0, 
+                    "name": "Archstone Clinton South Tower", 
+                    "osm_id": 265356059.0
+                }
+            ], 
+            "text": "#mediafriday #newthingeveryday #nyc @ Cancun Restaurant NYC https://t.co/ywynbGR2LP", 
+            "id": "718625142256050177", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-09T02:22:39", 
+            "coordinates": [
+                -73.983925, 
+                40.765869
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Archstone Clinton South Tower"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }
+            ], 
+            "text": "Secrets of the neighborhood; when things are not what they seem...#brooklyn #brooklynheights\u2026 https://t.co/NuJIzLBVQd", 
+            "id": "717900218432405506", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-07T02:22:04", 
+            "coordinates": [
+                -73.99573, 
+                40.6933999
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "This is what happens when you rock up late to Book Club; no 'hello my name is....' for me. You\u2026 https://t.co/luq7jAox5L", 
+            "id": "717540195730657281", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-06T02:31:28", 
+            "coordinates": [
+                -73.984204, 
+                40.747163
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "college": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }, 
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }
+            ], 
+            "text": "#pretty #macys #macysflowershow #instadaily #newthingeveryday #bloom #flowers @ Macy's Herald\u2026 https://t.co/B8Fc97vijV", 
+            "id": "715717773834510336", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-01T01:49:49", 
+            "coordinates": [
+                -73.9890823, 
+                40.750473
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "tower", 
+                "name": [
+                    "Two Penn Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }, 
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }
+            ], 
+            "text": "Had to venture up to the 7th floor for this bad boy; totally worth it. I've always wanted to\u2026 https://t.co/1v6nsGpTbz", 
+            "id": "715717340420251648", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-01T01:48:05", 
+            "coordinates": [
+                -73.9890823, 
+                40.750473
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "tower", 
+                "name": [
+                    "Two Penn Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 17237.0, 
+                    "name": "P.S. 29", 
+                    "osm_id": 248145115.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82898.0, 
+                    "name": "Hanson Church School", 
+                    "osm_id": 250979514.0
+                }
+            ], 
+            "text": "This wonderful production was Day One. #nyc #brooklyn #newthingeveryday #doublefalsehood #regram\u2026 https://t.co/3YmYjDwR0M", 
+            "id": "715398920667410432", 
+            "favorite_count": 3, 
+            "created_at": "2016-03-31T04:42:48", 
+            "coordinates": [
+                -73.973213, 
+                40.686714
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "P.S. 29", 
+                    "Hanson Church School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41", 
+                    "osm_id": 250474273.0
+                }
+            ], 
+            "text": "Team 17, ready to tackle the East Village for #hope2016 #volunteering #nyc @ Ps 41 Greenwich\u2026 https://t.co/ah9HIbclal", 
+            "id": "696914800270536704", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-09T04:33:31", 
+            "coordinates": [
+                -73.9990226, 
+                40.7357097
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 41"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86057.0, 
+                    "name": "Public School 33", 
+                    "osm_id": 264667033.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 86112.0, 
+                    "name": "Church of the Holy Apostles", 
+                    "osm_id": 264671930.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125777.0, 
+                    "name": "200 Eleventh Avenue", 
+                    "osm_id": 293950322.0
+                }
+            ], 
+            "text": "1,755 coats sorted in our shift for #newyorkcares #coatdrive with the dream team Adriana and Dan\u2026 https://t.co/YG0MsYmG6H", 
+            "id": "682658206066327553", 
+            "favorite_count": 1, 
+            "created_at": "2015-12-31T20:22:54", 
+            "coordinates": [
+                -73.99164404, 
+                40.7494012
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 33"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 57815.0, 
+                    "name": "St. Veronica's Church", 
+                    "osm_id": 250269735.0
+                }
+            ], 
+            "text": "I'll be here a while....then a while more... #books #bookheaven #nyc @ Strand Book Store https://t.co/XBeLEFtFsC", 
+            "id": "681903095526363136", 
+            "favorite_count": 3, 
+            "created_at": "2015-12-29T18:22:21", 
+            "coordinates": [
+                -73.99107155, 
+                40.7330218
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Veronica's Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "Stella. Amazing. #nyc #art #whitney @ Whitney Museum of American Art https://t.co/rMWEqpfD2n", 
+            "id": "681886928178941953", 
+            "favorite_count": 1, 
+            "created_at": "2015-12-29T17:18:07", 
+            "coordinates": [
+                -74.0082932, 
+                40.7395058
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments", 
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "It's Whitney, bitch. #art #nyc @ Whitney Museum of American Art https://t.co/WYNR7YKcUP", 
+            "id": "681880886766366720", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-29T16:54:06", 
+            "coordinates": [
+                -74.0082932, 
+                40.7395058
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments", 
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 85727.0, 
+                    "name": "SVA Theater", 
+                    "osm_id": 264651626.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 101016.0, 
+                    "name": "The Corinthian", 
+                    "osm_id": 278328259.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 118373.0, 
+                    "name": "Public School 150", 
+                    "osm_id": 280369233.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125722.0, 
+                    "name": "Vision Machine", 
+                    "osm_id": 288603699.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125725.0, 
+                    "name": "500W21", 
+                    "osm_id": 288767466.0
+                }
+            ], 
+            "text": "Mini NYC! #nyc #queens @ Queens Museum https://t.co/3YXQiRjll8", 
+            "id": "678351217299443713", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-19T23:08:28", 
+            "coordinates": [
+                -73.84684186, 
+                40.74606868
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Corinthian", 
+                    "Vision Machine", 
+                    "500W21"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "commercial": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 796.0, 
+                    "name": "3 Park Avenue", 
+                    "osm_id": 156943046.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85674.0, 
+                    "name": "Shirley Goodman Resource Center", 
+                    "osm_id": 264651243.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 101016.0, 
+                    "name": "The Corinthian", 
+                    "osm_id": 278328259.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125722.0, 
+                    "name": "Vision Machine", 
+                    "osm_id": 288603699.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125725.0, 
+                    "name": "500W21", 
+                    "osm_id": 288767466.0
+                }
+            ], 
+            "text": "Hello #queens @ Flushing Meadows - Corona Park https://t.co/8HKSpFZHuz", 
+            "id": "678302706163982336", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-19T19:55:42", 
+            "coordinates": [
+                -73.84460655, 
+                40.74638527
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "3 Park Avenue", 
+                    "The Corinthian", 
+                    "Vision Machine", 
+                    "500W21"
+                ]
+            }, 
+            "building_frequency": {
+                "college": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "#latergram MEC Christmas party with these beauties #alltheteeth #glassoffizzplease @ espace ny https://t.co/0Bh8Pp2aSI", 
+            "id": "677716318297137152", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-18T05:05:36", 
+            "coordinates": [
+                -73.9996414, 
+                40.7618484
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Atelier"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 98013.0, 
+                    "name": "The Park Ten", 
+                    "osm_id": 269219553.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98028.0, 
+                    "name": "Liberty Lofts", 
+                    "osm_id": 269212825.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "#centralpark So pretty and Christmassy! #christmas #nyc @ Tavern-on-the-Green https://t.co/PF9p8Wdx0Q", 
+            "id": "676164386185224193", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-13T22:18:46", 
+            "coordinates": [
+                -73.9778, 
+                40.7723
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Park Ten", 
+                    "The Grand Tier", 
+                    "Liberty Lofts", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84147.0, 
+                    "name": "The Thomas Eddy", 
+                    "osm_id": 264624913.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "#topspin Dropping some fact bombs. @ Metropolitan Pavillion https://t.co/qKwwuaMNKk", 
+            "id": "674779672765267968", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-10T02:36:25", 
+            "coordinates": [
+                -73.9957504, 
+                40.740551
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Thomas Eddy", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "cathedral", 
+                    "id": 10923.0, 
+                    "name": "Saint Patrick's Old Cathedral", 
+                    "osm_id": 247845702.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 14356.0, 
+                    "name": "Avalon Chrystie Place", 
+                    "osm_id": 247920484.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 28873.0, 
+                    "name": "Church of the Most Holy Redeemer", 
+                    "osm_id": 248772992.0
+                }
+            ], 
+            "text": "#danielkitson Comedy and storytelling, absolute perfection. #christmas #nyc #newyorkbucketlist @\u2026 https://t.co/TrAHHFRt0M", 
+            "id": "674434188876083200", 
+            "favorite_count": 3, 
+            "created_at": "2015-12-09T03:43:35", 
+            "coordinates": [
+                -73.9835434, 
+                40.7234612
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "cathedral", 
+                "name": [
+                    "Saint Patrick's Old Cathedral"
+                ]
+            }, 
+            "building_frequency": {
+                "cathedral": 2, 
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "About last night....Happy birthday beautiful @jbey30! #latergram #birthday #nyc #brassmonkey @ Brass\u2026 https://t.co/0joUarS2fl", 
+            "id": "635522862972076032", 
+            "favorite_count": 1, 
+            "created_at": "2015-08-23T18:43:52", 
+            "coordinates": [
+                -74.00849073, 
+                40.74075408
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }
+            ], 
+            "text": "Om nom-nom-nom #grilledcheese #MadSqEats #nyc #tgif @ Madison Square Eats https://t.co/xBbKYDgPfI", 
+            "id": "594308606759149569", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-02T01:13:08", 
+            "coordinates": [
+                -73.98879766, 
+                40.74256915
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

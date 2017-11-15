@@ -1,0 +1,1863 @@
+{
+    "total_favorite_count": 807, 
+    "followers_count": 1061, 
+    "total_tweets": 42, 
+    "user_id": 290008835, 
+    "screen_name": "PerelandraBK", 
+    "friends_count": 2010, 
+    "buildings": {
+        "residential": 43, 
+        "school": 43, 
+        "office": 43
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "It's #focacciathursday! Roasted garlic, chives, and cauliflower pur\u00e9e with saut\u00e9ed shallots,\u2026 https://t.co/ThSlwzLCGE", 
+            "id": "781564333515956224", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-29T18:40:32", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Just so happens to be #tbt and #nationalcoffeeday so come grab a slice of our #vegan\u2026 https://t.co/ZU3SqXwgCF", 
+            "id": "781527553886396416", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-29T16:14:23", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Did you know we carry all natural makeup too? Find your new shades here with @janeiredale!\u2026 https://t.co/Aiet9NLWWg", 
+            "id": "781133460496711680", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T14:08:24", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Spicy Tomato Lime soup with black beans &amp; corn, served with tortilla chips, cilantro and #vegan\u2026 https://t.co/CV0Jvp98SE", 
+            "id": "780805413084160000", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-27T16:24:51", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Have you tried this bread? It's a cult favorite! Little Stream Bakery is #vegan, #organic,\u2026 https://t.co/czLG8JajvF", 
+            "id": "780516647299788800", 
+            "favorite_count": 3, 
+            "created_at": "2016-09-26T21:17:24", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Hope everyone has a great #SmoothieSaturday! \u2600\ufe0f#organic #vegan @ Perelandra Natural Foods https://t.co/Def6a0upBg", 
+            "id": "779729937880064001", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-24T17:11:18", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Our #Vegan Banh Mi is a best seller! Ginger jalapeno marinated seitan with picked vegetables,\u2026 https://t.co/hxju3eN5g0", 
+            "id": "779321693781176323", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-23T14:09:05", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "It's #focacciathursday! Charred poblano and avocado sauce w/roasted shiitake mushrooms, pickled\u2026 https://t.co/oVZMYpksAW", 
+            "id": "779008804226670592", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T17:25:46", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "TOMORROW 9/22! Sample samosas from @samosashackny in store between 12-2 pm. We love this local\u2026 https://t.co/tboYQClNVG", 
+            "id": "778676625487429632", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-21T19:25:49", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "#WhoopiePieWednesday through September! Chocolate whoopie pies with coconut whipped cream\u2026 https://t.co/aaJfBLnuZH", 
+            "id": "778614876306485248", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-21T15:20:27", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "So honored to have our Vegan Coffee Cake featured on @usatoday! We only make one cake a day, be\u2026 https://t.co/M8KnJ04Ic3", 
+            "id": "778281944920403968", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-20T17:17:30", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Gloomy days call for #glutenfree pasta salad! Try ours with lemon herb dressing \ud83c\udf4b\ud83c\udf31 #healthy\u2026 https://t.co/SiCdVxLpC7", 
+            "id": "777903874409541634", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-19T16:15:11", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "It's almost officially #Fall! Stop by and pick up some of our new Fall #beers \ud83c\udf7b#cheers #sunday @\u2026 https://t.co/h4JVCv3Igr", 
+            "id": "777545988462391297", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-18T16:33:04", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "#focacciathursday is here! Today while supplies last: roasted garlic and shallot pur\u00e9e w\u2026 https://t.co/RUmXUqjES6", 
+            "id": "776462365512470529", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-15T16:47:08", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Some like a coffee break around 3 pm, but we like a @pukkaherbs tea break! What's your favorite\u2026 https://t.co/UhDhjm3YV6", 
+            "id": "776136017652752384", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-14T19:10:21", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Happy #NationalPeanutDay! Available today while supplies last: creamy peanut butter and jelly\u2026 https://t.co/9k8chBc4pz", 
+            "id": "775727350004666368", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-13T16:06:27", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Mushrooms on Monday! What's your favorite kind?? We love these baby portobellos aka criminis! \ud83c\udf44\u2026 https://t.co/DkVDRiL48O", 
+            "id": "775422707928227840", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-12T19:55:54", 
+            "coordinates": [
+                -73.99121212, 
+                40.69322724
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Starting the weekend on the right foot with a smoothie in hand! The Raspberry Beret:\u2026 https://t.co/zjG7x2MYJy", 
+            "id": "774698998074527744", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-10T20:00:09", 
+            "coordinates": [
+                -73.99121212, 
+                40.69322724
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "We love #focacciathursday! Today we have our delicious focaccia topped with shallot and garlic\u2026 https://t.co/ebCZ2vqkJP", 
+            "id": "773939437721923585", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-08T17:41:55", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "A great beer to celebrate #NationalBeerLoversDay! Love this @stillwaterales \ud83c\udf7b #cheers #beer\u2026 https://t.co/fPQ2lxGR5D", 
+            "id": "773616112160223232", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-07T20:17:08", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "It's #WhoopiePieWednesday all through September! Chocolate with coconut whipped cream filling -\u2026 https://t.co/W4kZhhae8w", 
+            "id": "773561371048894464", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-07T16:39:37", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Time to get back to healthy with @sashayoga and these beautiful greens! #repost #avocado\u2026 https://t.co/vgYYKKQnlj", 
+            "id": "773207752252325894", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-06T17:14:28", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "#focacciathursday! Today we have watercress and basil pesto with charred leeks, blistered sweet\u2026 https://t.co/TXlstE9fbu", 
+            "id": "771371156569849858", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-01T15:36:29", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Get a slice while supplies last! #glutenfree strawberry basil cake with lemon frosting \ud83d\ude0d\ud83c\udf53 #cake\u2026 https://t.co/QCU6d5fCpT", 
+            "id": "771060295020064768", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-31T19:01:14", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "#repost Wednesday! Thanks for the love januaryfeliz and this awesome shot of your post-yoga\u2026 https://t.co/arwcg50i7X", 
+            "id": "771024070175404032", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-31T16:37:17", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "#repost gpmuesli and their #MandalayMango mix. We love to mix this with yogurt and a drizzle of\u2026 https://t.co/r3A3aHxamz", 
+            "id": "770625742795190273", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-30T14:14:29", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Time for a #SundaySnack! We love these #tahini and #maple clusters with NO refined sugars from\u2026 https://t.co/LNKvar8idL", 
+            "id": "770022150510112772", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-28T22:16:01", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "#focacciathursday comin in hot! Roasted leek and garlic pur\u00e9e, fresh tomatoes, blistered\u2026 https://t.co/BtTrLHa24c", 
+            "id": "768842225878831108", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-25T16:07:25", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "NEW\u2757\ufe0fVegan Coffee Cake with cinnamon walnut streusel. Available Mon-Fri in store! \ud83d\ude0d #vegan\u2026 https://t.co/qDXElk2QpT", 
+            "id": "768463662809882625", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-24T15:03:09", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Detox from the weekend and start the week off right with hawthornevalley Daily Fix! #probiotic\u2026 https://t.co/IGceh5Pwwp", 
+            "id": "767821810683432961", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-22T20:32:39", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Cool off with our @perelandrabk x @3littlebirdsnyc collab and pick up a pint of Peaceful Planet!\u2026 https://t.co/SXUiRLipOq", 
+            "id": "765997684083666944", 
+            "favorite_count": 2, 
+            "created_at": "2016-08-17T19:44:14", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Another gorgeous shot from @lucky__peach! Find @alaffiaskincare and @janeiredale products in\u2026 https://t.co/PjnCmH27Xw", 
+            "id": "765623004621516801", 
+            "favorite_count": 3, 
+            "created_at": "2016-08-16T18:55:23", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "#repost via @ponycakesnyc - pick up some of the amazing hautechocolatebrooklyn now sold in\u2026 https://t.co/oTkE8jDp2I", 
+            "id": "764479266880753665", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-13T15:10:35", 
+            "coordinates": [
+                -73.99132331, 
+                40.69334249
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Beautiful tomatoes for your summer salad tonight. Swing by and grab a few! \ud83c\udf45 #tomatoes #local @\u2026 https://t.co/bbIw34TEHP", 
+            "id": "763117357262708736", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-09T20:58:50", 
+            "coordinates": [
+                -73.99121212, 
+                40.69322724
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Pick up some local bi-color corn for Sunday dinner! Fresh and sweet \ud83d\ude4c\ud83c\udffb\ud83c\udf3d #corn #local @\u2026 https://t.co/X3NGlNByJM", 
+            "id": "762319897456017409", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-07T16:10:01", 
+            "coordinates": [
+                -73.99121212, 
+                40.69322724
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "@vegansaurus knows how to stay cool in this heat.. \ud83c\udf66 #vegan #icecream @ Perelandra Natural Foods https://t.co/XZDv6NFOfz", 
+            "id": "758391442414776320", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-27T19:59:44", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Visit our site and sign up for our weekly emails to see what sales we have for you! Like these\u2026 https://t.co/XcmvZEw14B", 
+            "id": "756513480631394304", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-22T15:37:23", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "Happy Monday! Try one of our smoothies to kickstart the week like the Raspberry Beret:\u2026 https://t.co/0hdUdwS7HX", 
+            "id": "755065002092929025", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-18T15:41:39", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "It's National Ice Cream Day and we'd like to celebrate with a pint of Peaceful Planet - our\u2026 https://t.co/eaT7q8Jt1o", 
+            "id": "754693151093161986", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-17T15:04:03", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "It's #focacciathursdays at Perelandra! Sweet pea pur\u00e9e with roasted Vidalia onions, tomatoes,\u2026 https://t.co/uLgKb52NG1", 
+            "id": "753656915293384704", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-14T18:26:25", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "#repost from @sashayoga - tahini toast with figs, sea salt, and cinnamon on buckwheat sourdough\u2026 https://t.co/vRVcAtbme9", 
+            "id": "753251049452953601", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-13T15:33:39", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 1178.0, 
+                    "name": "Liberty State Park Office", 
+                    "osm_id": 232065131.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 6360.0, 
+                    "name": "Saint Francis College", 
+                    "osm_id": 241839661.0
+                }
+            ], 
+            "text": "#repost from @sashayoga - tahini toast with figs, sea salt, and cinnamon on buckwheat sourdough.\u2026 https://t.co/kIWT2GkPa4", 
+            "id": "753247685000372225", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-13T15:20:17", 
+            "coordinates": [
+                -73.99147, 
+                40.69339
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

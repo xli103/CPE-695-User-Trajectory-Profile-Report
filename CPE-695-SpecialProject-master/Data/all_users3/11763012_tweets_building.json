@@ -1,0 +1,2689 @@
+{
+    "total_favorite_count": 145, 
+    "followers_count": 1676, 
+    "total_tweets": 63, 
+    "user_id": 11763012, 
+    "screen_name": "DUNKonDUNKS", 
+    "friends_count": 1616, 
+    "buildings": {
+        "manufacture": 4, 
+        "hut": 2, 
+        "school": 32, 
+        "industrial": 5, 
+        "university": 5, 
+        "office": 19, 
+        "apartments": 56, 
+        "residential": 2, 
+        "train_station": 5, 
+        "hotel": 4, 
+        "commercial": 10, 
+        "supermarket": 6, 
+        "dormitory": 2, 
+        "garage": 2, 
+        "college": 4, 
+        "church": 14, 
+        "theatre": 2, 
+        "retail": 11, 
+        "public": 4, 
+        "tent": 4
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Workin some more! (at @StadiumGoods in New York, NY) https://t.co/CufF2VyZRH", 
+            "id": "796486552859906048", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T22:56:06", 
+            "coordinates": [
+                -74.00182354, 
+                40.72005577
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "I'm at US Post Office in Brooklyn, NY https://t.co/eiqijwV3nx", 
+            "id": "794534808999305217", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-04T13:40:34", 
+            "coordinates": [
+                -73.95159245, 
+                40.66381011
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "public", 
+                    "id": 99801.0, 
+                    "name": "Daniel Patrick Moynihan United States Courthouse", 
+                    "osm_id": 278105948.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I'm at Spa For Life in New York, NY https://t.co/yTyunehNAL", 
+            "id": "792827295123857411", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T20:35:31", 
+            "coordinates": [
+                -73.995963, 
+                40.713946
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "public", 
+                "name": [
+                    "Daniel Patrick Moynihan United States Courthouse"
+                ]
+            }, 
+            "building_frequency": {
+                "public": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "I'm at @StadiumGoods in New York, NY https://t.co/N08vEgVGx7", 
+            "id": "792816760974090240", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T19:53:40", 
+            "coordinates": [
+                -74.00182354, 
+                40.72005577
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 10747.0, 
+                    "name": "Mercer Street Residence Hall", 
+                    "osm_id": 247842941.0
+                }
+            ], 
+            "text": "I'm at @AGLIT_ITALY NYC Store in New York, NY https://t.co/3TDRhDHKlE", 
+            "id": "792782695755550720", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T17:38:18", 
+            "coordinates": [
+                -73.99326138, 
+                40.72762818
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Mercer Street Residence Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "#working #letsgetit (at @StadiumGoods in New York, NY) https://t.co/EzrFzyJQFo", 
+            "id": "792018277564284930", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-28T15:00:47", 
+            "coordinates": [
+                -74.00182354, 
+                40.72005577
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA", 
+                    "osm_id": 248168055.0
+                }, 
+                {
+                    "type": "garage", 
+                    "id": 24802.0, 
+                    "name": "NYC Sanitation Department", 
+                    "osm_id": 248171348.0
+                }
+            ], 
+            "text": "Dropped my damn drink so I had to get another one!! (@ Starbucks in Brooklyn, NY) https://t.co/FpLMUFA0JS", 
+            "id": "789987997299175424", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-23T00:33:10", 
+            "coordinates": [
+                -73.95769896, 
+                40.67102584
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "garage", 
+                "name": [
+                    "NYC Sanitation Department"
+                ]
+            }, 
+            "building_frequency": {
+                "garage": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 101130.0, 
+                    "name": "Public School 27", 
+                    "osm_id": 278372029.0
+                }
+            ], 
+            "text": "I'm at Starbucks in Brooklyn, NY https://t.co/EllXfKWoDS", 
+            "id": "789961123214815233", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-22T22:46:23", 
+            "coordinates": [
+                -73.97291038, 
+                40.67758081
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 27"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "public", 
+                    "id": 99801.0, 
+                    "name": "Daniel Patrick Moynihan United States Courthouse", 
+                    "osm_id": 278105948.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 100388.0, 
+                    "name": "St. Augustine's Church", 
+                    "osm_id": 278256447.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I'm at Mr. Thai in Brooklyn, NY https://t.co/oMCproAEWZ", 
+            "id": "787419947823689728", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T22:28:39", 
+            "coordinates": [
+                -73.955539, 
+                40.713821
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2, 
+                "public": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 2821.0, 
+                    "name": "Domino Sugar Refinery", 
+                    "osm_id": 241823871.0
+                }, 
+                {
+                    "type": "public", 
+                    "id": 99801.0, 
+                    "name": "Daniel Patrick Moynihan United States Courthouse", 
+                    "osm_id": 278105948.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I'm at Momofuku @MilkBarStore in Brooklyn, NY https://t.co/1IZa2493AW", 
+            "id": "787419848229916672", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T22:28:16", 
+            "coordinates": [
+                -73.95492107, 
+                40.71404731
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Domino Sugar Refinery"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2, 
+                "public": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }
+            ], 
+            "text": "I'm at Manhattan Bridge in New York, NY https://t.co/QTk4ZYyR06", 
+            "id": "786349892201480192", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:36:38", 
+            "coordinates": [
+                -73.99086827, 
+                40.70764045
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Greenwich Club Residences"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }
+            ], 
+            "text": "I'm at Manhattan Bridge in New York, NY https://t.co/ZYUj5SlKfn", 
+            "id": "783089790384218112", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-03T23:42:09", 
+            "coordinates": [
+                -73.99086827, 
+                40.70764045
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Greenwich Club Residences"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "tent", 
+                    "id": 1056.0, 
+                    "name": "Security", 
+                    "osm_id": 223269694.0
+                }
+            ], 
+            "text": "\"Lonely Rainy Bokeh Nights\" -  #Bokeh #bokehful #BokehLove #bokehfreaks #bokehnation\u2026 https://t.co/SF74DlyrK1", 
+            "id": "781279675800616960", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T23:49:24", 
+            "coordinates": [
+                -73.99258203, 
+                40.68966816
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "tent", 
+                "name": [
+                    "Security"
+                ]
+            }, 
+            "building_frequency": {
+                "tent": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 99163.0, 
+                    "name": "High School of Economics and Finance", 
+                    "osm_id": 278033590.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 99175.0, 
+                    "name": "Leadership and Public Service High School", 
+                    "osm_id": 278033603.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99219.0, 
+                    "name": "John Street Church", 
+                    "osm_id": 278039438.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99527.0, 
+                    "name": "Five Nine John Lofts", 
+                    "osm_id": 278078952.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99533.0, 
+                    "name": "110 William Street", 
+                    "osm_id": 278078924.0
+                }
+            ], 
+            "text": "I'm at Manhattan Bridge in New York, NY https://t.co/6ZO9nJKfkB", 
+            "id": "780907659625111552", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-27T23:11:09", 
+            "coordinates": [
+                -73.99140773, 
+                40.70911215
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "High School of Economics and Finance", 
+                    "Leadership and Public Service High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "apartments": 2, 
+                "office": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 99163.0, 
+                    "name": "High School of Economics and Finance", 
+                    "osm_id": 278033590.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 99175.0, 
+                    "name": "Leadership and Public Service High School", 
+                    "osm_id": 278033603.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99219.0, 
+                    "name": "John Street Church", 
+                    "osm_id": 278039438.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99527.0, 
+                    "name": "Five Nine John Lofts", 
+                    "osm_id": 278078952.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99533.0, 
+                    "name": "110 William Street", 
+                    "osm_id": 278078924.0
+                }
+            ], 
+            "text": "#workbound (@ Manhattan Bridge in New York, NY) https://t.co/xRF9IryPt4", 
+            "id": "780778404228558848", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-27T14:37:32", 
+            "coordinates": [
+                -73.99140773, 
+                40.70911215
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "High School of Economics and Finance", 
+                    "Leadership and Public Service High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "apartments": 2, 
+                "office": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86.0, 
+                    "name": "Middle School 88", 
+                    "osm_id": -3343781.0
+                }, 
+                {
+                    "type": "train_station", 
+                    "id": 50570.0, 
+                    "name": "Prospect Park Station House", 
+                    "osm_id": 250170831.0
+                }
+            ], 
+            "text": "Back around the way! (@ Prospect Lefferts Gardens - @plgbk in Brooklyn, NY) https://t.co/7r9VxpsncT", 
+            "id": "780557704913969153", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-27T00:00:33", 
+            "coordinates": [
+                -73.95596981, 
+                40.66078259
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Middle School 88"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "train_station": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 99163.0, 
+                    "name": "High School of Economics and Finance", 
+                    "osm_id": 278033590.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 99175.0, 
+                    "name": "Leadership and Public Service High School", 
+                    "osm_id": 278033603.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99219.0, 
+                    "name": "John Street Church", 
+                    "osm_id": 278039438.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99527.0, 
+                    "name": "Five Nine John Lofts", 
+                    "osm_id": 278078952.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99533.0, 
+                    "name": "110 William Street", 
+                    "osm_id": 278078924.0
+                }
+            ], 
+            "text": "#BrooklynBound (@ Manhattan Bridge in New York, NY) https://t.co/RBRounb13w", 
+            "id": "780553606516842496", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-26T23:44:16", 
+            "coordinates": [
+                -73.99140773, 
+                40.70911215
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "High School of Economics and Finance", 
+                    "Leadership and Public Service High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "apartments": 2, 
+                "office": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 3523.0, 
+                    "name": "Duryea Presbyterian Church", 
+                    "osm_id": 241827390.0
+                }
+            ], 
+            "text": "#Fire (@ Kimchi Grill in Brooklyn, NY) https://t.co/5MbgdVldaE", 
+            "id": "780086633886576640", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-25T16:48:41", 
+            "coordinates": [
+                -73.9634183, 
+                40.67512548
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Duryea Presbyterian Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 83594.0, 
+                    "name": "Symphony House", 
+                    "osm_id": 259919482.0
+                }, 
+                {
+                    "type": "residential", 
+                    "id": 87563.0, 
+                    "name": "Alwyn Court", 
+                    "osm_id": 265147967.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 90422.0, 
+                    "name": "Assisium School", 
+                    "osm_id": 265345831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90777.0, 
+                    "name": "Archstone Clinton South Tower", 
+                    "osm_id": 265356059.0
+                }
+            ], 
+            "text": "I quick pick me up before a shoot this morn!!! #GrindDontStop #GrindingWithTheseDreams (@ Starbucks in New York, NY) https://t.co/JVpS6fgcdo", 
+            "id": "780039610034520065", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-25T13:41:50", 
+            "coordinates": [
+                -73.96364093, 
+                40.76592871
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Symphony House", 
+                    "Archstone Clinton South Tower"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 101130.0, 
+                    "name": "Public School 27", 
+                    "osm_id": 278372029.0
+                }
+            ], 
+            "text": "Birthday Salted Caramel Mocha on @starbucks #TeamVirgo #VirgoSeason #Birthday (@ Starbucks in Brooklyn, NY) https://t.co/amOy0iI5WY", 
+            "id": "777899890546532352", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-19T15:59:21", 
+            "coordinates": [
+                -73.97291038, 
+                40.67758081
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 27"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at Empire Apparels Inc in New York, NY https://t.co/IFqkwUFluf", 
+            "id": "776927065996140546", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-16T23:33:41", 
+            "coordinates": [
+                -74.00298273, 
+                40.71831358
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "I'm at @KITHSet in New York, NY https://t.co/1akrfsGVzx", 
+            "id": "776921871145197569", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-16T23:13:03", 
+            "coordinates": [
+                -73.99557986, 
+                40.72635918
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "I'm at New Era Flagship Store: New York in New York, NY https://t.co/RmPpImUqiG", 
+            "id": "776915200352092161", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-16T22:46:32", 
+            "coordinates": [
+                -73.99388118, 
+                40.72806968
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 99163.0, 
+                    "name": "High School of Economics and Finance", 
+                    "osm_id": 278033590.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 99175.0, 
+                    "name": "Leadership and Public Service High School", 
+                    "osm_id": 278033603.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99219.0, 
+                    "name": "John Street Church", 
+                    "osm_id": 278039438.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99527.0, 
+                    "name": "Five Nine John Lofts", 
+                    "osm_id": 278078952.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99533.0, 
+                    "name": "110 William Street", 
+                    "osm_id": 278078924.0
+                }
+            ], 
+            "text": "#brooklyn bound (@ Manhattan Bridge in New York, NY) https://t.co/r9X6ESMUGZ", 
+            "id": "776210685965504512", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-15T00:07:03", 
+            "coordinates": [
+                -73.99140773, 
+                40.70911215
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "High School of Economics and Finance", 
+                    "Leadership and Public Service High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "apartments": 2, 
+                "office": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 99163.0, 
+                    "name": "High School of Economics and Finance", 
+                    "osm_id": 278033590.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 99175.0, 
+                    "name": "Leadership and Public Service High School", 
+                    "osm_id": 278033603.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99219.0, 
+                    "name": "John Street Church", 
+                    "osm_id": 278039438.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99527.0, 
+                    "name": "Five Nine John Lofts", 
+                    "osm_id": 278078952.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99533.0, 
+                    "name": "110 William Street", 
+                    "osm_id": 278078924.0
+                }
+            ], 
+            "text": "I'm at Manhattan Bridge in New York, NY https://t.co/1hBCtCeJ4U", 
+            "id": "773670726280830976", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-07T23:54:09", 
+            "coordinates": [
+                -73.99140773, 
+                40.70911215
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "High School of Economics and Finance", 
+                    "Leadership and Public Service High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "apartments": 2, 
+                "office": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "#Working (at @StadiumGoods in New York, NY) https://t.co/QTNiB5Mgja", 
+            "id": "771814703337185281", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-02T20:58:59", 
+            "coordinates": [
+                -74.00182354, 
+                40.72005577
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 14356.0, 
+                    "name": "Avalon Chrystie Place", 
+                    "osm_id": 247920484.0
+                }
+            ], 
+            "text": "\"Rest In Peace Gene Wilder\" - I know you and Richard are cracking everyone up, up in heaven!!!\u2026 https://t.co/Ey6ez0yP9u", 
+            "id": "770821320875577344", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-31T03:11:38", 
+            "coordinates": [
+                -73.99003388, 
+                40.72325127
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Avalon Chrystie Place"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "university", 
+                    "id": 22322.0, 
+                    "name": "Elmer Holmes Bobst Library", 
+                    "osm_id": 248166208.0
+                }
+            ], 
+            "text": "#SoGood (@ Mikey Likes It Ice Cream - @mikeylikesitny in New York, NY) https://t.co/s8YTAwhit7", 
+            "id": "770769828013568000", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-30T23:47:01", 
+            "coordinates": [
+                -73.98108892, 
+                40.72927874
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "Elmer Holmes Bobst Library"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School", 
+                    "osm_id": 269211931.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 98085.0, 
+                    "name": "Second Church of Christ, Scientist", 
+                    "osm_id": 269227112.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 98093.0, 
+                    "name": "York Preparatory School", 
+                    "osm_id": 269227119.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98150.0, 
+                    "name": "The Brentmore", 
+                    "osm_id": 269228500.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School", 
+                    "osm_id": 280850913.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 123638.0, 
+                    "name": "Sonic", 
+                    "osm_id": 280850939.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126443.0, 
+                    "name": "Meadowlands View", 
+                    "osm_id": 371372580.0
+                }
+            ], 
+            "text": "I'm at LaGuardia Airport in East Elmhurst, NY w/ @kdengs https://t.co/of6hnoeHHA", 
+            "id": "770084140930719744", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-29T02:22:21", 
+            "coordinates": [
+                -73.87213392, 
+                40.77404748
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Fiorello H LaGuardia High School", 
+                    "York Preparatory School", 
+                    "Weehawken High School", 
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "school": 5, 
+                "apartments": 2, 
+                "hotel": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 83550.0, 
+                    "name": "Union City High School", 
+                    "osm_id": 257722856.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90288.0, 
+                    "name": "The Century", 
+                    "osm_id": 265343858.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 90628.0, 
+                    "name": "North Hall", 
+                    "osm_id": 265355146.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 96352.0, 
+                    "name": "Eleanor Roosevelt High School", 
+                    "osm_id": 266900771.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 97961.0, 
+                    "name": "Haaren Hall", 
+                    "osm_id": 269204592.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 123616.0, 
+                    "name": "BMW Building", 
+                    "osm_id": 281256367.0
+                }, 
+                {
+                    "type": "hut", 
+                    "id": 126425.0, 
+                    "name": "Thread", 
+                    "osm_id": 370590349.0
+                }
+            ], 
+            "text": "I'm at Gate D6 in East Elmhurst, NY https://t.co/zsd513uVzc", 
+            "id": "768772408006307841", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-25T11:29:59", 
+            "coordinates": [
+                -73.86062002, 
+                40.77020959
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Union City High School", 
+                    "Eleanor Roosevelt High School"
+                ]
+            }, 
+            "building_frequency": {
+                "hut": 2, 
+                "commercial": 2, 
+                "school": 3, 
+                "college": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98022.0, 
+                    "name": "The Musician's Building", 
+                    "osm_id": 269219579.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98070.0, 
+                    "name": "The Central Park Studios", 
+                    "osm_id": 269227008.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School", 
+                    "osm_id": 280850913.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }
+            ], 
+            "text": "I'm at LaGuardia Airport in East Elmhurst, NY w/ @kdengs https://t.co/0RYJkd6EOT", 
+            "id": "768762507548848129", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-25T10:50:39", 
+            "coordinates": [
+                -73.87273687, 
+                40.77357161
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Weehawken High School", 
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "retail": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "#workbound (@ Manhattan Bridge in New York, NY) https://t.co/DKdzf36bIZ", 
+            "id": "768457130756145152", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-24T14:37:11", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "I'm at Manhattan Bridge in New York, NY https://t.co/spsvLC8riX", 
+            "id": "768095568358965249", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-23T14:40:28", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "#BrooklynBound (@ Manhattan Bridge in New York, NY) https://t.co/Bns0MeODjN", 
+            "id": "767865489011961856", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-22T23:26:13", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "I'm at Manhattan Bridge in New York, NY https://t.co/n7FDz7POdK", 
+            "id": "767733488556572672", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-22T14:41:42", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "manufacture", 
+                    "id": 29436.0, 
+                    "name": "Grand Kitchen", 
+                    "osm_id": 249604029.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 29696.0, 
+                    "name": "Costco", 
+                    "osm_id": 249605236.0
+                }, 
+                {
+                    "type": "train_station", 
+                    "id": 126059.0, 
+                    "name": "Parkside Avenue Station House", 
+                    "osm_id": 309154407.0
+                }
+            ], 
+            "text": "Have a blessed day everyone!!! #HeadedToWork (@ MTA Subway - Parkside Ave (Q) - @nyctsubwayscoop in Brooklyn, NY) https://t.co/Jz1wKShUSN", 
+            "id": "767729020582629376", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-22T14:23:56", 
+            "coordinates": [
+                -73.96150857, 
+                40.6552623
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "manufacture", 
+                "name": [
+                    "Grand Kitchen"
+                ]
+            }, 
+            "building_frequency": {
+                "manufacture": 2, 
+                "train_station": 2, 
+                "supermarket": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "tent", 
+                    "id": 1056.0, 
+                    "name": "Security", 
+                    "osm_id": 223269694.0
+                }
+            ], 
+            "text": "\"\u00dcber Views\" - @canonusaimaging  #G7xmkii #visualsoflife #huffpostgram  #nbc4ny #vscocam\u2026 https://t.co/RgSPbMh7Yo", 
+            "id": "766418547723632640", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-18T23:36:35", 
+            "coordinates": [
+                -73.981629, 
+                40.689992
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "tent", 
+                "name": [
+                    "Security"
+                ]
+            }, 
+            "building_frequency": {
+                "tent": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "supermarket", 
+                    "id": 29696.0, 
+                    "name": "Costco", 
+                    "osm_id": 249605236.0
+                }
+            ], 
+            "text": "\"In the Station\" - #visualsoflife #huffpostgram  #nbc4ny #vscocam #thecoolhunter #welltravelled\u2026 https://t.co/IPG1pdhtzf", 
+            "id": "766403121606189056", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-18T22:35:17", 
+            "coordinates": [
+                -73.96151, 
+                40.65571
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "supermarket", 
+                "name": [
+                    "Costco"
+                ]
+            }, 
+            "building_frequency": {
+                "supermarket": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "#WorkBound (@ Manhattan Bridge in New York, NY) https://t.co/1wNo7bAR75", 
+            "id": "766281118266101760", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-18T14:30:30", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "#homebound (@ Manhattan Bridge in New York, NY) https://t.co/h05NVsWfKa", 
+            "id": "766055996678606848", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-17T23:35:56", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "#homehereicome (@ Manhattan Bridge in New York, NY) https://t.co/VtNXfLmnPT", 
+            "id": "765326745763450880", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-15T23:18:09", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 3523.0, 
+                    "name": "Duryea Presbyterian Church", 
+                    "osm_id": 241827390.0
+                }
+            ], 
+            "text": "Makora wanted this all summer! Needed to get it done with tomorrow bein her last day wit me :( \ud83d\ude1e\ud83d\ude1f\ud83d\ude20 https://t.co/HykaYJ1CAs", 
+            "id": "763883852205027328", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-11T23:44:37", 
+            "coordinates": [
+                -73.9634183, 
+                40.67512548
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Duryea Presbyterian Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "#workbound (@ Manhattan Bridge in New York, NY) https://t.co/wHFhQCFHAz", 
+            "id": "763749829751209985", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-11T14:52:03", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "manufacture", 
+                    "id": 29436.0, 
+                    "name": "Grand Kitchen", 
+                    "osm_id": 249604029.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 29696.0, 
+                    "name": "Costco", 
+                    "osm_id": 249605236.0
+                }, 
+                {
+                    "type": "train_station", 
+                    "id": 126059.0, 
+                    "name": "Parkside Avenue Station House", 
+                    "osm_id": 309154407.0
+                }
+            ], 
+            "text": "I'm at MTA Subway - Parkside Ave (Q) - @nyctsubwayscoop in Brooklyn, NY https://t.co/gKY23reMVM", 
+            "id": "763745771787255810", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-11T14:35:56", 
+            "coordinates": [
+                -73.96150857, 
+                40.6552623
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "manufacture", 
+                "name": [
+                    "Grand Kitchen"
+                ]
+            }, 
+            "building_frequency": {
+                "manufacture": 2, 
+                "train_station": 2, 
+                "supermarket": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "#TeamFitted #WorstPostOfficeEver (@ US Post Office in Brooklyn, NY) https://t.co/eaO3LXUAef", 
+            "id": "760122886363439104", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-01T14:39:53", 
+            "coordinates": [
+                -73.95159245, 
+                40.66381011
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "I'm at Manhattan Bridge in New York, NY https://t.co/XglLdFJd5P", 
+            "id": "758807837371883520", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-28T23:34:21", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "I'm at Manhattan Bridge in New York, NY https://t.co/CodJYzBJcp", 
+            "id": "758440436566556673", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-27T23:14:25", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA", 
+                    "osm_id": 248168055.0
+                }
+            ], 
+            "text": "I'm at IKEA Swedish Food Market in Brooklyn, NY https://t.co/4YaPewF3P3", 
+            "id": "758100603662991360", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-27T00:44:03", 
+            "coordinates": [
+                -74.01098728, 
+                40.67198048
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "IKEA"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA", 
+                    "osm_id": 248168055.0
+                }
+            ], 
+            "text": "I'm at @IKEAUsa in Brooklyn, NY https://t.co/d7EvFutrxg", 
+            "id": "758100565301878784", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-27T00:43:54", 
+            "coordinates": [
+                -74.01038647, 
+                40.67168754
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "IKEA"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "I'm at Manhattan Bridge in New York, NY https://t.co/CV5VGi8M48", 
+            "id": "755422715364900864", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-19T15:23:05", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "#PostOffice Hell (@ US Post Office in Brooklyn, NY) https://t.co/oU288iDyDy", 
+            "id": "754334721719562240", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-16T15:19:47", 
+            "coordinates": [
+                -73.95159245, 
+                40.66381011
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "I'm at Manhattan Bridge in New York, NY https://t.co/aH51jvJDqB", 
+            "id": "753732161971294208", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-14T23:25:25", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "#Work (@ Manhattan Bridge in New York, NY) https://t.co/rrMmjJ9Ddp", 
+            "id": "753608222876004353", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-14T15:12:56", 
+            "coordinates": [
+                -73.99030209, 
+                40.70679911
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "Caramel Frap ,thanks!!! (@ Starbucks in New York, NY) https://t.co/I4heL0hNRG", 
+            "id": "753016725508091908", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-13T00:02:32", 
+            "coordinates": [
+                -73.99996423, 
+                40.71812726
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "manufacture", 
+                    "id": 29436.0, 
+                    "name": "Grand Kitchen", 
+                    "osm_id": 249604029.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 29696.0, 
+                    "name": "Costco", 
+                    "osm_id": 249605236.0
+                }, 
+                {
+                    "type": "train_station", 
+                    "id": 126059.0, 
+                    "name": "Parkside Avenue Station House", 
+                    "osm_id": 309154407.0
+                }
+            ], 
+            "text": "I'm at MTA Subway - Parkside Ave (Q) - @nyctsubwayscoop in Brooklyn, NY https://t.co/OaatWFue27", 
+            "id": "753016514123620352", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-13T00:01:41", 
+            "coordinates": [
+                -73.96150857, 
+                40.6552623
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "manufacture", 
+                "name": [
+                    "Grand Kitchen"
+                ]
+            }, 
+            "building_frequency": {
+                "manufacture": 2, 
+                "train_station": 2, 
+                "supermarket": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower", 
+                    "osm_id": 86121621.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 669.0, 
+                    "name": "Times Square Tower", 
+                    "osm_id": 109285745.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 691.0, 
+                    "name": "277 Park Avenue", 
+                    "osm_id": 137860913.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 762.0, 
+                    "name": "Postum Building", 
+                    "osm_id": 146220936.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92928.0, 
+                    "name": "Fred F. French Building", 
+                    "osm_id": 266010344.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93159.0, 
+                    "name": "Nederlander Theatre", 
+                    "osm_id": 266143337.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93399.0, 
+                    "name": "Putman Building", 
+                    "osm_id": 266170632.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93558.0, 
+                    "name": "530 5th Avenue", 
+                    "osm_id": 266170820.0
+                }
+            ], 
+            "text": "Rolling past citifield tonight on our way back from New London dropping Makor\u00e1 off!!\u2026 https://t.co/21JB1F5yLK", 
+            "id": "751995186226536449", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-10T04:23:18", 
+            "coordinates": [
+                -73.8432236, 
+                40.7553482
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Bank of America Tower", 
+                    "Times Square Tower", 
+                    "277 Park Avenue", 
+                    "Postum Building", 
+                    "Fred F. French Building", 
+                    "Putman Building", 
+                    "530 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 8, 
+                "theatre": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 88213.0, 
+                    "name": "St. Michael's Church", 
+                    "osm_id": 265258280.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 129286.0, 
+                    "name": "The Shops & Restaurants at Hudson Yards", 
+                    "osm_id": 398440363.0
+                }
+            ], 
+            "text": "7 Train to citifield !!! #canong7xmarkii #g7xmkii #peoplescreatives #visualvoicemag\u2026 https://t.co/cKPp1FaixP", 
+            "id": "751971854932377600", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-10T02:50:35", 
+            "coordinates": [
+                -73.99641, 
+                40.75331
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "The Shops & Restaurants at Hudson Yards"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "I'm at @Adorama in New York, NY https://t.co/8rhK7BRBzq", 
+            "id": "751190641523224576", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-07T23:06:20", 
+            "coordinates": [
+                -73.99412221, 
+                40.73937177
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "supermarket", 
+                    "id": 29696.0, 
+                    "name": "Costco", 
+                    "osm_id": 249605236.0
+                }
+            ], 
+            "text": "#oxtails please and thanks!! (@ JJ's Jamaican Restaurant in Brooklyn, NY) https://t.co/upDyKFh0Yj", 
+            "id": "750479836926345217", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-06T00:01:51", 
+            "coordinates": [
+                -73.96010525, 
+                40.65569777
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "supermarket", 
+                "name": [
+                    "Costco"
+                ]
+            }, 
+            "building_frequency": {
+                "supermarket": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "tent", 
+                    "id": 1056.0, 
+                    "name": "Security", 
+                    "osm_id": 223269694.0
+                }
+            ], 
+            "text": "#yumyum (@ Smashburger in Brooklyn, NY) https://t.co/UogVKGhDXR", 
+            "id": "749031955522580480", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-02T00:08:29", 
+            "coordinates": [
+                -73.97971004, 
+                40.68980696
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "tent", 
+                "name": [
+                    "Security"
+                ]
+            }, 
+            "building_frequency": {
+                "tent": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School", 
+                    "osm_id": 269211931.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 98085.0, 
+                    "name": "Second Church of Christ, Scientist", 
+                    "osm_id": 269227112.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School", 
+                    "osm_id": 280850913.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126443.0, 
+                    "name": "Meadowlands View", 
+                    "osm_id": 371372580.0
+                }
+            ], 
+            "text": "I'm at LaGuardia Airport in East Elmhurst, NY https://t.co/TdQwYmWihK", 
+            "id": "747628578263695360", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-28T03:11:57", 
+            "coordinates": [
+                -73.87122, 
+                40.773839
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Fiorello H LaGuardia High School", 
+                    "Weehawken High School", 
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 4, 
+                "retail": 2, 
+                "hotel": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 822.0, 
+                    "name": "The Helena", 
+                    "osm_id": 160318552.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 83550.0, 
+                    "name": "Union City High School", 
+                    "osm_id": 257722856.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90243.0, 
+                    "name": "The Harmony", 
+                    "osm_id": 265343856.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 90701.0, 
+                    "name": "McMahon Hall", 
+                    "osm_id": 265354532.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 90772.0, 
+                    "name": "McNally Auditorium", 
+                    "osm_id": 265354533.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 95752.0, 
+                    "name": "Saint James Church", 
+                    "osm_id": 266894275.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 96528.0, 
+                    "name": "Asten House", 
+                    "osm_id": 266901764.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 97962.0, 
+                    "name": "New Building", 
+                    "osm_id": 269204552.0
+                }
+            ], 
+            "text": "#sleepy (@ TSA Security Screening in New York, NY) https://t.co/oHDgnUdmOP", 
+            "id": "746263641289273344", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-24T08:48:11", 
+            "coordinates": [
+                -73.86543239, 
+                40.77097272
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Helena", 
+                    "The Harmony", 
+                    "Asten House"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "church": 2, 
+                "college": 2, 
+                "university": 3, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School", 
+                    "osm_id": 269211931.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 98085.0, 
+                    "name": "Second Church of Christ, Scientist", 
+                    "osm_id": 269227112.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School", 
+                    "osm_id": 280850913.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126443.0, 
+                    "name": "Meadowlands View", 
+                    "osm_id": 371372580.0
+                }
+            ], 
+            "text": "#GoinGoinBackBackToCali #RIPBIG #BiggieSmalls (@ LaGuardia Airport in East Elmhurst, NY) https://t.co/ovJiQONzlT", 
+            "id": "746263526474399744", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-24T08:47:44", 
+            "coordinates": [
+                -73.87122, 
+                40.773839
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Fiorello H LaGuardia High School", 
+                    "Weehawken High School", 
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 4, 
+                "retail": 2, 
+                "hotel": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

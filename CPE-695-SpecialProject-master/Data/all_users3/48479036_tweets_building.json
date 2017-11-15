@@ -1,0 +1,2090 @@
+{
+    "total_favorite_count": 8, 
+    "followers_count": 2156, 
+    "total_tweets": 32, 
+    "user_id": 48479036, 
+    "screen_name": "alticeusajobs", 
+    "friends_count": 314, 
+    "buildings": {
+        "retail": 4, 
+        "residential": 3, 
+        "school": 101, 
+        "church": 9, 
+        "apartments": 86
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "Want to work in #Bethpage, NY? View our latest opening: https://t.co/yqAYWAJBIB #Job #BusinessMgmt #Jobs #Hiring", 
+            "id": "798266423684407300", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T20:48:41", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 101130.0, 
+                    "name": "Public School 27", 
+                    "osm_id": 278372029.0
+                }
+            ], 
+            "text": "If you're looking for work in #NewYork, NY, check out this #job: https://t.co/IQOv3f98Cb #Media #Hiring", 
+            "id": "798260239413850112", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T20:24:06", 
+            "coordinates": [
+                -73.9441579, 
+                40.6781784
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 27"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 101130.0, 
+                    "name": "Public School 27", 
+                    "osm_id": 278372029.0
+                }
+            ], 
+            "text": "Join the Altice USA team! See our latest #job opening here: https://t.co/muLNQJC8O4 #Utilities #NewYork, NY #Hiring", 
+            "id": "798254072117592064", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T19:59:36", 
+            "coordinates": [
+                -73.9441579, 
+                40.6781784
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 27"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job? Assistant Director, Business Planning - https://t.co/MKFASUIgs6 #BusinessMgmt #Bethpage, NY", 
+            "id": "798217049637953536", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T17:32:29", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "This #job might be a great fit for you: Business Systems Analyst - https://t.co/QhpfH3l5L2 #BusinessMgmt #Bethpage, NY #Hiring", 
+            "id": "798198581739954178", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-14T16:19:06", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "Want to work at Altice USA? We're #hiring in #Bethpage, NY! Click for details: https://t.co/b3xvnXWRu4 #Job #Utilities #Jobs", 
+            "id": "798179051852529664", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T15:01:30", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 34968.0, 
+                    "name": "Stuyvesant Park Residence", 
+                    "osm_id": 249663129.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 35095.0, 
+                    "name": "St. Joseph's Church", 
+                    "osm_id": 249664033.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 36106.0, 
+                    "name": "Public School 3", 
+                    "osm_id": 249666267.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126406.0, 
+                    "name": "McLaughlin Funeral Home", 
+                    "osm_id": 366536439.0
+                }
+            ], 
+            "text": "Join the Altice USA team! See our latest #job opening here: https://t.co/BTEjkd7NAt #Media #Farmingdale, NY #Hiring", 
+            "id": "798172956174094336", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T14:37:16", 
+            "coordinates": [
+                -73.4454009, 
+                40.7325997
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "Stuyvesant Park Residence"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "retail": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 34968.0, 
+                    "name": "Stuyvesant Park Residence", 
+                    "osm_id": 249663129.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 35095.0, 
+                    "name": "St. Joseph's Church", 
+                    "osm_id": 249664033.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 36106.0, 
+                    "name": "Public School 3", 
+                    "osm_id": 249666267.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126406.0, 
+                    "name": "McLaughlin Funeral Home", 
+                    "osm_id": 366536439.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job? Aerial Videographer - https://t.co/rKm3Pp4PKp #Media #Farmingdale, NY #Hiring", 
+            "id": "798148586420604928", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T13:00:26", 
+            "coordinates": [
+                -73.4454009, 
+                40.7325997
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "Stuyvesant Park Residence"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "retail": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "We're #hiring! Read about our latest #job opening here: Proofreader - https://t.co/DYsEj2KQFJ #BusinessMgmt #Bethpage, NY", 
+            "id": "797993551455846400", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T02:44:23", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "See our latest #Bethpage, NY #job and click to apply: Digital Designer - https://t.co/kU3PonldsG #BusinessMgmt #Hiring", 
+            "id": "797865539771076608", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T18:15:42", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "This #job might be a great fit for you: Senior Bilingual Copywriter - https://t.co/e9RN7Gx5uR #BusinessMgmt #Bethpage, NY #Hiring", 
+            "id": "797835003195367424", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T16:14:22", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 83622.0, 
+                    "name": "Coliseum Park Apartments South", 
+                    "osm_id": 262349420.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 90584.0, 
+                    "name": "Church for All Nations", 
+                    "osm_id": 265353659.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 92019.0, 
+                    "name": "The Town School", 
+                    "osm_id": 265616034.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97892.0, 
+                    "name": "The Westport", 
+                    "osm_id": 269201860.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97957.0, 
+                    "name": "Clinton Towers Apartments", 
+                    "osm_id": 269199825.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 125605.0, 
+                    "name": "Dayspring Church", 
+                    "osm_id": 284868921.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125621.0, 
+                    "name": "The Octagon", 
+                    "osm_id": 284878244.0
+                }
+            ], 
+            "text": "Join the Altice USA team! See our latest #job opening here: https://t.co/jWoIWukDw5 #Utilities #Hicksville, NY #Hiring", 
+            "id": "797822819925012480", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T15:25:57", 
+            "coordinates": [
+                -73.5251253, 
+                40.7684331
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Coliseum Park Apartments South", 
+                    "The Westport", 
+                    "Clinton Towers Apartments", 
+                    "The Octagon"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "church": 3, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "See our latest #Bethpage, NY #job and click to apply: Senior Application Engineer - https://t.co/8zvHfT5Y5U #Utilities #Hiring", 
+            "id": "797816713240715265", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T15:01:41", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "Want to work in #Bethpage, NY? View our latest opening: https://t.co/TraI7w7qRg #Job #BusinessMgmt #Jobs #Hiring", 
+            "id": "797570110168801280", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T22:41:47", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "Join the Altice USA team! See our latest #job opening here: https://t.co/LAYcn0gvMU #BusinessMgmt #Bethpage, NY #Hiring", 
+            "id": "797521377309790209", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T19:28:08", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "We're #hiring! Read about our latest #job opening here: Tax Accountant - https://t.co/VDXIXgTOtF #BusinessMgmt #Bethpage, NY", 
+            "id": "797509186393231360", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T18:39:41", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 101130.0, 
+                    "name": "Public School 27", 
+                    "osm_id": 278372029.0
+                }
+            ], 
+            "text": "This #job might be a great fit for you: Commercial Sales Account Executive - https://t.co/ddeUu4bMet #Sales #NewYork, NY #Hiring", 
+            "id": "797478668666707968", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T16:38:25", 
+            "coordinates": [
+                -73.9441579, 
+                40.6781784
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 27"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job in #Bethpage, NY? https://t.co/mcScXwmrR2 #Utilities #Hiring", 
+            "id": "797429904535011329", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T13:24:39", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 83622.0, 
+                    "name": "Coliseum Park Apartments South", 
+                    "osm_id": 262349420.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 90584.0, 
+                    "name": "Church for All Nations", 
+                    "osm_id": 265353659.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 92019.0, 
+                    "name": "The Town School", 
+                    "osm_id": 265616034.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97892.0, 
+                    "name": "The Westport", 
+                    "osm_id": 269201860.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97957.0, 
+                    "name": "Clinton Towers Apartments", 
+                    "osm_id": 269199825.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 125605.0, 
+                    "name": "Dayspring Church", 
+                    "osm_id": 284868921.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125621.0, 
+                    "name": "The Octagon", 
+                    "osm_id": 284878244.0
+                }
+            ], 
+            "text": "See our latest #Hicksville, NY #job and click to apply: Senior Wireless Network Engineer - https://t.co/tgKQC8Ja07 #Utilities #Hiring", 
+            "id": "797256086839431168", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T01:53:58", 
+            "coordinates": [
+                -73.5251253, 
+                40.7684331
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Coliseum Park Apartments South", 
+                    "The Westport", 
+                    "Clinton Towers Apartments", 
+                    "The Octagon"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "church": 3, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "This #job might be a great fit for you: Technical Copywriter - https://t.co/yVJ2hezrd7 #BusinessMgmt #Bethpage, NY #Hiring", 
+            "id": "797237891474735104", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T00:41:39", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 2.0, 
+                    "name": "The Dakota", 
+                    "osm_id": -1341944.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98402.0, 
+                    "name": "The Oliver Cromwell", 
+                    "osm_id": 269247818.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98443.0, 
+                    "name": "The Franconia", 
+                    "osm_id": 269247820.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "This #job might be a great fit for you: Senior Installation Techncian - https://t.co/pi5WhpVGiv #Utilities #Plainview, NY #Hiring", 
+            "id": "797230577531240448", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T00:12:36", 
+            "coordinates": [
+                -73.4673454, 
+                40.7764882
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Dakota", 
+                    "Lincoln Guild", 
+                    "The Oliver Cromwell", 
+                    "The Franconia"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "We're #hiring! Read about our latest #job opening here: Junior Art Director - https://t.co/ZxYjlqzJYG #BusinessMgmt #Bethpage, NY", 
+            "id": "797224561301331968", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T23:48:41", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "Want to work in #Bethpage, NY? View our latest opening: https://t.co/ePZEJOikHR #Job #Utilities #Jobs #Hiring", 
+            "id": "797157276897263616", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T19:21:19", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "We're #hiring! Click to apply: Senior Programmer Analyst - https://t.co/hpXaOYS9C8 #Job #Utilities #Bethpage, NY #Jobs", 
+            "id": "797151271669010433", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T18:57:28", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "Want to work at Altice USA? We're #hiring in #Bethpage, NY! Click for details: https://t.co/k5o7x1wPPc #Job #BusinessMgmt #Jobs", 
+            "id": "797120329000701952", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T16:54:30", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "See our latest #Bethpage, NY #job and click to apply: Senior Copywriter - https://t.co/NRfUODavZN #BusinessMgmt #Hiring", 
+            "id": "797114429414383616", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T16:31:04", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 83622.0, 
+                    "name": "Coliseum Park Apartments South", 
+                    "osm_id": 262349420.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 90584.0, 
+                    "name": "Church for All Nations", 
+                    "osm_id": 265353659.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 92019.0, 
+                    "name": "The Town School", 
+                    "osm_id": 265616034.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97892.0, 
+                    "name": "The Westport", 
+                    "osm_id": 269201860.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97957.0, 
+                    "name": "Clinton Towers Apartments", 
+                    "osm_id": 269199825.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 125605.0, 
+                    "name": "Dayspring Church", 
+                    "osm_id": 284868921.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125621.0, 
+                    "name": "The Octagon", 
+                    "osm_id": 284878244.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job? Network Engineer - https://t.co/UQWDa2zGQU #Utilities #Hicksville, NY #Hiring", 
+            "id": "797079056348909572", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T14:10:30", 
+            "coordinates": [
+                -73.5251253, 
+                40.7684331
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Coliseum Park Apartments South", 
+                    "The Westport", 
+                    "Clinton Towers Apartments", 
+                    "The Octagon"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "church": 3, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job in #Bethpage, NY? https://t.co/DyTWP2P32J #BusinessMgmt #Hiring", 
+            "id": "796894579085586432", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T01:57:27", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "Want to work in #Bethpage, NY? View our latest opening: https://t.co/cyP5skSmqF #Job #Utilities #Jobs #Hiring", 
+            "id": "796518993804730368", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T01:05:01", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "See our latest #Bethpage, NY #job and click to apply: Voice Analyst - https://t.co/oKksECamaE #Utilities #Hiring", 
+            "id": "796425248287571968", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T18:52:30", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "See our latest #Bethpage, NY #job and click to apply: Director of Technical Operations - https://t.co/Wg1qBAFVRk #Utilities #Hiring", 
+            "id": "796336633595314177", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T13:00:23", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "If you're looking for work in #Bethpage, NY, check out this #job: https://t.co/bGprexeDsp #Utilities #Hiring", 
+            "id": "796155023805689857", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T00:58:44", 
+            "coordinates": [
+                -73.4820687, 
+                40.7442664
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

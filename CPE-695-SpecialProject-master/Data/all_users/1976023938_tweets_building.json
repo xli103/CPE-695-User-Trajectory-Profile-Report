@@ -1,0 +1,4165 @@
+{
+    "total_favorite_count": 19, 
+    "total_tweets": 122, 
+    "screen_name": "TobyTheTester", 
+    "friends_count": 1139, 
+    "followers_count": 1396, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0713827, 
+                    51.4977
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The @ubrewcc mix is now boiling away so time for another top up. Also my 200th... (Life's A Beach) https://t.co/4Wgbwoi9mo", 
+                "created_at": "2016-11-12T15:42:37", 
+                "retweet_count": 0, 
+                "id": "797464625734385664", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0713827, 
+                    51.4977
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking beer whilst brewing beer. A good combination @ubrewcc - Drinking an Alpha IPA at @ubrewcc - https://t.co/BVaKgk3Lpu", 
+                "created_at": "2016-11-12T13:32:39", 
+                "retweet_count": 0, 
+                "id": "797431917855604736", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0713827, 
+                    51.4977
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Today I'm at @ubrewcc making beer!! - Drinking a Gunderson Pale by @TwistBarrelAle at @ubrewcc  \u2014 https://t.co/6mhFifho82", 
+                "created_at": "2016-11-12T12:49:00", 
+                "retweet_count": 2, 
+                "id": "797420931807399936", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.113275, 
+                    51.513
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Tache Back by @templebrewhouse at @templebrewhouse \u2014 https://t.co/3PxFxAOdjU", 
+                "created_at": "2016-11-04T17:42:24", 
+                "retweet_count": 0, 
+                "id": "794595667624808448", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.138355, 
+                    51.5347
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@localnatives tonight!!! Wooooo! - Drinking a Red Stripe by @redstripe at @kokolondon  \u2014 https://t.co/Q3BxLRAH5K", 
+                "created_at": "2016-11-02T20:24:52", 
+                "retweet_count": 0, 
+                "id": "793911778300362753", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.14087, 
+                    51.5384
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interesting...... - Drinking a Holy Cowbell India Stout by @BeavertownBeer at @brewdog  \u2014 https://t.co/itUBUBGjDl", 
+                "created_at": "2016-11-02T17:47:07", 
+                "retweet_count": 0, 
+                "id": "793872078227304449", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0860734, 
+                    51.5187
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Free beer for @unclebobmartin @skillsmatter - Drinking a Dead Pony Club by @BrewDog at @skillsmatter  \u2014 https://t.co/HzalAiEgqD #photo", 
+                "created_at": "2016-11-01T18:22:57", 
+                "retweet_count": 0, 
+                "id": "793518708559900672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0830059, 
+                    51.4983
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a New World IPA by @NMBCo at @simon_thetanner \u2014 https://t.co/IsiNGKbVAR #photo", 
+                "created_at": "2016-10-28T19:16:41", 
+                "retweet_count": 0, 
+                "id": "792082679411990529", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.24776, 
+                    55.8593
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Dead Pony Club by @BrewDog at @doghousemcity \u2014 https://t.co/16iRiiYRbv", 
+                "created_at": "2016-10-27T16:38:55", 
+                "retweet_count": 0, 
+                "id": "791680586113056768", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.25509, 
+                    55.8629
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Prototype by @freedombrewery at @smokeglasgow \u2014 https://t.co/k4iAY1T2xV", 
+                "created_at": "2016-10-26T19:10:14", 
+                "retweet_count": 0, 
+                "id": "791356281126879232", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.25946, 
+                    55.8604
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "With @gsuttie - Drinking a Disco Forklift Truck by @drygate at @thehopeglasgow  \u2014 https://t.co/i2pCrXx9UO #photo", 
+                "created_at": "2016-10-26T17:04:47", 
+                "retweet_count": 1, 
+                "id": "791324710554505218", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.25946, 
+                    55.8604
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an IPA by @lagunitasbeer at @thehopeglasgow \u2014 https://t.co/yba9gUs0t2", 
+                "created_at": "2016-10-26T16:59:03", 
+                "retweet_count": 0, 
+                "id": "791323267709689856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.25514, 
+                    55.8623
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an Orbital by @shillingbrewco at @shillingbrewco \u2014 https://t.co/rRdbe4zAt9", 
+                "created_at": "2016-10-25T20:56:01", 
+                "retweet_count": 0, 
+                "id": "791020515007860736", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.25514, 
+                    55.8623
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Local Glasgow Brew - Drinking an Unicorn IPA by @shillingbrewco at @shillingbrewco  \u2014 https://t.co/iDyaAVVBgG", 
+                "created_at": "2016-10-25T17:06:47", 
+                "retweet_count": 0, 
+                "id": "790962824243769344", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.115474, 
+                    51.4613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Watching \"I, Daniel Blake\" - Drinking an 8-Ball Rye IPA by @BeavertownBeer at @ritzycinema  \u2014 https://t.co/BcPjqihYOw #photo", 
+                "created_at": "2016-10-23T14:19:53", 
+                "retweet_count": 0, 
+                "id": "790196048157368322", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0560149, 
+                    51.5283
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Very tasty - Drinking a Nice To Meet You at @mother_kellys - https://t.co/02uyD2jybU #photo", 
+                "created_at": "2016-10-22T18:28:46", 
+                "retweet_count": 0, 
+                "id": "789896293560770564", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0724304, 
+                    51.5246
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Dead By Dawn by @WeirdBeard_Brew/@BrewDog at @brewdog \u2014 https://t.co/6PVfHj0cjs", 
+                "created_at": "2016-10-22T17:23:07", 
+                "retweet_count": 0, 
+                "id": "789879772901941252", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0724304, 
+                    51.5246
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a I\u2019m A Lumberjack (And I\u2019m Oak-Aged) by @RoostersBrewCo/@BrewDog at @brewdog \u2014 https://t.co/nxZcryFv9p #photo", 
+                "created_at": "2016-10-22T16:45:47", 
+                "retweet_count": 0, 
+                "id": "789870374548869120", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0957095, 
+                    51.5137
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Random Beer from Nandos - Drinking an 2M by Cervejas de Moambique at @nandos_official  \u2014 https://t.co/flxkjaSyyd #photo", 
+                "created_at": "2016-10-21T19:31:04", 
+                "retweet_count": 0, 
+                "id": "789549582011232256", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.107327, 
+                    51.5138
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Lupuloid by @BeavertownBeer at @hackandhop \u2014 https://t.co/2NFIGPgGou", 
+                "created_at": "2016-10-21T17:45:28", 
+                "retweet_count": 0, 
+                "id": "789523008205578241", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.107327, 
+                    51.5138
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Pale by @CrateBrewery at @hackandhop \u2014 https://t.co/IWYb6tJqMf", 
+                "created_at": "2016-10-21T16:54:28", 
+                "retweet_count": 0, 
+                "id": "789510172318269440", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.107327, 
+                    51.5138
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Neck Oil by @BeavertownBeer at @hackandhop \u2014 https://t.co/ngq0v8SFYb", 
+                "created_at": "2016-10-21T16:15:37", 
+                "retweet_count": 0, 
+                "id": "789500395785781248", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0995281, 
+                    51.4951
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Brilliant local brewery close to my old stomping ground. Glad to see their goin... (#5 Kellerbier) https://t.co/nbFNLqp8rz", 
+                "created_at": "2016-10-18T19:42:46", 
+                "retweet_count": 0, 
+                "id": "788465362320912385", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0989688, 
+                    51.4931
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Best brewery around. Delicious! - Drinking a Pale Ale Chinook EXP 431 Centennial @ Six Yard Box - https://t.co/4PSDJK6num", 
+                "created_at": "2016-10-18T19:01:53", 
+                "retweet_count": 0, 
+                "id": "788455074049720320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0989417, 
+                    51.4928
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Not the best - Drinking a Four by @freedombrewery @ Long Wave Bar  \u2014 https://t.co/5iSPpxXbk6", 
+                "created_at": "2016-10-18T18:27:14", 
+                "retweet_count": 0, 
+                "id": "788446354918039552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.088663, 
+                    51.4949
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Shape Shifter IPA by @fourpurebrewing @ Spit &amp; Sawdust \u2014 https://t.co/5nlJUE9GPQ", 
+                "created_at": "2016-10-18T17:37:42", 
+                "retweet_count": 0, 
+                "id": "788433889480085504", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0751345, 
+                    51.5028
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Top Notch beer from Beaver Town!!! - Drinking a Lupuloid by @BeavertownBeer at @deanswiftse1  \u2014 https://t.co/uTzaWIQL3T #photo", 
+                "created_at": "2016-10-16T16:29:02", 
+                "retweet_count": 0, 
+                "id": "787691835355455492", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.7826, 
+                    40.641
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pre-flight Wings and Brooklyn Larger - Drinking a Brooklyn Lager by @brooklynbrewery at @bwwings  \u2014 https://t.co/IDqJ87ZspF #photo", 
+                "created_at": "2016-10-14T20:21:03", 
+                "retweet_count": 0, 
+                "id": "787025448677048321", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.008, 
+                    40.7348
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Excellent - Drinking a Delirium Tremens by @Deliriumbrewery @ The Otheroom  \u2014 https://t.co/KXuL2mT7fy", 
+                "created_at": "2016-10-14T00:11:52", 
+                "retweet_count": 0, 
+                "id": "786721144900648961", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0061, 
+                    40.7351
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Great bottle! Not sure what's in I through..... - Drinking a Hop Hash at @uprightbrew - https://t.co/tzbansIPdz #photo", 
+                "created_at": "2016-10-13T22:34:22", 
+                "retweet_count": 0, 
+                "id": "786696608532598785", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0061, 
+                    40.7351
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy Hour continues..... - Drinking a Tastes Like Upstate by @interboronyc/@ILFBandC at @uprightbrew  \u2014 https://t.co/vG9WVhreZW #photo", 
+                "created_at": "2016-10-13T22:05:45", 
+                "retweet_count": 0, 
+                "id": "786689407835369472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0061, 
+                    40.7351
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lovely little boozer with great beer selection! Happy Hour until 7... (State of the Art 40) https://t.co/P46W71mr55 #photo", 
+                "created_at": "2016-10-13T21:46:52", 
+                "retweet_count": 0, 
+                "id": "786684654309040128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9709, 
+                    40.7556
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -1860567.0, 
+                    "type": "yes", 
+                    "id": 4.0, 
+                    "name": "The New York Times Building"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 42500733.0, 
+                    "type": "yes", 
+                    "id": 598.0, 
+                    "name": "383 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 86121621.0, 
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower"
+                }, 
+                {
+                    "osm_id": 109285745.0, 
+                    "type": "commercial", 
+                    "id": 669.0, 
+                    "name": "Times Square Tower"
+                }, 
+                {
+                    "osm_id": 137860913.0, 
+                    "type": "commercial", 
+                    "id": 691.0, 
+                    "name": "277 Park Avenue"
+                }, 
+                {
+                    "osm_id": 144919873.0, 
+                    "type": "yes", 
+                    "id": 750.0, 
+                    "name": "InterContinental New York Barclay"
+                }, 
+                {
+                    "osm_id": 146278002.0, 
+                    "type": "commercial", 
+                    "id": 769.0, 
+                    "name": "JP Morgan Chase Tower"
+                }, 
+                {
+                    "osm_id": 150402504.0, 
+                    "type": "office", 
+                    "id": 781.0, 
+                    "name": "North American Plywood Building"
+                }, 
+                {
+                    "osm_id": 147301613.0, 
+                    "type": "yes", 
+                    "id": 788.0, 
+                    "name": "Crystal Pavilion"
+                }, 
+                {
+                    "osm_id": 266143337.0, 
+                    "type": "theatre", 
+                    "id": 93159.0, 
+                    "name": "Nederlander Theatre"
+                }, 
+                {
+                    "osm_id": 266143361.0, 
+                    "type": "yes", 
+                    "id": 93179.0, 
+                    "name": "5 Times Square"
+                }, 
+                {
+                    "osm_id": 266170543.0, 
+                    "type": "yes", 
+                    "id": 93331.0, 
+                    "name": "Berkeley Building"
+                }, 
+                {
+                    "osm_id": 266170632.0, 
+                    "type": "commercial", 
+                    "id": 93399.0, 
+                    "name": "Putman Building"
+                }, 
+                {
+                    "osm_id": 266170761.0, 
+                    "type": "yes", 
+                    "id": 93509.0, 
+                    "name": "Royalton"
+                }, 
+                {
+                    "osm_id": 266170848.0, 
+                    "type": "yes", 
+                    "id": 93577.0, 
+                    "name": "Hippodrome Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Hop On Or Die - DOA IPA by @mexicalibeer at @doscaminos \u2014 https://t.co/bfmfpe4R4t #photo", 
+                "created_at": "2016-10-12T22:56:31", 
+                "retweet_count": 0, 
+                "id": "786339797505826820", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9709, 
+                    40.7556
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -1860567.0, 
+                    "type": "yes", 
+                    "id": 4.0, 
+                    "name": "The New York Times Building"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 42500733.0, 
+                    "type": "yes", 
+                    "id": 598.0, 
+                    "name": "383 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 86121621.0, 
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower"
+                }, 
+                {
+                    "osm_id": 109285745.0, 
+                    "type": "commercial", 
+                    "id": 669.0, 
+                    "name": "Times Square Tower"
+                }, 
+                {
+                    "osm_id": 137860913.0, 
+                    "type": "commercial", 
+                    "id": 691.0, 
+                    "name": "277 Park Avenue"
+                }, 
+                {
+                    "osm_id": 144919873.0, 
+                    "type": "yes", 
+                    "id": 750.0, 
+                    "name": "InterContinental New York Barclay"
+                }, 
+                {
+                    "osm_id": 146278002.0, 
+                    "type": "commercial", 
+                    "id": 769.0, 
+                    "name": "JP Morgan Chase Tower"
+                }, 
+                {
+                    "osm_id": 150402504.0, 
+                    "type": "office", 
+                    "id": 781.0, 
+                    "name": "North American Plywood Building"
+                }, 
+                {
+                    "osm_id": 147301613.0, 
+                    "type": "yes", 
+                    "id": 788.0, 
+                    "name": "Crystal Pavilion"
+                }, 
+                {
+                    "osm_id": 266143337.0, 
+                    "type": "theatre", 
+                    "id": 93159.0, 
+                    "name": "Nederlander Theatre"
+                }, 
+                {
+                    "osm_id": 266143361.0, 
+                    "type": "yes", 
+                    "id": 93179.0, 
+                    "name": "5 Times Square"
+                }, 
+                {
+                    "osm_id": 266170543.0, 
+                    "type": "yes", 
+                    "id": 93331.0, 
+                    "name": "Berkeley Building"
+                }, 
+                {
+                    "osm_id": 266170632.0, 
+                    "type": "commercial", 
+                    "id": 93399.0, 
+                    "name": "Putman Building"
+                }, 
+                {
+                    "osm_id": 266170761.0, 
+                    "type": "yes", 
+                    "id": 93509.0, 
+                    "name": "Royalton"
+                }, 
+                {
+                    "osm_id": 266170848.0, 
+                    "type": "yes", 
+                    "id": 93577.0, 
+                    "name": "Hippodrome Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Queen of the Night by @mexicalibeer at @doscaminos \u2014 https://t.co/KVA5CuyTs4 #photo", 
+                "created_at": "2016-10-12T22:55:04", 
+                "retweet_count": 0, 
+                "id": "786339430927917056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9725, 
+                    40.7526
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 148457887.0, 
+                    "type": "yes", 
+                    "id": 777.0, 
+                    "name": "300 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 160915057.0, 
+                    "type": "yes", 
+                    "id": 826.0, 
+                    "name": "Bryant Park Tower"
+                }, 
+                {
+                    "osm_id": 162615417.0, 
+                    "type": "yes", 
+                    "id": 843.0, 
+                    "name": "Two Grand Central Tower"
+                }, 
+                {
+                    "osm_id": 249041777.0, 
+                    "type": "yes", 
+                    "id": 29123.0, 
+                    "name": "Wyndham Midtown 45"
+                }, 
+                {
+                    "osm_id": 264656621.0, 
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm"
+                }, 
+                {
+                    "osm_id": 265258287.0, 
+                    "type": "yes", 
+                    "id": 88209.0, 
+                    "name": "The New Yorker"
+                }, 
+                {
+                    "osm_id": 265258294.0, 
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia"
+                }, 
+                {
+                    "osm_id": 265302076.0, 
+                    "type": "library", 
+                    "id": 89209.0, 
+                    "name": "\u7d10\u7d04\u5716\u66f8\u9928"
+                }, 
+                {
+                    "osm_id": 265883468.0, 
+                    "type": "yes", 
+                    "id": 92787.0, 
+                    "name": "Daily Commerce Building"
+                }, 
+                {
+                    "osm_id": 265947361.0, 
+                    "type": "commercial", 
+                    "id": 92848.0, 
+                    "name": "Graybar Building"
+                }, 
+                {
+                    "osm_id": 265947358.0, 
+                    "type": "yes", 
+                    "id": 92888.0, 
+                    "name": "Grand Central Terminal"
+                }, 
+                {
+                    "osm_id": 288878360.0, 
+                    "type": "yes", 
+                    "id": 125733.0, 
+                    "name": "Westyard Distribution Center"
+                }, 
+                {
+                    "osm_id": 303603808.0, 
+                    "type": "yes", 
+                    "id": 126049.0, 
+                    "name": "10 Hudson Yards"
+                }, 
+                {
+                    "osm_id": 413978507.0, 
+                    "type": "yes", 
+                    "id": 146511.0, 
+                    "name": "YMCA"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "$15 beer but very tasty! - Drinking an Ozeno Yukidoke IPA by Ryujin Shuzo Co. @ Aburiya Kinnosuke  \u2014 https://t.co/b5I4FCT0qQ #photo", 
+                "created_at": "2016-10-12T00:16:40", 
+                "retweet_count": 0, 
+                "id": "785997577334452224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0159, 
+                    40.7127
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309461.0, 
+                    "type": "yes", 
+                    "id": 629.0, 
+                    "name": "225 Liberty Street"
+                }, 
+                {
+                    "osm_id": 311311054.0, 
+                    "type": "yes", 
+                    "id": 126068.0, 
+                    "name": "Hudson Eats"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "More BBQ and More Beer - Drinking a White by @allagashbrewing @ Mighty Quinn's BBQ  \u2014 https://t.co/VW9uOtHNri #photo", 
+                "created_at": "2016-10-10T23:55:43", 
+                "retweet_count": 0, 
+                "id": "785629919065825280", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9906, 
+                    40.7177
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 249847594.0, 
+                    "type": "church", 
+                    "id": 36468.0, 
+                    "name": "Most Precious Blood Church"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250052732.0, 
+                    "type": "yes", 
+                    "id": 41361.0, 
+                    "name": "60 Hudson Street"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }, 
+                {
+                    "osm_id": 261499928.0, 
+                    "type": "construction", 
+                    "id": 83618.0, 
+                    "name": "56 Leonard Street"
+                }, 
+                {
+                    "osm_id": 311152348.0, 
+                    "type": "yes", 
+                    "id": 126072.0, 
+                    "name": "Independence Plaza III"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Beerlao Dark by Lao Brewery at @anchoinyc \u2014 https://t.co/xuEbuXds2B #photo", 
+                "created_at": "2016-10-10T01:54:49", 
+                "retweet_count": 0, 
+                "id": "785297500949377028", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9577, 
+                    40.7217
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 38110877.0, 
+                    "type": "yes", 
+                    "id": 587.0, 
+                    "name": "Mandalay on the Hudson"
+                }, 
+                {
+                    "osm_id": 250265350.0, 
+                    "type": "yes", 
+                    "id": 56835.0, 
+                    "name": "San Isidro Y San Leandro Church"
+                }, 
+                {
+                    "osm_id": 250265372.0, 
+                    "type": "school", 
+                    "id": 56853.0, 
+                    "name": "Public School 15"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 278290355.0, 
+                    "type": "yes", 
+                    "id": 100691.0, 
+                    "name": "Gaia Italian Caf\u00e8"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Brooklyn Sorachi Ace by @brooklynbrewery at @brooklynbrewery \u2014 https://t.co/dHXVZFSwnM", 
+                "created_at": "2016-10-09T22:24:57", 
+                "retweet_count": 0, 
+                "id": "785244688328581120", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9507, 
+                    40.7235
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27111277.0, 
+                    "type": "yes", 
+                    "id": 569.0, 
+                    "name": "Doubletree"
+                }, 
+                {
+                    "osm_id": 247845702.0, 
+                    "type": "cathedral", 
+                    "id": 10923.0, 
+                    "name": "Saint Patrick's Old Cathedral"
+                }, 
+                {
+                    "osm_id": 247920484.0, 
+                    "type": "apartments", 
+                    "id": 14356.0, 
+                    "name": "Avalon Chrystie Place"
+                }, 
+                {
+                    "osm_id": 248772992.0, 
+                    "type": "church", 
+                    "id": 28873.0, 
+                    "name": "Church of the Most Holy Redeemer"
+                }, 
+                {
+                    "osm_id": 249664469.0, 
+                    "type": "yes", 
+                    "id": 35362.0, 
+                    "name": "101 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 249664475.0, 
+                    "type": "yes", 
+                    "id": 35365.0, 
+                    "name": "Holland Plaza Building"
+                }, 
+                {
+                    "osm_id": 249664476.0, 
+                    "type": "yes", 
+                    "id": 35383.0, 
+                    "name": "100 6th Ave"
+                }, 
+                {
+                    "osm_id": 250265859.0, 
+                    "type": "school", 
+                    "id": 57038.0, 
+                    "name": "Public School 64"
+                }, 
+                {
+                    "osm_id": 280081433.0, 
+                    "type": "yes", 
+                    "id": 113468.0, 
+                    "name": "Amarin Cafe"
+                }, 
+                {
+                    "osm_id": 280081435.0, 
+                    "type": "yes", 
+                    "id": 113469.0, 
+                    "name": "Private Club"
+                }, 
+                {
+                    "osm_id": 280081439.0, 
+                    "type": "yes", 
+                    "id": 113471.0, 
+                    "name": "Huashen America"
+                }, 
+                {
+                    "osm_id": 280081519.0, 
+                    "type": "yes", 
+                    "id": 113514.0, 
+                    "name": "Albatross Travel"
+                }, 
+                {
+                    "osm_id": 280081522.0, 
+                    "type": "yes", 
+                    "id": 113516.0, 
+                    "name": "Insurance"
+                }, 
+                {
+                    "osm_id": 280081525.0, 
+                    "type": "yes", 
+                    "id": 113539.0, 
+                    "name": "AT&T"
+                }, 
+                {
+                    "osm_id": 280118884.0, 
+                    "type": "yes", 
+                    "id": 114999.0, 
+                    "name": "Lokal"
+                }, 
+                {
+                    "osm_id": 280122424.0, 
+                    "type": "warehouse", 
+                    "id": 115124.0, 
+                    "name": "CITI Storage"
+                }, 
+                {
+                    "osm_id": 341821301.0, 
+                    "type": "yes", 
+                    "id": 126302.0, 
+                    "name": "Hudson Hyundai"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Whiskey aged beer. Intense!!!!... (Harvest Ale (Matured In Lagavulin Whisky Casks)) https://t.co/dXm8hT8WF1 #photo", 
+                "created_at": "2016-10-09T22:10:49", 
+                "retweet_count": 0, 
+                "id": "785241130958987264", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9507, 
+                    40.7235
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27111277.0, 
+                    "type": "yes", 
+                    "id": 569.0, 
+                    "name": "Doubletree"
+                }, 
+                {
+                    "osm_id": 247845702.0, 
+                    "type": "cathedral", 
+                    "id": 10923.0, 
+                    "name": "Saint Patrick's Old Cathedral"
+                }, 
+                {
+                    "osm_id": 247920484.0, 
+                    "type": "apartments", 
+                    "id": 14356.0, 
+                    "name": "Avalon Chrystie Place"
+                }, 
+                {
+                    "osm_id": 248772992.0, 
+                    "type": "church", 
+                    "id": 28873.0, 
+                    "name": "Church of the Most Holy Redeemer"
+                }, 
+                {
+                    "osm_id": 249664469.0, 
+                    "type": "yes", 
+                    "id": 35362.0, 
+                    "name": "101 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 249664475.0, 
+                    "type": "yes", 
+                    "id": 35365.0, 
+                    "name": "Holland Plaza Building"
+                }, 
+                {
+                    "osm_id": 249664476.0, 
+                    "type": "yes", 
+                    "id": 35383.0, 
+                    "name": "100 6th Ave"
+                }, 
+                {
+                    "osm_id": 250265859.0, 
+                    "type": "school", 
+                    "id": 57038.0, 
+                    "name": "Public School 64"
+                }, 
+                {
+                    "osm_id": 280081433.0, 
+                    "type": "yes", 
+                    "id": 113468.0, 
+                    "name": "Amarin Cafe"
+                }, 
+                {
+                    "osm_id": 280081435.0, 
+                    "type": "yes", 
+                    "id": 113469.0, 
+                    "name": "Private Club"
+                }, 
+                {
+                    "osm_id": 280081439.0, 
+                    "type": "yes", 
+                    "id": 113471.0, 
+                    "name": "Huashen America"
+                }, 
+                {
+                    "osm_id": 280081519.0, 
+                    "type": "yes", 
+                    "id": 113514.0, 
+                    "name": "Albatross Travel"
+                }, 
+                {
+                    "osm_id": 280081522.0, 
+                    "type": "yes", 
+                    "id": 113516.0, 
+                    "name": "Insurance"
+                }, 
+                {
+                    "osm_id": 280081525.0, 
+                    "type": "yes", 
+                    "id": 113539.0, 
+                    "name": "AT&T"
+                }, 
+                {
+                    "osm_id": 280118884.0, 
+                    "type": "yes", 
+                    "id": 114999.0, 
+                    "name": "Lokal"
+                }, 
+                {
+                    "osm_id": 280122424.0, 
+                    "type": "warehouse", 
+                    "id": 115124.0, 
+                    "name": "CITI Storage"
+                }, 
+                {
+                    "osm_id": 341821301.0, 
+                    "type": "yes", 
+                    "id": 126302.0, 
+                    "name": "Hudson Hyundai"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "One of the best bars in NY area - Drinking an Erase &amp; Rewind #2 by @EvilTwinBrewing at @torst_nyc  \u2014 https://t.co/hzh7koPsDx #photo", 
+                "created_at": "2016-10-09T21:39:34", 
+                "retweet_count": 1, 
+                "id": "785233267914080257", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9577, 
+                    40.7217
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 38110877.0, 
+                    "type": "yes", 
+                    "id": 587.0, 
+                    "name": "Mandalay on the Hudson"
+                }, 
+                {
+                    "osm_id": 250265350.0, 
+                    "type": "yes", 
+                    "id": 56835.0, 
+                    "name": "San Isidro Y San Leandro Church"
+                }, 
+                {
+                    "osm_id": 250265372.0, 
+                    "type": "school", 
+                    "id": 56853.0, 
+                    "name": "Public School 15"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 278290355.0, 
+                    "type": "yes", 
+                    "id": 100691.0, 
+                    "name": "Gaia Italian Caf\u00e8"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Bel Air Sour by @brooklynbrewery at @brooklynbrewery \u2014 https://t.co/spXk0voodi #photo", 
+                "created_at": "2016-10-09T21:37:46", 
+                "retweet_count": 0, 
+                "id": "785232813788389381", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9577, 
+                    40.7217
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 38110877.0, 
+                    "type": "yes", 
+                    "id": 587.0, 
+                    "name": "Mandalay on the Hudson"
+                }, 
+                {
+                    "osm_id": 250265350.0, 
+                    "type": "yes", 
+                    "id": 56835.0, 
+                    "name": "San Isidro Y San Leandro Church"
+                }, 
+                {
+                    "osm_id": 250265372.0, 
+                    "type": "school", 
+                    "id": 56853.0, 
+                    "name": "Public School 15"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 278290355.0, 
+                    "type": "yes", 
+                    "id": 100691.0, 
+                    "name": "Gaia Italian Caf\u00e8"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an ALS Buster Beer by @brooklynbrewery at @brooklynbrewery \u2014 https://t.co/VcRlM4ayMU #photo", 
+                "created_at": "2016-10-09T21:27:06", 
+                "retweet_count": 0, 
+                "id": "785230128712409088", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9577, 
+                    40.7217
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 38110877.0, 
+                    "type": "yes", 
+                    "id": 587.0, 
+                    "name": "Mandalay on the Hudson"
+                }, 
+                {
+                    "osm_id": 250265350.0, 
+                    "type": "yes", 
+                    "id": 56835.0, 
+                    "name": "San Isidro Y San Leandro Church"
+                }, 
+                {
+                    "osm_id": 250265372.0, 
+                    "type": "school", 
+                    "id": 56853.0, 
+                    "name": "Public School 15"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 278290355.0, 
+                    "type": "yes", 
+                    "id": 100691.0, 
+                    "name": "Gaia Italian Caf\u00e8"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Amazing afternoon at Brooklyn Brewery! - Drinking a Defender IPA at @brooklynbrewery - https://t.co/WBfOpoaxsT #photo", 
+                "created_at": "2016-10-09T21:25:41", 
+                "retweet_count": 0, 
+                "id": "785229772859314176", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9932, 
+                    40.7202
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 245352063.0, 
+                    "type": "yes", 
+                    "id": 10014.0, 
+                    "name": "Rainbow Shops"
+                }, 
+                {
+                    "osm_id": 245352055.0, 
+                    "type": "yes", 
+                    "id": 10045.0, 
+                    "name": "Two Boots Pizza"
+                }, 
+                {
+                    "osm_id": 245352057.0, 
+                    "type": "yes", 
+                    "id": 10053.0, 
+                    "name": "Sawadee Thai Cuisine"
+                }, 
+                {
+                    "osm_id": 245352054.0, 
+                    "type": "yes", 
+                    "id": 10072.0, 
+                    "name": "Grove Medical Associates"
+                }, 
+                {
+                    "osm_id": 245352056.0, 
+                    "type": "yes", 
+                    "id": 10076.0, 
+                    "name": "Fenny Pharmacy"
+                }, 
+                {
+                    "osm_id": 247867323.0, 
+                    "type": "yes", 
+                    "id": 12191.0, 
+                    "name": "240 Centre Street"
+                }, 
+                {
+                    "osm_id": 250052753.0, 
+                    "type": "yes", 
+                    "id": 41371.0, 
+                    "name": "32 Avenue of the Americas"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Pulse Wave by @GrimmAles at @onemilehousenyc \u2014 https://t.co/dH7C5LzMzN", 
+                "created_at": "2016-10-09T05:51:09", 
+                "retweet_count": 0, 
+                "id": "784994590885572608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9932, 
+                    40.7202
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 245352063.0, 
+                    "type": "yes", 
+                    "id": 10014.0, 
+                    "name": "Rainbow Shops"
+                }, 
+                {
+                    "osm_id": 245352055.0, 
+                    "type": "yes", 
+                    "id": 10045.0, 
+                    "name": "Two Boots Pizza"
+                }, 
+                {
+                    "osm_id": 245352057.0, 
+                    "type": "yes", 
+                    "id": 10053.0, 
+                    "name": "Sawadee Thai Cuisine"
+                }, 
+                {
+                    "osm_id": 245352054.0, 
+                    "type": "yes", 
+                    "id": 10072.0, 
+                    "name": "Grove Medical Associates"
+                }, 
+                {
+                    "osm_id": 245352056.0, 
+                    "type": "yes", 
+                    "id": 10076.0, 
+                    "name": "Fenny Pharmacy"
+                }, 
+                {
+                    "osm_id": 247867323.0, 
+                    "type": "yes", 
+                    "id": 12191.0, 
+                    "name": "240 Centre Street"
+                }, 
+                {
+                    "osm_id": 250052753.0, 
+                    "type": "yes", 
+                    "id": 41371.0, 
+                    "name": "32 Avenue of the Americas"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Strong and Intense!!!! Great bar and selection of beers!... (Imperial Biscotti Break) https://t.co/MZbnwvsaB0 #photo", 
+                "created_at": "2016-10-09T05:49:52", 
+                "retweet_count": 0, 
+                "id": "784994265579548672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9894, 
+                    40.7294
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 241833352.0, 
+                    "type": "yes", 
+                    "id": 4745.0, 
+                    "name": "The Cooper Union's Foundation Building"
+                }, 
+                {
+                    "osm_id": 247838696.0, 
+                    "type": "yes", 
+                    "id": 10456.0, 
+                    "name": "NYU Health Center"
+                }, 
+                {
+                    "osm_id": 247842670.0, 
+                    "type": "yes", 
+                    "id": 10773.0, 
+                    "name": "Tisch School of the Arts"
+                }, 
+                {
+                    "osm_id": 248156677.0, 
+                    "type": "yes", 
+                    "id": 19159.0, 
+                    "name": "Little Red School House & Elisabeth Irwin High School"
+                }, 
+                {
+                    "osm_id": 248166212.0, 
+                    "type": "yes", 
+                    "id": 22252.0, 
+                    "name": "Henry Kaufman Management Center"
+                }, 
+                {
+                    "osm_id": 248166210.0, 
+                    "type": "yes", 
+                    "id": 22284.0, 
+                    "name": "Frederick Loewe Theatre"
+                }, 
+                {
+                    "osm_id": 248166208.0, 
+                    "type": "university", 
+                    "id": 22322.0, 
+                    "name": "Elmer Holmes Bobst Library"
+                }, 
+                {
+                    "osm_id": 249665019.0, 
+                    "type": "yes", 
+                    "id": 35601.0, 
+                    "name": "Hudson Carpenter's Union"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an UFO Pumpkin by @harpoonbrewery at @barcadestmarks \u2014 https://t.co/NaUNOTvQ5w", 
+                "created_at": "2016-10-09T05:48:40", 
+                "retweet_count": 0, 
+                "id": "784993965288353792", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9894, 
+                    40.7294
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 241833352.0, 
+                    "type": "yes", 
+                    "id": 4745.0, 
+                    "name": "The Cooper Union's Foundation Building"
+                }, 
+                {
+                    "osm_id": 247838696.0, 
+                    "type": "yes", 
+                    "id": 10456.0, 
+                    "name": "NYU Health Center"
+                }, 
+                {
+                    "osm_id": 247842670.0, 
+                    "type": "yes", 
+                    "id": 10773.0, 
+                    "name": "Tisch School of the Arts"
+                }, 
+                {
+                    "osm_id": 248156677.0, 
+                    "type": "yes", 
+                    "id": 19159.0, 
+                    "name": "Little Red School House & Elisabeth Irwin High School"
+                }, 
+                {
+                    "osm_id": 248166212.0, 
+                    "type": "yes", 
+                    "id": 22252.0, 
+                    "name": "Henry Kaufman Management Center"
+                }, 
+                {
+                    "osm_id": 248166210.0, 
+                    "type": "yes", 
+                    "id": 22284.0, 
+                    "name": "Frederick Loewe Theatre"
+                }, 
+                {
+                    "osm_id": 248166208.0, 
+                    "type": "university", 
+                    "id": 22322.0, 
+                    "name": "Elmer Holmes Bobst Library"
+                }, 
+                {
+                    "osm_id": 249665019.0, 
+                    "type": "yes", 
+                    "id": 35601.0, 
+                    "name": "Hudson Carpenter's Union"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an Anti-Hero IPA by @revbrewchicago at @barcadestmarks \u2014 https://t.co/zKQuGWN4OY", 
+                "created_at": "2016-10-09T05:47:53", 
+                "retweet_count": 0, 
+                "id": "784993769368215552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9887, 
+                    40.7275
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 27111276.0, 
+                    "type": "yes", 
+                    "id": 563.0, 
+                    "name": "Marriott Courtyard"
+                }, 
+                {
+                    "osm_id": 241833301.0, 
+                    "type": "yes", 
+                    "id": 4692.0, 
+                    "name": "Good Records NYC"
+                }, 
+                {
+                    "osm_id": 247842941.0, 
+                    "type": "dormitory", 
+                    "id": 10747.0, 
+                    "name": "Mercer Street Residence Hall"
+                }, 
+                {
+                    "osm_id": 249663230.0, 
+                    "type": "yes", 
+                    "id": 35088.0, 
+                    "name": "St. Anthony's School"
+                }, 
+                {
+                    "osm_id": 249665002.0, 
+                    "type": "yes", 
+                    "id": 35583.0, 
+                    "name": "Georgian Building"
+                }, 
+                {
+                    "osm_id": 249665040.0, 
+                    "type": "hotel", 
+                    "id": 35617.0, 
+                    "name": "Courtyard"
+                }, 
+                {
+                    "osm_id": 264852430.0, 
+                    "type": "yes", 
+                    "id": 87206.0, 
+                    "name": "Wine Hut"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "BBQ and Beer - Drinking an Union Jack IPA by @FirestoneWalker at @mightyquinnsbbq  \u2014 https://t.co/rGhfpS3O7K #photo", 
+                "created_at": "2016-10-08T22:42:04", 
+                "retweet_count": 0, 
+                "id": "784886607732174848", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0055, 
+                    40.7421
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 250490372.0, 
+                    "type": "yes", 
+                    "id": 81918.0, 
+                    "name": "Liberty Inn"
+                }, 
+                {
+                    "osm_id": 396126615.0, 
+                    "type": "yes", 
+                    "id": 127319.0, 
+                    "name": "Pershing Rinks"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lobster Roll and Pils. Awesome Lobster Tap! - Drinking a Fishguys Pils at @chelseamarketny - https://t.co/xjLM9uoans #photo", 
+                "created_at": "2016-10-08T18:25:36", 
+                "retweet_count": 0, 
+                "id": "784822067720060928", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9995, 
+                    40.7284
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 27110669.0, 
+                    "type": "yes", 
+                    "id": 575.0, 
+                    "name": "North Garage"
+                }, 
+                {
+                    "osm_id": 213909916.0, 
+                    "type": "yes", 
+                    "id": 1030.0, 
+                    "name": "375 Hudson Street"
+                }, 
+                {
+                    "osm_id": 248156665.0, 
+                    "type": "yes", 
+                    "id": 19156.0, 
+                    "name": "The Atrium"
+                }, 
+                {
+                    "osm_id": 331072217.0, 
+                    "type": "yes", 
+                    "id": 126275.0, 
+                    "name": "Holland Tunnel Ventilation Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an IPA by @lagunitasbeer at @redlionnyc \u2014 https://t.co/lF2JUa6rbf", 
+                "created_at": "2016-10-08T14:03:19", 
+                "retweet_count": 0, 
+                "id": "784756062092201984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9995, 
+                    40.7284
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 27110669.0, 
+                    "type": "yes", 
+                    "id": 575.0, 
+                    "name": "North Garage"
+                }, 
+                {
+                    "osm_id": 213909916.0, 
+                    "type": "yes", 
+                    "id": 1030.0, 
+                    "name": "375 Hudson Street"
+                }, 
+                {
+                    "osm_id": 248156665.0, 
+                    "type": "yes", 
+                    "id": 19156.0, 
+                    "name": "The Atrium"
+                }, 
+                {
+                    "osm_id": 331072217.0, 
+                    "type": "yes", 
+                    "id": 126275.0, 
+                    "name": "Holland Tunnel Ventilation Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Brooklyn Oktoberfest by @brooklynbrewery at @redlionnyc \u2014 https://t.co/G9JwCWWNRX", 
+                "created_at": "2016-10-08T14:02:40", 
+                "retweet_count": 0, 
+                "id": "784755898208096257", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0005, 
+                    40.7301
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Trappistes Rochefort 8 (2015) by Abbaye Notre-Dame de Saint-Rmy @ 124 Old Rabbit Club \u2014 https://t.co/Kiuy6ErKyx #photo", 
+                "created_at": "2016-10-08T04:28:52", 
+                "retweet_count": 0, 
+                "id": "784611495552376832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0005, 
+                    40.7301
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a La Chouffe by @LaChouffeGnome @ 124 Old Rabbit Club \u2014 https://t.co/CIGF3JJHxh #photo", 
+                "created_at": "2016-10-08T04:27:51", 
+                "retweet_count": 0, 
+                "id": "784611239888642049", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0033, 
+                    40.7319
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357450.0, 
+                    "type": "yes", 
+                    "id": 115.0, 
+                    "name": "The Archives"
+                }, 
+                {
+                    "osm_id": 25197377.0, 
+                    "type": "yes", 
+                    "id": 542.0, 
+                    "name": "Brennan Court House"
+                }, 
+                {
+                    "osm_id": 315393827.0, 
+                    "type": "yes", 
+                    "id": 126139.0, 
+                    "name": "Best Buy"
+                }, 
+                {
+                    "osm_id": 366527143.0, 
+                    "type": "yes", 
+                    "id": 126402.0, 
+                    "name": "Journal Square Transportation Center"
+                }, 
+                {
+                    "osm_id": 366536016.0, 
+                    "type": "church", 
+                    "id": 126411.0, 
+                    "name": "Saint Demetrius"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an Other Half IPA by @OtherHalfNYC at @blindtigernyc \u2014 https://t.co/uzgAQxvP5v", 
+                "created_at": "2016-10-08T04:26:10", 
+                "retweet_count": 0, 
+                "id": "784610817190858752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0068, 
+                    40.7357
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 27081539.0, 
+                    "type": "yes", 
+                    "id": 552.0, 
+                    "name": "Hoboken Bus Terminal"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Bronx American Pale Ale by @thebronxbrewery at @thespottedpig \u2014 https://t.co/zui1fN4glT", 
+                "created_at": "2016-10-07T22:23:07", 
+                "retweet_count": 0, 
+                "id": "784519449248497664", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0068, 
+                    40.7357
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 27081539.0, 
+                    "type": "yes", 
+                    "id": 552.0, 
+                    "name": "Hoboken Bus Terminal"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Boring Beer - Drinking a Pilsner by @stbcbeer at @thespottedpig  \u2014 https://t.co/kGwF7gto2r", 
+                "created_at": "2016-10-07T21:45:52", 
+                "retweet_count": 0, 
+                "id": "784510078506459136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0068, 
+                    40.7357
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 27081539.0, 
+                    "type": "yes", 
+                    "id": 552.0, 
+                    "name": "Hoboken Bus Terminal"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Home of the Best Burger in NYC - Drinking an 330 Summit IPA by @ThirstyDogBeer at @thespottedpig  \u2014 https://t.co/Wx1blrs0Yb #photo", 
+                "created_at": "2016-10-07T21:19:50", 
+                "retweet_count": 0, 
+                "id": "784503524860231681", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9769, 
+                    40.7544
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 86216914.0, 
+                    "type": "commercial", 
+                    "id": 640.0, 
+                    "name": "1095 Avenue Of The Americas"
+                }, 
+                {
+                    "osm_id": 159837290.0, 
+                    "type": "yes", 
+                    "id": 807.0, 
+                    "name": "World Apparel Center"
+                }, 
+                {
+                    "osm_id": 265272972.0, 
+                    "type": "yes", 
+                    "id": 88533.0, 
+                    "name": "National Comedy Theater"
+                }, 
+                {
+                    "osm_id": 265302121.0, 
+                    "type": "commercial", 
+                    "id": 89255.0, 
+                    "name": "1065 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 266010420.0, 
+                    "type": "yes", 
+                    "id": 92984.0, 
+                    "name": "Lefcourt National Building"
+                }, 
+                {
+                    "osm_id": 266108507.0, 
+                    "type": "yes", 
+                    "id": 93129.0, 
+                    "name": "Homewood Suites"
+                }, 
+                {
+                    "osm_id": 266170792.0, 
+                    "type": "commercial", 
+                    "id": 93537.0, 
+                    "name": "W. R. Grace Building"
+                }, 
+                {
+                    "osm_id": 266170762.0, 
+                    "type": "college", 
+                    "id": 93551.0, 
+                    "name": "SUNY State College of Optometry"
+                }, 
+                {
+                    "osm_id": 266170819.0, 
+                    "type": "commercial", 
+                    "id": 93564.0, 
+                    "name": "Salmon Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lord of the Lobsters - Drinking an 420 Fest Double IPA by @SweetWaterBrew at @urbanspacenyc  \u2014 https://t.co/sZABNDlBrb #photo", 
+                "created_at": "2016-10-07T01:05:44", 
+                "retweet_count": 0, 
+                "id": "784197987434172417", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9769, 
+                    40.7544
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 86216914.0, 
+                    "type": "commercial", 
+                    "id": 640.0, 
+                    "name": "1095 Avenue Of The Americas"
+                }, 
+                {
+                    "osm_id": 159837290.0, 
+                    "type": "yes", 
+                    "id": 807.0, 
+                    "name": "World Apparel Center"
+                }, 
+                {
+                    "osm_id": 265272972.0, 
+                    "type": "yes", 
+                    "id": 88533.0, 
+                    "name": "National Comedy Theater"
+                }, 
+                {
+                    "osm_id": 265302121.0, 
+                    "type": "commercial", 
+                    "id": 89255.0, 
+                    "name": "1065 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 266010420.0, 
+                    "type": "yes", 
+                    "id": 92984.0, 
+                    "name": "Lefcourt National Building"
+                }, 
+                {
+                    "osm_id": 266108507.0, 
+                    "type": "yes", 
+                    "id": 93129.0, 
+                    "name": "Homewood Suites"
+                }, 
+                {
+                    "osm_id": 266170792.0, 
+                    "type": "commercial", 
+                    "id": 93537.0, 
+                    "name": "W. R. Grace Building"
+                }, 
+                {
+                    "osm_id": 266170762.0, 
+                    "type": "college", 
+                    "id": 93551.0, 
+                    "name": "SUNY State College of Optometry"
+                }, 
+                {
+                    "osm_id": 266170819.0, 
+                    "type": "commercial", 
+                    "id": 93564.0, 
+                    "name": "Salmon Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Sculpin IPA by @bpbrewing at @urbanspacenyc \u2014 https://t.co/oSeIRMLscF", 
+                "created_at": "2016-10-07T01:04:44", 
+                "retweet_count": 0, 
+                "id": "784197734043705347", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9686, 
+                    40.7555
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -1860567.0, 
+                    "type": "yes", 
+                    "id": 4.0, 
+                    "name": "The New York Times Building"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 42500733.0, 
+                    "type": "yes", 
+                    "id": 598.0, 
+                    "name": "383 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 86121621.0, 
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower"
+                }, 
+                {
+                    "osm_id": 109285745.0, 
+                    "type": "commercial", 
+                    "id": 669.0, 
+                    "name": "Times Square Tower"
+                }, 
+                {
+                    "osm_id": 137860913.0, 
+                    "type": "commercial", 
+                    "id": 691.0, 
+                    "name": "277 Park Avenue"
+                }, 
+                {
+                    "osm_id": 144919873.0, 
+                    "type": "yes", 
+                    "id": 750.0, 
+                    "name": "InterContinental New York Barclay"
+                }, 
+                {
+                    "osm_id": 146220936.0, 
+                    "type": "commercial", 
+                    "id": 762.0, 
+                    "name": "Postum Building"
+                }, 
+                {
+                    "osm_id": 150402504.0, 
+                    "type": "office", 
+                    "id": 781.0, 
+                    "name": "North American Plywood Building"
+                }, 
+                {
+                    "osm_id": 147301613.0, 
+                    "type": "yes", 
+                    "id": 788.0, 
+                    "name": "Crystal Pavilion"
+                }, 
+                {
+                    "osm_id": 265302168.0, 
+                    "type": "yes", 
+                    "id": 89264.0, 
+                    "name": "The Knickerbocker Hotel"
+                }, 
+                {
+                    "osm_id": 265483580.0, 
+                    "type": "yes", 
+                    "id": 91748.0, 
+                    "name": "Permanent Mission of the Kingdom of Tonga to the United Nations"
+                }, 
+                {
+                    "osm_id": 266010285.0, 
+                    "type": "yes", 
+                    "id": 92909.0, 
+                    "name": "Gotham Hotel"
+                }, 
+                {
+                    "osm_id": 266010344.0, 
+                    "type": "commercial", 
+                    "id": 92928.0, 
+                    "name": "Fred F. French Building"
+                }, 
+                {
+                    "osm_id": 266143301.0, 
+                    "type": "yes", 
+                    "id": 93133.0, 
+                    "name": "Equity Point"
+                }, 
+                {
+                    "osm_id": 266143337.0, 
+                    "type": "theatre", 
+                    "id": 93159.0, 
+                    "name": "Nederlander Theatre"
+                }, 
+                {
+                    "osm_id": 266170543.0, 
+                    "type": "yes", 
+                    "id": 93331.0, 
+                    "name": "Berkeley Building"
+                }, 
+                {
+                    "osm_id": 266170632.0, 
+                    "type": "commercial", 
+                    "id": 93399.0, 
+                    "name": "Putman Building"
+                }, 
+                {
+                    "osm_id": 266170761.0, 
+                    "type": "yes", 
+                    "id": 93509.0, 
+                    "name": "Royalton"
+                }, 
+                {
+                    "osm_id": 266170820.0, 
+                    "type": "commercial", 
+                    "id": 93558.0, 
+                    "name": "530 5th Avenue"
+                }, 
+                {
+                    "osm_id": 266170848.0, 
+                    "type": "yes", 
+                    "id": 93577.0, 
+                    "name": "Hippodrome Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Beer brewed by the band who brought you Mmm Bop!! Quite a rare find b... (Mmmhops Pale Ale) https://t.co/iRHOkspyXk #photo", 
+                "created_at": "2016-10-06T00:25:41", 
+                "retweet_count": 0, 
+                "id": "783825518454071296", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9686, 
+                    40.7555
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -1860567.0, 
+                    "type": "yes", 
+                    "id": 4.0, 
+                    "name": "The New York Times Building"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 42500733.0, 
+                    "type": "yes", 
+                    "id": 598.0, 
+                    "name": "383 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 86121621.0, 
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower"
+                }, 
+                {
+                    "osm_id": 109285745.0, 
+                    "type": "commercial", 
+                    "id": 669.0, 
+                    "name": "Times Square Tower"
+                }, 
+                {
+                    "osm_id": 137860913.0, 
+                    "type": "commercial", 
+                    "id": 691.0, 
+                    "name": "277 Park Avenue"
+                }, 
+                {
+                    "osm_id": 144919873.0, 
+                    "type": "yes", 
+                    "id": 750.0, 
+                    "name": "InterContinental New York Barclay"
+                }, 
+                {
+                    "osm_id": 146220936.0, 
+                    "type": "commercial", 
+                    "id": 762.0, 
+                    "name": "Postum Building"
+                }, 
+                {
+                    "osm_id": 150402504.0, 
+                    "type": "office", 
+                    "id": 781.0, 
+                    "name": "North American Plywood Building"
+                }, 
+                {
+                    "osm_id": 147301613.0, 
+                    "type": "yes", 
+                    "id": 788.0, 
+                    "name": "Crystal Pavilion"
+                }, 
+                {
+                    "osm_id": 265302168.0, 
+                    "type": "yes", 
+                    "id": 89264.0, 
+                    "name": "The Knickerbocker Hotel"
+                }, 
+                {
+                    "osm_id": 265483580.0, 
+                    "type": "yes", 
+                    "id": 91748.0, 
+                    "name": "Permanent Mission of the Kingdom of Tonga to the United Nations"
+                }, 
+                {
+                    "osm_id": 266010285.0, 
+                    "type": "yes", 
+                    "id": 92909.0, 
+                    "name": "Gotham Hotel"
+                }, 
+                {
+                    "osm_id": 266010344.0, 
+                    "type": "commercial", 
+                    "id": 92928.0, 
+                    "name": "Fred F. French Building"
+                }, 
+                {
+                    "osm_id": 266143301.0, 
+                    "type": "yes", 
+                    "id": 93133.0, 
+                    "name": "Equity Point"
+                }, 
+                {
+                    "osm_id": 266143337.0, 
+                    "type": "theatre", 
+                    "id": 93159.0, 
+                    "name": "Nederlander Theatre"
+                }, 
+                {
+                    "osm_id": 266170543.0, 
+                    "type": "yes", 
+                    "id": 93331.0, 
+                    "name": "Berkeley Building"
+                }, 
+                {
+                    "osm_id": 266170632.0, 
+                    "type": "commercial", 
+                    "id": 93399.0, 
+                    "name": "Putman Building"
+                }, 
+                {
+                    "osm_id": 266170761.0, 
+                    "type": "yes", 
+                    "id": 93509.0, 
+                    "name": "Royalton"
+                }, 
+                {
+                    "osm_id": 266170820.0, 
+                    "type": "commercial", 
+                    "id": 93558.0, 
+                    "name": "530 5th Avenue"
+                }, 
+                {
+                    "osm_id": 266170848.0, 
+                    "type": "yes", 
+                    "id": 93577.0, 
+                    "name": "Hippodrome Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Christmassy Beer! - Drinking a Pumpkin Ale by @smuttynosebeer at @thestagshead  \u2014 https://t.co/YUeSJhtHii", 
+                "created_at": "2016-10-06T00:23:53", 
+                "retweet_count": 0, 
+                "id": "783825066970742784", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9686, 
+                    40.7555
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -1860567.0, 
+                    "type": "yes", 
+                    "id": 4.0, 
+                    "name": "The New York Times Building"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 42500733.0, 
+                    "type": "yes", 
+                    "id": 598.0, 
+                    "name": "383 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 86121621.0, 
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower"
+                }, 
+                {
+                    "osm_id": 109285745.0, 
+                    "type": "commercial", 
+                    "id": 669.0, 
+                    "name": "Times Square Tower"
+                }, 
+                {
+                    "osm_id": 137860913.0, 
+                    "type": "commercial", 
+                    "id": 691.0, 
+                    "name": "277 Park Avenue"
+                }, 
+                {
+                    "osm_id": 144919873.0, 
+                    "type": "yes", 
+                    "id": 750.0, 
+                    "name": "InterContinental New York Barclay"
+                }, 
+                {
+                    "osm_id": 146220936.0, 
+                    "type": "commercial", 
+                    "id": 762.0, 
+                    "name": "Postum Building"
+                }, 
+                {
+                    "osm_id": 150402504.0, 
+                    "type": "office", 
+                    "id": 781.0, 
+                    "name": "North American Plywood Building"
+                }, 
+                {
+                    "osm_id": 147301613.0, 
+                    "type": "yes", 
+                    "id": 788.0, 
+                    "name": "Crystal Pavilion"
+                }, 
+                {
+                    "osm_id": 265302168.0, 
+                    "type": "yes", 
+                    "id": 89264.0, 
+                    "name": "The Knickerbocker Hotel"
+                }, 
+                {
+                    "osm_id": 265483580.0, 
+                    "type": "yes", 
+                    "id": 91748.0, 
+                    "name": "Permanent Mission of the Kingdom of Tonga to the United Nations"
+                }, 
+                {
+                    "osm_id": 266010285.0, 
+                    "type": "yes", 
+                    "id": 92909.0, 
+                    "name": "Gotham Hotel"
+                }, 
+                {
+                    "osm_id": 266010344.0, 
+                    "type": "commercial", 
+                    "id": 92928.0, 
+                    "name": "Fred F. French Building"
+                }, 
+                {
+                    "osm_id": 266143301.0, 
+                    "type": "yes", 
+                    "id": 93133.0, 
+                    "name": "Equity Point"
+                }, 
+                {
+                    "osm_id": 266143337.0, 
+                    "type": "theatre", 
+                    "id": 93159.0, 
+                    "name": "Nederlander Theatre"
+                }, 
+                {
+                    "osm_id": 266170543.0, 
+                    "type": "yes", 
+                    "id": 93331.0, 
+                    "name": "Berkeley Building"
+                }, 
+                {
+                    "osm_id": 266170632.0, 
+                    "type": "commercial", 
+                    "id": 93399.0, 
+                    "name": "Putman Building"
+                }, 
+                {
+                    "osm_id": 266170761.0, 
+                    "type": "yes", 
+                    "id": 93509.0, 
+                    "name": "Royalton"
+                }, 
+                {
+                    "osm_id": 266170820.0, 
+                    "type": "commercial", 
+                    "id": 93558.0, 
+                    "name": "530 5th Avenue"
+                }, 
+                {
+                    "osm_id": 266170848.0, 
+                    "type": "yes", 
+                    "id": 93577.0, 
+                    "name": "Hippodrome Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Tools of the Trade by Industrial Arts Brewing Co. at @thestagshead \u2014 https://t.co/T00GShsrwl", 
+                "created_at": "2016-10-06T00:22:33", 
+                "retweet_count": 0, 
+                "id": "783824733942972416", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9686, 
+                    40.7555
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -1860567.0, 
+                    "type": "yes", 
+                    "id": 4.0, 
+                    "name": "The New York Times Building"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 42500733.0, 
+                    "type": "yes", 
+                    "id": 598.0, 
+                    "name": "383 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 86121621.0, 
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower"
+                }, 
+                {
+                    "osm_id": 109285745.0, 
+                    "type": "commercial", 
+                    "id": 669.0, 
+                    "name": "Times Square Tower"
+                }, 
+                {
+                    "osm_id": 137860913.0, 
+                    "type": "commercial", 
+                    "id": 691.0, 
+                    "name": "277 Park Avenue"
+                }, 
+                {
+                    "osm_id": 144919873.0, 
+                    "type": "yes", 
+                    "id": 750.0, 
+                    "name": "InterContinental New York Barclay"
+                }, 
+                {
+                    "osm_id": 146220936.0, 
+                    "type": "commercial", 
+                    "id": 762.0, 
+                    "name": "Postum Building"
+                }, 
+                {
+                    "osm_id": 150402504.0, 
+                    "type": "office", 
+                    "id": 781.0, 
+                    "name": "North American Plywood Building"
+                }, 
+                {
+                    "osm_id": 147301613.0, 
+                    "type": "yes", 
+                    "id": 788.0, 
+                    "name": "Crystal Pavilion"
+                }, 
+                {
+                    "osm_id": 265302168.0, 
+                    "type": "yes", 
+                    "id": 89264.0, 
+                    "name": "The Knickerbocker Hotel"
+                }, 
+                {
+                    "osm_id": 265483580.0, 
+                    "type": "yes", 
+                    "id": 91748.0, 
+                    "name": "Permanent Mission of the Kingdom of Tonga to the United Nations"
+                }, 
+                {
+                    "osm_id": 266010285.0, 
+                    "type": "yes", 
+                    "id": 92909.0, 
+                    "name": "Gotham Hotel"
+                }, 
+                {
+                    "osm_id": 266010344.0, 
+                    "type": "commercial", 
+                    "id": 92928.0, 
+                    "name": "Fred F. French Building"
+                }, 
+                {
+                    "osm_id": 266143301.0, 
+                    "type": "yes", 
+                    "id": 93133.0, 
+                    "name": "Equity Point"
+                }, 
+                {
+                    "osm_id": 266143337.0, 
+                    "type": "theatre", 
+                    "id": 93159.0, 
+                    "name": "Nederlander Theatre"
+                }, 
+                {
+                    "osm_id": 266170543.0, 
+                    "type": "yes", 
+                    "id": 93331.0, 
+                    "name": "Berkeley Building"
+                }, 
+                {
+                    "osm_id": 266170632.0, 
+                    "type": "commercial", 
+                    "id": 93399.0, 
+                    "name": "Putman Building"
+                }, 
+                {
+                    "osm_id": 266170761.0, 
+                    "type": "yes", 
+                    "id": 93509.0, 
+                    "name": "Royalton"
+                }, 
+                {
+                    "osm_id": 266170820.0, 
+                    "type": "commercial", 
+                    "id": 93558.0, 
+                    "name": "530 5th Avenue"
+                }, 
+                {
+                    "osm_id": 266170848.0, 
+                    "type": "yes", 
+                    "id": 93577.0, 
+                    "name": "Hippodrome Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Topical Depression by @OtherHalfNYC/@TheVeilBrewing at @thestagshead \u2014 https://t.co/Ah2g2Tz820", 
+                "created_at": "2016-10-06T00:20:54", 
+                "retweet_count": 0, 
+                "id": "783824318409179136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9769, 
+                    40.7544
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 86216914.0, 
+                    "type": "commercial", 
+                    "id": 640.0, 
+                    "name": "1095 Avenue Of The Americas"
+                }, 
+                {
+                    "osm_id": 159837290.0, 
+                    "type": "yes", 
+                    "id": 807.0, 
+                    "name": "World Apparel Center"
+                }, 
+                {
+                    "osm_id": 265272972.0, 
+                    "type": "yes", 
+                    "id": 88533.0, 
+                    "name": "National Comedy Theater"
+                }, 
+                {
+                    "osm_id": 265302121.0, 
+                    "type": "commercial", 
+                    "id": 89255.0, 
+                    "name": "1065 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 266010420.0, 
+                    "type": "yes", 
+                    "id": 92984.0, 
+                    "name": "Lefcourt National Building"
+                }, 
+                {
+                    "osm_id": 266108507.0, 
+                    "type": "yes", 
+                    "id": 93129.0, 
+                    "name": "Homewood Suites"
+                }, 
+                {
+                    "osm_id": 266170792.0, 
+                    "type": "commercial", 
+                    "id": 93537.0, 
+                    "name": "W. R. Grace Building"
+                }, 
+                {
+                    "osm_id": 266170762.0, 
+                    "type": "college", 
+                    "id": 93551.0, 
+                    "name": "SUNY State College of Optometry"
+                }, 
+                {
+                    "osm_id": 266170819.0, 
+                    "type": "commercial", 
+                    "id": 93564.0, 
+                    "name": "Salmon Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Harbor Ale by @greenportbrew at @urbanspacenyc \u2014 https://t.co/MifJD6seOR", 
+                "created_at": "2016-10-04T01:24:44", 
+                "retweet_count": 0, 
+                "id": "783115605318696961", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9772, 
+                    40.7498
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 35938543.0, 
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264656590.0, 
+                    "type": "yes", 
+                    "id": 85935.0, 
+                    "name": "Chelsea Arts Tower"
+                }, 
+                {
+                    "osm_id": 264685192.0, 
+                    "type": "yes", 
+                    "id": 86323.0, 
+                    "name": "Hotel Pennsylvania"
+                }, 
+                {
+                    "osm_id": 265301933.0, 
+                    "type": "yes", 
+                    "id": 89118.0, 
+                    "name": "Comfort Inn"
+                }, 
+                {
+                    "osm_id": 265302073.0, 
+                    "type": "yes", 
+                    "id": 89252.0, 
+                    "name": "Kratter Building"
+                }, 
+                {
+                    "osm_id": 265424473.0, 
+                    "type": "yes", 
+                    "id": 91135.0, 
+                    "name": "232 Madison Ave"
+                }, 
+                {
+                    "osm_id": 265875646.0, 
+                    "type": "yes", 
+                    "id": 92737.0, 
+                    "name": "Madison Towers Hotel"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ramen and Beer in the Big Apple - Drinking a Billy Half-Stack IPA by @SingleCutBeer at @momosanramen  \u2014 https://t.co/DrkVu1Kzec", 
+                "created_at": "2016-10-02T21:34:55", 
+                "retweet_count": 0, 
+                "id": "782695382774116352", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.145994, 
+                    51.5452
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Five Points Pale by @FivePointsBrew @ Tapping The Admiral \u2014 https://t.co/PYFOEfDALQ", 
+                "created_at": "2016-10-01T17:49:37", 
+                "retweet_count": 0, 
+                "id": "782276297116516352", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.145994, 
+                    51.5452
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Stiff Lip by @PortobelloBeer @ Tapping The Admiral \u2014 https://t.co/PQTIyiqCF0", 
+                "created_at": "2016-10-01T17:07:43", 
+                "retweet_count": 0, 
+                "id": "782265749704417280", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.145994, 
+                    51.5452
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Mr Swift's Pale Ale by @westberksbrew @ Tapping The Admiral \u2014 https://t.co/KMgW3lKWSq", 
+                "created_at": "2016-10-01T16:54:47", 
+                "retweet_count": 0, 
+                "id": "782262497822797824", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.146853, 
+                    51.5469
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an Unfiltered Pale by @CamdenBrewery at @camdenbrewery \u2014 https://t.co/GAmCHx2rL2", 
+                "created_at": "2016-10-01T15:49:49", 
+                "retweet_count": 1, 
+                "id": "782246147947630594", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0819407, 
+                    51.4991
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Pale XX Custom Superior No.2 Citra Mosaic Motueka Nelson Sauvin \u2014 https://t.co/usDLML97lP", 
+                "created_at": "2016-09-30T20:40:48", 
+                "retweet_count": 0, 
+                "id": "781956985579311104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0819407, 
+                    51.4991
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an All Gone South by @wylambrewery @ Bermondsey Street \u2014 https://t.co/GADhtSRtaY #photo", 
+                "created_at": "2016-09-30T19:41:33", 
+                "retweet_count": 0, 
+                "id": "781942077571665920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0819407, 
+                    51.4991
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an All Gone South by @wylambrewery @ Bermondsey Street \u2014 https://t.co/LJz0nKlZdV", 
+                "created_at": "2016-09-30T19:40:06", 
+                "retweet_count": 0, 
+                "id": "781941713413763073", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.107327, 
+                    51.5138
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Wild Gravity by @WeAreBadCo at @hackandhop \u2014 https://t.co/9mRGgTZQG7", 
+                "created_at": "2016-09-30T17:01:54", 
+                "retweet_count": 0, 
+                "id": "781901898899001344", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.107327, 
+                    51.5138
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an Arise by @burningskybeer at @hackandhop \u2014 https://t.co/DYGG06qfiQ", 
+                "created_at": "2016-09-30T16:36:47", 
+                "retweet_count": 0, 
+                "id": "781895580230582272", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.84095, 
+                    50.7201
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Yippee-Kai-Ale by @beerdbeers at @theurbanreef \u2014 https://t.co/RpVtMTAGU2", 
+                "created_at": "2016-09-28T18:39:56", 
+                "retweet_count": 0, 
+                "id": "781201793682444288", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0997238, 
+                    51.5338
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Great boozer with an awesome selection of beers! - Drinking a Peach &amp; Lime IPA at @theearlofessex1 - https://t.co/yOmHYtOEwa", 
+                "created_at": "2016-09-24T19:03:42", 
+                "retweet_count": 0, 
+                "id": "779758224274841600", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.102908, 
+                    51.5392
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Porkslap Pale Ale by @ButternutsBeer at @meatliquorn1 \u2014 https://t.co/9u7crknVIg", 
+                "created_at": "2016-09-24T18:35:51", 
+                "retweet_count": 0, 
+                "id": "779751216922361856", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.102869, 
+                    51.5406
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Recommend by the staff..... - Drinking an American Pale Ale by @HackneyBrewery at @taproomn1  \u2014 https://t.co/CIT0qQCMYy", 
+                "created_at": "2016-09-18T19:25:46", 
+                "retweet_count": 0, 
+                "id": "777589451027611648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.102526, 
+                    51.5397
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Limited Choice so had to choose this standard Larger - Drinking a Peroni Nastro Azzurro @ Le Mercury - https://t.co/w8dwVEa4JF", 
+                "created_at": "2016-09-18T19:03:40", 
+                "retweet_count": 0, 
+                "id": "777583887887269889", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.102869, 
+                    51.5406
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Post Sunday Roast Beer - Drinking a Chocolate Chipotle Stout by @FirebrandBeer at @taproomn1  \u2014 https://t.co/MXaMKdkUfj", 
+                "created_at": "2016-09-18T18:59:50", 
+                "retweet_count": 0, 
+                "id": "777582925940400128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.102869, 
+                    51.5406
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an Islington Lager by @hammertonbrew at @taproomn1 \u2014 https://t.co/vFZLQNqdEG", 
+                "created_at": "2016-09-18T17:35:48", 
+                "retweet_count": 0, 
+                "id": "777561774107361280", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.102869, 
+                    51.5406
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A well balanced pint - Drinking a N7 Grapefruit IPA by @hammertonbrew at @taproomn1  \u2014 https://t.co/cckB8HokzL", 
+                "created_at": "2016-09-18T17:03:01", 
+                "retweet_count": 0, 
+                "id": "777553524682993664", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.083878, 
+                    51.5021
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Pale Ale Citra Zeus by @kernelbrewery at @texasjoesbbq \u2014 https://t.co/9Fx3O7S3uq", 
+                "created_at": "2016-09-17T17:27:03", 
+                "retweet_count": 0, 
+                "id": "777197184899047424", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.083878, 
+                    51.5021
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Running With Sceptres by @lostandgrounded at @texasjoesbbq \u2014 https://t.co/KoEYAp9TUC", 
+                "created_at": "2016-09-17T17:25:15", 
+                "retweet_count": 0, 
+                "id": "777196732618772480", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.083878, 
+                    51.5021
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Brooklyn Lager by @brooklynbrewery at @texasjoesbbq \u2014 https://t.co/5q9f4jNaQU", 
+                "created_at": "2016-09-17T17:11:56", 
+                "retweet_count": 0, 
+                "id": "777193383676743680", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0807008, 
+                    51.5002
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Bermondsey Mule Grisette by @fourpurebrewing @ Tanner Street Gardens \u2014 https://t.co/MB9eWsKy5I", 
+                "created_at": "2016-09-17T17:10:20", 
+                "retweet_count": 0, 
+                "id": "777192979677208576", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0824147, 
+                    51.502
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Tanner &amp; Co by Tanner &amp; Co at @tanner_co \u2014 https://t.co/TTalMn45Hn", 
+                "created_at": "2016-09-17T12:54:48", 
+                "retweet_count": 0, 
+                "id": "777128670263644160", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0807008, 
+                    51.5002
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Kernel Kazbek by @kernelbrewery @ Tanner Street Gardens \u2014 https://t.co/J5e4UXPK0W", 
+                "created_at": "2016-09-17T12:25:37", 
+                "retweet_count": 0, 
+                "id": "777121326297473024", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.120761, 
+                    51.531
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lovely Scottish Boozer - Drinking a Prohibition by @kentbrewery at @scottishstores  \u2014 https://t.co/I0hxtL4FVk #photo", 
+                "created_at": "2016-09-16T20:44:35", 
+                "retweet_count": 1, 
+                "id": "776884508280942592", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.119144, 
+                    51.5309
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Beaver Town! - Drinking a Honest Pale by @BeavertownBeer at @honestburgers  \u2014 https://t.co/jZYsE4iOrM", 
+                "created_at": "2016-09-16T19:12:42", 
+                "retweet_count": 0, 
+                "id": "776861386051817473", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.121751, 
+                    51.5311
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an Alhambra Reserva 1925 by Grupo Cervezas Alhambra at @caminobar \u2014 https://t.co/dkNltcAVOQ", 
+                "created_at": "2016-09-16T18:28:06", 
+                "retweet_count": 0, 
+                "id": "776850162748682241", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.10436, 
+                    51.5138
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Tsingtao by Tsingtao Brewery at @chinoodle \u2014 https://t.co/Y30cSUjspn #photo", 
+                "created_at": "2016-09-16T12:17:38", 
+                "retweet_count": 0, 
+                "id": "776756929502806016", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.109563, 
+                    51.5081
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a London Lager by @MeantimeBrewing at @southbanklondon \u2014 https://t.co/2v2ELTBrhL", 
+                "created_at": "2016-09-13T17:06:16", 
+                "retweet_count": 0, 
+                "id": "775742405098278912", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.37363, 
+                    52.9807
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Black Sheep Ale by @BlackSheepBeer @ Abul's Spice \u2014 https://t.co/Iytm2w7aYY", 
+                "created_at": "2016-09-10T20:31:33", 
+                "retweet_count": 0, 
+                "id": "774706903842754561", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.39179, 
+                    52.9812
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an EPA (English Pale Ale) by @MarstonsBrewery @ Corwen \u2014 https://t.co/d4dJETyj1t", 
+                "created_at": "2016-09-10T17:43:12", 
+                "retweet_count": 0, 
+                "id": "774664536494370816", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.39179, 
+                    52.9812
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Black Sheep Ale by @BlackSheepBeer @ Corwen \u2014 https://t.co/k87SSUJJPD", 
+                "created_at": "2016-09-10T17:42:35", 
+                "retweet_count": 0, 
+                "id": "774664378968858624", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0830059, 
+                    51.4983
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an E.P. Session Pale by @revolutionsbrew at @simon_thetanner \u2014 https://t.co/RKE83mi1aC", 
+                "created_at": "2016-09-08T18:48:44", 
+                "retweet_count": 0, 
+                "id": "773956250308583428", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0818547, 
+                    51.5008
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Spring + Summer IPL Centennial by @cloudwaterbrew at @thegarrisonse1 \u2014 https://t.co/PMQDDFqTIA #photo", 
+                "created_at": "2016-09-08T18:14:06", 
+                "retweet_count": 0, 
+                "id": "773947535371231232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.109087, 
+                    51.5044
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "With @simon_tomes - Drinking a Cowcatcher by @eastlondonbrew at @thekingsarmsse1  \u2014 https://t.co/Ctl4g7xKe7 #photo", 
+                "created_at": "2016-09-05T18:46:36", 
+                "retweet_count": 0, 
+                "id": "772868551887716352", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.083878, 
+                    51.5021
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Camden Pale Ale by @CamdenBrewery at @texasjoesbbq \u2014 https://t.co/RUOKtB8urY", 
+                "created_at": "2016-09-03T18:33:10", 
+                "retweet_count": 0, 
+                "id": "772140396600229888", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.39677, 
+                    51.3837
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Mochachocolata Ya Ya!! by @ElectricBearUK at @electricbearuk \u2014 https://t.co/8z1Dtpe3AQ #photo", 
+                "created_at": "2016-08-27T15:55:49", 
+                "retweet_count": 0, 
+                "id": "769564082416517121", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.39677, 
+                    51.3837
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Red Bear by @ElectricBearUK at @electricbearuk \u2014 https://t.co/3pxwGWUG4N #photo", 
+                "created_at": "2016-08-27T14:58:37", 
+                "retweet_count": 0, 
+                "id": "769549685551955968", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.083878, 
+                    51.5021
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Pale Ale Citra Zeus by @kernelbrewery at @texasjoesbbq \u2014 https://t.co/9jX0Q6QnTF #photo", 
+                "created_at": "2016-08-07T17:20:41", 
+                "retweet_count": 0, 
+                "id": "762337680948682752", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0822443, 
+                    51.5007
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Beautiful day for Brooklyn - Drinking a Brooklyn Lager by @brooklynbrewery at @woolpackbar  \u2014 https://t.co/P2X1EUjZau", 
+                "created_at": "2016-08-06T16:20:50", 
+                "retweet_count": 0, 
+                "id": "761960231068983296", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0754237, 
+                    51.5197
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Yard Party Pils by @FivePointsBrew at @oldspitalfields \u2014 https://t.co/oKRAuHOhnZ #photo", 
+                "created_at": "2016-07-23T11:43:58", 
+                "retweet_count": 0, 
+                "id": "756817125080268800", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9873, 
+                    40.7479
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 159866208.0, 
+                    "type": "yes", 
+                    "id": 816.0, 
+                    "name": "1250 Broadway"
+                }, 
+                {
+                    "osm_id": 264627647.0, 
+                    "type": "yes", 
+                    "id": 84420.0, 
+                    "name": "Pier 61"
+                }, 
+                {
+                    "osm_id": 264651248.0, 
+                    "type": "college", 
+                    "id": 85681.0, 
+                    "name": "David Dubinsky Student Center"
+                }, 
+                {
+                    "osm_id": 264662215.0, 
+                    "type": "yes", 
+                    "id": 86047.0, 
+                    "name": "Manor Community Church"
+                }, 
+                {
+                    "osm_id": 264668305.0, 
+                    "type": "yes", 
+                    "id": 86072.0, 
+                    "name": "Penn South Building 8"
+                }, 
+                {
+                    "osm_id": 396820651.0, 
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Hite by @Beer2DAY at @seoulgardenny \u2014 https://t.co/tOFeb4PhSn #photo", 
+                "created_at": "2016-07-19T23:18:47", 
+                "retweet_count": 0, 
+                "id": "755542429328142337", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0363, 
+                    40.7247
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27111278.0, 
+                    "type": "yes", 
+                    "id": 564.0, 
+                    "name": "Westin"
+                }, 
+                {
+                    "osm_id": 297163345.0, 
+                    "type": "yes", 
+                    "id": 125795.0, 
+                    "name": "National Guard Armory"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Passion Fruit Kicker by @GreenFlashBeer at @spg \u2014 https://t.co/Izq5opw4KR", 
+                "created_at": "2016-07-18T23:43:10", 
+                "retweet_count": 0, 
+                "id": "755186180686225412", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0831074, 
+                    51.4958
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Hepcat by @GipsyHillBrew at @otherroombar \u2014 https://t.co/1CfYNLnYz6 #photo", 
+                "created_at": "2016-06-27T20:08:33", 
+                "retweet_count": 0, 
+                "id": "747522022197039109", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0831074, 
+                    51.4958
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Bloody 'Ell by @BeavertownBeer at @otherroombar \u2014 https://t.co/6FI6kKbIqS #photo", 
+                "created_at": "2016-06-27T19:46:44", 
+                "retweet_count": 0, 
+                "id": "747516535338569728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0831074, 
+                    51.4958
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Beatnik by @GipsyHillBrew at @otherroombar \u2014 https://t.co/vMGCP3vTlJ #photo", 
+                "created_at": "2016-06-27T19:39:45", 
+                "retweet_count": 0, 
+                "id": "747514775530258436", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0831074, 
+                    51.4958
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Post @GlastoFest beer - Drinking an 05|16 by @BrewByNumbers at @otherroombar  \u2014 https://t.co/H33f2t92Lt #photo", 
+                "created_at": "2016-06-27T19:08:52", 
+                "retweet_count": 0, 
+                "id": "747507002734219265", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0926542, 
+                    51.5072
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cheeky Nandos.... - Drinking a Sagres Branca by @cervejasagres at @nandosuk  \u2014 https://t.co/y8UIhdtXlG", 
+                "created_at": "2016-06-18T19:16:05", 
+                "retweet_count": 0, 
+                "id": "744247328912080897", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0909966, 
+                    51.5062
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking an Auld Alliance by @Fyneales at @rakebar \u2014 https://t.co/J0pUya72OY #photo", 
+                "created_at": "2016-06-18T18:17:47", 
+                "retweet_count": 0, 
+                "id": "744232656640999424", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0857878, 
+                    51.5024
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Beyond The Pale by @ldnbeerfactory at @rosepublichouse \u2014 https://t.co/zFNgK01pNC #photo", 
+                "created_at": "2016-06-18T17:31:43", 
+                "retweet_count": 0, 
+                "id": "744221064608227328", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0828169, 
+                    51.5024
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Punk IPA by @BrewDog at @bermondseyyard \u2014 https://t.co/c9v9EO4CTa #photo", 
+                "created_at": "2016-06-18T17:10:51", 
+                "retweet_count": 0, 
+                "id": "744215813163462656", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    77.6479, 
+                    12.9605
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last night in Bangalore! Glad to be going home tomorrow but e... (Kingfisher Premium Lager) https://t.co/30iujYZd0b #photo", 
+                "created_at": "2016-06-11T12:28:45", 
+                "retweet_count": 0, 
+                "id": "741608106354937856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    77.6479, 
+                    12.9605
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Evening beer after a long long long day in the office. Teams in #Ben... (Kingfisher Premium Lager) https://t.co/zV1gqFhfqL", 
+                "created_at": "2016-06-06T15:40:44", 
+                "retweet_count": 0, 
+                "id": "739844479402774528", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    77.611, 
+                    12.9702
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Smooth Criminal by Arbor Brewing Company India at @arborbrewindia \u2014 https://t.co/SNLoif6HTx", 
+                "created_at": "2016-06-05T13:20:36", 
+                "retweet_count": 0, 
+                "id": "739446825518804992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    77.611, 
+                    12.9702
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Awesome pub in Bengalaru! Great beer and good vibes. - Drinking a Mango Maibock at @arborbrewindia - https://t.co/7KMBFd0ebV #photo", 
+                "created_at": "2016-06-05T12:37:36", 
+                "retweet_count": 0, 
+                "id": "739436006030577665", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    77.6411, 
+                    12.9694
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Red Ale by Vapour @ Vapour - Pub and Brewery \u2014 https://t.co/bWO8lvwJdo", 
+                "created_at": "2016-06-04T06:07:32", 
+                "retweet_count": 0, 
+                "id": "738975453713666048", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    77.6411, 
+                    12.9694
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Vapour Premium by Vapour @ Vapour - Pub and Brewery \u2014 https://t.co/Fkq4XtQbAr", 
+                "created_at": "2016-06-04T06:04:52", 
+                "retweet_count": 0, 
+                "id": "738974783317147648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.145719, 
+                    51.541
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pre @radiohead beverages - Drinking a Battersea IPA by @SambrookAle at @camden_lock  \u2014 https://t.co/qNrBYppb7V", 
+                "created_at": "2016-05-28T15:58:56", 
+                "retweet_count": 0, 
+                "id": "736587572147814400", 
+                "favorite_count": 1
+            }
+        }
+    ]
+}

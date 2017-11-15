@@ -1,0 +1,4679 @@
+{
+    "total_favorite_count": 677, 
+    "followers_count": 72, 
+    "total_tweets": 144, 
+    "user_id": 53235652, 
+    "screen_name": "BrooklynSAB1", 
+    "friends_count": 126, 
+    "buildings": {
+        "manufacture": 2, 
+        "school": 6, 
+        "industrial": 49, 
+        "office": 5, 
+        "apartments": 35, 
+        "residential": 2, 
+        "civic": 60, 
+        "commercial": 13, 
+        "submarine": 5, 
+        "church": 20, 
+        "ship": 5, 
+        "public": 3
+    }, 
+    "features": [
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "submarine", 
+                    "id": 611.0, 
+                    "name": "USS Growler", 
+                    "osm_id": 53142768.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83593.0, 
+                    "name": "888 Seventh Avenue", 
+                    "osm_id": 259882502.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87739.0, 
+                    "name": "1740 Broadway", 
+                    "osm_id": 265151172.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87820.0, 
+                    "name": "Westerly", 
+                    "osm_id": 265151973.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89415.0, 
+                    "name": "Hudsonview Terrace", 
+                    "osm_id": 265318791.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 90143.0, 
+                    "name": "Church of the Sacred Heart of Jesus", 
+                    "osm_id": 265327696.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 94365.0, 
+                    "name": "The Phoenix", 
+                    "osm_id": 266853233.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 94607.0, 
+                    "name": "St. Catherine of Siena Church", 
+                    "osm_id": 266866307.0
+                }
+            ], 
+            "text": "Walking and laughing \ud83d\ude02 @ Hospital for Special Surgery https://t.co/3npZsfziv3", 
+            "id": "797827454651994112", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T15:44:22", 
+            "coordinates": [
+                -73.9535247, 
+                40.7652024
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Westerly", 
+                    "Hudsonview Terrace", 
+                    "The Phoenix"
+                ]
+            }, 
+            "building_frequency": {
+                "submarine": 2, 
+                "ship": 2, 
+                "church": 3, 
+                "commercial": 3, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "submarine", 
+                    "id": 611.0, 
+                    "name": "USS Growler", 
+                    "osm_id": 53142768.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83593.0, 
+                    "name": "888 Seventh Avenue", 
+                    "osm_id": 259882502.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87739.0, 
+                    "name": "1740 Broadway", 
+                    "osm_id": 265151172.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87820.0, 
+                    "name": "Westerly", 
+                    "osm_id": 265151973.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89415.0, 
+                    "name": "Hudsonview Terrace", 
+                    "osm_id": 265318791.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 90143.0, 
+                    "name": "Church of the Sacred Heart of Jesus", 
+                    "osm_id": 265327696.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 94365.0, 
+                    "name": "The Phoenix", 
+                    "osm_id": 266853233.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 94607.0, 
+                    "name": "St. Catherine of Siena Church", 
+                    "osm_id": 266866307.0
+                }
+            ], 
+            "text": "Sitting pretty with a smile \ud83d\ude01\ud83d\ude0e\ud83d\ude01 @ Hospital for Special Surgery https://t.co/xuAYmcQqqP", 
+            "id": "797827215807410176", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T15:43:25", 
+            "coordinates": [
+                -73.9535247, 
+                40.7652024
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Westerly", 
+                    "Hudsonview Terrace", 
+                    "The Phoenix"
+                ]
+            }, 
+            "building_frequency": {
+                "submarine": 2, 
+                "ship": 2, 
+                "church": 3, 
+                "commercial": 3, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "submarine", 
+                    "id": 611.0, 
+                    "name": "USS Growler", 
+                    "osm_id": 53142768.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83593.0, 
+                    "name": "888 Seventh Avenue", 
+                    "osm_id": 259882502.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87739.0, 
+                    "name": "1740 Broadway", 
+                    "osm_id": 265151172.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87820.0, 
+                    "name": "Westerly", 
+                    "osm_id": 265151973.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89415.0, 
+                    "name": "Hudsonview Terrace", 
+                    "osm_id": 265318791.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 90143.0, 
+                    "name": "Church of the Sacred Heart of Jesus", 
+                    "osm_id": 265327696.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 94365.0, 
+                    "name": "The Phoenix", 
+                    "osm_id": 266853233.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 94607.0, 
+                    "name": "St. Catherine of Siena Church", 
+                    "osm_id": 266866307.0
+                }
+            ], 
+            "text": "Getting ready for hip #2 GOD is with us\ud83d\ude4f\ud83c\udffe\u26ea\ufe0f\ud83d\ude4f\ud83c\udffe @ Hospital for Special Surgery https://t.co/lI0aMtGqKn", 
+            "id": "797043512046972928", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-11T11:49:16", 
+            "coordinates": [
+                -73.9535247, 
+                40.7652024
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Westerly", 
+                    "Hudsonview Terrace", 
+                    "The Phoenix"
+                ]
+            }, 
+            "building_frequency": {
+                "submarine": 2, 
+                "ship": 2, 
+                "church": 3, 
+                "commercial": 3, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "submarine", 
+                    "id": 611.0, 
+                    "name": "USS Growler", 
+                    "osm_id": 53142768.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83593.0, 
+                    "name": "888 Seventh Avenue", 
+                    "osm_id": 259882502.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87739.0, 
+                    "name": "1740 Broadway", 
+                    "osm_id": 265151172.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87820.0, 
+                    "name": "Westerly", 
+                    "osm_id": 265151973.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89415.0, 
+                    "name": "Hudsonview Terrace", 
+                    "osm_id": 265318791.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 90143.0, 
+                    "name": "Church of the Sacred Heart of Jesus", 
+                    "osm_id": 265327696.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 94365.0, 
+                    "name": "The Phoenix", 
+                    "osm_id": 266853233.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 94607.0, 
+                    "name": "St. Catherine of Siena Church", 
+                    "osm_id": 266866307.0
+                }
+            ], 
+            "text": "Jail Bird\u2696\ufe0f\ud83d\udc26\u2696\ufe0f\ud83d\udc26\u2696\ufe0f\ud83d\udc26\u2696\ufe0f @ Hospital for Special Surgery https://t.co/xvfv5OyjpL", 
+            "id": "794525338386780160", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-04T13:02:56", 
+            "coordinates": [
+                -73.9535247, 
+                40.7652024
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Westerly", 
+                    "Hudsonview Terrace", 
+                    "The Phoenix"
+                ]
+            }, 
+            "building_frequency": {
+                "submarine": 2, 
+                "ship": 2, 
+                "church": 3, 
+                "commercial": 3, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "public", 
+                    "id": 27674.0, 
+                    "name": "Hamilton Avenue Marine Transfer Station", 
+                    "osm_id": 248240178.0
+                }
+            ], 
+            "text": "Lady Sings The Praises \ud83d\ude4f\ud83c\udffe\u26ea\ufe0f\ud83d\ude4f\ud83c\udffe @ Greenwood Baptist Church https://t.co/9NF5RG1Dn4", 
+            "id": "793048899866984452", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-31T11:16:06", 
+            "coordinates": [
+                -73.98006187, 
+                40.66899576
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "public", 
+                "name": [
+                    "Hamilton Avenue Marine Transfer Station"
+                ]
+            }, 
+            "building_frequency": {
+                "public": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "2016 Ansonia Court Halloween Parade \ud83d\udc7b\ud83d\udc79\ud83d\udc7a\ud83e\udd16\ud83d\udc7d @ Park Slope https://t.co/0z9aJA3MpG", 
+            "id": "792856362501799936", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T22:31:02", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Relaece the emails release the taxes please enough BULLSHIT focus on the issues that matter to\u2026 https://t.co/v6IaPG56se", 
+            "id": "792791759512297472", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T18:14:19", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "Pouring The Barbera d' asti \ud83c\udf77\ud83c\udf77\ud83c\udf77\ud83c\udf77 @ Park Slope https://t.co/CpvxtecFT1", 
+            "id": "792510799919153152", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-29T23:37:53", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "Just posted a photo @ Park Slope https://t.co/fN2u8LsRol", 
+            "id": "792499161132261376", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-29T22:51:38", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "Wearing new blue tooth ear \ud83d\udc42 piece form QCY INC. It's fantastic \ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe @ Park Slope https://t.co/7FKXpQtdhQ", 
+            "id": "790369153131634688", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-24T01:47:45", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "Brooklyn deck grown hot peppers and tomatoes. Last crop of the season\ud83c\udf36\ud83c\udf45\ud83c\udf36\ud83c\udf45\ud83c\udf36\ud83c\udf45\ud83c\udf36\ud83c\udf45\ud83c\udf36 @ Park Slope https://t.co/2lcY6x3ntC", 
+            "id": "790315122598219776", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-23T22:13:03", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "Brooklyn deck grown tomatoes right off the vine. Last crop for the season\ud83c\udf45\ud83c\udf45\ud83c\udf45\ud83c\udf45\ud83c\udf45\ud83c\udf45\ud83c\udf45\ud83c\udf45\ud83c\udf45 @ Park Slope https://t.co/Cngqv6UuD4", 
+            "id": "790312130918703104", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-23T22:01:09", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "Brooklyn deck grown hot green peppers. Last crop for the season \ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36 @ Park Slope https://t.co/2bbv4VeFyH", 
+            "id": "790309987184680960", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-23T21:52:38", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "Footwear\ud83d\udc63\ud83d\udc60\ud83d\udc61\ud83d\udc62\ud83d\udc5e\ud83d\udc5f\ud83d\udc63 @ Park Slope https://t.co/PLFa1pEUxa", 
+            "id": "789861670764089344", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-22T16:11:11", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "First win of the season Islanders defeat Ducks 3-2 in overtime. All photos by Spencer A.\u2026 https://t.co/W2gTBMyDm9", 
+            "id": "789413055184547840", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-21T10:28:33", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "A View From My Seat. All images by: Spencer A. Burnett/BKLYN LENS. \ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2LETS GO ISLANDERS\u2026 https://t.co/DNvmHhXcYX", 
+            "id": "789412796161064964", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-21T10:27:31", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "July 4th Lights\ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\udca5all photos by Spencer A. Burnett/BKLYN LENS \ud83d\udcf7\ud83c\udf9e\ud83d\udcf7 @ Lower Manhattan https://t.co/R4HE3zvNq2", 
+            "id": "789412580100104192", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-21T10:26:40", 
+            "coordinates": [
+                -74.0119, 
+                40.7078
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99376.0, 
+                    "name": "1 Whitehall Street", 
+                    "osm_id": 278053579.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 126464.0, 
+                    "name": "St. Ann's Warehouse", 
+                    "osm_id": 373709849.0
+                }
+            ], 
+            "text": "Manhattan Bound Brooklyn Bridge At Night\ud83c\udf15\ud83c\udf09\ud83c\udf15 @ Brooklyn Bridge Park https://t.co/24lLLa3ERN", 
+            "id": "788616523371913216", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T05:43:25", 
+            "coordinates": [
+                -73.9896546, 
+                40.7038145
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "St. Ann's Warehouse"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99376.0, 
+                    "name": "1 Whitehall Street", 
+                    "osm_id": 278053579.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 126464.0, 
+                    "name": "St. Ann's Warehouse", 
+                    "osm_id": 373709849.0
+                }
+            ], 
+            "text": "Water Walls\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a @ Brooklyn Bridge Park https://t.co/7tSxvFwgqr", 
+            "id": "788616437195759616", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T05:43:05", 
+            "coordinates": [
+                -73.9896546, 
+                40.7038145
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "St. Ann's Warehouse"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99376.0, 
+                    "name": "1 Whitehall Street", 
+                    "osm_id": 278053579.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 126464.0, 
+                    "name": "St. Ann's Warehouse", 
+                    "osm_id": 373709849.0
+                }
+            ], 
+            "text": "Cool Kids\ud83c\udfca\ud83c\udffd\ud83c\udfca\ud83c\udffd\ud83c\udfca\ud83c\udffd\ud83c\udfca\ud83c\udffd\ud83c\udfca\ud83c\udffd @ Brooklyn Bridge Park https://t.co/oQTNsmz9GU", 
+            "id": "788616322078867456", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T05:42:37", 
+            "coordinates": [
+                -73.9896546, 
+                40.7038145
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "St. Ann's Warehouse"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "manufacture", 
+                    "id": 29436.0, 
+                    "name": "Grand Kitchen", 
+                    "osm_id": 249604029.0
+                }
+            ], 
+            "text": "As a rose blooms my Mom Blossoms at age 91. HAPPY BIRTHDAY MOM GOD BLESS YOU\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39 @ Brookdale\u2026 https://t.co/A7nb5ASZhE", 
+            "id": "788616039596711940", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-19T05:41:30", 
+            "coordinates": [
+                -73.9125, 
+                40.655
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "manufacture", 
+                "name": [
+                    "Grand Kitchen"
+                ]
+            }, 
+            "building_frequency": {
+                "manufacture": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "GLASSES \ud83c\udf77\ud83c\udf78\ud83c\udf79\ud83c\udf79\ud83c\udf78\ud83c\udf77 @ Park Slope, Brooklyn, N.Y. https://t.co/wkWTR52J5w", 
+            "id": "788615889612599296", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T05:40:54", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Purple Beauty\ud83c\udf38\ud83c\udf3a\ud83c\udf38\ud83c\udf3a\ud83c\udf38\ud83c\udf3a\ud83c\udf38\ud83c\udf3a @ Park Slope, Brooklyn, N.Y. https://t.co/r2rWckDayS", 
+            "id": "788615322559455232", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T05:38:39", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 28057.0, 
+                    "name": "Soterios Ellenas School", 
+                    "osm_id": 248681544.0
+                }, 
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Flap Flight\ud83d\udd4a\ud83d\udcf7\ud83d\udd4a\ud83d\udcf7\ud83d\udd4a\ud83d\udcf7\ud83d\udd4a @ Prospect Park https://t.co/vYXokc3sLX", 
+            "id": "788615236223918085", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T05:38:18", 
+            "coordinates": [
+                -73.97312, 
+                40.66318264
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Soterios Ellenas School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "The Inner Beauty Of Brooklyn \ud83d\udcf7\ud83c\udf9e\ud83d\udcf7\ud83d\ude0e @ Park Slope, Brooklyn, N.Y. https://t.co/DWNhfm5NNA", 
+            "id": "788614986725818368", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T05:37:19", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Nesting In Brooklyn \ud83d\udc23\ud83d\udc23\ud83d\udc23\ud83d\udc23 @ 12th Street in Park Slope https://t.co/QRSTFi6Z7c", 
+            "id": "788614769779544069", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T05:36:27", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "A little something to grow on all photos by: Spencer A. Burnett/BKLYN LENS \ud83d\udcf7\ud83c\udf9e\ud83d\udcf7 @ 12th Street in\u2026 https://t.co/FzRtApZQ0R", 
+            "id": "788614484222943233", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-19T05:35:19", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "4th of July Lights. All photos by: Spencer A. Burnett/BKLYN LENS\ud83d\udcf7\ud83c\udf9e\ud83d\udcf7 @ Lower Manhattan https://t.co/4ZIvcwD7Eh", 
+            "id": "788614326156394497", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T05:34:41", 
+            "coordinates": [
+                -74.0119, 
+                40.7078
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "A View From My Seat. All images by: Spencer A. Burnett/BKLYN LENS. \ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2LETS GO ISLANDERS\u2026 https://t.co/DNvmHieOnx", 
+            "id": "788605968238186496", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T05:01:29", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "A View From My Seat all images by: Spencer A. Burnett/BLKYN LENS\ud83d\udcf7\ud83c\udf9e\ud83d\udcf7\ud83d\ude0e. LETS GO ISLANDERS\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2YES\u2026 https://t.co/uNInDtXijp", 
+            "id": "788603931429658625", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T04:53:23", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Ivey Square Off \ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2 @ Barclays Center New York Islanders https://t.co/nA7EmffLYK", 
+            "id": "788587843404857345", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T03:49:27", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Battle For Position \ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2 @ Barclays Center New York Islanders https://t.co/Gz72VVd75P", 
+            "id": "788586344574492672", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T03:43:30", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Trying to sneak one past\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2 @ Barclays Center New York Islanders https://t.co/mLRf6sQtFo", 
+            "id": "788585037507727360", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T03:38:18", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders Save\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2 @ Barclays Center New York Islanders https://t.co/RsTZS8btzN", 
+            "id": "788581115653197826", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T03:22:43", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "The Save\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2 @ Barclays Center New York Islanders https://t.co/8D4XWcpIFx", 
+            "id": "788522446542471168", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-18T23:29:35", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2 @ Barclays Center New York Islanders https://t.co/yr5aABBUfA", 
+            "id": "788233041177092096", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-18T04:19:36", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/TSnu9tPRNs", 
+            "id": "788224332443115520", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-18T03:45:00", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "First win of the season Islanders defeat Ducks 3-2 in overtime. All photos by Spencer A.\u2026 https://t.co/W2gTBMh2uB", 
+            "id": "788157733606420480", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T23:20:21", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "Beauty And Bars\ud83c\udf3a\ud83c\udf38\ud83c\udf3c\ud83c\udf3a\ud83c\udf38\ud83c\udf3c @ Park Slope https://t.co/6GhaZPhL9X", 
+            "id": "788151398911320064", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T22:55:11", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "Beauty Grows In Brooklyn\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38 @ Park Slope https://t.co/wfBKweoseZ", 
+            "id": "788144198239326208", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T22:26:34", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/JcXai3gv1o", 
+            "id": "787919937109196800", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T07:35:26", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/AksdEpQsIZ", 
+            "id": "787918976961679360", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T07:31:37", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/wr3QxbRTtF", 
+            "id": "787917264951664640", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T07:24:49", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/Te2zb4I1E8", 
+            "id": "787916116383436800", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T07:20:15", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/LqtUkG9aIt", 
+            "id": "787914990820950016", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T07:15:47", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/G3EQi9zy1G", 
+            "id": "787913877115797504", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T07:11:21", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/XQSusfYt25", 
+            "id": "787911920766554112", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T07:03:35", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/9g4OtfB4zr", 
+            "id": "787910672831119360", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T06:58:37", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/yDvxAwQYc5", 
+            "id": "787909076390772736", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T06:52:17", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/1cKdG0hPqr", 
+            "id": "787907546124353536", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T06:46:12", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/PiCHjgApni", 
+            "id": "787906249807585280", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T06:41:03", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/DyVExF1s1u", 
+            "id": "787905106603708416", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T06:36:30", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/hxStqo45uH", 
+            "id": "787904003346665472", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T06:32:07", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Just posted a photo @ Barclays Center New York Islanders https://t.co/gYI8VymhpJ", 
+            "id": "787901814326824960", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T06:23:25", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/7f1xX11rxF", 
+            "id": "787900211595186176", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T06:17:03", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/DTn2aQnRk6", 
+            "id": "787897078466879488", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T06:04:36", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/9o2vXfLvUm", 
+            "id": "787895108159021056", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T05:56:46", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/wH0xJhEod6", 
+            "id": "787893160399802368", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T05:49:02", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/fnRw5DAY3Q", 
+            "id": "787891225923883009", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T05:41:21", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/r8hsvjUhWB", 
+            "id": "787889233012850688", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T05:33:26", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/jcdEwTpZod", 
+            "id": "787887816000868352", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-17T05:27:48", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/5WJ0XNwZLY", 
+            "id": "787886005772746752", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T05:20:36", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/MZgYgmw2m7", 
+            "id": "787883711555567616", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T05:11:29", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/09ygPB2JEZ", 
+            "id": "787881725024210944", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T05:03:36", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/zppLTcuoLe", 
+            "id": "787878303860490240", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T04:50:00", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/504aTiGGsx", 
+            "id": "787876308772646912", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T04:42:04", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/sw1Q42UFR4", 
+            "id": "787874141345030144", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T04:33:27", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in over time @ Barclays Center New York Islanders https://t.co/TawyPgygNW", 
+            "id": "787870427100114944", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T04:18:42", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat Ducks 3-2 in overtime @ Barclays Center New York Islanders https://t.co/ZMYGZ5uNiz", 
+            "id": "787868281776603136", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T04:10:10", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat the Ducks 3-2 in overtime @ Barclays Center https://t.co/8Yr6L1Q5gs", 
+            "id": "787836722218471424", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T02:04:46", 
+            "coordinates": [
+                -73.97618, 
+                40.68327
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat the Ducks 3-2 in overtime @ Barclays Center https://t.co/xExqUFZJn2", 
+            "id": "787834828632776708", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T01:57:15", 
+            "coordinates": [
+                -73.97618, 
+                40.68327
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat the Ducks 3-2 in overtime @ Barclays Center https://t.co/f8FT546dFk", 
+            "id": "787833325935325184", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T01:51:16", 
+            "coordinates": [
+                -73.97618, 
+                40.68327
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat the Ducks 3-2 in overtime @ Barclays Center https://t.co/Fm4pvXqxYI", 
+            "id": "787831945392717824", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T01:45:47", 
+            "coordinates": [
+                -73.97618, 
+                40.68327
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Islanders defeat the Ducks 3-2 in overtime @ Barclays Center https://t.co/P1woZdgeub", 
+            "id": "787830638028152832", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T01:40:35", 
+            "coordinates": [
+                -73.97618, 
+                40.68327
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "ARE YOU READY YES YES YES LETS GO ISLANDERS \ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2 @ Barclays Center New York Islanders https://t.co/9g1DQRO6Mw", 
+            "id": "787703999914995712", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-16T17:17:23", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Just posted a photo @ Barclays Center New York Islanders https://t.co/q8ODZkgVfz", 
+            "id": "787703215047450624", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-16T17:14:15", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "ARE YOU READY \ud83c\udfd2\ud83c\udfd2\ud83c\udfd2YES YES YES LETS GO ISLANDERS \ud83c\udfd2\ud83c\udfd2\ud83c\udfd2 @ Barclays Center New York Islanders https://t.co/6C7bJg48yc", 
+            "id": "787702439080255488", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-16T17:11:10", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Flashback Islanders vs Flyers a view from my seat. By Spencer A. Burnett/BLKYN LENS \ud83d\udcf7\ud83c\udf9e\ud83d\udcf7\ud83d\ude0e @\u2026 https://t.co/y5vPvWhWfA", 
+            "id": "787702365151461376", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-16T17:10:53", 
+            "coordinates": [
+                -73.9758739, 
+                40.68307281
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "4th Of July Pier 2 @ Lower Manhattan https://t.co/HM0DU0N175", 
+            "id": "787701403502403584", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-16T17:07:04", 
+            "coordinates": [
+                -74.0119, 
+                40.7078
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 4775.0, 
+                    "name": "Public School K146 Brooklyn New School", 
+                    "osm_id": 241834635.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 20998.0, 
+                    "name": "Public School 133", 
+                    "osm_id": 248164516.0
+                }
+            ], 
+            "text": "Dance \ud83d\udc83 Dance \ud83d\udc83 Dance \ud83d\udc83 @ Restoration Plaza https://t.co/nEnR83e2QK", 
+            "id": "787308636972408832", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T15:06:21", 
+            "coordinates": [
+                -73.94588, 
+                40.68007
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School K146 Brooklyn New School", 
+                    "Public School 133"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 4775.0, 
+                    "name": "Public School K146 Brooklyn New School", 
+                    "osm_id": 241834635.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 20998.0, 
+                    "name": "Public School 133", 
+                    "osm_id": 248164516.0
+                }
+            ], 
+            "text": "Dance \ud83d\udc83 Dance \ud83d\udc83 Dance \ud83d\udc83 @ Restoration Plaza https://t.co/LBjYO0DkBZ", 
+            "id": "787305177686704128", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T14:52:36", 
+            "coordinates": [
+                -73.94588, 
+                40.68007
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School K146 Brooklyn New School", 
+                    "Public School 133"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "Deck grown veggies and homemade creation\ud83c\udf36\ud83c\udf46\ud83c\udf45\ud83e\uddc0 @ Park Slope https://t.co/gz6Ju5xCxb", 
+            "id": "787129728943677444", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T03:15:26", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126388.0, 
+                    "name": "Landmark Park Slope", 
+                    "osm_id": 362875274.0
+                }
+            ], 
+            "text": "My favorite Brooklyn view @ Park Slope https://t.co/q7MJq1lVT7", 
+            "id": "786354280072671232", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:54:04", 
+            "coordinates": [
+                -73.977063, 
+                40.672404
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Landmark Park Slope"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Just posted a photo @ Park Slope, Brooklyn, N.Y. https://t.co/eG4JYVCYZn", 
+            "id": "784159513112969216", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T22:32:51", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Fall Tomatoes \ud83c\udf45 Still Coming In On The Deck\ud83c\udf45\ud83c\udf45\ud83c\udf45\ud83c\udf45\ud83c\udf45 @ Park Slope, Brooklyn, N.Y. https://t.co/ktlQyarurM", 
+            "id": "784153943060406276", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T22:10:43", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Deck Grown Jalape\u00f1os \ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36 @ Park Slope, Brooklyn, N.Y. https://t.co/CkpyYN1KZh", 
+            "id": "784151348216532993", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T22:00:24", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Great wine\ud83c\udf47\ud83c\udf7e\ud83c\udf77\ud83c\udf77\ud83c\udf7e\ud83c\udf47 @ Park Slope, Brooklyn, N.Y. https://t.co/xs1tKixH4I", 
+            "id": "783788848132329473", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-05T21:59:58", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Great \ud83d\udc4d\ud83c\udffe from Long Island \ud83c\udf47\ud83c\udf77\ud83c\udf47\ud83c\udf77\ud83c\udf47 @ Park Slope, Brooklyn, N.Y. https://t.co/89JagvfeLT", 
+            "id": "783736348935159808", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-05T18:31:21", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "Star Burst\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86 @ Lower Manhattan https://t.co/AeZmykUqY4", 
+            "id": "782206533312667648", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-01T13:12:24", 
+            "coordinates": [
+                -74.0119, 
+                40.7078
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "ARE YOU READY \ud83c\udfd2\ud83c\udfd2\ud83c\udfd2YES YES YES LETS GO ISLANDERS \ud83c\udfd2\ud83c\udfd2\ud83c\udfd2 @ Barclays Center New York Islanders https://t.co/6C7bJfMx9C", 
+            "id": "781796359070285828", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-30T10:02:31", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "Light Storm @ Lower Manhattan https://t.co/lL7dfwHgth", 
+            "id": "781463566851379200", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T12:00:07", 
+            "coordinates": [
+                -74.0119, 
+                40.7078
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "Inner Bursts @ Lower Manhattan https://t.co/iET4YqsurX", 
+            "id": "781463494428356608", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T11:59:50", 
+            "coordinates": [
+                -74.0119, 
+                40.7078
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "Light Wheel @ Lower Manhattan https://t.co/9SnBAblCym", 
+            "id": "781463392297115648", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T11:59:26", 
+            "coordinates": [
+                -74.0119, 
+                40.7078
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "Star Bursts @ Lower Manhattan https://t.co/bXJPQLpuyQ", 
+            "id": "781463308369063936", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T11:59:06", 
+            "coordinates": [
+                -74.0119, 
+                40.7078
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Flashback Islanders vs Flyers a view from my seat. By Spencer A. Burnett/BLKYN LENS \ud83d\udcf7\ud83c\udf9e\ud83d\udcf7\ud83d\ude0e @\u2026 https://t.co/y5vPvWhWfA", 
+            "id": "781113092495343616", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T12:47:28", 
+            "coordinates": [
+                -73.9758739, 
+                40.68307281
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Sun And Shadow Pose \ud83c\udf1e\ud83c\udf1e\ud83c\udf1e @ 12th Street in Park Slope https://t.co/jfE3hSYbbE", 
+            "id": "781108065554792448", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T12:27:29", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Strike A Sunny Pose\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e @ 12th Street in Park Slope https://t.co/dwB6BRw8mT", 
+            "id": "781108009430880256", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T12:27:16", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Brooklyn Headshot\ud83d\udcf7\ud83c\udf9e\ud83d\udcf7\ud83d\ude0e @ 12th Street in Park Slope https://t.co/wHP8M6Kf0X", 
+            "id": "781107870121267200", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T12:26:43", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "4th Of July Pier 2 @ Lower Manhattan https://t.co/HM0DU0N175", 
+            "id": "781107416595304449", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T12:24:55", 
+            "coordinates": [
+                -74.0119, 
+                40.7078
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Leaf &amp; Light \ud83c\udf43\u2600\ufe0f\ud83c\udf43\u2600\ufe0f\ud83c\udf43 @ 12th Street in Park Slope https://t.co/lHxglUuK3C", 
+            "id": "781107340787453953", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T12:24:36", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Leaves And Light In Black&amp;White\ud83c\udf43\ud83c\udf1e\ud83c\udf43\ud83c\udf1e\ud83c\udf43\ud83c\udf1e\ud83c\udf43 @ 12th Street in Park Slope https://t.co/WnyWlpSjRf", 
+            "id": "781107286894907392", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T12:24:24", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Hay What Can You Say USA\ud83c\uddfa\ud83c\uddf8\ud83d\udc6e\ud83c\udffe @ Park Slope, Brooklyn, N.Y. https://t.co/l1AVqFi6jP", 
+            "id": "781106915816435712", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T12:22:55", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Leaves And Light In Black&amp;White\ud83c\udf43\ud83c\udf1e\ud83c\udf43\ud83c\udf1e\ud83c\udf43\ud83c\udf1e\ud83c\udf43 @ 12th Street in Park Slope https://t.co/WnyWlpSjRf", 
+            "id": "780238218876837888", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-26T02:51:02", 
+            "coordinates": [
+                -73.98093498, 
+                40.66458497
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Leaf &amp; Light \ud83c\udf43\u2600\ufe0f\ud83c\udf43\u2600\ufe0f\ud83c\udf43 @ 12th Street in Park Slope https://t.co/lHxglUuK3C", 
+            "id": "780211271379582977", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-26T01:03:57", 
+            "coordinates": [
+                -73.98093498, 
+                40.66458497
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Leaves and light @ Park Slope, Brooklyn, N.Y. https://t.co/nKLjmLTyZT", 
+            "id": "780189016058650625", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-25T23:35:31", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Great body smooth with an amazing finish\ud83c\udf47\ud83c\udf77\ud83c\udf47\ud83c\udf77\ud83c\udf47\ud83c\udf77\ud83c\udf47 @ 12th Street in Park Slope https://t.co/0SyXlpsvLl", 
+            "id": "780147830803529729", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-25T20:51:51", 
+            "coordinates": [
+                -73.98093498, 
+                40.66458497
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "ARE YOU READY\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2YES YES YES LETS GO ISLANDERS\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2 @ 12th Street in Park Slope https://t.co/p5wqbjtOh8", 
+            "id": "780113726204772352", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-25T18:36:20", 
+            "coordinates": [
+                -73.98093498, 
+                40.66458497
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "public", 
+                    "id": 27674.0, 
+                    "name": "Hamilton Avenue Marine Transfer Station", 
+                    "osm_id": 248240178.0
+                }
+            ], 
+            "text": "Together at Church\ud83d\ude4f\ud83c\udffe\u26ea\ufe0f\ud83d\ude4f\ud83c\udffewe Pray @ Greenwood Baptist Church https://t.co/yq1HDA2JHU", 
+            "id": "780067432438370305", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-25T15:32:23", 
+            "coordinates": [
+                -73.98006187, 
+                40.66899576
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "public", 
+                "name": [
+                    "Hamilton Avenue Marine Transfer Station"
+                ]
+            }, 
+            "building_frequency": {
+                "public": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Couple On Deck @ 12th Street in Park Slope https://t.co/INVIPKTQsc", 
+            "id": "779153271604797440", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-23T02:59:50", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Hold On To The Image\ud83d\udcf7\ud83c\udf9e\ud83d\udcf7\ud83d\ude0e @ 12th Street in Park Slope https://t.co/Iu08zB4eOL", 
+            "id": "779148578413486081", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-23T02:41:11", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Brooklyn Headshot\ud83d\udcf7\ud83c\udf9e\ud83d\udcf7\ud83d\ude0e @ 12th Street in Park Slope https://t.co/wHP8M6Kf0X", 
+            "id": "779138425400225797", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-23T02:00:50", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Camera ready on the deck\ud83d\udcf7\ud83c\udf9e\ud83d\udcf7\ud83d\ude0e @ 12th Street in Park Slope https://t.co/ug6hxCoGzE", 
+            "id": "779132760623570944", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-23T01:38:20", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Sun And Shadow Pose \ud83c\udf1e\ud83c\udf1e\ud83c\udf1e @ 12th Street in Park Slope https://t.co/jfE3hTfM3c", 
+            "id": "778799513980940289", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T03:34:08", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Strike A Sunny Pose\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e @ 12th Street in Park Slope https://t.co/dwB6BRNJer", 
+            "id": "778796144918863872", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T03:20:44", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Photo Fun @ 12th Street in Park Slope https://t.co/XmyJaXKYZi", 
+            "id": "778737561095184386", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-21T23:27:57", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Night Deck @ 12th Street in Park Slope https://t.co/iY8PHTIX6X", 
+            "id": "778391503571914753", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-21T00:32:50", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "ARE YOU READY YES YES YES \ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2by: Spencer A. Burnett/BKLYN LENS \ud83d\udcf7\ud83c\udf9e\ud83d\udcf7\ud83d\ude0e @ Barclays Center https://t.co/7tSo9fXAeN", 
+            "id": "776387412373204992", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-15T11:49:18", 
+            "coordinates": [
+                -73.97618, 
+                40.68327
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Bee On A Flower\ud83d\udc1d\ud83d\udc1d\ud83d\udc1d\ud83d\udc1d\ud83d\udc1d @ 12th Street in Park Slope https://t.co/qQiw2TJk3t", 
+            "id": "776246286530015232", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-15T02:28:31", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Deck Grown Banana Peppers\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36by:Spencer A. Burnett/BKLYN LENS \ud83d\udcf7\ud83c\udf9e\ud83d\udcf7\ud83d\ude0e @ 12th Street in Park\u2026 https://t.co/fP9ROfCeOi", 
+            "id": "775682873898725376", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-13T13:09:43", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Captain America Shields The Night @ Barclays Center https://t.co/K2qbAgqaJM", 
+            "id": "773843199118934016", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-08T11:19:30", 
+            "coordinates": [
+                -73.97587314, 
+                40.68307284
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Captain America Shields The Barclays Center. @ Barclays Center https://t.co/Ndb4B87DaU", 
+            "id": "773827544844042240", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-08T10:17:18", 
+            "coordinates": [
+                -73.97587314, 
+                40.68307284
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Bee On A Flower\ud83d\udc1d\ud83d\udc1d\ud83d\udc1d\ud83d\udc1d\ud83d\udc1d @ 12th Street in Park Slope https://t.co/qQiw2TJk3t", 
+            "id": "772885413052768256", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-05T19:53:36", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Deck Grown Veggies \ud83c\udf45\ud83c\udf36\ud83c\udf46\ud83c\udf45by:Spencer A. Burnett/BKLYN LENS\ud83d\udcf7\ud83c\udf9e\ud83d\udcf7 @ 12th Street in Park Slope https://t.co/QheQGSMqV5", 
+            "id": "772853390510522368", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-05T17:46:21", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Donald Trump starts my barbecue @ 12th Street in Park Slope https://t.co/VjhdHPdPIq", 
+            "id": "770368735408513024", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-29T21:13:13", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Let Donald Trump start your next barbecue \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83c\udf57\ud83c\udf56\ud83c\udf57\ud83c\udf56 @ 12th Street in Park Slope https://t.co/Um9sPv9bv7", 
+            "id": "770368437042417664", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-29T21:12:02", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Smooth Finnish @ 12th Street in Park Slope https://t.co/m75S4qroWA", 
+            "id": "770038513400160263", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-28T23:21:02", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "President Obama flys proudly in our home \ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc6e\ud83c\udffe\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83d\udc6e\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe @ 12th Street in Park Slope https://t.co/BVOc0Z8808", 
+            "id": "770027238897090565", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-28T22:36:14", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Bannana Pepper Of The Vine\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36 @ 12th Street in Park Slope https://t.co/0MOLp7PpP4", 
+            "id": "769528702581534720", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-27T13:35:14", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Inner Beauty Of Ansonia Court \ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c @ Park Slope, Brooklyn, N.Y. https://t.co/JTbQvcDKC5", 
+            "id": "766473540501659648", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T03:15:07", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Time to lighten up the Lightning baby Round 2 Game 1 Sunday baby LETS GO ISLANDERS \ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\ud83c\udfd2\u2026 https://t.co/1dZ8HGnzj4", 
+            "id": "766473422461435904", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T03:14:38", 
+            "coordinates": [
+                -73.97601487, 
+                40.68296985
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Bird &amp; Hoop \ud83d\udd4a\ud83d\udcf7\ud83d\udd4a\ud83d\udcf7\ud83d\udd4a\ud83d\udcf7\ud83d\udd4a @ 12th Street in Park Slope https://t.co/B6e0CcnU6q", 
+            "id": "766473080076177408", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T03:13:17", 
+            "coordinates": [
+                -73.98210949, 
+                40.66429411
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Avenue Night Streaks \ud83d\udcf7\ud83d\udcf7\ud83c\udf9e\ud83c\udf9e\ud83d\udcf7\ud83d\udcf7\ud83d\ude0e\ud83d\ude0e @ Barclays Center https://t.co/Ov6qvfoSjf", 
+            "id": "766472862903525376", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T03:12:25", 
+            "coordinates": [
+                -73.97586995, 
+                40.68307265
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }
+            ], 
+            "text": "Skyline Under Construction. \ud83d\udcf7\ud83d\udcf7\ud83c\udf9e\ud83c\udf9e\ud83d\udcf7\ud83d\udcf7\ud83d\ude0e\ud83d\ude0e @ Downtown Brooklyn https://t.co/eDsFaC9kw0", 
+            "id": "766472769383108609", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T03:12:03", 
+            "coordinates": [
+                -73.9859, 
+                40.6937
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "The Center Of Contrast (Night)\n by: BKLYN LENS \ud83d\udcf7\ud83c\udf9e\ud83d\udcf7 @ Barclays Center https://t.co/WMzcDsr3J2", 
+            "id": "766472593830535168", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T03:11:21", 
+            "coordinates": [
+                -73.97586995, 
+                40.68307265
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Brooklyn Birds\ud83d\udc23\ud83d\udc25\ud83d\udd4a\ud83d\udcf7\ud83c\udf9e\ud83d\udcf7 @ 12th Street in Park Slope https://t.co/m7pg6hQZPk", 
+            "id": "766472518383333377", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T03:11:03", 
+            "coordinates": [
+                -73.98210949, 
+                40.66429411
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99376.0, 
+                    "name": "1 Whitehall Street", 
+                    "osm_id": 278053579.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 126464.0, 
+                    "name": "St. Ann's Warehouse", 
+                    "osm_id": 373709849.0
+                }
+            ], 
+            "text": "Glissing in Brooklyn @ Brooklyn Bridge Park https://t.co/dYt8nypBTy", 
+            "id": "766472169731792897", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T03:09:40", 
+            "coordinates": [
+                -73.9896546, 
+                40.7038145
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "St. Ann's Warehouse"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "July 4th Lights\ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\udca5all photos by Spencer A. Burnett/BKLYN LENS \ud83d\udcf7\ud83c\udf9e\ud83d\udcf7 @ Lower Manhattan https://t.co/R4HE3zvNq2", 
+            "id": "766471961358823424", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T03:08:50", 
+            "coordinates": [
+                -74.0119, 
+                40.7078
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 3523.0, 
+                    "name": "Duryea Presbyterian Church", 
+                    "osm_id": 241827390.0
+                }
+            ], 
+            "text": "Praise Dancers @ New Jerusalem Holy Church https://t.co/eKYCdRYCPj", 
+            "id": "766469259358769152", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T02:58:06", 
+            "coordinates": [
+                -73.87467, 
+                40.67516
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Duryea Presbyterian Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Blistered Leaf\ud83c\udf43\ud83c\udf43\ud83c\udf43\ud83c\udf43\ud83c\udf43 @ 12th Street in Park Slope https://t.co/1B1B8zGUSM", 
+            "id": "765656042466316290", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-16T21:06:40", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "Blistered Leaf\ud83c\udf43\ud83c\udf43\ud83c\udf43\ud83c\udf43\ud83c\udf43 @ 12th Street in Park Slope https://t.co/so4iE0yNRX", 
+            "id": "765640046938615808", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-16T20:03:06", 
+            "coordinates": [
+                -73.983, 
+                40.664545
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "All photos by:Spencer A. Burnett/BLKYN LENS\ud83d\udcf7\ud83c\udf9e\ud83d\udcf7\ud83d\ude0e @ Park Slope, Brooklyn, N.Y. https://t.co/jTxaevGIv1", 
+            "id": "764974870199402496", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-14T23:59:56", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Brooklyn bird life @ Prospect Park https://t.co/os6NqsIcDn", 
+            "id": "764961679960670208", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-14T23:07:31", 
+            "coordinates": [
+                -73.971991, 
+                40.66277432
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Contrast &amp; Beauty\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c @ Park Slope, Brooklyn, N.Y. https://t.co/rEClrChUg1", 
+            "id": "763900888507441152", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-12T00:52:19", 
+            "coordinates": [
+                -73.98429248, 
+                40.66333973
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "A view from my seat @ Barclays Center New York Islanders https://t.co/lQ4wyZRJNH", 
+            "id": "757772931309142016", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-26T03:02:00", 
+            "coordinates": [
+                -73.9760699, 
+                40.6827104
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

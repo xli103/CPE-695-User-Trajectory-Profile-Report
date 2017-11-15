@@ -1,0 +1,3768 @@
+{
+    "total_favorite_count": 5322, 
+    "total_tweets": 92, 
+    "screen_name": "tranceboy_johny", 
+    "friends_count": 1042, 
+    "followers_count": 370, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.15448283, 
+                    40.91143368
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Colors \u2764\ufe0f @ Harmony Vineyards https://t.co/xOINw7tf9B", 
+                "created_at": "2016-11-05T19:33:29", 
+                "retweet_count": 0, 
+                "id": "794986009176002560", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90812107, 
+                    40.77442765
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 52171596.0, 
+                    "type": "yes", 
+                    "id": 606.0, 
+                    "name": "Super 8 North Bergen"
+                }, 
+                {
+                    "osm_id": 266898264.0, 
+                    "type": "yes", 
+                    "id": 95952.0, 
+                    "name": "The Carlyle"
+                }, 
+                {
+                    "osm_id": 269211931.0, 
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School"
+                }, 
+                {
+                    "osm_id": 269224896.0, 
+                    "type": "apartments", 
+                    "id": 98140.0, 
+                    "name": "The Park Millennium"
+                }, 
+                {
+                    "osm_id": 280850914.0, 
+                    "type": "yes", 
+                    "id": 123618.0, 
+                    "name": "Tower Plaza"
+                }, 
+                {
+                    "osm_id": 347377417.0, 
+                    "type": "yes", 
+                    "id": 126330.0, 
+                    "name": "600 Meadowlands Parkway"
+                }, 
+                {
+                    "osm_id": 366522077.0, 
+                    "type": "retail", 
+                    "id": 126399.0, 
+                    "name": "Unique"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Apparently everything is on fire tonight \ud83d\ude02 @ TRU https://t.co/HlShRPXh5V", 
+                "created_at": "2016-11-04T01:55:46", 
+                "retweet_count": 0, 
+                "id": "794357437109178368", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90812107, 
+                    40.77442765
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 52171596.0, 
+                    "type": "yes", 
+                    "id": 606.0, 
+                    "name": "Super 8 North Bergen"
+                }, 
+                {
+                    "osm_id": 266898264.0, 
+                    "type": "yes", 
+                    "id": 95952.0, 
+                    "name": "The Carlyle"
+                }, 
+                {
+                    "osm_id": 269211931.0, 
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School"
+                }, 
+                {
+                    "osm_id": 269224896.0, 
+                    "type": "apartments", 
+                    "id": 98140.0, 
+                    "name": "The Park Millennium"
+                }, 
+                {
+                    "osm_id": 280850914.0, 
+                    "type": "yes", 
+                    "id": 123618.0, 
+                    "name": "Tower Plaza"
+                }, 
+                {
+                    "osm_id": 347377417.0, 
+                    "type": "yes", 
+                    "id": 126330.0, 
+                    "name": "600 Meadowlands Parkway"
+                }, 
+                {
+                    "osm_id": 366522077.0, 
+                    "type": "retail", 
+                    "id": 126399.0, 
+                    "name": "Unique"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cake so hot it caught on fire @ TRU https://t.co/1bWj4Gm2Xd", 
+                "created_at": "2016-11-04T01:43:03", 
+                "retweet_count": 0, 
+                "id": "794354237245308928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.016094, 
+                    40.703717
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695755.0, 
+                    "type": "yes", 
+                    "id": 468.0, 
+                    "name": "Castle Clinton"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pumpkin carving at work. I think we did pretty good \ud83d\ude02\ud83d\udc80\ud83d\udc80 @ Battery Park https://t.co/LUhkvAZJdX", 
+                "created_at": "2016-10-31T18:15:43", 
+                "retweet_count": 0, 
+                "id": "793154497891696640", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.957828, 
+                    40.719932
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": -3697695.0, 
+                    "type": "school", 
+                    "id": 458.0, 
+                    "name": "Lower East Side Preparatory High School"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 244778951.0, 
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe"
+                }, 
+                {
+                    "osm_id": 245352052.0, 
+                    "type": "yes", 
+                    "id": 10013.0, 
+                    "name": "Roman Nose"
+                }, 
+                {
+                    "osm_id": 245352053.0, 
+                    "type": "yes", 
+                    "id": 10024.0, 
+                    "name": "Savoy, Siegel, & Desai Optometrists"
+                }, 
+                {
+                    "osm_id": 245352101.0, 
+                    "type": "yes", 
+                    "id": 10049.0, 
+                    "name": "The Bistro at Grove Square"
+                }, 
+                {
+                    "osm_id": 245352054.0, 
+                    "type": "yes", 
+                    "id": 10072.0, 
+                    "name": "Grove Medical Associates"
+                }, 
+                {
+                    "osm_id": 245352056.0, 
+                    "type": "yes", 
+                    "id": 10076.0, 
+                    "name": "Fenny Pharmacy"
+                }, 
+                {
+                    "osm_id": 245360109.0, 
+                    "type": "yes", 
+                    "id": 10098.0, 
+                    "name": "Word"
+                }, 
+                {
+                    "osm_id": 247867323.0, 
+                    "type": "yes", 
+                    "id": 12191.0, 
+                    "name": "240 Centre Street"
+                }, 
+                {
+                    "osm_id": 247867455.0, 
+                    "type": "yes", 
+                    "id": 12248.0, 
+                    "name": "Engine 55"
+                }, 
+                {
+                    "osm_id": 250052753.0, 
+                    "type": "yes", 
+                    "id": 41371.0, 
+                    "name": "32 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 279778322.0, 
+                    "type": "yes", 
+                    "id": 108384.0, 
+                    "name": "Fellow Barber"
+                }, 
+                {
+                    "osm_id": 279780014.0, 
+                    "type": "apartments", 
+                    "id": 108747.0, 
+                    "name": "The Edge South Tower"
+                }, 
+                {
+                    "osm_id": 310245650.0, 
+                    "type": "yes", 
+                    "id": 126067.0, 
+                    "name": "Independence Plaza II"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Cheeseboat in Brooklyn, NY https://t.co/uHCksGXjvG", 
+                "created_at": "2016-10-29T00:27:49", 
+                "retweet_count": 0, 
+                "id": "792160977756229632", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90178919, 
+                    40.77833165
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at SingleCut Beersmiths - @singlecutbeer in Astoria, NY https://t.co/5fwioeu0Ql", 
+                "created_at": "2016-10-22T02:57:45", 
+                "retweet_count": 0, 
+                "id": "789661994026672128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92183403, 
+                    40.75713343
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3573490.0, 
+                    "type": "yes", 
+                    "id": 392.0, 
+                    "name": "St. Bartholomew's"
+                }, 
+                {
+                    "osm_id": 108160358.0, 
+                    "type": "yes", 
+                    "id": 662.0, 
+                    "name": "Port Authority Bus Terminal"
+                }, 
+                {
+                    "osm_id": 118476491.0, 
+                    "type": "commercial", 
+                    "id": 686.0, 
+                    "name": "ITT-American Building"
+                }, 
+                {
+                    "osm_id": 137885993.0, 
+                    "type": "commercial", 
+                    "id": 695.0, 
+                    "name": "General Electric Building"
+                }, 
+                {
+                    "osm_id": 145038506.0, 
+                    "type": "office", 
+                    "id": 770.0, 
+                    "name": "875 Third"
+                }, 
+                {
+                    "osm_id": 165439147.0, 
+                    "type": "yes", 
+                    "id": 869.0, 
+                    "name": "World Diamond Tower"
+                }, 
+                {
+                    "osm_id": 218333949.0, 
+                    "type": "yes", 
+                    "id": 1042.0, 
+                    "name": "International Gem Tower"
+                }, 
+                {
+                    "osm_id": 265282692.0, 
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street"
+                }, 
+                {
+                    "osm_id": 265296241.0, 
+                    "type": "yes", 
+                    "id": 88893.0, 
+                    "name": "Better Being 940"
+                }, 
+                {
+                    "osm_id": 265434512.0, 
+                    "type": "apartments", 
+                    "id": 91306.0, 
+                    "name": "Plaza 400"
+                }, 
+                {
+                    "osm_id": 265447070.0, 
+                    "type": "apartments", 
+                    "id": 91436.0, 
+                    "name": "Connaught Tower"
+                }, 
+                {
+                    "osm_id": 265461401.0, 
+                    "type": "apartments", 
+                    "id": 91663.0, 
+                    "name": "The Mondrian"
+                }, 
+                {
+                    "osm_id": 265943077.0, 
+                    "type": "yes", 
+                    "id": 92836.0, 
+                    "name": "150 East 52nd Street"
+                }, 
+                {
+                    "osm_id": 265943129.0, 
+                    "type": "yes", 
+                    "id": 92847.0, 
+                    "name": "850 Third Avenue"
+                }, 
+                {
+                    "osm_id": 265943142.0, 
+                    "type": "yes", 
+                    "id": 92850.0, 
+                    "name": "Grolier Building"
+                }, 
+                {
+                    "osm_id": 266010426.0, 
+                    "type": "commercial", 
+                    "id": 92987.0, 
+                    "name": "Colgate-Palmolive Building"
+                }, 
+                {
+                    "osm_id": 266010399.0, 
+                    "type": "commercial", 
+                    "id": 92993.0, 
+                    "name": "Tower 49"
+                }, 
+                {
+                    "osm_id": 266033991.0, 
+                    "type": "theatre", 
+                    "id": 93064.0, 
+                    "name": "American Airlines Theatre"
+                }, 
+                {
+                    "osm_id": 266034056.0, 
+                    "type": "yes", 
+                    "id": 93121.0, 
+                    "name": "The Westin"
+                }, 
+                {
+                    "osm_id": 266149338.0, 
+                    "type": "commercial", 
+                    "id": 93272.0, 
+                    "name": "Times Square Building"
+                }, 
+                {
+                    "osm_id": 266149373.0, 
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway"
+                }, 
+                {
+                    "osm_id": 266170534.0, 
+                    "type": "commercial", 
+                    "id": 93311.0, 
+                    "name": "Americas Tower"
+                }, 
+                {
+                    "osm_id": 266170545.0, 
+                    "type": "yes", 
+                    "id": 93410.0, 
+                    "name": "Hotel St. James"
+                }, 
+                {
+                    "osm_id": 266170751.0, 
+                    "type": "theatre", 
+                    "id": 93510.0, 
+                    "name": "Hudson Theatre"
+                }, 
+                {
+                    "osm_id": 266170783.0, 
+                    "type": "yes", 
+                    "id": 93528.0, 
+                    "name": "1180 Sixth Avenue"
+                }, 
+                {
+                    "osm_id": 266170756.0, 
+                    "type": "hotel", 
+                    "id": 93565.0, 
+                    "name": "Millennium Broadway"
+                }, 
+                {
+                    "osm_id": 266170852.0, 
+                    "type": "commercial", 
+                    "id": 93578.0, 
+                    "name": "1166 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 266170757.0, 
+                    "type": "yes", 
+                    "id": 93586.0, 
+                    "name": "Night Hotel"
+                }, 
+                {
+                    "osm_id": 266170766.0, 
+                    "type": "office", 
+                    "id": 93589.0, 
+                    "name": "Tower 45"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }, 
+                {
+                    "osm_id": 280571504.0, 
+                    "type": "yes", 
+                    "id": 118907.0, 
+                    "name": "Kaufman's Astoria Motion Picture And Television Center"
+                }, 
+                {
+                    "osm_id": 280571532.0, 
+                    "type": "yes", 
+                    "id": 118939.0, 
+                    "name": "Astoria Dialysis Center"
+                }, 
+                {
+                    "osm_id": 280616731.0, 
+                    "type": "school", 
+                    "id": 121153.0, 
+                    "name": "Intermediate School 204"
+                }, 
+                {
+                    "osm_id": 280616733.0, 
+                    "type": "yes", 
+                    "id": 121156.0, 
+                    "name": "Public School 112"
+                }, 
+                {
+                    "osm_id": 284882418.0, 
+                    "type": "yes", 
+                    "id": 125639.0, 
+                    "name": "Roosevelt Island Racquet Club"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Cevabdzinica Sarajevo in New York, NY https://t.co/ZNaRmgtFib", 
+                "created_at": "2016-10-22T00:33:53", 
+                "retweet_count": 0, 
+                "id": "789625791302819841", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97975636, 
+                    40.75987811
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 42496314.0, 
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building"
+                }, 
+                {
+                    "osm_id": 42496284.0, 
+                    "type": "commercial", 
+                    "id": 599.0, 
+                    "name": "Morgan Stanley Building"
+                }, 
+                {
+                    "osm_id": 143858914.0, 
+                    "type": "yes", 
+                    "id": 748.0, 
+                    "name": "The Hotel Edison NYC"
+                }, 
+                {
+                    "osm_id": 146031971.0, 
+                    "type": "commercial", 
+                    "id": 761.0, 
+                    "name": "Exxon Building"
+                }, 
+                {
+                    "osm_id": 159912559.0, 
+                    "type": "apartments", 
+                    "id": 817.0, 
+                    "name": "Manhattan Plaza Apartments II"
+                }, 
+                {
+                    "osm_id": 258619237.0, 
+                    "type": "apartments", 
+                    "id": 83554.0, 
+                    "name": "Platinum"
+                }, 
+                {
+                    "osm_id": 265319596.0, 
+                    "type": "apartments", 
+                    "id": 89475.0, 
+                    "name": "The Strand"
+                }, 
+                {
+                    "osm_id": 265320243.0, 
+                    "type": "office", 
+                    "id": 89572.0, 
+                    "name": "Film Center"
+                }, 
+                {
+                    "osm_id": 266024854.0, 
+                    "type": "church", 
+                    "id": 93025.0, 
+                    "name": "St. Luke's Church"
+                }, 
+                {
+                    "osm_id": 266149301.0, 
+                    "type": "theatre", 
+                    "id": 93209.0, 
+                    "name": "Brooks Atkinson Theatre"
+                }, 
+                {
+                    "osm_id": 266170801.0, 
+                    "type": "commercial", 
+                    "id": 93539.0, 
+                    "name": "1270 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 266170808.0, 
+                    "type": "yes", 
+                    "id": 93554.0, 
+                    "name": "Radio City Music Hall"
+                }, 
+                {
+                    "osm_id": 279400689.0, 
+                    "type": "yes", 
+                    "id": 102067.0, 
+                    "name": "The Shops at Lincoln Harbor"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "People exiting the Radio City Music Hall.\n\n\ud83c\udfbc BT - Artifacture: V. La\u2026 https://t.co/AY8wRVNgXb", 
+                "created_at": "2016-10-18T03:08:12", 
+                "retweet_count": 0, 
+                "id": "788215073965649920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92111066, 
+                    40.76318772
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3736388.0, 
+                    "type": "yes", 
+                    "id": 498.0, 
+                    "name": "Worldwide Plaza"
+                }, 
+                {
+                    "osm_id": 86216907.0, 
+                    "type": "commercial", 
+                    "id": 638.0, 
+                    "name": "GM Building"
+                }, 
+                {
+                    "osm_id": 159839144.0, 
+                    "type": "commercial", 
+                    "id": 820.0, 
+                    "name": "Capitol-EMI Building"
+                }, 
+                {
+                    "osm_id": 265150596.0, 
+                    "type": "commercial", 
+                    "id": 87686.0, 
+                    "name": "Burlington House"
+                }, 
+                {
+                    "osm_id": 265149234.0, 
+                    "type": "apartments", 
+                    "id": 87715.0, 
+                    "name": "The Centurion"
+                }, 
+                {
+                    "osm_id": 265345378.0, 
+                    "type": "commercial", 
+                    "id": 90290.0, 
+                    "name": "745 Fifth Avenue"
+                }, 
+                {
+                    "osm_id": 265345376.0, 
+                    "type": "apartments", 
+                    "id": 90323.0, 
+                    "name": "Trump Park Avenue"
+                }, 
+                {
+                    "osm_id": 265357847.0, 
+                    "type": "yes", 
+                    "id": 90802.0, 
+                    "name": "P.D. O'Hurley's"
+                }, 
+                {
+                    "osm_id": 266155252.0, 
+                    "type": "yes", 
+                    "id": 93274.0, 
+                    "name": "Roseland Ballroom"
+                }, 
+                {
+                    "osm_id": 266155276.0, 
+                    "type": "yes", 
+                    "id": 93295.0, 
+                    "name": "August Wilson Theatre"
+                }, 
+                {
+                    "osm_id": 266155284.0, 
+                    "type": "apartments", 
+                    "id": 93306.0, 
+                    "name": "Ellington Apartments"
+                }, 
+                {
+                    "osm_id": 266155266.0, 
+                    "type": "theatre", 
+                    "id": 93308.0, 
+                    "name": "Neil Simon Theater"
+                }, 
+                {
+                    "osm_id": 266155286.0, 
+                    "type": "commercial", 
+                    "id": 93315.0, 
+                    "name": "1675 Broadway"
+                }, 
+                {
+                    "osm_id": 266233451.0, 
+                    "type": "apartments", 
+                    "id": 93921.0, 
+                    "name": "515 Park Avenue"
+                }, 
+                {
+                    "osm_id": 266237537.0, 
+                    "type": "apartments", 
+                    "id": 94180.0, 
+                    "name": "Trump Plaza Apartments"
+                }, 
+                {
+                    "osm_id": 278346616.0, 
+                    "type": "yes", 
+                    "id": 100962.0, 
+                    "name": "1325 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 278346587.0, 
+                    "type": "apartments", 
+                    "id": 101007.0, 
+                    "name": "Tower 53"
+                }, 
+                {
+                    "osm_id": 281324351.0, 
+                    "type": "yes", 
+                    "id": 123697.0, 
+                    "name": "Hampton Inn"
+                }, 
+                {
+                    "osm_id": 293845977.0, 
+                    "type": "office", 
+                    "id": 125773.0, 
+                    "name": "500 Park Tower"
+                }, 
+                {
+                    "osm_id": 302726117.0, 
+                    "type": "yes", 
+                    "id": 126051.0, 
+                    "name": "770 Lexington Avenue"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Enthaice in Astoria, NY https://t.co/uMZClSLPHR", 
+                "created_at": "2016-10-15T00:19:22", 
+                "retweet_count": 0, 
+                "id": "787085420458827777", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99209066, 
+                    40.73448595
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 247862763.0, 
+                    "type": "yes", 
+                    "id": 11578.0, 
+                    "name": "Strip House"
+                }, 
+                {
+                    "osm_id": 247862829.0, 
+                    "type": "yes", 
+                    "id": 11706.0, 
+                    "name": "Benjamin N. Cardozo School of Law"
+                }, 
+                {
+                    "osm_id": 249664014.0, 
+                    "type": "yes", 
+                    "id": 35077.0, 
+                    "name": "Jefferson Market Library"
+                }, 
+                {
+                    "osm_id": 250072646.0, 
+                    "type": "church", 
+                    "id": 41406.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 403895976.0, 
+                    "type": "yes", 
+                    "id": 136174.0, 
+                    "name": "Cast-Iron Lofts"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Spice - @cafe_spice in New York, NY https://t.co/ESPFG2dul9", 
+                "created_at": "2016-10-12T23:55:51", 
+                "retweet_count": 0, 
+                "id": "786354726002647040", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90742368, 
+                    40.77393668
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 266894764.0, 
+                    "type": "yes", 
+                    "id": 95880.0, 
+                    "name": "Consulat General de France"
+                }, 
+                {
+                    "osm_id": 269211931.0, 
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School"
+                }, 
+                {
+                    "osm_id": 269227112.0, 
+                    "type": "church", 
+                    "id": 98085.0, 
+                    "name": "Second Church of Christ, Scientist"
+                }, 
+                {
+                    "osm_id": 278361404.0, 
+                    "type": "yes", 
+                    "id": 100983.0, 
+                    "name": "Alice H. and Edward A. Kerbs Memorial Boathouse"
+                }, 
+                {
+                    "osm_id": 280850913.0, 
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School"
+                }, 
+                {
+                    "osm_id": 280850914.0, 
+                    "type": "yes", 
+                    "id": 123618.0, 
+                    "name": "Tower Plaza"
+                }, 
+                {
+                    "osm_id": 280850920.0, 
+                    "type": "yes", 
+                    "id": 123634.0, 
+                    "name": "Grace Episcopal Church"
+                }, 
+                {
+                    "osm_id": 280850918.0, 
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School"
+                }, 
+                {
+                    "osm_id": 347377417.0, 
+                    "type": "yes", 
+                    "id": 126330.0, 
+                    "name": "600 Meadowlands Parkway"
+                }, 
+                {
+                    "osm_id": 371372580.0, 
+                    "type": "hotel", 
+                    "id": 126443.0, 
+                    "name": "Meadowlands View"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Martha's Country Bakery in Astoria, NY https://t.co/XA1Y0ma2cQ", 
+                "created_at": "2016-10-10T23:23:55", 
+                "retweet_count": 0, 
+                "id": "785621915499126786", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.3598, 
+                    40.296
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Photos came out today!\n\nStill feeling pretty proud completing the full 12 miles #toughmudder! We\u2026 https://t.co/LTlN7aa4lX", 
+                "created_at": "2016-10-10T20:13:30", 
+                "retweet_count": 0, 
+                "id": "785573994665746432", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90940666, 
+                    40.76117086
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 32946753.0, 
+                    "type": "yes", 
+                    "id": 577.0, 
+                    "name": "Roosevelt Island Tramway"
+                }, 
+                {
+                    "osm_id": 146028965.0, 
+                    "type": "commercial", 
+                    "id": 760.0, 
+                    "name": "UBS Building"
+                }, 
+                {
+                    "osm_id": 148251198.0, 
+                    "type": "yes", 
+                    "id": 776.0, 
+                    "name": "Canada House"
+                }, 
+                {
+                    "osm_id": 148251193.0, 
+                    "type": "apartments", 
+                    "id": 783.0, 
+                    "name": "Museum Tower"
+                }, 
+                {
+                    "osm_id": 159018056.0, 
+                    "type": "yes", 
+                    "id": 809.0, 
+                    "name": "Architects & Designers Building"
+                }, 
+                {
+                    "osm_id": 162747896.0, 
+                    "type": "commercial", 
+                    "id": 854.0, 
+                    "name": "31 West 52nd Street"
+                }, 
+                {
+                    "osm_id": 164720439.0, 
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place"
+                }, 
+                {
+                    "osm_id": 258619256.0, 
+                    "type": "yes", 
+                    "id": 83562.0, 
+                    "name": "785 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 260244590.0, 
+                    "type": "yes", 
+                    "id": 83606.0, 
+                    "name": "Sony Building"
+                }, 
+                {
+                    "osm_id": 259748031.0, 
+                    "type": "commercial", 
+                    "id": 83607.0, 
+                    "name": "CBS Building"
+                }, 
+                {
+                    "osm_id": 265317886.0, 
+                    "type": "yes", 
+                    "id": 89363.0, 
+                    "name": "Hess"
+                }, 
+                {
+                    "osm_id": 265312773.0, 
+                    "type": "apartments", 
+                    "id": 89367.0, 
+                    "name": "Riverbank West"
+                }, 
+                {
+                    "osm_id": 266151934.0, 
+                    "type": "yes", 
+                    "id": 93256.0, 
+                    "name": "Hilton Garden Inn"
+                }, 
+                {
+                    "osm_id": 266151940.0, 
+                    "type": "commercial", 
+                    "id": 93264.0, 
+                    "name": "Brill Building"
+                }, 
+                {
+                    "osm_id": 266151908.0, 
+                    "type": "theatre", 
+                    "id": 93300.0, 
+                    "name": "Ambassador Theatre"
+                }, 
+                {
+                    "osm_id": 266151925.0, 
+                    "type": "yes", 
+                    "id": 93304.0, 
+                    "name": "Mayfair"
+                }, 
+                {
+                    "osm_id": 266151909.0, 
+                    "type": "theatre", 
+                    "id": 93317.0, 
+                    "name": "Eugene O'Neill Theatre"
+                }, 
+                {
+                    "osm_id": 266170798.0, 
+                    "type": "yes", 
+                    "id": 93540.0, 
+                    "name": "The Michelangelo"
+                }, 
+                {
+                    "osm_id": 266233449.0, 
+                    "type": "commercial", 
+                    "id": 93910.0, 
+                    "name": "445 Park Avenue"
+                }, 
+                {
+                    "osm_id": 266233830.0, 
+                    "type": "commercial", 
+                    "id": 93929.0, 
+                    "name": "Park Avenue Tower"
+                }, 
+                {
+                    "osm_id": 266867290.0, 
+                    "type": "yes", 
+                    "id": 94629.0, 
+                    "name": "Benjamin and Irma G Weiss Research Building"
+                }, 
+                {
+                    "osm_id": 279410762.0, 
+                    "type": "yes", 
+                    "id": 102037.0, 
+                    "name": "Citibank Data Center"
+                }, 
+                {
+                    "osm_id": 279410766.0, 
+                    "type": "yes", 
+                    "id": 102038.0, 
+                    "name": "NJ02 Savvis Data Center"
+                }, 
+                {
+                    "osm_id": 279410743.0, 
+                    "type": "yes", 
+                    "id": 102041.0, 
+                    "name": "1500 Harbor Boulevard"
+                }, 
+                {
+                    "osm_id": 280572876.0, 
+                    "type": "yes", 
+                    "id": 119132.0, 
+                    "name": "Omonia Cafe"
+                }, 
+                {
+                    "osm_id": 280587942.0, 
+                    "type": "yes", 
+                    "id": 119354.0, 
+                    "name": "Michael's"
+                }, 
+                {
+                    "osm_id": 284880000.0, 
+                    "type": "residential", 
+                    "id": 125633.0, 
+                    "name": "Rivercross"
+                }, 
+                {
+                    "osm_id": 347368358.0, 
+                    "type": "yes", 
+                    "id": 126322.0, 
+                    "name": "Dinosaurs Alive! 3D"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @MaxBratwurst und Bier in Astoria, NY https://t.co/YECbPxfF3k https://t.co/fYINinAnZa", 
+                "created_at": "2016-10-09T19:10:14", 
+                "retweet_count": 0, 
+                "id": "785195684395937792", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0119, 
+                    40.7078
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 53883375.0, 
+                    "type": "yes", 
+                    "id": 607.0, 
+                    "name": "Liberty Science Center"
+                }, 
+                {
+                    "osm_id": 276309221.0, 
+                    "type": "yes", 
+                    "id": 98666.0, 
+                    "name": "50 Trinity Place"
+                }, 
+                {
+                    "osm_id": 278033589.0, 
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences"
+                }, 
+                {
+                    "osm_id": 278039453.0, 
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "20 seconds faster per mile than previous run \ud83c\udfc3\ud83c\udffd\ud83c\uddfa\ud83c\uddf8 @ Lower Manhattan https://t.co/BIwtqbcvOH", 
+                "created_at": "2016-10-05T00:03:36", 
+                "retweet_count": 0, 
+                "id": "783457573856882688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99278506, 
+                    40.72354568
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27111277.0, 
+                    "type": "yes", 
+                    "id": 569.0, 
+                    "name": "Doubletree"
+                }, 
+                {
+                    "osm_id": 247845702.0, 
+                    "type": "cathedral", 
+                    "id": 10923.0, 
+                    "name": "Saint Patrick's Old Cathedral"
+                }, 
+                {
+                    "osm_id": 249664469.0, 
+                    "type": "yes", 
+                    "id": 35362.0, 
+                    "name": "101 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 249664475.0, 
+                    "type": "yes", 
+                    "id": 35365.0, 
+                    "name": "Holland Plaza Building"
+                }, 
+                {
+                    "osm_id": 341821301.0, 
+                    "type": "yes", 
+                    "id": 126302.0, 
+                    "name": "Hudson Hyundai"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "More bieerrssssssss (@ Paulaner in New York, NY) https://t.co/1gUTdtkUhO", 
+                "created_at": "2016-10-02T18:41:04", 
+                "retweet_count": 0, 
+                "id": "782651630646853632", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90178919, 
+                    40.77833165
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at SingleCut Beersmiths - @singlecutbeer in Astoria, NY https://t.co/6wD7dUVDhs", 
+                "created_at": "2016-10-02T02:06:31", 
+                "retweet_count": 0, 
+                "id": "782401344195919872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First 6 miles run in 58 minutes! #YesYesYes \ud83d\udeb6\ud83c\udffd\ud83c\udfc3\ud83c\udffd\ud83c\udfc3\ud83c\udffd @ New York, New York https://t.co/mSMEphzAxb", 
+                "created_at": "2016-10-01T17:22:08", 
+                "retweet_count": 0, 
+                "id": "782269380331646976", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90927814, 
+                    40.77521684
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3698871.0, 
+                    "type": "yes", 
+                    "id": 459.0, 
+                    "name": "The Loeb Boathouse"
+                }, 
+                {
+                    "osm_id": 193611211.0, 
+                    "type": "yes", 
+                    "id": 951.0, 
+                    "name": "Equinix NY4 Data Center"
+                }, 
+                {
+                    "osm_id": 241826159.0, 
+                    "type": "yes", 
+                    "id": 3535.0, 
+                    "name": "Kaufman Music Center"
+                }, 
+                {
+                    "osm_id": 241826154.0, 
+                    "type": "yes", 
+                    "id": 3538.0, 
+                    "name": "Apple Store, Upper West Side"
+                }, 
+                {
+                    "osm_id": 266898917.0, 
+                    "type": "yes", 
+                    "id": 95975.0, 
+                    "name": "Permanent Mission of the Republic of the Union of Myanmar to the United Nations"
+                }, 
+                {
+                    "osm_id": 266899004.0, 
+                    "type": "yes", 
+                    "id": 96039.0, 
+                    "name": "Permanent Mission of Mongolia to the United Nations"
+                }, 
+                {
+                    "osm_id": 266927303.0, 
+                    "type": "church", 
+                    "id": 97687.0, 
+                    "name": "Church of All Souls"
+                }, 
+                {
+                    "osm_id": 269224892.0, 
+                    "type": "apartments", 
+                    "id": 98057.0, 
+                    "name": "The Copely"
+                }, 
+                {
+                    "osm_id": 269224896.0, 
+                    "type": "apartments", 
+                    "id": 98140.0, 
+                    "name": "The Park Millennium"
+                }, 
+                {
+                    "osm_id": 269233311.0, 
+                    "type": "yes", 
+                    "id": 98343.0, 
+                    "name": "150 Amsterdam Avenue"
+                }, 
+                {
+                    "osm_id": 281114242.0, 
+                    "type": "yes", 
+                    "id": 123613.0, 
+                    "name": "Macy's Secaucus Distribution Center"
+                }, 
+                {
+                    "osm_id": 366521782.0, 
+                    "type": "retail", 
+                    "id": 126397.0, 
+                    "name": "Columbia Park Theaters"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Best Greek food everrrr (@ Taverna Kyclades in Astoria, NY) https://t.co/yK0YPEUA38", 
+                "created_at": "2016-09-29T00:01:32", 
+                "retweet_count": 0, 
+                "id": "781282727119187968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.908495, 
+                    40.77458502
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 52171596.0, 
+                    "type": "yes", 
+                    "id": 606.0, 
+                    "name": "Super 8 North Bergen"
+                }, 
+                {
+                    "osm_id": 266898264.0, 
+                    "type": "yes", 
+                    "id": 95952.0, 
+                    "name": "The Carlyle"
+                }, 
+                {
+                    "osm_id": 266909355.0, 
+                    "type": "yes", 
+                    "id": 97174.0, 
+                    "name": "Hungarian Baptist Church"
+                }, 
+                {
+                    "osm_id": 269211931.0, 
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School"
+                }, 
+                {
+                    "osm_id": 269224896.0, 
+                    "type": "apartments", 
+                    "id": 98140.0, 
+                    "name": "The Park Millennium"
+                }, 
+                {
+                    "osm_id": 280850916.0, 
+                    "type": "yes", 
+                    "id": 123606.0, 
+                    "name": "Weehawken Water Tower"
+                }, 
+                {
+                    "osm_id": 280850914.0, 
+                    "type": "yes", 
+                    "id": 123618.0, 
+                    "name": "Tower Plaza"
+                }, 
+                {
+                    "osm_id": 347377417.0, 
+                    "type": "yes", 
+                    "id": 126330.0, 
+                    "name": "600 Meadowlands Parkway"
+                }, 
+                {
+                    "osm_id": 366522077.0, 
+                    "type": "retail", 
+                    "id": 126399.0, 
+                    "name": "Unique"
+                }, 
+                {
+                    "osm_id": 371373555.0, 
+                    "type": "motel", 
+                    "id": 126438.0, 
+                    "name": "Fountain Motel"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Boon-Chu Thai II in Astoria, NY https://t.co/ev1GmyoNgY https://t.co/2cWZNayvnp", 
+                "created_at": "2016-09-28T00:19:39", 
+                "retweet_count": 0, 
+                "id": "780924897820348416", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00698543, 
+                    40.70779134
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 53883375.0, 
+                    "type": "yes", 
+                    "id": 607.0, 
+                    "name": "Liberty Science Center"
+                }, 
+                {
+                    "osm_id": 276309221.0, 
+                    "type": "yes", 
+                    "id": 98666.0, 
+                    "name": "50 Trinity Place"
+                }, 
+                {
+                    "osm_id": 278033589.0, 
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences"
+                }, 
+                {
+                    "osm_id": 278042226.0, 
+                    "type": "yes", 
+                    "id": 99254.0, 
+                    "name": "Bank of Tokyo"
+                }, 
+                {
+                    "osm_id": 278042262.0, 
+                    "type": "yes", 
+                    "id": 99272.0, 
+                    "name": "14 Wall Street"
+                }, 
+                {
+                    "osm_id": 278042264.0, 
+                    "type": "yes", 
+                    "id": 99273.0, 
+                    "name": "2 Wall Street"
+                }, 
+                {
+                    "osm_id": 278042265.0, 
+                    "type": "yes", 
+                    "id": 99274.0, 
+                    "name": "20 Pine Street"
+                }, 
+                {
+                    "osm_id": 278039453.0, 
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church"
+                }, 
+                {
+                    "osm_id": 279530782.0, 
+                    "type": "yes", 
+                    "id": 102186.0, 
+                    "name": "One Chase Manhattan Plaza"
+                }, 
+                {
+                    "osm_id": 293052032.0, 
+                    "type": "yes", 
+                    "id": 125768.0, 
+                    "name": "Equitable Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Felice 15 Gold Street - @felicewinebar in New York, NY https://t.co/95N1fBZbkB", 
+                "created_at": "2016-09-26T22:44:06", 
+                "retweet_count": 0, 
+                "id": "780538464798400512", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.891, 
+                    36.6
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "How cool is this. #Prisma @ Monterey, California https://t.co/wsumpzNKOG", 
+                "created_at": "2016-09-26T03:34:43", 
+                "retweet_count": 0, 
+                "id": "780249211631796225", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Prisma @ New York, New York https://t.co/I1YXFKgQVM", 
+                "created_at": "2016-09-26T03:27:52", 
+                "retweet_count": 0, 
+                "id": "780247489244983296", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Prisma @ New York, New York https://t.co/iCHJTBxY5A", 
+                "created_at": "2016-09-26T03:26:49", 
+                "retweet_count": 0, 
+                "id": "780247223737212928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99525108, 
+                    40.70433979
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695753.0, 
+                    "type": "yes", 
+                    "id": 441.0, 
+                    "name": "Alexander Hamilton U.S. Custom House"
+                }, 
+                {
+                    "osm_id": 155440973.0, 
+                    "type": "yes", 
+                    "id": 792.0, 
+                    "name": "2 Broadway"
+                }, 
+                {
+                    "osm_id": 278053575.0, 
+                    "type": "yes", 
+                    "id": 99368.0, 
+                    "name": "Adrienne's Pizza Bar"
+                }, 
+                {
+                    "osm_id": 278053583.0, 
+                    "type": "yes", 
+                    "id": 99386.0, 
+                    "name": "Maritime Exchange Building"
+                }, 
+                {
+                    "osm_id": 278053612.0, 
+                    "type": "yes", 
+                    "id": 99405.0, 
+                    "name": "7 Hanover Square"
+                }, 
+                {
+                    "osm_id": 278076407.0, 
+                    "type": "yes", 
+                    "id": 99461.0, 
+                    "name": "10 Hanover Square"
+                }, 
+                {
+                    "osm_id": 278076410.0, 
+                    "type": "yes", 
+                    "id": 99463.0, 
+                    "name": "111 Wall Street"
+                }, 
+                {
+                    "osm_id": 278076413.0, 
+                    "type": "yes", 
+                    "id": 99466.0, 
+                    "name": "77 Water Street"
+                }, 
+                {
+                    "osm_id": 337839343.0, 
+                    "type": "yes", 
+                    "id": 126294.0, 
+                    "name": "Ulysses'"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Another one \ud83d\ude0d #Prisma @ Brooklyn Bridge https://t.co/qw6Km2Zoqk", 
+                "created_at": "2016-09-26T03:26:10", 
+                "retweet_count": 0, 
+                "id": "780247059865665536", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9856992, 
+                    40.76147784
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 164720439.0, 
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place"
+                }, 
+                {
+                    "osm_id": 265317886.0, 
+                    "type": "yes", 
+                    "id": 89363.0, 
+                    "name": "Hess"
+                }, 
+                {
+                    "osm_id": 265320987.0, 
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church"
+                }, 
+                {
+                    "osm_id": 265338414.0, 
+                    "type": "yes", 
+                    "id": 90287.0, 
+                    "name": "Belvedere Hotel"
+                }, 
+                {
+                    "osm_id": 265357840.0, 
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier"
+                }, 
+                {
+                    "osm_id": 266151919.0, 
+                    "type": "yes", 
+                    "id": 93244.0, 
+                    "name": "Saint Malachy Church"
+                }, 
+                {
+                    "osm_id": 266151934.0, 
+                    "type": "yes", 
+                    "id": 93256.0, 
+                    "name": "Hilton Garden Inn"
+                }, 
+                {
+                    "osm_id": 279410766.0, 
+                    "type": "yes", 
+                    "id": 102038.0, 
+                    "name": "NJ02 Savvis Data Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I've been playing with this #Prisma app. It's so amazing! @ Brooklyn Promenade https://t.co/NFHYIY8toB", 
+                "created_at": "2016-09-26T03:24:51", 
+                "retweet_count": 0, 
+                "id": "780246730168205312", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90920818, 
+                    40.7748706
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 266910106.0, 
+                    "type": "yes", 
+                    "id": 97364.0, 
+                    "name": "Blockheads"
+                }, 
+                {
+                    "osm_id": 269224896.0, 
+                    "type": "apartments", 
+                    "id": 98140.0, 
+                    "name": "The Park Millennium"
+                }, 
+                {
+                    "osm_id": 269229979.0, 
+                    "type": "yes", 
+                    "id": 98151.0, 
+                    "name": "Congregation Sherith Israel"
+                }, 
+                {
+                    "osm_id": 366521782.0, 
+                    "type": "retail", 
+                    "id": 126397.0, 
+                    "name": "Columbia Park Theaters"
+                }, 
+                {
+                    "osm_id": 371373555.0, 
+                    "type": "motel", 
+                    "id": 126438.0, 
+                    "name": "Fountain Motel"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @HinoMaruRamen in Astoria, NY https://t.co/Wy1Eveu0KM", 
+                "created_at": "2016-09-24T23:24:38", 
+                "retweet_count": 0, 
+                "id": "779823891988488192", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"I can be a good chef\" - whispers to myself @ New York, New York https://t.co/IO2VaYNhYt", 
+                "created_at": "2016-09-21T00:10:00", 
+                "retweet_count": 0, 
+                "id": "778385755785748480", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dogs @ New York, New York https://t.co/bXqDoxz2SL", 
+                "created_at": "2016-09-20T16:24:31", 
+                "retweet_count": 0, 
+                "id": "778268613157482496", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.806, 
+                    36.2703
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf37 @ Big Sur, California https://t.co/Xue3iazums", 
+                "created_at": "2016-09-20T16:08:29", 
+                "retweet_count": 0, 
+                "id": "778264578933358592", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41782945, 
+                    38.45533835
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf1e\ud83c\udf3c @ Peju Winery Napa https://t.co/rL8te8TQJF", 
+                "created_at": "2016-09-20T15:58:41", 
+                "retweet_count": 0, 
+                "id": "778262111973670912", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.978871, 
+                    40.72417
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 247841479.0, 
+                    "type": "church", 
+                    "id": 10626.0, 
+                    "name": "Cathedral of the Holy Virgin Protection"
+                }, 
+                {
+                    "osm_id": 247844314.0, 
+                    "type": "yes", 
+                    "id": 10785.0, 
+                    "name": "Puck Building"
+                }, 
+                {
+                    "osm_id": 247865186.0, 
+                    "type": "commercial", 
+                    "id": 11879.0, 
+                    "name": "The Soho Building"
+                }, 
+                {
+                    "osm_id": 247866615.0, 
+                    "type": "yes", 
+                    "id": 12005.0, 
+                    "name": "Singer Building"
+                }, 
+                {
+                    "osm_id": 248156488.0, 
+                    "type": "apartments", 
+                    "id": 19052.0, 
+                    "name": "Avalon Bowery Place"
+                }, 
+                {
+                    "osm_id": 248266470.0, 
+                    "type": "residential", 
+                    "id": 28056.0, 
+                    "name": "Ageloff Towers"
+                }, 
+                {
+                    "osm_id": 248266465.0, 
+                    "type": "school", 
+                    "id": 28125.0, 
+                    "name": "Public School 63"
+                }, 
+                {
+                    "osm_id": 250265859.0, 
+                    "type": "school", 
+                    "id": 57038.0, 
+                    "name": "Public School 64"
+                }, 
+                {
+                    "osm_id": 403194879.0, 
+                    "type": "yes", 
+                    "id": 136132.0, 
+                    "name": "Monaco"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Zummmm (@ Zum Schneider in New York, NY) https://t.co/vlezZENF7z https://t.co/c1ppsFImfv", 
+                "created_at": "2016-09-18T20:05:06", 
+                "retweet_count": 0, 
+                "id": "777599350352470016", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.69544177, 
+                    34.41869447
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The French Press, Santa Barbara, CA @ French Press https://t.co/sbbVkIMeIo", 
+                "created_at": "2016-09-17T04:15:15", 
+                "retweet_count": 0, 
+                "id": "776997924882489344", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.43318262, 
+                    38.47301887
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gossips @ Castillo De Amorosa https://t.co/3JIipX5I2D", 
+                "created_at": "2016-09-17T04:10:19", 
+                "retweet_count": 0, 
+                "id": "776996681854353408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40448292, 
+                    38.49375523
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Rutherford Hill Winery, Napa, CA @ Rutherford Hill Winery https://t.co/ScDA95gA25", 
+                "created_at": "2016-09-17T04:06:47", 
+                "retweet_count": 0, 
+                "id": "776995794469720065", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40921031, 
+                    38.44121362
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Love the architecture at @robertmondavi vineyard, Napa, CA\n\nGreat wines! @ Robert Mondavi\u2026 https://t.co/P6m6FZD4pQ", 
+                "created_at": "2016-09-17T04:03:05", 
+                "retweet_count": 0, 
+                "id": "776994859995525120", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41056393, 
+                    37.80899892
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "San Francisco, CA @ PIER 39 https://t.co/uWVRJqut3o", 
+                "created_at": "2016-09-17T03:33:39", 
+                "retweet_count": 0, 
+                "id": "776987455765577728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.43444942, 
+                    37.47009162
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pacific Coast Highway, Route 1, CA @ Pacific Coast Highway - Route 1 https://t.co/RIpfg4e8hl", 
+                "created_at": "2016-09-17T03:30:40", 
+                "retweet_count": 0, 
+                "id": "776986702858649600", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.88958, 
+                    33.6060299
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Balboa, CA @ Balboa Island https://t.co/F6Vrud8Wfc", 
+                "created_at": "2016-09-17T03:29:11", 
+                "retweet_count": 0, 
+                "id": "776986331343884288", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.85300675, 
+                    35.36695058
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Morro Bay, CA @ Morro Bay Beach https://t.co/wjH2vfy5VU", 
+                "created_at": "2016-09-17T02:57:50", 
+                "retweet_count": 0, 
+                "id": "776978440335613952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.529604, 
+                    37.815569
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Point Bonita Lighthouse, Marin Headlands, CA @ Point Bonita Lighthouse https://t.co/ohlfaxL7Pb", 
+                "created_at": "2016-09-17T02:55:55", 
+                "retweet_count": 0, 
+                "id": "776977957525000192", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.891, 
+                    36.6
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lovers Point, Monterey, CA @ Monterey, California https://t.co/blhotop2ok", 
+                "created_at": "2016-09-17T02:53:48", 
+                "retweet_count": 0, 
+                "id": "776977423804067840", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.43318262, 
+                    38.47301887
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Castillo de Amorosa, Napa, CA @ Castillo De Amorosa https://t.co/4CinuWrnAV", 
+                "created_at": "2016-09-17T02:50:24", 
+                "retweet_count": 0, 
+                "id": "776976572146417664", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.43444942, 
+                    37.47009162
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sunset on Pacific Coast @ Pacific Coast Highway - Route 1 https://t.co/rOrJsA0FXw", 
+                "created_at": "2016-09-17T02:46:32", 
+                "retweet_count": 0, 
+                "id": "776975595464982529", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.43444942, 
+                    37.47009162
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pacific Coast Highway @ Pacific Coast Highway - Route 1 https://t.co/Sn57xFDLFX", 
+                "created_at": "2016-09-17T02:42:53", 
+                "retweet_count": 0, 
+                "id": "776974677386354688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.92111111, 
+                    36.61916667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pacific Grove, CA @ Pacific Grove, California https://t.co/SfEpLNSmWF", 
+                "created_at": "2016-09-16T22:08:36", 
+                "retweet_count": 0, 
+                "id": "776905653612863492", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.92111111, 
+                    36.61916667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pacific Grove, CA @ Pacific Grove, California https://t.co/rQZ4FSDh4R", 
+                "created_at": "2016-09-16T22:06:57", 
+                "retweet_count": 0, 
+                "id": "776905237084987393", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.891, 
+                    36.6
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Monterey, CA @ Monterey, California https://t.co/7OMwZWoYtD", 
+                "created_at": "2016-09-16T22:05:36", 
+                "retweet_count": 0, 
+                "id": "776904899749707778", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.47800933, 
+                    37.81879772
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "San Francisco, CA @ Golden Gate Bridge https://t.co/qszMItFGqn", 
+                "created_at": "2016-09-16T22:04:03", 
+                "retweet_count": 0, 
+                "id": "776904507871592448", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.714, 
+                    34.4258
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Santa Barbara, CA @ Santa Barbara, California https://t.co/A0dUioswJI", 
+                "created_at": "2016-09-16T22:02:09", 
+                "retweet_count": 0, 
+                "id": "776904028433346560", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0767014, 
+                    40.91532869
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at AMC Garden State 16 - @amctheatres for Sully: The IMAX 2D Experience in Paramus, NJ https://t.co/tTV9jTzQxS", 
+                "created_at": "2016-09-10T22:02:48", 
+                "retweet_count": 0, 
+                "id": "774729864221949952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.47846, 
+                    37.8183
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude0d @ Golden Gate Bridge https://t.co/lzHxp0Staq", 
+                "created_at": "2016-09-06T05:22:27", 
+                "retweet_count": 0, 
+                "id": "773028569530314757", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.47846, 
+                    37.8183
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Golden Gate Bridge https://t.co/xdcXNNTij3", 
+                "created_at": "2016-09-06T05:18:29", 
+                "retweet_count": 0, 
+                "id": "773027571227209728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.88958, 
+                    33.6060299
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Chetak #HamaraBajaj \ud83d\ude02 @ Balboa Island https://t.co/qAmMB8zfYc", 
+                "created_at": "2016-09-06T05:15:15", 
+                "retweet_count": 0, 
+                "id": "773026756940865537", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01780483, 
+                    40.70438706
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Good day for a beer or 2 (@ Pier A Harbor House in New York, NY) https://t.co/5MESvmlTYr", 
+                "created_at": "2016-09-04T21:41:53", 
+                "retweet_count": 0, 
+                "id": "772550275957686272", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90823, 
+                    40.77474
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 52171596.0, 
+                    "type": "yes", 
+                    "id": 606.0, 
+                    "name": "Super 8 North Bergen"
+                }, 
+                {
+                    "osm_id": 266909355.0, 
+                    "type": "yes", 
+                    "id": 97174.0, 
+                    "name": "Hungarian Baptist Church"
+                }, 
+                {
+                    "osm_id": 269224896.0, 
+                    "type": "apartments", 
+                    "id": 98140.0, 
+                    "name": "The Park Millennium"
+                }, 
+                {
+                    "osm_id": 269229979.0, 
+                    "type": "yes", 
+                    "id": 98151.0, 
+                    "name": "Congregation Sherith Israel"
+                }, 
+                {
+                    "osm_id": 366522077.0, 
+                    "type": "retail", 
+                    "id": 126399.0, 
+                    "name": "Unique"
+                }, 
+                {
+                    "osm_id": 371373555.0, 
+                    "type": "motel", 
+                    "id": 126438.0, 
+                    "name": "Fountain Motel"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at TRU - @truastoria in Astoria, NY https://t.co/CS4iB9oGjH https://t.co/yDQhSPAa7k", 
+                "created_at": "2016-08-29T22:58:25", 
+                "retweet_count": 0, 
+                "id": "770395207846203392", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.11680317, 
+                    33.76186315
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last adventure in Cali before we fly back to NYC (at @TantalumLb in Long Beach, CA) https://t.co/JMaQ17Xbwm", 
+                "created_at": "2016-08-28T22:05:12", 
+                "retweet_count": 0, 
+                "id": "770019428817829888", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.25150595, 
+                    34.04899761
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @PerchLosangeles in Los Angeles, CA https://t.co/8Jr7srb9RI https://t.co/dahdyJ2rJD", 
+                "created_at": "2016-08-28T07:38:43", 
+                "retweet_count": 0, 
+                "id": "769801369658224640", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.88982391, 
+                    33.60695293
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First time At Balboa. It's a nice day today (@ Balboa Island in Newport Beach, CA) https://t.co/kRKaSkyat5 https://t.co/9ouhvmHSsM", 
+                "created_at": "2016-08-27T22:45:21", 
+                "retweet_count": 0, 
+                "id": "769667142539177984", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.91677027, 
+                    36.62587448
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#BlackKneesMatter \ud83d\ude02 @ Monterey Bay Lover's Point https://t.co/76mgk3UOV5", 
+                "created_at": "2016-08-27T01:55:14", 
+                "retweet_count": 0, 
+                "id": "769352543730229249", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.90574592, 
+                    36.617823
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Never enough clam chowder (@ Vivolo's Chowder House in Pacific Grove, CA) https://t.co/xtDSzvPzIL https://t.co/jfGItzfWuV", 
+                "created_at": "2016-08-25T22:44:49", 
+                "retweet_count": 0, 
+                "id": "768942232242118657", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.9166184, 
+                    36.6257186
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Lovers Point Park &amp; Beach in Pacific Grove, CA https://t.co/9TWJ5OaypY https://t.co/6XeackHhnn", 
+                "created_at": "2016-08-25T21:08:34", 
+                "retweet_count": 0, 
+                "id": "768918013504528384", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.467613, 
+                    38.503826
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last stop in Napa (@ Himalayan Sherpa Kitchen in Saint Helena, CA) https://t.co/xpJXQjXl2h https://t.co/mBMuodF8Nk", 
+                "created_at": "2016-08-25T02:50:53", 
+                "retweet_count": 0, 
+                "id": "768641769852571648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.54215475, 
+                    38.55854905
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last one (@ Castello di Amorosa in Calistoga, CA) https://t.co/hdoF3XNRrQ https://t.co/GzhjwfO11v", 
+                "created_at": "2016-08-25T02:21:01", 
+                "retweet_count": 0, 
+                "id": "768634255748595713", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.48048763, 
+                    38.51099775
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "More wineeeee (@ Beringer Vineyards - @beringervyds in Saint Helena, CA) https://t.co/oSiBGChuS3 https://t.co/a8rwAEacWs", 
+                "created_at": "2016-08-24T23:50:31", 
+                "retweet_count": 0, 
+                "id": "768596380256526337", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40941048, 
+                    38.44111924
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "More wine \ud83d\ude0d (at @RobertMondavi Winery in Oakville, CA) https://t.co/5JTfuK0uGI", 
+                "created_at": "2016-08-24T22:29:10", 
+                "retweet_count": 0, 
+                "id": "768575908252901376", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41768174, 
+                    38.45562301
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Peju Province Winery - @peju_winery in Rutherford, CA https://t.co/WEQlAk6FtG", 
+                "created_at": "2016-08-24T22:09:04", 
+                "retweet_count": 0, 
+                "id": "768570849855148032", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.33264816, 
+                    38.25540565
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First stop, Napa Valley (@ Boon Fly Cafe - @plumpjack in Napa, CA) https://t.co/LY2n2CaJuP", 
+                "created_at": "2016-08-24T18:40:26", 
+                "retweet_count": 0, 
+                "id": "768518344764952576", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.529604, 
+                    37.815569
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hidden gem west of Golden Gate Bridge. Point Bonito Lighthouse...\u2026 https://t.co/hJsYMyAlLt", 
+                "created_at": "2016-08-24T17:04:04", 
+                "retweet_count": 0, 
+                "id": "768494095606034432", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.43806758, 
+                    37.7757108
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Bar Crudo in San Francisco, CA https://t.co/jc8PWh4bdg", 
+                "created_at": "2016-08-24T04:41:50", 
+                "retweet_count": 0, 
+                "id": "768307304458547200", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.38090357, 
+                    37.73838696
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Speakeasy Ales &amp; Lagers - @speakeasybeer in San Francisco, CA https://t.co/uo7HtyYAeD", 
+                "created_at": "2016-08-24T03:11:48", 
+                "retweet_count": 0, 
+                "id": "768284647222611968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.52944469, 
+                    37.81564933
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Point Bonita Lighthouse in Sausalito, CA https://t.co/Rr72Zdik8S", 
+                "created_at": "2016-08-24T01:34:32", 
+                "retweet_count": 0, 
+                "id": "768260167582490625", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4128437, 
+                    37.80842773
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sourdough clam chowder ahhhhhhhh (@ Fisherman's Wharf - @thewharfsf in San Francisco, CA) https://t.co/H3wGwQFPwi", 
+                "created_at": "2016-08-23T21:27:10", 
+                "retweet_count": 0, 
+                "id": "768197919040237568", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41027764, 
+                    37.80915837
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Pier39 in San Francisco, CA https://t.co/YN3bsdTM6M", 
+                "created_at": "2016-08-23T19:09:06", 
+                "retweet_count": 0, 
+                "id": "768163170267561985", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.1772352, 
+                    33.7406969
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude0d @ On The Water Long Beach Harbor https://t.co/HgnUEU4OKc", 
+                "created_at": "2016-08-22T22:35:32", 
+                "retweet_count": 0, 
+                "id": "767852735534202880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.70033236, 
+                    34.41856157
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Eureka! Gourmet Burgers &amp; Craft Beer in Santa Barbara, CA https://t.co/zyrgimrTgP", 
+                "created_at": "2016-08-22T22:27:46", 
+                "retweet_count": 0, 
+                "id": "767850778463731712", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.0734143, 
+                    33.80263683
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Polly's Pies - Los Alamitos in Los Alamitos, CA https://t.co/q9T0EoA7mv", 
+                "created_at": "2016-08-21T19:11:58", 
+                "retweet_count": 0, 
+                "id": "767439115868594177", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.35522622, 
+                    34.1372085
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Universal Studios Hollywood - @unistudios in Universal City, CA https://t.co/bGYJZlN1uV", 
+                "created_at": "2016-08-20T20:22:10", 
+                "retweet_count": 0, 
+                "id": "767094397095772161", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.40398456, 
+                    33.94349757
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Touch down \ud83d\ude0d (@ Los Angeles International Airport - @flylaxairport in Los Angeles, CA) https://t.co/QMgBcX6YmK", 
+                "created_at": "2016-08-20T06:11:06", 
+                "retweet_count": 0, 
+                "id": "766880219735228417", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.78219279, 
+                    40.64389041
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Vacation time \ud83d\ude0d (@ John F. Kennedy International Airport in Queens, NY, NY) https://t.co/UpJpau0nia", 
+                "created_at": "2016-08-19T22:26:49", 
+                "retweet_count": 0, 
+                "id": "766763377557463041", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01654244, 
+                    40.7057932
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 276202578.0, 
+                    "type": "yes", 
+                    "id": 98665.0, 
+                    "name": "Millennium Point"
+                }, 
+                {
+                    "osm_id": 277924005.0, 
+                    "type": "yes", 
+                    "id": 99143.0, 
+                    "name": "Museum of Jewish Heritage"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Inatteso Pizzabar Casano in New York, NY https://t.co/iQVQDgK2Zn", 
+                "created_at": "2016-08-17T16:36:19", 
+                "retweet_count": 0, 
+                "id": "765950395126517761", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91704559, 
+                    40.76492516
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 50603780.0, 
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid"
+                }, 
+                {
+                    "osm_id": 53142768.0, 
+                    "type": "submarine", 
+                    "id": 611.0, 
+                    "name": "USS Growler"
+                }, 
+                {
+                    "osm_id": 134658131.0, 
+                    "type": "yes", 
+                    "id": 690.0, 
+                    "name": "Random House Tower"
+                }, 
+                {
+                    "osm_id": 193611194.0, 
+                    "type": "yes", 
+                    "id": 939.0, 
+                    "name": "Command Web Offset, Inc."
+                }, 
+                {
+                    "osm_id": 193611197.0, 
+                    "type": "yes", 
+                    "id": 941.0, 
+                    "name": "Goya"
+                }, 
+                {
+                    "osm_id": 193611189.0, 
+                    "type": "yes", 
+                    "id": 994.0, 
+                    "name": "Hudson County Motors"
+                }, 
+                {
+                    "osm_id": 259888103.0, 
+                    "type": "yes", 
+                    "id": 83591.0, 
+                    "name": "250 West 55th Street"
+                }, 
+                {
+                    "osm_id": 265147729.0, 
+                    "type": "yes", 
+                    "id": 87526.0, 
+                    "name": "The Ritz-Carlton"
+                }, 
+                {
+                    "osm_id": 265147726.0, 
+                    "type": "yes", 
+                    "id": 87527.0, 
+                    "name": "Park Lane Hotel"
+                }, 
+                {
+                    "osm_id": 265147944.0, 
+                    "type": "yes", 
+                    "id": 87574.0, 
+                    "name": "Salisbury Hotel"
+                }, 
+                {
+                    "osm_id": 265148502.0, 
+                    "type": "yes", 
+                    "id": 87576.0, 
+                    "name": "Carnegie Hall"
+                }, 
+                {
+                    "osm_id": 265147727.0, 
+                    "type": "office", 
+                    "id": 87579.0, 
+                    "name": "Park South Dentistry"
+                }, 
+                {
+                    "osm_id": 265148534.0, 
+                    "type": "yes", 
+                    "id": 87586.0, 
+                    "name": "Metropolitan Tower"
+                }, 
+                {
+                    "osm_id": 265148505.0, 
+                    "type": "yes", 
+                    "id": 87590.0, 
+                    "name": "Carnegie Hall Tower"
+                }, 
+                {
+                    "osm_id": 265151172.0, 
+                    "type": "commercial", 
+                    "id": 87739.0, 
+                    "name": "1740 Broadway"
+                }, 
+                {
+                    "osm_id": 265151157.0, 
+                    "type": "yes", 
+                    "id": 87762.0, 
+                    "name": "Park Central Hotel"
+                }, 
+                {
+                    "osm_id": 265151966.0, 
+                    "type": "yes", 
+                    "id": 87811.0, 
+                    "name": "The Metro"
+                }, 
+                {
+                    "osm_id": 265318779.0, 
+                    "type": "yes", 
+                    "id": 89402.0, 
+                    "name": "Manhattan Jeep Chrysler Dodge Ram"
+                }, 
+                {
+                    "osm_id": 265318791.0, 
+                    "type": "apartments", 
+                    "id": 89415.0, 
+                    "name": "Hudsonview Terrace"
+                }, 
+                {
+                    "osm_id": 265318790.0, 
+                    "type": "yes", 
+                    "id": 89420.0, 
+                    "name": "Skyline Hotel"
+                }, 
+                {
+                    "osm_id": 265325033.0, 
+                    "type": "yes", 
+                    "id": 89915.0, 
+                    "name": "Columbus Library"
+                }, 
+                {
+                    "osm_id": 265329547.0, 
+                    "type": "apartments", 
+                    "id": 90165.0, 
+                    "name": "Lumiere"
+                }, 
+                {
+                    "osm_id": 265345825.0, 
+                    "type": "yes", 
+                    "id": 90430.0, 
+                    "name": "Metropolitan Club"
+                }, 
+                {
+                    "osm_id": 265345851.0, 
+                    "type": "yes", 
+                    "id": 90486.0, 
+                    "name": "The Pierre"
+                }, 
+                {
+                    "osm_id": 266848632.0, 
+                    "type": "apartments", 
+                    "id": 94355.0, 
+                    "name": "Bristol Plaza"
+                }, 
+                {
+                    "osm_id": 266853233.0, 
+                    "type": "apartments", 
+                    "id": 94365.0, 
+                    "name": "The Phoenix"
+                }, 
+                {
+                    "osm_id": 266871312.0, 
+                    "type": "yes", 
+                    "id": 94787.0, 
+                    "name": "67th Street Library"
+                }, 
+                {
+                    "osm_id": 284868932.0, 
+                    "type": "yes", 
+                    "id": 125615.0, 
+                    "name": "Motorgate Public Parking Garage"
+                }, 
+                {
+                    "osm_id": 371377293.0, 
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Kurry Qulture in Astoria, NY https://t.co/ot7Ieh7jDi", 
+                "created_at": "2016-08-12T23:32:17", 
+                "retweet_count": 0, 
+                "id": "764243136818315264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01023038, 
+                    40.70442905
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695753.0, 
+                    "type": "yes", 
+                    "id": 441.0, 
+                    "name": "Alexander Hamilton U.S. Custom House"
+                }, 
+                {
+                    "osm_id": 155440973.0, 
+                    "type": "yes", 
+                    "id": 792.0, 
+                    "name": "2 Broadway"
+                }, 
+                {
+                    "osm_id": 278053583.0, 
+                    "type": "yes", 
+                    "id": 99386.0, 
+                    "name": "Maritime Exchange Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at The Growler Bites &amp; Brews in New York, NY https://t.co/EhGxwDS73p", 
+                "created_at": "2016-08-08T16:30:13", 
+                "retweet_count": 0, 
+                "id": "762687368595968001", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.07433033, 
+                    40.81348443
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at MetLife Stadium - @mlstadium in East Rutherford, NJ https://t.co/1zt0l3XR16", 
+                "created_at": "2016-08-03T23:08:00", 
+                "retweet_count": 0, 
+                "id": "760975533320638464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.018036, 
+                    40.704395
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sunset + Trance \ud83d\ude0d @ Pier A Harbor House https://t.co/FIXJDPDnRo", 
+                "created_at": "2016-08-02T01:34:13", 
+                "retweet_count": 0, 
+                "id": "760287554239393792", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.63539964, 
+                    40.72741613
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 27111276.0, 
+                    "type": "yes", 
+                    "id": 563.0, 
+                    "name": "Marriott Courtyard"
+                }, 
+                {
+                    "osm_id": 241833301.0, 
+                    "type": "yes", 
+                    "id": 4692.0, 
+                    "name": "Good Records NYC"
+                }, 
+                {
+                    "osm_id": 247842941.0, 
+                    "type": "dormitory", 
+                    "id": 10747.0, 
+                    "name": "Mercer Street Residence Hall"
+                }, 
+                {
+                    "osm_id": 249657819.0, 
+                    "type": "yes", 
+                    "id": 34772.0, 
+                    "name": "Tompkins Square Library"
+                }, 
+                {
+                    "osm_id": 249663231.0, 
+                    "type": "church", 
+                    "id": 35116.0, 
+                    "name": "St. Anthony of Padua Church"
+                }, 
+                {
+                    "osm_id": 249665002.0, 
+                    "type": "yes", 
+                    "id": 35583.0, 
+                    "name": "Georgian Building"
+                }, 
+                {
+                    "osm_id": 264852430.0, 
+                    "type": "yes", 
+                    "id": 87206.0, 
+                    "name": "Wine Hut"
+                }, 
+                {
+                    "osm_id": 280115118.0, 
+                    "type": "yes", 
+                    "id": 114630.0, 
+                    "name": "Church of God of Greenpoint"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Mussels mussels mussels \ud83d\ude0d (@ Waterzooi in Garden City, NY) https://t.co/d8FhV63aKL", 
+                "created_at": "2016-07-31T00:16:06", 
+                "retweet_count": 0, 
+                "id": "759543119918563332", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01780483, 
+                    40.70438706
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Second home (@ Pier A Harbor House in New York, NY) https://t.co/LsnoIMMOPG", 
+                "created_at": "2016-07-29T22:36:46", 
+                "retweet_count": 0, 
+                "id": "759155734005309440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01012135, 
+                    40.70428724
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695753.0, 
+                    "type": "yes", 
+                    "id": 441.0, 
+                    "name": "Alexander Hamilton U.S. Custom House"
+                }, 
+                {
+                    "osm_id": 155440973.0, 
+                    "type": "yes", 
+                    "id": 792.0, 
+                    "name": "2 Broadway"
+                }, 
+                {
+                    "osm_id": 278053554.0, 
+                    "type": "yes", 
+                    "id": 99349.0, 
+                    "name": "Stone Street Tavern"
+                }, 
+                {
+                    "osm_id": 278053575.0, 
+                    "type": "yes", 
+                    "id": 99368.0, 
+                    "name": "Adrienne's Pizza Bar"
+                }, 
+                {
+                    "osm_id": 278053583.0, 
+                    "type": "yes", 
+                    "id": 99386.0, 
+                    "name": "Maritime Exchange Building"
+                }, 
+                {
+                    "osm_id": 337839343.0, 
+                    "type": "yes", 
+                    "id": 126294.0, 
+                    "name": "Ulysses'"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Mad Dog &amp; Beans Mexican Cantina - @maddogandbeans in New York, NY https://t.co/8YTEmbiCm0", 
+                "created_at": "2016-07-28T00:56:46", 
+                "retweet_count": 0, 
+                "id": "758466193221152768", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01780483, 
+                    40.70438706
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "After work shenanigans (@ Pier A Harbor House in New York, NY) https://t.co/yDtdAJmJBz", 
+                "created_at": "2016-07-27T22:36:10", 
+                "retweet_count": 0, 
+                "id": "758430809099538432", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.771199, 
+                    40.763921
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 86216907.0, 
+                    "type": "commercial", 
+                    "id": 638.0, 
+                    "name": "GM Building"
+                }, 
+                {
+                    "osm_id": 86216906.0, 
+                    "type": "commercial", 
+                    "id": 642.0, 
+                    "name": "Solow Building"
+                }, 
+                {
+                    "osm_id": 193611220.0, 
+                    "type": "yes", 
+                    "id": 961.0, 
+                    "name": "ProLogis"
+                }, 
+                {
+                    "osm_id": 238320858.0, 
+                    "type": "yes", 
+                    "id": 1190.0, 
+                    "name": "Holiday Inn Express"
+                }, 
+                {
+                    "osm_id": 265150601.0, 
+                    "type": "apartments", 
+                    "id": 87693.0, 
+                    "name": "Le Premier"
+                }, 
+                {
+                    "osm_id": 265150597.0, 
+                    "type": "theatre", 
+                    "id": 87702.0, 
+                    "name": "New York City Center"
+                }, 
+                {
+                    "osm_id": 265150611.0, 
+                    "type": "yes", 
+                    "id": 87728.0, 
+                    "name": "Avenue of the Americas Plaza"
+                }, 
+                {
+                    "osm_id": 265150598.0, 
+                    "type": "yes", 
+                    "id": 87771.0, 
+                    "name": "CitySpire Center"
+                }, 
+                {
+                    "osm_id": 265329549.0, 
+                    "type": "school", 
+                    "id": 90161.0, 
+                    "name": "Public School 58"
+                }, 
+                {
+                    "osm_id": 265345718.0, 
+                    "type": "yes", 
+                    "id": 90313.0, 
+                    "name": "Grolier Club"
+                }, 
+                {
+                    "osm_id": 265345389.0, 
+                    "type": "commercial", 
+                    "id": 90349.0, 
+                    "name": "650 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 265345788.0, 
+                    "type": "construction", 
+                    "id": 90380.0, 
+                    "name": "520 Park Avenue"
+                }, 
+                {
+                    "osm_id": 265345828.0, 
+                    "type": "yes", 
+                    "id": 90417.0, 
+                    "name": "Christ Church"
+                }, 
+                {
+                    "osm_id": 266155271.0, 
+                    "type": "apartments", 
+                    "id": 93293.0, 
+                    "name": "888 8th Avenue"
+                }, 
+                {
+                    "osm_id": 266866290.0, 
+                    "type": "yes", 
+                    "id": 94580.0, 
+                    "name": "Rockefeller Research Laboratories"
+                }, 
+                {
+                    "osm_id": 266866300.0, 
+                    "type": "church", 
+                    "id": 94590.0, 
+                    "name": "St. John Nepomucene Church"
+                }, 
+                {
+                    "osm_id": 284879996.0, 
+                    "type": "school", 
+                    "id": 125624.0, 
+                    "name": "Public School 217/Intermediate School 217"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Bourbon Street - @bourbonstqueens in Bayside, NY https://t.co/eIo6c6I3M9", 
+                "created_at": "2016-07-25T01:43:07", 
+                "retweet_count": 0, 
+                "id": "757390693895704576", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.26364646, 
+                    40.64535166
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Light Through the Veins @ Robert Moses Beach https://t.co/oW96LpXoym", 
+                "created_at": "2016-07-24T16:03:29", 
+                "retweet_count": 0, 
+                "id": "757244822403092481", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.241121, 
+                    40.715873
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3359448.0, 
+                    "type": "yes", 
+                    "id": 124.0, 
+                    "name": "Criminal Courts Building"
+                }, 
+                {
+                    "osm_id": 75363907.0, 
+                    "type": "yes", 
+                    "id": 626.0, 
+                    "name": "Javits Federal Office Building"
+                }, 
+                {
+                    "osm_id": 249847972.0, 
+                    "type": "yes", 
+                    "id": 36553.0, 
+                    "name": "New York City Health and Hospitals Corporation"
+                }, 
+                {
+                    "osm_id": 250267995.0, 
+                    "type": "school", 
+                    "id": 57505.0, 
+                    "name": "Intermediate School 131"
+                }, 
+                {
+                    "osm_id": 250268367.0, 
+                    "type": "church", 
+                    "id": 57731.0, 
+                    "name": "St. Mary's Church"
+                }, 
+                {
+                    "osm_id": 250269533.0, 
+                    "type": "yes", 
+                    "id": 57796.0, 
+                    "name": "Tribeca Tower"
+                }, 
+                {
+                    "osm_id": 259766340.0, 
+                    "type": "yes", 
+                    "id": 83580.0, 
+                    "name": "101 Hudson Street"
+                }, 
+                {
+                    "osm_id": 277880569.0, 
+                    "type": "apartments", 
+                    "id": 98908.0, 
+                    "name": "Liberty Luxe"
+                }, 
+                {
+                    "osm_id": 279772154.0, 
+                    "type": "school", 
+                    "id": 107926.0, 
+                    "name": "Harry Van Arsdale High School"
+                }, 
+                {
+                    "osm_id": 280075421.0, 
+                    "type": "yes", 
+                    "id": 112838.0, 
+                    "name": "Our Lady of Mount Carmel Roman Catholic Church"
+                }, 
+                {
+                    "osm_id": 280075420.0, 
+                    "type": "school", 
+                    "id": 112847.0, 
+                    "name": "Northside Catholic School at Mount Carmel"
+                }, 
+                {
+                    "osm_id": 328553920.0, 
+                    "type": "yes", 
+                    "id": 126264.0, 
+                    "name": "St. Peter's Preparatory School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf1a (@ Chowder Bar in Bay Shore, NY) https://t.co/d374tMavhQ https://t.co/bbQg6flGbB", 
+                "created_at": "2016-07-23T23:40:31", 
+                "retweet_count": 0, 
+                "id": "756997452457189377", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.74813326, 
+                    40.78470797
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dinner with beautiful sunset and mosquitos \ud83d\ude02\n\nsana10585 \u2764\ufe0f @ Great Neck Estates Park https://t.co/QGc4WDdBJA", 
+                "created_at": "2016-07-20T01:16:56", 
+                "retweet_count": 0, 
+                "id": "755572165609680896", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

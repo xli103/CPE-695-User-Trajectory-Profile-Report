@@ -1,0 +1,117 @@
+{
+    "total_favorite_count": 168, 
+    "followers_count": 131, 
+    "total_tweets": 2, 
+    "user_id": 2366344086, 
+    "screen_name": "WayneRogers58", 
+    "friends_count": 324, 
+    "buildings": {
+        "school": 2, 
+        "theatre": 5, 
+        "apartments": 4
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School", 
+                    "osm_id": 266033995.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower", 
+                    "osm_id": 266034023.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre", 
+                    "osm_id": 266149299.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre", 
+                    "osm_id": 266149300.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }
+            ], 
+            "text": "All dress &amp; ready to conquer NEW YORK \ud83d\ude18\ud83d\udc8b\n\nWalked through Time Square, now for Kinky Boots \ud83d\udc60 @\u2026 https://t.co/79o9aG3Ii3", 
+            "id": "786345489348386816", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:19:08", 
+            "coordinates": [
+                -73.98644, 
+                40.75839
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Booth Theatre", 
+                    "Broadhurst Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99482.0, 
+                    "name": "10 Liberty Street", 
+                    "osm_id": 278069577.0
+                }
+            ], 
+            "text": "Having a FANTASTIC time in New York!\nToday we walked the Brooklyn Bridge,  visited the 9/11\u2026 https://t.co/aznM56Sm1L", 
+            "id": "785978695722958848", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-11T23:01:38", 
+            "coordinates": [
+                -73.99859847, 
+                40.70750673
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "10 Liberty Street"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

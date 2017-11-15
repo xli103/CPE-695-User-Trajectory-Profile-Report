@@ -1,0 +1,1717 @@
+{
+    "total_favorite_count": 101, 
+    "total_tweets": 46, 
+    "screen_name": "Mishe476", 
+    "friends_count": 164, 
+    "followers_count": 19, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0011794, 
+                    40.75759435
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Long Power Walk after another interview to get my badge for my event for tomorrow to Saturday. @\u2026 https://t.co/VVbolNILZI", 
+                "created_at": "2016-10-19T18:34:18", 
+                "retweet_count": 0, 
+                "id": "788810521092972544", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01502637, 
+                    40.71358968
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 277919047.0, 
+                    "type": "yes", 
+                    "id": 99209.0, 
+                    "name": "200 Vesey Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I stop it by accident so close to the end but another great Friday Power Walk!\ud83d\udcaa\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f\ud83d\udcaa @\u2026 https://t.co/tPd1Zpjuao", 
+                "created_at": "2016-10-14T21:37:26", 
+                "retweet_count": 0, 
+                "id": "787044668504698880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Good Friday power walk.\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f\ud83d\udc5f @ New York, New York https://t.co/Wp39rCPwrM", 
+                "created_at": "2016-10-07T21:12:18", 
+                "retweet_count": 0, 
+                "id": "784501630280630272", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I guess zit zagging through crowds can make me walking really really fast if I got just over 12\u2026 https://t.co/rrEkpy8eO2", 
+                "created_at": "2016-09-29T18:28:42", 
+                "retweet_count": 0, 
+                "id": "781561355686084608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0119, 
+                    40.7078
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 53883375.0, 
+                    "type": "yes", 
+                    "id": 607.0, 
+                    "name": "Liberty Science Center"
+                }, 
+                {
+                    "osm_id": 276309221.0, 
+                    "type": "yes", 
+                    "id": 98666.0, 
+                    "name": "50 Trinity Place"
+                }, 
+                {
+                    "osm_id": 278033589.0, 
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences"
+                }, 
+                {
+                    "osm_id": 278039453.0, 
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's not always a sunny day.\u2601\ufe0f @ Lower Manhattan https://t.co/FnYmrUP6SH", 
+                "created_at": "2016-09-28T15:33:41", 
+                "retweet_count": 0, 
+                "id": "781154923903913984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01502637, 
+                    40.71358968
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 277919047.0, 
+                    "type": "yes", 
+                    "id": 99209.0, 
+                    "name": "200 Vesey Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Power Walk with my fastest 1st miles time. \ud83d\ude0e\ud83d\udc5f\ud83d\udcaa\ud83c\udfbd @ Brookfield Place New York https://t.co/sVCCyhMKbK", 
+                "created_at": "2016-09-23T18:14:46", 
+                "retweet_count": 0, 
+                "id": "779383521978626048", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9691, 
+                    40.7794
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#jobynyc   #centralpark @ Belvedere Castle https://t.co/JZghqVahO1", 
+                "created_at": "2016-09-17T15:07:06", 
+                "retweet_count": 0, 
+                "id": "777161966909394944", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.03885724, 
+                    40.70722646
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Liberty State Park https://t.co/lAIjru2xaP", 
+                "created_at": "2016-09-13T02:55:32", 
+                "retweet_count": 0, 
+                "id": "775528311459938304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Remembering 9-11 @ New York, New York https://t.co/L5tsBsV5sB", 
+                "created_at": "2016-09-11T12:40:12", 
+                "retweet_count": 0, 
+                "id": "774950671900549122", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01112478, 
+                    40.7116409
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309461.0, 
+                    "type": "yes", 
+                    "id": 629.0, 
+                    "name": "225 Liberty Street"
+                }, 
+                {
+                    "osm_id": 205332686.0, 
+                    "type": "yes", 
+                    "id": 1021.0, 
+                    "name": "Bergen South Post Office"
+                }, 
+                {
+                    "osm_id": 277919044.0, 
+                    "type": "apartments", 
+                    "id": 99123.0, 
+                    "name": "Gateway Plaza 500"
+                }, 
+                {
+                    "osm_id": 278033606.0, 
+                    "type": "yes", 
+                    "id": 99178.0, 
+                    "name": "World Trade Center Transportation Hub - Oculus"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Window Crew keeping the view clean for us to see. Thank y'all!\ud83d\udc4b @ The Oculus at the World\u2026 https://t.co/EtxGMjE0DZ", 
+                "created_at": "2016-09-08T18:30:22", 
+                "retweet_count": 0, 
+                "id": "773951629599006720", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.82878146, 
+                    40.85183172
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Something hot to drink in the summer. Not normal for me.\ud83d\ude1c @ 7-Eleven https://t.co/BHdunITbPn", 
+                "created_at": "2016-09-05T13:28:10", 
+                "retweet_count": 0, 
+                "id": "772788413023948800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01297836, 
+                    40.71234533
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309461.0, 
+                    "type": "yes", 
+                    "id": 629.0, 
+                    "name": "225 Liberty Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ One World Trade Center https://t.co/O1WbhWYnQO", 
+                "created_at": "2016-09-02T15:18:55", 
+                "retweet_count": 0, 
+                "id": "771729122661806080", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01107496, 
+                    40.71149429
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309461.0, 
+                    "type": "yes", 
+                    "id": 629.0, 
+                    "name": "225 Liberty Street"
+                }, 
+                {
+                    "osm_id": 157212264.0, 
+                    "type": "yes", 
+                    "id": 797.0, 
+                    "name": "Gateway Plaza 200"
+                }, 
+                {
+                    "osm_id": 205332686.0, 
+                    "type": "yes", 
+                    "id": 1021.0, 
+                    "name": "Bergen South Post Office"
+                }, 
+                {
+                    "osm_id": 277919044.0, 
+                    "type": "apartments", 
+                    "id": 99123.0, 
+                    "name": "Gateway Plaza 500"
+                }, 
+                {
+                    "osm_id": 277919046.0, 
+                    "type": "yes", 
+                    "id": 99128.0, 
+                    "name": "Gateway Plaza 400"
+                }, 
+                {
+                    "osm_id": 278033604.0, 
+                    "type": "yes", 
+                    "id": 99177.0, 
+                    "name": "Memorial Museum"
+                }, 
+                {
+                    "osm_id": 278033606.0, 
+                    "type": "yes", 
+                    "id": 99178.0, 
+                    "name": "World Trade Center Transportation Hub - Oculus"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ The Oculus at the World Trade Center https://t.co/fZuhqzMbCK", 
+                "created_at": "2016-08-19T14:01:15", 
+                "retweet_count": 0, 
+                "id": "766636146185023488", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01297836, 
+                    40.71234533
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309461.0, 
+                    "type": "yes", 
+                    "id": 629.0, 
+                    "name": "225 Liberty Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ One World Trade Center https://t.co/3Zmg2dsmIo", 
+                "created_at": "2016-08-19T13:50:41", 
+                "retweet_count": 0, 
+                "id": "766633487721902082", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9975, 
+                    40.73083333
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3343762.0, 
+                    "type": "yes", 
+                    "id": 80.0, 
+                    "name": "Vanderbilt Law School New York University"
+                }, 
+                {
+                    "osm_id": -3357433.0, 
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church"
+                }, 
+                {
+                    "osm_id": 317884685.0, 
+                    "type": "yes", 
+                    "id": 126125.0, 
+                    "name": "Hudson County Community College - Building A"
+                }, 
+                {
+                    "osm_id": 317884686.0, 
+                    "type": "yes", 
+                    "id": 126126.0, 
+                    "name": "Hudson County Community College - Building B"
+                }, 
+                {
+                    "osm_id": 317884689.0, 
+                    "type": "yes", 
+                    "id": 126130.0, 
+                    "name": "Hudson County Community College - Building E"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy Friday for u working people.\ud83d\udc4b @ Washington Square Park https://t.co/wXycAVT1Sb", 
+                "created_at": "2016-08-19T12:10:41", 
+                "retweet_count": 0, 
+                "id": "766608321310699520", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.86035229, 
+                    40.83799824
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a video @ Metropolitan Oval https://t.co/c2fJiVWzJO", 
+                "created_at": "2016-08-11T18:13:30", 
+                "retweet_count": 0, 
+                "id": "763800525611511809", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.014867, 
+                    40.714049
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 277919047.0, 
+                    "type": "yes", 
+                    "id": 99209.0, 
+                    "name": "200 Vesey Street"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Waiting to be seated @ P.J. Clarke's on the Hudson https://t.co/OTqedCH8H5", 
+                "created_at": "2016-07-15T15:04:22", 
+                "retweet_count": 0, 
+                "id": "753968457150935041", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.014867, 
+                    40.714049
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 277919047.0, 
+                    "type": "yes", 
+                    "id": 99209.0, 
+                    "name": "200 Vesey Street"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Stay Puft Marshmallow Man  stop for a bite @ P.J. Clarke's on the Hudson https://t.co/9JjyX4A8De", 
+                "created_at": "2016-07-15T15:03:13", 
+                "retweet_count": 0, 
+                "id": "753968166473084928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0125, 
+                    40.7292
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 27110669.0, 
+                    "type": "yes", 
+                    "id": 575.0, 
+                    "name": "North Garage"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy Friday for my working peeps @ Pier 40 at Hudson River Park https://t.co/tsc25kGJZA", 
+                "created_at": "2016-07-15T14:20:29", 
+                "retweet_count": 0, 
+                "id": "753957413049372672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98946428, 
+                    40.74126994
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264624909.0, 
+                    "type": "yes", 
+                    "id": 84142.0, 
+                    "name": "Porter House"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 264633440.0, 
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea"
+                }, 
+                {
+                    "osm_id": 264644824.0, 
+                    "type": "yes", 
+                    "id": 85136.0, 
+                    "name": "West 19th Street"
+                }, 
+                {
+                    "osm_id": 264768896.0, 
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building"
+                }, 
+                {
+                    "osm_id": 403124630.0, 
+                    "type": "yes", 
+                    "id": 136049.0, 
+                    "name": "Saints Peter and Paul RC Church"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Waiting for #manhattanhenge2016 @ Flat Iron Building and Madison Square Park https://t.co/B63IDtkpy8", 
+                "created_at": "2016-07-11T22:48:27", 
+                "retweet_count": 0, 
+                "id": "752635694762237952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96551975, 
+                    41.42645001
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Little Stony Point Beach https://t.co/IrOAjcZ0qa", 
+                "created_at": "2016-07-11T20:50:54", 
+                "retweet_count": 0, 
+                "id": "752606111887347712", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99254165, 
+                    40.68922974
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 32965412.0, 
+                    "type": "yes", 
+                    "id": 579.0, 
+                    "name": "Statue of Liberty"
+                }, 
+                {
+                    "osm_id": 278396518.0, 
+                    "type": "yes", 
+                    "id": 101701.0, 
+                    "name": "Ligget Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My first grass fed burger in 3 months @ Bareburger Organic https://t.co/ByLdiXdMjv", 
+                "created_at": "2016-07-04T21:39:38", 
+                "retweet_count": 1, 
+                "id": "750081662109691904", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01502637, 
+                    40.71358968
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 277919047.0, 
+                    "type": "yes", 
+                    "id": 99209.0, 
+                    "name": "200 Vesey Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sprinkles Cupcakes @ Brookfield Place New York https://t.co/EDpdtqFUDF", 
+                "created_at": "2016-07-03T21:50:18", 
+                "retweet_count": 0, 
+                "id": "749721957793353728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9882271, 
+                    40.6936415
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 157766603.0, 
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park"
+                }, 
+                {
+                    "osm_id": 241846076.0, 
+                    "type": "yes", 
+                    "id": 7524.0, 
+                    "name": "New York Mariott at the Brooklyn Bridge"
+                }, 
+                {
+                    "osm_id": 241846066.0, 
+                    "type": "yes", 
+                    "id": 7532.0, 
+                    "name": "NY State Supreme Court 2nd District"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last day on the job @ 335 Adams Street Jay Street Metrotech https://t.co/qH2SXyrO5S", 
+                "created_at": "2016-06-30T19:52:56", 
+                "retweet_count": 0, 
+                "id": "748605259044392960", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.016094, 
+                    40.703717
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695755.0, 
+                    "type": "yes", 
+                    "id": 468.0, 
+                    "name": "Castle Clinton"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Very cloudy day @ Battery Park https://t.co/pCqs1x06QA", 
+                "created_at": "2016-06-28T21:54:04", 
+                "retweet_count": 0, 
+                "id": "747910964868059136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9866275, 
+                    40.69399447
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 157766603.0, 
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park"
+                }, 
+                {
+                    "osm_id": 241822941.0, 
+                    "type": "yes", 
+                    "id": 2319.0, 
+                    "name": "Grace Church"
+                }, 
+                {
+                    "osm_id": 241833063.0, 
+                    "type": "yes", 
+                    "id": 4558.0, 
+                    "name": "Brooklyn Heights Synagogue"
+                }, 
+                {
+                    "osm_id": 241846076.0, 
+                    "type": "yes", 
+                    "id": 7524.0, 
+                    "name": "New York Mariott at the Brooklyn Bridge"
+                }, 
+                {
+                    "osm_id": 241846066.0, 
+                    "type": "yes", 
+                    "id": 7532.0, 
+                    "name": "NY State Supreme Court 2nd District"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My last lunch from Lucianos in BK\ud83d\udc4f\ud83d\ude1f @ Lucianos Brooklyn https://t.co/GIBlBg2cKP", 
+                "created_at": "2016-06-20T18:25:39", 
+                "retweet_count": 0, 
+                "id": "744959414826762241", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.012, 
+                    40.7133
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 147229978.0, 
+                    "type": "yes", 
+                    "id": 779.0, 
+                    "name": "One World Trade Center"
+                }, 
+                {
+                    "osm_id": 259686624.0, 
+                    "type": "yes", 
+                    "id": 83575.0, 
+                    "name": "30 Hudson Street"
+                }, 
+                {
+                    "osm_id": 277890516.0, 
+                    "type": "office", 
+                    "id": 99069.0, 
+                    "name": "7 World Trade Center"
+                }, 
+                {
+                    "osm_id": 277919050.0, 
+                    "type": "yes", 
+                    "id": 99132.0, 
+                    "name": "Winter Garden Atrium"
+                }, 
+                {
+                    "osm_id": 277919047.0, 
+                    "type": "yes", 
+                    "id": 99209.0, 
+                    "name": "200 Vesey Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy Hump Day @ 7 World Trade Center https://t.co/Vnz80Y6sMJ", 
+                "created_at": "2016-05-25T12:05:58", 
+                "retweet_count": 0, 
+                "id": "735441776450752513", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01856215, 
+                    40.70517308
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Robert F Wagner Junior Park https://t.co/WASFUO1vDv", 
+                "created_at": "2016-05-16T21:40:03", 
+                "retweet_count": 0, 
+                "id": "732324759887716352", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9829707, 
+                    40.7640876
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 50603780.0, 
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid"
+                }, 
+                {
+                    "osm_id": 193611220.0, 
+                    "type": "yes", 
+                    "id": 961.0, 
+                    "name": "ProLogis"
+                }, 
+                {
+                    "osm_id": 238320858.0, 
+                    "type": "yes", 
+                    "id": 1190.0, 
+                    "name": "Holiday Inn Express"
+                }, 
+                {
+                    "osm_id": 265325191.0, 
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower"
+                }, 
+                {
+                    "osm_id": 265329549.0, 
+                    "type": "school", 
+                    "id": 90161.0, 
+                    "name": "Public School 58"
+                }, 
+                {
+                    "osm_id": 266155268.0, 
+                    "type": "yes", 
+                    "id": 93290.0, 
+                    "name": "The Marc"
+                }, 
+                {
+                    "osm_id": 292151070.0, 
+                    "type": "yes", 
+                    "id": 125741.0, 
+                    "name": "Comfort Inn"
+                }, 
+                {
+                    "osm_id": 371377293.0, 
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lol. Didn't expect this t-bone to be 27oz. Whoa!\ud83d\ude30 @ Iguana NYC https://t.co/XJiKpsMYCT", 
+                "created_at": "2016-05-15T00:58:07", 
+                "retweet_count": 0, 
+                "id": "731649830091513856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97265668, 
+                    40.7253331
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110661.0, 
+                    "type": "yes", 
+                    "id": 553.0, 
+                    "name": "South Garage"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 249664631.0, 
+                    "type": "yes", 
+                    "id": 35451.0, 
+                    "name": "Trump SoHo"
+                }, 
+                {
+                    "osm_id": 250265144.0, 
+                    "type": "yes", 
+                    "id": 56755.0, 
+                    "name": "Saint Brigid's Church"
+                }, 
+                {
+                    "osm_id": 265733365.0, 
+                    "type": "yes", 
+                    "id": 92213.0, 
+                    "name": "All Ironworks"
+                }, 
+                {
+                    "osm_id": 297163345.0, 
+                    "type": "yes", 
+                    "id": 125795.0, 
+                    "name": "National Guard Armory"
+                }, 
+                {
+                    "osm_id": 362642225.0, 
+                    "type": "house", 
+                    "id": 126382.0, 
+                    "name": "Battello"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First East River walk of the new year. @ East river park (fdr) https://t.co/Q0dgfdaiXN", 
+                "created_at": "2016-05-10T11:21:41", 
+                "retweet_count": 0, 
+                "id": "729994816591814656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99507413, 
+                    40.70315026
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First BK IC Factory of the Year.\ud83d\ude0b @ Brooklyn Ice Cream Factory https://t.co/px0FKH4LWS", 
+                "created_at": "2016-05-09T23:02:47", 
+                "retweet_count": 0, 
+                "id": "729808867194851328", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99916667, 
+                    40.6975
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First BK Power Walk of the year @ Brooklyn Bridge Park https://t.co/uRycYwE7Po", 
+                "created_at": "2016-05-09T22:43:07", 
+                "retweet_count": 0, 
+                "id": "729803918784368640", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98972222, 
+                    40.74111111
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 250490358.0, 
+                    "type": "yes", 
+                    "id": 82189.0, 
+                    "name": "The Standard"
+                }, 
+                {
+                    "osm_id": 264624881.0, 
+                    "type": "yes", 
+                    "id": 84113.0, 
+                    "name": "Gansevoort Market"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 264633440.0, 
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea"
+                }, 
+                {
+                    "osm_id": 264644824.0, 
+                    "type": "yes", 
+                    "id": 85136.0, 
+                    "name": "West 19th Street"
+                }, 
+                {
+                    "osm_id": 264645708.0, 
+                    "type": "yes", 
+                    "id": 85172.0, 
+                    "name": "Spero Building"
+                }, 
+                {
+                    "osm_id": 264768896.0, 
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Good Monday Monday morning. @ Flatiron Building https://t.co/tLdbTuyC4y", 
+                "created_at": "2016-05-09T10:56:50", 
+                "retweet_count": 0, 
+                "id": "729626172934393856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "RIP on 448 W. Broadway and Prince St. @ New York, New York https://t.co/cXQdiOqp8a", 
+                "created_at": "2016-04-25T11:31:37", 
+                "retweet_count": 0, 
+                "id": "724561497666383873", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -116.38327249, 
+                    33.71973706
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "LOL @ El Paseo Shopping District https://t.co/llkImi3aFh", 
+                "created_at": "2016-04-16T22:16:58", 
+                "retweet_count": 0, 
+                "id": "721462413644537856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -116.369, 
+                    33.7255
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just typical workout swinging the old 150pound tire. No biggie.\nBiggest Loser Resort. @ Palm\u2026 https://t.co/nyTOt8lDjH", 
+                "created_at": "2016-04-16T18:07:27", 
+                "retweet_count": 0, 
+                "id": "721399623881850880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99805, 
+                    40.73099
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 317884686.0, 
+                    "type": "yes", 
+                    "id": 126126.0, 
+                    "name": "Hudson County Community College - Building B"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Good morning all. @ Washington Square Arch https://t.co/oJJJorQ9F3", 
+                "created_at": "2016-03-31T11:08:01", 
+                "retweet_count": 0, 
+                "id": "715495863120846848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00472222, 
+                    40.71277778
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309461.0, 
+                    "type": "yes", 
+                    "id": 629.0, 
+                    "name": "225 Liberty Street"
+                }, 
+                {
+                    "osm_id": 147229978.0, 
+                    "type": "yes", 
+                    "id": 779.0, 
+                    "name": "One World Trade Center"
+                }, 
+                {
+                    "osm_id": 214788061.0, 
+                    "type": "yes", 
+                    "id": 1036.0, 
+                    "name": "\u5e02\u653f\u5ef3"
+                }, 
+                {
+                    "osm_id": 259686624.0, 
+                    "type": "yes", 
+                    "id": 83575.0, 
+                    "name": "30 Hudson Street"
+                }, 
+                {
+                    "osm_id": 277904718.0, 
+                    "type": "yes", 
+                    "id": 99070.0, 
+                    "name": "Church Street Station Post Office"
+                }, 
+                {
+                    "osm_id": 277904770.0, 
+                    "type": "yes", 
+                    "id": 99122.0, 
+                    "name": "250 Broadway"
+                }, 
+                {
+                    "osm_id": 277919050.0, 
+                    "type": "yes", 
+                    "id": 99132.0, 
+                    "name": "Winter Garden Atrium"
+                }, 
+                {
+                    "osm_id": 311311054.0, 
+                    "type": "yes", 
+                    "id": 126068.0, 
+                    "name": "Hudson Eats"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy Hump Day\ud83d\ude4b @ Brooklyn Bridge \u2013 City Hall / Chambers Street https://t.co/JIJAqQx65R", 
+                "created_at": "2016-03-16T11:47:41", 
+                "retweet_count": 0, 
+                "id": "710070028117286912", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.10427, 
+                    40.67376363
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Another view from Battery Park City @ Liberty Sceince Center https://t.co/vGyJcE02iV", 
+                "created_at": "2016-03-09T22:53:07", 
+                "retweet_count": 0, 
+                "id": "707700773488955392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.095759, 
+                    40.6914899
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "View from Battery Park City @ Library State Park https://t.co/u3ASpjtJcL", 
+                "created_at": "2016-03-09T22:39:55", 
+                "retweet_count": 0, 
+                "id": "707697453483433984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01290941, 
+                    40.71228646
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309461.0, 
+                    "type": "yes", 
+                    "id": 629.0, 
+                    "name": "225 Liberty Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ One World Trade Center https://t.co/atVRq87tKD", 
+                "created_at": "2016-03-09T13:02:03", 
+                "retweet_count": 0, 
+                "id": "707552028596146176", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98836113, 
+                    40.74222497
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974144.0, 
+                    "type": "yes", 
+                    "id": 545.0, 
+                    "name": "Edwin A. Stevens Hall and DeBaun Auditorium"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264625640.0, 
+                    "type": "yes", 
+                    "id": 84177.0, 
+                    "name": "Dream Downtown"
+                }, 
+                {
+                    "osm_id": 264645872.0, 
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline"
+                }, 
+                {
+                    "osm_id": 396126615.0, 
+                    "type": "yes", 
+                    "id": 127319.0, 
+                    "name": "Pershing Rinks"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy Hump Day @ Madison Square Park https://t.co/XMiMPaubFr", 
+                "created_at": "2016-03-09T11:58:10", 
+                "retweet_count": 0, 
+                "id": "707535949626867712", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01290941, 
+                    40.71228646
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309461.0, 
+                    "type": "yes", 
+                    "id": 629.0, 
+                    "name": "225 Liberty Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ One World Trade Center https://t.co/FopmD1a0tk", 
+                "created_at": "2016-02-25T12:57:51", 
+                "retweet_count": 0, 
+                "id": "702839926904082432", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9975, 
+                    40.73083333
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3343762.0, 
+                    "type": "yes", 
+                    "id": 80.0, 
+                    "name": "Vanderbilt Law School New York University"
+                }, 
+                {
+                    "osm_id": -3357433.0, 
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church"
+                }, 
+                {
+                    "osm_id": 317884685.0, 
+                    "type": "yes", 
+                    "id": 126125.0, 
+                    "name": "Hudson County Community College - Building A"
+                }, 
+                {
+                    "osm_id": 317884686.0, 
+                    "type": "yes", 
+                    "id": 126126.0, 
+                    "name": "Hudson County Community College - Building B"
+                }, 
+                {
+                    "osm_id": 317884689.0, 
+                    "type": "yes", 
+                    "id": 126130.0, 
+                    "name": "Hudson County Community College - Building E"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Good Thursday Morning\ud83d\ude4b @ Washington Square Park https://t.co/rtkFAFoyV8", 
+                "created_at": "2016-02-25T12:13:20", 
+                "retweet_count": 0, 
+                "id": "702828723427364864", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.85034169, 
+                    40.82778358
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The only workout to do. Over 16000 steps and still not done. @ Castle Hill~\u00bbThe Bronx https://t.co/ywrYiuBWmo", 
+                "created_at": "2016-01-24T20:49:17", 
+                "retweet_count": 0, 
+                "id": "691362153870315520", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.85034169, 
+                    40.82778358
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This was my late Saturday morning. At home with pancakes and NesQuik. Long time since I had\u2026 https://t.co/QDC4xfEsnN", 
+                "created_at": "2016-01-23T19:11:24", 
+                "retweet_count": 0, 
+                "id": "690975136774774786", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

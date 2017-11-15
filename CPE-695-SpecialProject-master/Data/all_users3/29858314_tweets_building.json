@@ -1,0 +1,320 @@
+{
+    "total_favorite_count": 1154, 
+    "followers_count": 714, 
+    "total_tweets": 8, 
+    "user_id": 29858314, 
+    "screen_name": "BravoJeffrey", 
+    "friends_count": 711, 
+    "buildings": {
+        "tower": 4, 
+        "church": 3, 
+        "commercial": 2, 
+        "school": 3, 
+        "apartments": 10
+    }, 
+    "features": [
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Just posted a photo @ New York, New York https://t.co/nEyHpyJA9Q", 
+            "id": "781914928001101824", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-30T17:53:40", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }, 
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }
+            ], 
+            "text": "I'm at New York Penn Station in New York, NY https://t.co/tSRES17Pt0", 
+            "id": "781906865437433856", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-30T17:21:38", 
+            "coordinates": [
+                -73.99270472, 
+                40.75047177
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "tower", 
+                "name": [
+                    "Two Penn Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 86112.0, 
+                    "name": "Church of the Holy Apostles", 
+                    "osm_id": 264671930.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125777.0, 
+                    "name": "200 Eleventh Avenue", 
+                    "osm_id": 293950322.0
+                }
+            ], 
+            "text": "I'm at Scandinavia House - @scanhouse in New York, NY https://t.co/2IKUU5VZ3C", 
+            "id": "781614233347907584", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-29T21:58:49", 
+            "coordinates": [
+                -73.97975168, 
+                40.74933161
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "200 Eleventh Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86057.0, 
+                    "name": "Public School 33", 
+                    "osm_id": 264667033.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 92673.0, 
+                    "name": "The Vanderbilt", 
+                    "osm_id": 265865023.0
+                }
+            ], 
+            "text": "Oooo my own balcony @ Hilton Manhattan East https://t.co/7iTbtbH7jv", 
+            "id": "781568767788593152", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T18:58:09", 
+            "coordinates": [
+                -73.97199954, 
+                40.7494305
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 33"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86057.0, 
+                    "name": "Public School 33", 
+                    "osm_id": 264667033.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 86112.0, 
+                    "name": "Church of the Holy Apostles", 
+                    "osm_id": 264671930.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 92673.0, 
+                    "name": "The Vanderbilt", 
+                    "osm_id": 265865023.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125777.0, 
+                    "name": "200 Eleventh Avenue", 
+                    "osm_id": 293950322.0
+                }
+            ], 
+            "text": "I'm at Hilton Manhattan East - @hiltonhotels in New York, NY https://t.co/7rAuOM1V8E", 
+            "id": "781561892376571904", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T18:30:50", 
+            "coordinates": [
+                -73.97196986, 
+                40.74940885
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Vanderbilt", 
+                    "200 Eleventh Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "I'm at New York Penn Station in New York, NY https://t.co/rxFPQGZzlo", 
+            "id": "781553069863604229", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T17:55:47", 
+            "coordinates": [
+                -73.99223413, 
+                40.75076235
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }, 
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }
+            ], 
+            "text": "I'm at New York Penn Station in New York, NY https://t.co/n8FL3JJzDp", 
+            "id": "776514206950629376", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-15T20:13:08", 
+            "coordinates": [
+                -73.99253829, 
+                40.75023542
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "tower", 
+                "name": [
+                    "Two Penn Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }, 
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }
+            ], 
+            "text": "I'm at New York Penn Station in New York, NY https://t.co/EhCps9pzco", 
+            "id": "776433762049613824", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-15T14:53:28", 
+            "coordinates": [
+                -73.99253829, 
+                40.75023542
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "tower", 
+                "name": [
+                    "Two Penn Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

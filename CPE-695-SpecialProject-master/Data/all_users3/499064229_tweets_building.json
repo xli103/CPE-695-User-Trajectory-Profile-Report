@@ -1,0 +1,483 @@
+{
+    "total_favorite_count": 2126, 
+    "followers_count": 340, 
+    "total_tweets": 9, 
+    "user_id": 499064229, 
+    "screen_name": "L99igor", 
+    "friends_count": 420, 
+    "buildings": {
+        "school": 2, 
+        "theatre": 10, 
+        "apartments": 11, 
+        "residential": 2, 
+        "museum": 2, 
+        "civic": 3, 
+        "commercial": 8, 
+        "construction": 2, 
+        "church": 6
+    }, 
+    "features": [
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "#eslone #krewella @ Barclays Center https://t.co/GkHmoW3pnf", 
+            "id": "782766503435366401", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-03T02:17:32", 
+            "coordinates": [
+                -73.9758739, 
+                40.68307281
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Getting ready for #eslone #csgo finals between NAVI and VirtusPro @ Barclays Center https://t.co/QxwWAuH4jX", 
+            "id": "782741734178582529", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-03T00:39:06", 
+            "coordinates": [
+                -73.9758739, 
+                40.68307281
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 697.0, 
+                    "name": "AXA Equitable Center", 
+                    "osm_id": 137707119.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 760.0, 
+                    "name": "UBS Building", 
+                    "osm_id": 146028965.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 774.0, 
+                    "name": "Calyon Building", 
+                    "osm_id": 146028962.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 783.0, 
+                    "name": "Museum Tower", 
+                    "osm_id": 148251193.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 855.0, 
+                    "name": "Winter Garden Theatre", 
+                    "osm_id": 163502865.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83607.0, 
+                    "name": "CBS Building", 
+                    "osm_id": 259748031.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }, 
+                {
+                    "type": "museum", 
+                    "id": 100954.0, 
+                    "name": "Museum of Modern Art", 
+                    "osm_id": 278346578.0
+                }
+            ], 
+            "text": "Something most people would call #art #moma #nyc #sverigeinusa \ud83c\uddfa\ud83c\uddf8 @ MoMA The Museum of Modern Art https://t.co/KhBXwifGJf", 
+            "id": "782235580398723072", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-01T15:07:50", 
+            "coordinates": [
+                -73.977177, 
+                40.76147952
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "AXA Equitable Center", 
+                    "UBS Building", 
+                    "Calyon Building", 
+                    "CBS Building"
+                ]
+            }, 
+            "building_frequency": {
+                "museum": 2, 
+                "church": 2, 
+                "commercial": 5, 
+                "theatre": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "construction", 
+                    "id": 883.0, 
+                    "name": "Three World Trade Center", 
+                    "osm_id": 166839381.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99124.0, 
+                    "name": "Gateway Plaza 100", 
+                    "osm_id": 277919043.0
+                }
+            ], 
+            "text": "Splinter spotted \ud83d\udc00\ud83d\udc40 #subway #zoo #sverigeinusa \ud83c\uddfa\ud83c\uddf8 @ Fulton Street Subway Station. https://t.co/1BHulA6Cuw", 
+            "id": "782008700076777472", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-01T00:06:17", 
+            "coordinates": [
+                -74.00916646, 
+                40.71082107
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "construction", 
+                "name": [
+                    "Three World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building", 
+                    "osm_id": 163465869.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater", 
+                    "osm_id": 266149330.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93316.0, 
+                    "name": "Cort Theatre", 
+                    "osm_id": 266170541.0
+                }
+            ], 
+            "text": "Doesn't matter if we are on top of NYC or somewhere else, with her - the feeling remains the\u2026 https://t.co/eb2dwhvHqR", 
+            "id": "781861788363153408", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-30T14:22:31", 
+            "coordinates": [
+                -73.97936699, 
+                40.75906157
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre", 
+                    "Richard Rodgers Theater", 
+                    "Lunt-Fontanne Theatre", 
+                    "Cort Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 4, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower", 
+                    "osm_id": 266034023.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 93102.0, 
+                    "name": "Holy Cross Church", 
+                    "osm_id": 266033992.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre", 
+                    "osm_id": 266149299.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre", 
+                    "osm_id": 266149300.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93215.0, 
+                    "name": "Shubert Theatre", 
+                    "osm_id": 266149334.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }
+            ], 
+            "text": "Hate musicals but #broadway trully is something special. 11yrs old kid is playing main role in\u2026 https://t.co/Wd7Whm2X7l", 
+            "id": "781563721881706496", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-29T18:38:06", 
+            "coordinates": [
+                -73.98717257, 
+                40.75823574
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Booth Theatre", 
+                    "Broadhurst Theatre", 
+                    "Shubert Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 806.0, 
+                    "name": "Hayden Hall", 
+                    "osm_id": 158973820.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16966.0, 
+                    "name": "Chelsea Stratus", 
+                    "osm_id": 248144148.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 84380.0, 
+                    "name": "Saint Peter's Church", 
+                    "osm_id": 264629195.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87262.0, 
+                    "name": "The Vanguard Chelsea", 
+                    "osm_id": 265038916.0
+                }
+            ], 
+            "text": "Thank you guys for showing us this amazing spot! And have fun in Vegas ^^ #nyc #rooftop\u2026 https://t.co/w3MJ22EqJq", 
+            "id": "781327722270318592", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T03:00:20", 
+            "coordinates": [
+                -73.98805, 
+                40.74395
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Chelsea Stratus", 
+                    "The Vanguard Chelsea"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory", 
+                    "osm_id": 278069550.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "Had to do it #brooklynbridge #nyc #sverigeinusa \ud83c\uddfa\ud83c\uddf8 @ The Brooklyn Bridge New York City https://t.co/JhFO7DLxZI", 
+            "id": "780901207707615233", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-27T22:45:31", 
+            "coordinates": [
+                -73.99818544, 
+                40.7070729
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 84380.0, 
+                    "name": "Saint Peter's Church", 
+                    "osm_id": 264629195.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 126559.0, 
+                    "name": "The Hudson School", 
+                    "osm_id": 376010260.0
+                }
+            ], 
+            "text": "This city brings out the best in everyone #NewYork Where business meets fashion @ West Village,\u2026 https://t.co/3sUSEDYDeB", 
+            "id": "779157508711735296", 
+            "favorite_count": 4, 
+            "created_at": "2016-09-23T03:16:40", 
+            "coordinates": [
+                -73.9952551, 
+                40.74408847
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "The Hudson School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

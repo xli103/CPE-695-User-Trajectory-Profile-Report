@@ -1,0 +1,183 @@
+{
+    "total_favorite_count": 9, 
+    "followers_count": 21, 
+    "total_tweets": 3, 
+    "user_id": 774343831131152385, 
+    "screen_name": "feelgoodvideo", 
+    "friends_count": 20, 
+    "buildings": {
+        "school": 3, 
+        "commercial": 2, 
+        "theatre": 9, 
+        "apartments": 4
+    }, 
+    "features": [
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School", 
+                    "osm_id": 266033995.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower", 
+                    "osm_id": 266034023.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre", 
+                    "osm_id": 266149299.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre", 
+                    "osm_id": 266149300.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }
+            ], 
+            "text": "Your story is precious. Let us say it right. \n\n#feelgoodvideo #onset #videoproduction\u2026 https://t.co/XtWnLJAmry", 
+            "id": "787707292510814212", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-16T17:30:28", 
+            "coordinates": [
+                -73.98644, 
+                40.75839
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Booth Theatre", 
+                    "Broadhurst Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Wrapping it up for today - we're getting some serious work done for maybelline Big shout out to\u2026 https://t.co/V3oPLkRIGb", 
+            "id": "786339068057706496", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T22:53:37", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School", 
+                    "osm_id": 266033995.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower", 
+                    "osm_id": 266034023.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre", 
+                    "osm_id": 266149299.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre", 
+                    "osm_id": 266149300.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }
+            ], 
+            "text": "Shooting in the Big Apple for maybelline Stay tuned! #nyc #timessquare #videoshoot #dayofthegirl\u2026 https://t.co/HHKX8y594r", 
+            "id": "785929694436814848", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-11T19:46:55", 
+            "coordinates": [
+                -73.98644, 
+                40.75839
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Booth Theatre", 
+                    "Broadhurst Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "total_favorite_count": 400, 
+    "total_tweets": 15, 
+    "screen_name": "moxymissa", 
+    "friends_count": 566, 
+    "followers_count": 575, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67567, 
+                    45.56201
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's late night #spooky #Halloween #radio time with me from now until 3am on #XRAY.FM tune in at\u2026 https://t.co/j7ZdpULsgs", 
+                "created_at": "2016-10-31T08:08:24", 
+                "retweet_count": 0, 
+                "id": "793001662973698048", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.3552318, 
+                    47.6229534
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Watching copaceticxo Janice Headley interview #LolTolhurst of #TheCure last night made me so\u2026 https://t.co/QLoOJdkj0h", 
+                "created_at": "2016-10-29T17:45:08", 
+                "retweet_count": 1, 
+                "id": "792422028670271488", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67518, 
+                    45.5629
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "All #80s &amp; #90s #vinyl while filling in for @chipbrokaw on #FreeformPortland #radio til 10am.\u2026 https://t.co/n1kCetnh2X", 
+                "created_at": "2016-10-27T15:53:04", 
+                "retweet_count": 0, 
+                "id": "791669047343611904", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67518, 
+                    45.5629
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Back on #PDX radio. I'm in for Noah Fence until 2pm at #FreeformPortland - listen at 90.3FM or\u2026 https://t.co/t4y8s9yRMI", 
+                "created_at": "2016-10-18T19:27:35", 
+                "retweet_count": 0, 
+                "id": "788461544564744192", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9847, 
+                    40.7577
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 157835453.0, 
+                    "type": "yes", 
+                    "id": 799.0, 
+                    "name": "One Astor Place"
+                }, 
+                {
+                    "osm_id": 158854338.0, 
+                    "type": "apartments", 
+                    "id": 811.0, 
+                    "name": "The Orion"
+                }, 
+                {
+                    "osm_id": 266034056.0, 
+                    "type": "yes", 
+                    "id": 93121.0, 
+                    "name": "The Westin"
+                }, 
+                {
+                    "osm_id": 266143357.0, 
+                    "type": "commercial", 
+                    "id": 93177.0, 
+                    "name": "McGraw Hill Building"
+                }, 
+                {
+                    "osm_id": 266149304.0, 
+                    "type": "theatre", 
+                    "id": 93184.0, 
+                    "name": "Helen Hayes Theatre"
+                }, 
+                {
+                    "osm_id": 266149332.0, 
+                    "type": "yes", 
+                    "id": 93217.0, 
+                    "name": "Sardi's"
+                }, 
+                {
+                    "osm_id": 266149338.0, 
+                    "type": "commercial", 
+                    "id": 93272.0, 
+                    "name": "Times Square Building"
+                }, 
+                {
+                    "osm_id": 266170755.0, 
+                    "type": "theatre", 
+                    "id": 93511.0, 
+                    "name": "Lyceum Theatre"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "So I'm in New York right now... #ohhello @ Lyceum Theatre (Broadway) https://t.co/8jOfwKd4Zk", 
+                "created_at": "2016-10-13T00:05:48", 
+                "retweet_count": 0, 
+                "id": "786357231059083264", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6847638, 
+                    45.52282398
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tonight #Foals #crystalballroom #Portland #livemusic @ Crystal Ballroom https://t.co/PMAqMRW31R", 
+                "created_at": "2016-09-25T02:23:13", 
+                "retweet_count": 0, 
+                "id": "779868830382321664", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67518, 
+                    45.5629
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#FreeformPortland #Radio #PDX with me this morning until 10am https://t.co/6DyNfGTeMe @\u2026 https://t.co/pnulNn1Vzz", 
+                "created_at": "2016-08-17T15:02:29", 
+                "retweet_count": 0, 
+                "id": "765926781144731648", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67518, 
+                    45.5629
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's me in your ears again. Filling in for Blain this afternoon until 6pm. Tune in at 90.3FM or\u2026 https://t.co/GFbHeyxEaA", 
+                "created_at": "2016-08-16T22:55:18", 
+                "retweet_count": 0, 
+                "id": "765683379576643584", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6756668, 
+                    45.5620117
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Day 2 of PDX settling. Stoked to have a working tape player for the first time in many years.\u2026 https://t.co/mL1VoNfQRn", 
+                "created_at": "2015-11-18T06:20:48", 
+                "retweet_count": 0, 
+                "id": "666863606789722112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6756668, 
+                    45.5620117
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The soundtrack to my first day nesting in Portland. Thx for the vinyl @attizen #thecure #vinyl\u2026 https://t.co/rMV7fcOUZl", 
+                "created_at": "2015-11-17T05:25:32", 
+                "retweet_count": 0, 
+                "id": "666487313552285697", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.34106699, 
+                    47.62034197
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@copaceticxo Baha. Thx. Not bad for being as sleep deprived as I am.", 
+                "created_at": "2012-10-27T03:31:49", 
+                "retweet_count": 0, 
+                "id": "262033836706242560", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.36281586, 
+                    47.66569519
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Seared foie gras for dinner tonight  @ Le Gormand http://t.co/Ta6b18je", 
+                "created_at": "2012-07-01T03:14:46", 
+                "retweet_count": 0, 
+                "id": "219267776525774849", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.31640928, 
+                    47.62264186
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@funkysnave happy twitterness to you", 
+                "created_at": "2012-06-02T01:04:54", 
+                "retweet_count": 0, 
+                "id": "208725845110558720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.26983535, 
+                    47.55107301
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@lushlifemedia thx 4 the follow. Been lovin on your records.", 
+                "created_at": "2012-04-30T21:33:46", 
+                "retweet_count": 0, 
+                "id": "197076302908497920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.35640323, 
+                    47.65433261
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "RIP Gil Scott-Heron http://t.co/vtLda4c", 
+                "created_at": "2011-05-28T03:43:18", 
+                "retweet_count": 0, 
+                "id": "74319812167335936", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

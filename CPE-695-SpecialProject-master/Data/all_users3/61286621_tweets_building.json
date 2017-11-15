@@ -1,0 +1,276 @@
+{
+    "total_favorite_count": 420, 
+    "followers_count": 324, 
+    "total_tweets": 6, 
+    "user_id": 61286621, 
+    "screen_name": "liocoia", 
+    "friends_count": 709, 
+    "buildings": {
+        "school": 3, 
+        "office": 2, 
+        "theatre": 5, 
+        "apartments": 4, 
+        "commercial": 5, 
+        "roof": 2, 
+        "college": 2, 
+        "church": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 364.0, 
+                    "name": "Hughes High School", 
+                    "osm_id": -3556683.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 126260.0, 
+                    "name": "Gate House", 
+                    "osm_id": 328674680.0
+                }
+            ], 
+            "text": "In a city where a minute is an eternity, you have to keep up the pace \ud83d\ude95\ud83d\udca8 #newyorkminute #tbt @\u2026 https://t.co/0nKTv8LCT9", 
+            "id": "781569911059386372", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T19:02:42", 
+            "coordinates": [
+                -73.993, 
+                40.743
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Hughes High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "roof", 
+                    "id": 126164.0, 
+                    "name": "BP", 
+                    "osm_id": 320480762.0
+                }
+            ], 
+            "text": "Best time touring with these boys \u2708\ufe0f\ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 @ Top Of The Rock Observatory https://t.co/JaKQiNd3La", 
+            "id": "776474618420928512", 
+            "favorite_count": 3, 
+            "created_at": "2016-09-15T17:35:49", 
+            "coordinates": [
+                -73.99144348, 
+                40.75604363
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "roof", 
+                "name": [
+                    "BP"
+                ]
+            }, 
+            "building_frequency": {
+                "roof": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building", 
+                    "osm_id": 163465869.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93221.0, 
+                    "name": "John Golden Theatre", 
+                    "osm_id": 266149325.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre", 
+                    "osm_id": 266149329.0
+                }
+            ], 
+            "text": "The greatest place on earth \u2764\ufe0f @ Rockefeller Center https://t.co/uGRMOIQZF7", 
+            "id": "772116993579294720", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-03T17:00:11", 
+            "coordinates": [
+                -73.9789982, 
+                40.75881193
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "30 Rockefeller Plaza", 
+                    "News Corp. Building"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 86112.0, 
+                    "name": "Church of the Holy Apostles", 
+                    "osm_id": 264671930.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125777.0, 
+                    "name": "200 Eleventh Avenue", 
+                    "osm_id": 293950322.0
+                }
+            ], 
+            "text": "Never forget. @ Ground Zero https://t.co/Mvujc5hYMx", 
+            "id": "771689817952382976", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-02T12:42:44", 
+            "coordinates": [
+                -73.98627193, 
+                40.74930624
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "200 Eleventh Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater", 
+                    "osm_id": 266149330.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre", 
+                    "osm_id": 266149329.0
+                }
+            ], 
+            "text": "When you meet your mate halfway round the world \ud83c\uddfa\ud83c\uddf8 #yass @ Times Square, New York City https://t.co/mky3pF2RHv", 
+            "id": "771338731273986048", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-01T13:27:38", 
+            "coordinates": [
+                -73.985131, 
+                40.758895
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Richard Rodgers Theater", 
+                    "Music Box Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 584.0, 
+                    "name": "\u5e1d\u570b\u5927\u5ec8", 
+                    "osm_id": 34633854.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85681.0, 
+                    "name": "David Dubinsky Student Center", 
+                    "osm_id": 264651248.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 86314.0, 
+                    "name": "Courtyard Marriot", 
+                    "osm_id": 264685147.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe", 
+                    "osm_id": 396820651.0
+                }
+            ], 
+            "text": "#tb to New York back in 2011 | caught this view up in the tiny observation deck at the #ESB \u2764\ufe0f you are\u2026 http://t.co/ic1wZT47AY", 
+            "id": "529731970335780864", 
+            "favorite_count": 0, 
+            "created_at": "2014-11-04T20:28:38", 
+            "coordinates": [
+                -73.98495558, 
+                40.74825227
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Courtyard Marriot"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "school": 2, 
+                "college": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

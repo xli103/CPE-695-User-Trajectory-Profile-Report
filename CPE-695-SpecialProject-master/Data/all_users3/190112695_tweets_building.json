@@ -1,0 +1,371 @@
+{
+    "total_favorite_count": 18361, 
+    "followers_count": 552, 
+    "total_tweets": 6, 
+    "user_id": 190112695, 
+    "screen_name": "paris_jillian", 
+    "friends_count": 376, 
+    "buildings": {
+        "school": 6, 
+        "church": 16, 
+        "commercial": 6, 
+        "apartments": 7
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "might be my favorite place tbh \ud83d\ude3b\ud83c\udf65\ud83c\udf6d\ud83c\udf79\ud83c\udf6c @ Sugar Factory https://t.co/NCq4qWZJM9", 
+            "id": "796852835782656001", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-10T23:11:35", 
+            "coordinates": [
+                -74.00678187, 
+                40.73973908
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church", 
+                    "osm_id": -3357433.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza", 
+                    "osm_id": 247842673.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex", 
+                    "osm_id": 247855548.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 11678.0, 
+                    "name": "Immaculate Conception Church", 
+                    "osm_id": 247864215.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 11690.0, 
+                    "name": "Immaculate Conception School", 
+                    "osm_id": 247864236.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church", 
+                    "osm_id": 317716546.0
+                }
+            ], 
+            "text": "i still cannot wrap my head around the fact that not only youre a\u2026 https://t.co/ijUJ5CCJkR", 
+            "id": "789612532457697281", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-21T23:41:12", 
+            "coordinates": [
+                -73.2203, 
+                40.7306
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Our Lady of Pompeii Church", 
+                    "Immaculate Conception Church", 
+                    "Saint Joseph's Catholic Church"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2, 
+                "commercial": 2, 
+                "church": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church", 
+                    "osm_id": -3357433.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 7231.0, 
+                    "name": "Saint Mark's in-the-Bowery", 
+                    "osm_id": 241844932.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza", 
+                    "osm_id": 247842673.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex", 
+                    "osm_id": 247855548.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 11690.0, 
+                    "name": "Immaculate Conception School", 
+                    "osm_id": 247864236.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church", 
+                    "osm_id": 317716546.0
+                }
+            ], 
+            "text": "snap selfies are taking over \ud83d\ude2c @ Ralphs Famous Italian Ice of East\u2026 https://t.co/eRlhyXNvbc", 
+            "id": "786337399546798080", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T22:47:00", 
+            "coordinates": [
+                -73.19332, 
+                40.73048
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Our Lady of Pompeii Church", 
+                    "Saint Mark's in-the-Bowery", 
+                    "Saint Joseph's Catholic Church"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2, 
+                "commercial": 2, 
+                "church": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church", 
+                    "osm_id": -3357433.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 7231.0, 
+                    "name": "Saint Mark's in-the-Bowery", 
+                    "osm_id": 241844932.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza", 
+                    "osm_id": 247842673.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex", 
+                    "osm_id": 247855548.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 11690.0, 
+                    "name": "Immaculate Conception School", 
+                    "osm_id": 247864236.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church", 
+                    "osm_id": 317716546.0
+                }
+            ], 
+            "text": "we make pumpkin spice lattes and get 15 dollars and real pumpkins as\u2026 https://t.co/jppLS19nWK", 
+            "id": "784135842432450560", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T20:58:48", 
+            "coordinates": [
+                -73.19332, 
+                40.73048
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Our Lady of Pompeii Church", 
+                    "Saint Mark's in-the-Bowery", 
+                    "Saint Joseph's Catholic Church"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2, 
+                "commercial": 2, 
+                "church": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church", 
+                    "osm_id": -3357433.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 7231.0, 
+                    "name": "Saint Mark's in-the-Bowery", 
+                    "osm_id": 241844932.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza", 
+                    "osm_id": 247842673.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex", 
+                    "osm_id": 247855548.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 11690.0, 
+                    "name": "Immaculate Conception School", 
+                    "osm_id": 247864236.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church", 
+                    "osm_id": 317716546.0
+                }
+            ], 
+            "text": "when before work snap selfies turn into instagram selfies \ud83d\ude2c\ud83d\ude2c @\u2026 https://t.co/s6kNZoLXiY", 
+            "id": "783785553443577856", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-05T21:46:52", 
+            "coordinates": [
+                -73.19332, 
+                40.73048
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Our Lady of Pompeii Church", 
+                    "Saint Mark's in-the-Bowery", 
+                    "Saint Joseph's Catholic Church"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2, 
+                "commercial": 2, 
+                "church": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church", 
+                    "osm_id": -3357433.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 7231.0, 
+                    "name": "Saint Mark's in-the-Bowery", 
+                    "osm_id": 241844932.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza", 
+                    "osm_id": 247842673.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex", 
+                    "osm_id": 247855548.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 11690.0, 
+                    "name": "Immaculate Conception School", 
+                    "osm_id": 247864236.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church", 
+                    "osm_id": 317716546.0
+                }
+            ], 
+            "text": "anothaaaaa one \ud83d\udc40\ud83d\udc36\ud83c\udf66\ud83c\udf67 @ Ralphs Famous Italian Ice of East Islip https://t.co/SG1q4mIk2g", 
+            "id": "780508624493875200", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-26T20:45:31", 
+            "coordinates": [
+                -73.19332, 
+                40.73048
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Our Lady of Pompeii Church", 
+                    "Saint Mark's in-the-Bowery", 
+                    "Saint Joseph's Catholic Church"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2, 
+                "commercial": 2, 
+                "church": 4
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

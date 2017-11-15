@@ -1,0 +1,321 @@
+{
+    "total_favorite_count": 3287, 
+    "followers_count": 2766, 
+    "total_tweets": 8, 
+    "user_id": 281804924, 
+    "screen_name": "KaavitaaSingh", 
+    "friends_count": 40, 
+    "buildings": {
+        "school": 2, 
+        "apartments": 9, 
+        "commercial": 3, 
+        "dormitory": 3, 
+        "church": 3, 
+        "retail": 3
+    }, 
+    "features": [
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Long time no selfie. #nyc #nycnights @ East Village, Manhattan https://t.co/9OEjAwnoCt", 
+            "id": "790808785514270724", 
+            "favorite_count": 4, 
+            "created_at": "2016-10-25T06:54:41", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Grey Cream #NYC @ East Village, Manhattan https://t.co/kGi2cQTGEa", 
+            "id": "787169780897837056", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T05:54:35", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 84701.0, 
+                    "name": "Church of Saint Francis Xavier", 
+                    "osm_id": 264637734.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 126619.0, 
+                    "name": "Public School 47", 
+                    "osm_id": 390366867.0
+                }
+            ], 
+            "text": "Just posted a photo @ Gramercy Park neighborhood https://t.co/QtqmGH339H", 
+            "id": "786355008191143936", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-12T23:56:58", 
+            "coordinates": [
+                -73.98033503, 
+                40.73831579
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 47"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 28986.0, 
+                    "name": "Gramercy Place", 
+                    "osm_id": 248773606.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 86876.0, 
+                    "name": "NYU Gramercy Green", 
+                    "osm_id": 264761241.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "\ud83d\udc2a @ East 25th Street https://t.co/BUfnU6bIG2", 
+            "id": "773650183380926464", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-07T22:32:32", 
+            "coordinates": [
+                -73.98063401, 
+                40.7394623
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Gramercy Place", 
+                    "333 River Street Apartments", 
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 28986.0, 
+                    "name": "Gramercy Place", 
+                    "osm_id": 248773606.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 86876.0, 
+                    "name": "NYU Gramercy Green", 
+                    "osm_id": 264761241.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "Spirit Animal \ud83d\udc2a @ East 25th Street https://t.co/7MI1h8lwDt", 
+            "id": "749361723279376388", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-02T21:58:51", 
+            "coordinates": [
+                -73.98063401, 
+                40.7394623
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Gramercy Place", 
+                    "333 River Street Apartments", 
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Hi #instagram! It's been a while! @ New York, New York https://t.co/I6DPNB15ze", 
+            "id": "746094934869049344", 
+            "favorite_count": 3, 
+            "created_at": "2016-06-23T21:37:48", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 84701.0, 
+                    "name": "Church of Saint Francis Xavier", 
+                    "osm_id": 264637734.0
+                }
+            ], 
+            "text": "Saturday #netflixandchill #nyc #saturdaynight @ Gramercy Park neighborhood https://t.co/WLMKjQlT5r", 
+            "id": "724027243987656706", 
+            "favorite_count": 2, 
+            "created_at": "2016-04-24T00:08:41", 
+            "coordinates": [
+                -73.98014142, 
+                40.73828414
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Saint Francis Xavier"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Summer \ud83d\udc95\ud83c\uddfa\ud83c\uddf8 @ New York, New York https://t.co/EIlDQEcQin", 
+            "id": "722511213637287939", 
+            "favorite_count": 3, 
+            "created_at": "2016-04-19T19:44:31", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

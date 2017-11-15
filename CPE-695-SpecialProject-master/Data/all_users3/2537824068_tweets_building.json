@@ -1,0 +1,3420 @@
+{
+    "total_favorite_count": 25, 
+    "followers_count": 84, 
+    "total_tweets": 66, 
+    "user_id": 2537824068, 
+    "screen_name": "LosVerdesNY", 
+    "friends_count": 254, 
+    "buildings": {
+        "school": 8, 
+        "office": 3, 
+        "apartments": 202, 
+        "commercial": 2, 
+        "roof": 2, 
+        "church": 59
+    }, 
+    "features": [
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Sunday calls for football and wings! We got both, come watch the games with us and enjoy our\u2026 https://t.co/lKnqhD6Evs", 
+            "id": "797841086794334208", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T16:38:32", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "We open everyday at 11:30am. Check out our hours and make plans to come visit us. See you soon!\u2026 https://t.co/mHLbWqn5fK", 
+            "id": "797524420185194496", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T19:40:13", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Come try a \"toston con chicharron\" at Los Verdes NY, we're open until 5am and deliver until 3am.\u2026 https://t.co/jWHFLvEYaN", 
+            "id": "797517845617868800", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T19:14:06", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Thank you to all the Veterans who have served, we salute you! \ud83c\udf96\ud83c\udf96\ud83c\udf96\n #VeteransDay\u2026 https://t.co/OZlUMi3Yxb", 
+            "id": "797200022530101249", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T22:11:11", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Vuelve el tigre! Ven a ver el partido con nosotros y disfruta nuestros especiales.\u2026 https://t.co/Ad2PMuLuf1", 
+            "id": "796793829642924032", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T19:17:07", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Get out and vote then come get a delicious burger to celebrate, or come get the burger first to\u2026 https://t.co/hyNArCUnHE", 
+            "id": "796101758686732288", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-08T21:27:04", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Late night burger? Always available at Los Verdes NY #OpenLate #DeliverLate #LosVerdesNY #LVNY\u2026 https://t.co/phBaWTWdie", 
+            "id": "795101938408898560", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-06T03:14:09", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "This Warm Brownie Delight is for you! \ud83d\udc4c\ud83c\udffbOnly at Los Verdes NY! 718-255-6600\n#LosVerdesNY #LVNY\u2026 https://t.co/ccgiLWAMma", 
+            "id": "794950230521167873", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-05T17:11:19", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "En la variedad esta el placer... \nWe offer you the best options for a unique burger experience,\u2026 https://t.co/AgDKaFQRr4", 
+            "id": "794631067475083265", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-04T20:03:04", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Get one of these babies delivered to your doorstep. Our #PerroVerde comes with not just one of\u2026 https://t.co/pISd2H5geG", 
+            "id": "789989761377308673", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-23T00:40:11", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Another year, Another A! \ud83d\udcaa\ud83c\udffb @ Los Verdes NY https://t.co/QxyPC6a1Js", 
+            "id": "789888475382157312", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-22T17:57:42", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Another year, Another A! \ud83d\udcaa\ud83c\udffb @ Los Verdes NY https://t.co/uMELjrLAnx", 
+            "id": "789887951626969088", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-22T17:55:37", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Our #Maicitos CANNOT be imitated! Many have tried, ALL have failed! Come see for yourself, we're\u2026 https://t.co/xN3NrlJ9qz", 
+            "id": "789598376719446016", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-21T22:44:57", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "There may or may not be a #SunnysideHunt Monster @losverdesny with an awesome local deal...!!??\u2026 https://t.co/pfM1NfQBmW", 
+            "id": "789522817423400960", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-21T17:44:42", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Take a peek at our menu, see something you like? Of course you do, we're open until 2am.\u2026 https://t.co/y1x7JjxJCf", 
+            "id": "789285404788789248", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-21T02:01:19", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Nice Weather, Good Beer, Great Burgers! We got it all! See you tonight! We'll be open and\u2026 https://t.co/peUNTpr4me", 
+            "id": "788493827665489920", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-18T21:35:52", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Come check us out we're located in #Sunnyside off of 47th St and Queens Blvd. Today we open\u2026 https://t.co/5r8WnO6ZqQ", 
+            "id": "787407447581483009", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T21:38:59", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "We're open until 5am today and deliver until 3am. Before or after your Friday night shenanigans\u2026 https://t.co/d2IFoEfWwt", 
+            "id": "787112933755068416", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T02:08:41", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Follow us on Snapchat, we'll be on there posting coupons and specials for our followers.\u2026 https://t.co/UY7UaQlg0V", 
+            "id": "787007847569694720", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-14T19:11:07", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "No caption need needed! #LosVerdesNY #LVNY #OpenLate #DeliverLate #Dessert #PineappleSensation\u2026 https://t.co/bkXFRbAKnp", 
+            "id": "786351141659480064", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:41:36", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "We use only the highest quality 100% Beef franks and imported Colombian Yellow Potatoes to make\u2026 https://t.co/IbXEl6qadR", 
+            "id": "786297088434925568", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T20:06:49", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "We know you can't always leave the office or home, we're here to help! Call us and we'll deliver\u2026 https://t.co/GKjTpIje3O", 
+            "id": "786246495460876288", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T16:45:46", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "There's still time for you to come get your 2X1 Milkshakes, we're open until 1am.\u2026 https://t.co/8jCclLYPSa", 
+            "id": "786245661511524353", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T16:42:28", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "We know you can't always leave the office or home, but we're here to help! Call us and we'll\u2026 https://t.co/nx22kCRev2", 
+            "id": "786245345311195136", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T16:41:12", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "There's still time for you to come get your 2X1 Milkshakes, we're open until 1am.\u2026 https://t.co/wFOZ4hFABd", 
+            "id": "785998283948879876", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T00:19:28", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "What's better than our very own Hawaiian Burger? Two of them! Come taste our take on Hawaiian\u2026 https://t.co/sd7S4AhHQU", 
+            "id": "784819528022851588", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-08T18:15:31", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "End of week happiness? Come celebrate with us with some amazing food and an ice cold beer, or\u2026 https://t.co/gTCrozIr90", 
+            "id": "784488445506883584", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-07T20:19:55", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "We recommend today's HOT NEW release of Que Raro by @feidmde featuring @jbalvin #QueRaro\u2026 https://t.co/QKHVikELtV", 
+            "id": "784442869029466112", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-07T17:18:48", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "We're set for tonight's Russia 2018 World Cup Qualifiers! Come get into the action while\u2026 https://t.co/qmZhbVxuEE", 
+            "id": "784130063507881985", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-06T20:35:50", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "We hand cut all our steaks daily on premises, always fresh and cooked to order. Because such\u2026 https://t.co/sArZz5aapi", 
+            "id": "784095429394857984", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T18:18:12", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "We're proud to be featured on @eldiariony 's  story this past Sunday about Colombia's cultural\u2026 https://t.co/wgpRkcfg79", 
+            "id": "783725732975505408", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-05T17:49:10", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Every Tuesday all of our delicious Milkshakes are 2X1. We're open until 1am today, make plans\u2026 https://t.co/cQ2vOzJdat", 
+            "id": "783362486045057024", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-04T17:45:45", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Want something different and delicious? Try one of our amazing quesadillas. These aren't your\u2026 https://t.co/i0R1NsuSWQ", 
+            "id": "782997042150768640", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-03T17:33:36", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Wings? Beer? Football? Futbol? At Los Verdes NY we have you covered! Come enjoy all the games\u2026 https://t.co/GjDjDDbXJ3", 
+            "id": "782589623591501824", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-02T14:34:40", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "You know you want one! Only at Los Verdes NY will you find this unique combination of flavors on\u2026 https://t.co/gXiM1hoi13", 
+            "id": "782253357209571330", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-01T16:18:28", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Had a Maicito lately? It's a unique concoction of Corn, Cheese, and Fresh Grilled Meats which\u2026 https://t.co/8ArqzXcnkw", 
+            "id": "781903330431737857", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-30T17:07:35", 
+            "coordinates": [
+                -73.91794193, 
+                40.74242291
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 29107.0, 
+                    "name": "Chesapeake House", 
+                    "osm_id": 248827297.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South", 
+                    "osm_id": 278326017.0
+                }
+            ], 
+            "text": "#Repost midastouch777 with repostapp\n\u30fb\u30fb\u30fb\nThe best hamburgers in NewYork #losverdesny #hamburger\u2026 https://t.co/40Zz6df8Yl", 
+            "id": "779087679589867520", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T22:39:12", 
+            "coordinates": [
+                -73.9184675, 
+                40.7421753
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Chesapeake House", 
+                    "The Caroline", 
+                    "Kips Bay Tower South"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "#Repost @sunnysideshines with repostapp\n\u30fb\u30fb\u30fb\nContest time! \ud83c\udf89 Sunnyside Restaurant Week starts\u2026 https://t.co/bnZ2zzDRzR", 
+            "id": "777898061871910912", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-19T15:52:05", 
+            "coordinates": [
+                -73.91794112, 
+                40.74242296
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "#Repost @sunnysideshines with repostapp\n\u30fb\u30fb\u30fb\nIt's party time!! \ud83c\udf89 Join us for the opening night\u2026 https://t.co/SL2xQXbvIS", 
+            "id": "775772246124167168", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-13T19:04:51", 
+            "coordinates": [
+                -73.91794112, 
+                40.74242296
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Vamos por la historia en Manaos.\nEsta noche nuestra Selecci\u00f3n Colombia se enfrenta al\u2026 https://t.co/Psod3CauOH", 
+            "id": "773279877264998401", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-06T22:01:04", 
+            "coordinates": [
+                -73.91794112, 
+                40.74242296
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "We guarantee you've never had a Grilled Chicken Burger like this! Come try it today or any of\u2026 https://t.co/VnprCSwEtB", 
+            "id": "772141843769335808", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-03T18:38:55", 
+            "coordinates": [
+                -73.91794112, 
+                40.74242296
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 29107.0, 
+                    "name": "Chesapeake House", 
+                    "osm_id": 248827297.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South", 
+                    "osm_id": 278326017.0
+                }
+            ], 
+            "text": "It\u2019s that time of the week again. It\u2019s 2x1 Milkshake Tuesday! \ud83c\udf6a\n\u30fb\u30fb\u30fb\u30fb\u30fb\u30fb\u30fb\u30fb\u30fb\n#MilkshakeTuesday\u2026 https://t.co/Dp3DeljDBf", 
+            "id": "763146849628917760", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-09T22:56:02", 
+            "coordinates": [
+                -73.918502, 
+                40.742177
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Chesapeake House", 
+                    "The Caroline", 
+                    "Kips Bay Tower South"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 29107.0, 
+                    "name": "Chesapeake House", 
+                    "osm_id": 248827297.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South", 
+                    "osm_id": 278326017.0
+                }
+            ], 
+            "text": "#Repost @sunnysideshines with repostapp\n\u30fb\u30fb\u30fb\nArepas, y'all!  The menu at Los Verdes always makes\u2026 https://t.co/55gJNGm2xt", 
+            "id": "762774123806396416", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-08T22:14:57", 
+            "coordinates": [
+                -73.918502, 
+                40.742177
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Chesapeake House", 
+                    "The Caroline", 
+                    "Kips Bay Tower South"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 29107.0, 
+                    "name": "Chesapeake House", 
+                    "osm_id": 248827297.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South", 
+                    "osm_id": 278326017.0
+                }
+            ], 
+            "text": "#Repost @yofannie with repostapp.\n\u30fb\u30fb\u30fb\nSign art season has sprung #biteme #eeeeeats #handjob @\u2026 https://t.co/I8aLnXU9Oa", 
+            "id": "735855724761382913", 
+            "favorite_count": 1, 
+            "created_at": "2016-05-26T15:30:50", 
+            "coordinates": [
+                -73.918502, 
+                40.742177
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Chesapeake House", 
+                    "The Caroline", 
+                    "Kips Bay Tower South"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 29107.0, 
+                    "name": "Chesapeake House", 
+                    "osm_id": 248827297.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South", 
+                    "osm_id": 278326017.0
+                }
+            ], 
+            "text": "What better way to enjoy today's wonderful weather than with a delicious sweet twist to an\u2026 https://t.co/WFjs5Vf6g2", 
+            "id": "735566565878337536", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-25T20:21:50", 
+            "coordinates": [
+                -73.918502, 
+                40.742177
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Chesapeake House", 
+                    "The Caroline", 
+                    "Kips Bay Tower South"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 86500.0, 
+                    "name": "St. George's Church", 
+                    "osm_id": 264752147.0
+                }
+            ], 
+            "text": "Craving a Bacon Maicito this Saturday afternoon?Come by LVNY &amp; enjoy the best Maicitos, period! #Maicitos #CornLovers http://t.co/l519A6FsWi", 
+            "id": "508308688608972801", 
+            "favorite_count": 1, 
+            "created_at": "2014-09-06T17:40:09", 
+            "coordinates": [
+                -73.87022501, 
+                40.73420573
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. George's Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South", 
+                    "osm_id": 278326017.0
+                }
+            ], 
+            "text": "2night is the rematch, Bra vs Col! Come watch this exciting match at LVNY &amp; enjoy our appetizers and beer specials. http://t.co/BGYTGuxdOJ", 
+            "id": "507972804420337664", 
+            "favorite_count": 0, 
+            "created_at": "2014-09-05T19:25:28", 
+            "coordinates": [
+                -73.91795469, 
+                40.7423472
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Kips Bay Tower South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Come try our unique version of a Quesadilla and we guarantee it will be your new favorite, only at LOS VERDES NY... http://t.co/9qAhoKrNaE", 
+            "id": "505124573843849216", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-28T22:47:37", 
+            "coordinates": [
+                -73.91799937, 
+                40.74244323
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16837.0, 
+                    "name": "The Aston", 
+                    "osm_id": 248143758.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87467.0, 
+                    "name": "Marble Collegiate Church", 
+                    "osm_id": 265042551.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100930.0, 
+                    "name": "The Horizon", 
+                    "osm_id": 278328260.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125726.0, 
+                    "name": "505W19", 
+                    "osm_id": 288767467.0
+                }
+            ], 
+            "text": "It's 2X1 Quesadilla Tuesday until 6pm. Come by or call for delivery &amp; taste a Quesadilla like you've never had before http://t.co/CFQpahz2qO", 
+            "id": "504318646383292416", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-26T17:25:09", 
+            "coordinates": [
+                -73.88407915, 
+                40.74550889
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Aston", 
+                    "London Towne House", 
+                    "The Horizon", 
+                    "505W19"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "There's still time to enjoy our 2 for 1 Hot Dog Special until 6pm today. Come in or call for delivery. 718-255-6600 http://t.co/ek1fmoQbfk", 
+            "id": "503978568331046912", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-25T18:53:48", 
+            "coordinates": [
+                -73.91793988, 
+                40.74248305
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 544.0, 
+                    "name": "Stevens Institute of Technology", 
+                    "osm_id": 26974143.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 758.0, 
+                    "name": "Manhattan Place", 
+                    "osm_id": 144177849.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 813.0, 
+                    "name": "Sky House", 
+                    "osm_id": 158858760.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16842.0, 
+                    "name": "Capitol at Chelsea", 
+                    "osm_id": 248143760.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88471.0, 
+                    "name": "The Anthem", 
+                    "osm_id": 265268122.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125728.0, 
+                    "name": "Chelsea Tower", 
+                    "osm_id": 287496552.0
+                }
+            ], 
+            "text": "It's time for lunch! Come enjoy Amazing Colombian fast food. #Choriperro #SalsaRosada #SalsadePi\u00f1a #PapasTrituradas http://t.co/iFcnuyRCIl", 
+            "id": "499953327292305408", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-14T16:18:56", 
+            "coordinates": [
+                -73.87728109, 
+                40.74492568
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Manhattan Place", 
+                    "Sky House", 
+                    "Windsor Court", 
+                    "Capitol at Chelsea", 
+                    "The Anthem", 
+                    "Chelsea Tower"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "office": 2, 
+                "apartments": 7
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 29107.0, 
+                    "name": "Chesapeake House", 
+                    "osm_id": 248827297.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South", 
+                    "osm_id": 278326017.0
+                }
+            ], 
+            "text": "Come by Los Verdes NY this afternoon for lunch and enjoy some Awesome Food in a Great Environment... http://t.co/9eaVemApmF", 
+            "id": "499614172146331648", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-13T17:51:15", 
+            "coordinates": [
+                -73.9178889, 
+                40.74228333
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Chesapeake House", 
+                    "The Caroline", 
+                    "Kips Bay Tower South"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 758.0, 
+                    "name": "Manhattan Place", 
+                    "osm_id": 144177849.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 813.0, 
+                    "name": "Sky House", 
+                    "osm_id": 158858760.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16842.0, 
+                    "name": "Capitol at Chelsea", 
+                    "osm_id": 248143760.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88471.0, 
+                    "name": "The Anthem", 
+                    "osm_id": 265268122.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 100971.0, 
+                    "name": "St. Vartan Cathedral", 
+                    "osm_id": 278326923.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }, 
+                {
+                    "type": "roof", 
+                    "id": 126349.0, 
+                    "name": "BP", 
+                    "osm_id": 351686264.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 126510.0, 
+                    "name": "Modcup Coffee", 
+                    "osm_id": 375890362.0
+                }
+            ], 
+            "text": "No dinner yet? Come to LVNY &amp; enjoy a late dinner with us. We have Great Food, Delicious Drinks, &amp; Amazing Desserts. http://t.co/snMqoYFs2Y", 
+            "id": "499365506953265153", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-13T01:23:09", 
+            "coordinates": [
+                -73.87730554, 
+                40.74508613
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Manhattan Place", 
+                    "Sky House", 
+                    "Capitol at Chelsea", 
+                    "777 Sixth Avenue", 
+                    "The Anthem"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "church": 4, 
+                "commercial": 2, 
+                "roof": 2, 
+                "apartments": 6
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Come watch James Rodriguez &amp; Real Madrid take on Sevilla at 2:30pm. 2X1 Beers &amp; Quesadillas until 6pm only at LVNY! http://t.co/yx6xmNpnp4", 
+            "id": "499222030966095873", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-12T15:53:01", 
+            "coordinates": [
+                -73.91792414, 
+                40.74247028
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 544.0, 
+                    "name": "Stevens Institute of Technology", 
+                    "osm_id": 26974143.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87455.0, 
+                    "name": "Instrata NoMad", 
+                    "osm_id": 265042538.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88034.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159234.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88063.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 265159233.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88471.0, 
+                    "name": "The Anthem", 
+                    "osm_id": 265268122.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 122434.0, 
+                    "name": "LaGuardia Community College", 
+                    "osm_id": 280627828.0
+                }
+            ], 
+            "text": "At LVNY we have something for everyone. If you're looking to eat healthy, we have Amazing Salads &amp; Grilled Meats... http://t.co/LcdJgEKWds", 
+            "id": "498971044712300544", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-11T23:15:42", 
+            "coordinates": [
+                -73.87748938, 
+                40.7446184
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "LaGuardia Community College", 
+                    "LaGuardia Community College", 
+                    "Public School 116", 
+                    "LaGuardia Community College"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5, 
+                "office": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Don't have time to go out for lunch? We deliver, call us &amp; enjoy today's Lunch Special, 2 for 1 Hot Dogs until 6pm! http://t.co/JyYd7RAH79", 
+            "id": "498872720374112256", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-11T16:44:59", 
+            "coordinates": [
+                -73.91792101, 
+                40.74246194
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Our Tostones Rellenos are made fresh to order with choice of Beef, Chicken, Colombian Sausage, Pork Belly, or Shrimp. http://t.co/UCjhlVODAa", 
+            "id": "497068153273585664", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-06T17:14:17", 
+            "coordinates": [
+                -73.91788146, 
+                40.74250033
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 29107.0, 
+                    "name": "Chesapeake House", 
+                    "osm_id": 248827297.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South", 
+                    "osm_id": 278326017.0
+                }
+            ], 
+            "text": "Have you ever tried Maicitos? Try them tonight at LVNY! #CornLikeNoOther #HomeMadeSauces  #Steak #Bacon #Chicken http://t.co/ruTenqqSaN", 
+            "id": "496779981293617152", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-05T22:09:12", 
+            "coordinates": [
+                -73.91794916, 
+                40.74215404
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Chesapeake House", 
+                    "The Caroline", 
+                    "Kips Bay Tower South"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Missed Lunch? You still have time to take advantage of todays lunch special, 2 for 1 Chicken Quesadillas until 6pm. http://t.co/kSEtBMH0B9", 
+            "id": "496737781931319296", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-05T19:21:30", 
+            "coordinates": [
+                -73.91800348, 
+                40.74249443
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Have you ever had Colombian Fast Food? You're missing out, come to Los Verdes NY today &amp; experience something new... http://t.co/nRe8WcExGg", 
+            "id": "496329779663372288", 
+            "favorite_count": 1, 
+            "created_at": "2014-08-04T16:20:15", 
+            "coordinates": [
+                -73.91805477, 
+                40.74245613
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Come by today or call for delivery &amp; enjoy our 2 for 1 Chicken Maicitos until 6pm. Corn like you've never had before! http://t.co/KFg7axnH3f", 
+            "id": "494515395147993089", 
+            "favorite_count": 0, 
+            "created_at": "2014-07-30T16:10:32", 
+            "coordinates": [
+                -73.91803372, 
+                40.74247255
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 29107.0, 
+                    "name": "Chesapeake House", 
+                    "osm_id": 248827297.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South", 
+                    "osm_id": 278326017.0
+                }
+            ], 
+            "text": "2 X 1 Chicken Quesadillas Lunch Special until 6pm. Our Quesadillas are like no other, fall in love with them today! http://t.co/GDdZcP8Or2", 
+            "id": "494158910211624960", 
+            "favorite_count": 0, 
+            "created_at": "2014-07-29T16:33:59", 
+            "coordinates": [
+                -73.91774582, 
+                40.74227386
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Chesapeake House", 
+                    "The Caroline", 
+                    "Kips Bay Tower South"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "@queensbotanicl @YelpQueens @SocratesPark @MoMAPS1  Remember that on Monday's we have 2X1 Hot Dogs until 6pm! Come celebrate with us! #LVNY", 
+            "id": "484739342519115776", 
+            "favorite_count": 1, 
+            "created_at": "2014-07-03T16:43:59", 
+            "coordinates": [
+                -73.91800125, 
+                40.74244976
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "Today's World Cup Games @LVNY feat Awesome Beer Specials w/ your choice of our new Sliders, Mini Hot Dogs, &amp; Wings. http://t.co/LWAFwn6vnb", 
+            "id": "477484661837266945", 
+            "favorite_count": 0, 
+            "created_at": "2014-06-13T16:16:29", 
+            "coordinates": [
+                -73.91803354, 
+                40.74249734
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South", 
+                    "osm_id": 278326017.0
+                }
+            ], 
+            "text": "Check out our World Cup Beer Bucket/ Appetizer Specials, don't miss out! #LVNY #LosVerdesNY #AwesomeFood #Brazil2014 http://t.co/uw2WZQnUfN", 
+            "id": "473556344734097409", 
+            "favorite_count": 0, 
+            "created_at": "2014-06-02T20:06:45", 
+            "coordinates": [
+                -73.91806436, 
+                40.74238239
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Kips Bay Tower South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87138.0, 
+                    "name": "Habitat", 
+                    "osm_id": 264764194.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87157.0, 
+                    "name": "Saint Stephen's Church", 
+                    "osm_id": 264764183.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 122073.0, 
+                    "name": "Hunters Point South", 
+                    "osm_id": 280623221.0
+                }
+            ], 
+            "text": "We are ready for the World Cup, come take a pic w/ the Trophy and post it using #LVNYWorldCup for a chance to win it! http://t.co/BazsXaHiFC", 
+            "id": "472785456912801792", 
+            "favorite_count": 0, 
+            "created_at": "2014-05-31T17:03:31", 
+            "coordinates": [
+                -73.91800613, 
+                40.7424875
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline", 
+                    "Habitat", 
+                    "Hunters Point South"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

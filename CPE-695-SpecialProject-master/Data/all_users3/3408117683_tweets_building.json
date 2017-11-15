@@ -1,0 +1,464 @@
+{
+    "total_favorite_count": 616, 
+    "followers_count": 91, 
+    "total_tweets": 12, 
+    "user_id": 3408117683, 
+    "screen_name": "boreloop", 
+    "friends_count": 939, 
+    "buildings": {
+        "manufacture": 2, 
+        "school": 2, 
+        "industrial": 3, 
+        "apartments": 10, 
+        "university": 3, 
+        "commercial": 7, 
+        "church": 3, 
+        "retail": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "More from #NYCC (I swear I'll stop after #Halloween). Ran into this cute #cruelladevil outside\u2026 https://t.co/v1u1b8KQuj", 
+            "id": "790735218424614912", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-25T02:02:21", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "More NYCC pics. That time I met @yayahan. #NYCC #ScarletWitch #Marvel #MarvelComics #CaptainCold\u2026 https://t.co/QKCk9B0V1b", 
+            "id": "787891191580950532", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-17T05:41:13", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Ran into #CassieHack from #HackSlash. I don't watch it put cosplays like this might convince me.\u2026 https://t.co/aFAinvonpm", 
+            "id": "786359381554188289", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-13T00:14:21", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Found a pretty cool #roadhog on the show floor. #NYCC #Overwatch #cosplay #Blizzard #NYC @ NYC\u2026 https://t.co/aK5hF7YfDV", 
+            "id": "786348347309170688", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:30:30", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm", 
+                    "osm_id": 264656621.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }
+            ], 
+            "text": "#CaptainCold teams up with #Zoom to take down the #Flash. Pretty sure this happened in season 2.\u2026 https://t.co/QYDF9dPnR8", 
+            "id": "784931977371811848", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-09T01:42:21", 
+            "coordinates": [
+                -73.9932199, 
+                40.7525199
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Ohm", 
+                    "The Olivia"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Oh My God, It's Jason Bourne #nycc #MGSTheater #MattDamon #thegreatwall @ Madison Square Garden https://t.co/bSg8XNg6eu", 
+            "id": "784811671378333696", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-08T17:44:18", 
+            "coordinates": [
+                -73.9923478, 
+                40.7506734
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 2821.0, 
+                    "name": "Domino Sugar Refinery", 
+                    "osm_id": 241823871.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36636.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 249848313.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }
+            ], 
+            "text": "alexandrawarrick on the Williamsburg coast; blue edition. #Williamsburg #NYC #Brooklyn #vscocam\u2026 https://t.co/fA9HkUtKLx", 
+            "id": "764924778733973504", 
+            "favorite_count": 19, 
+            "created_at": "2016-08-14T20:40:53", 
+            "coordinates": [
+                -73.95767056, 
+                40.71467017
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Domino Sugar Refinery"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2, 
+                "commercial": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 2821.0, 
+                    "name": "Domino Sugar Refinery", 
+                    "osm_id": 241823871.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36636.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 249848313.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }
+            ], 
+            "text": "My vain attempt to make NY smokestacks look like they're from Cuba. Thanks to alexandrawarrick\u2026 https://t.co/iwzJ54hdSM", 
+            "id": "764876864057905152", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-14T17:30:29", 
+            "coordinates": [
+                -73.95767056, 
+                40.71467017
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Domino Sugar Refinery"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2, 
+                "commercial": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 35470.0, 
+                    "name": "Urban Glass House", 
+                    "osm_id": 249664651.0
+                }
+            ], 
+            "text": "When you refuse to let your dreams be dreams. #Allmymovies #NYC #AngelikaFilmCenter #shialabeouf\u2026 https://t.co/qVXNEQwvgb", 
+            "id": "665004296832983040", 
+            "favorite_count": 1, 
+            "created_at": "2015-11-13T03:12:34", 
+            "coordinates": [
+                -73.9969864, 
+                40.7258911
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "manufacture", 
+                    "id": 29647.0, 
+                    "name": "Window Fix", 
+                    "osm_id": 249604545.0
+                }
+            ], 
+            "text": "Pale Red Dot #SuperBloodMoon #nofilter #shittycamera #Brooklyn #CarlSagan @ Prospect Park, New York, Ny https://t.co/GeFylGhhgi", 
+            "id": "648332323633668097", 
+            "favorite_count": 0, 
+            "created_at": "2015-09-28T03:04:06", 
+            "coordinates": [
+                -73.96459819, 
+                40.65393945
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "manufacture", 
+                "name": [
+                    "Window Fix"
+                ]
+            }, 
+            "building_frequency": {
+                "manufacture": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41", 
+                    "osm_id": 250474273.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126562.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377078046.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126566.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377077898.0
+                }
+            ], 
+            "text": "Daredevil photoshoot preview #nofilter  #yesIseethetag #dgaf #photogfriends #Daredevil #Marvel\u2026 https://t.co/owJZFnP0LW", 
+            "id": "640010205347102720", 
+            "favorite_count": 0, 
+            "created_at": "2015-09-05T03:54:58", 
+            "coordinates": [
+                -73.99060588, 
+                40.73560452
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "The New School University Center", 
+                    "The New School University Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "university": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Watching #TL take #TIP from behind. #LCS #LeagueOfLegends #TLWIN #MadisonSquareGarden #NYC #nofilter\u2026 https://t.co/nhpiJ3PqSP", 
+            "id": "635314881160474624", 
+            "favorite_count": 0, 
+            "created_at": "2015-08-23T04:57:25", 
+            "coordinates": [
+                -73.99278645, 
+                40.75052792
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

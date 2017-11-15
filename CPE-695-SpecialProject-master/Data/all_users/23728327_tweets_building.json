@@ -1,0 +1,4481 @@
+{
+    "total_favorite_count": 308, 
+    "total_tweets": 174, 
+    "screen_name": "JohnDelfino", 
+    "friends_count": 999, 
+    "followers_count": 332, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986, 
+                    40.747
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 159871578.0, 
+                    "type": "yes", 
+                    "id": 821.0, 
+                    "name": "Tower 31"
+                }, 
+                {
+                    "osm_id": 182240448.0, 
+                    "type": "apartments", 
+                    "id": 901.0, 
+                    "name": "Castle Point Apartments"
+                }, 
+                {
+                    "osm_id": 236107988.0, 
+                    "type": "yes", 
+                    "id": 1189.0, 
+                    "name": "Eventi"
+                }, 
+                {
+                    "osm_id": 264627649.0, 
+                    "type": "yes", 
+                    "id": 84230.0, 
+                    "name": "Pier 60"
+                }, 
+                {
+                    "osm_id": 264627647.0, 
+                    "type": "yes", 
+                    "id": 84420.0, 
+                    "name": "Pier 61"
+                }, 
+                {
+                    "osm_id": 264651216.0, 
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall"
+                }, 
+                {
+                    "osm_id": 264651244.0, 
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center"
+                }, 
+                {
+                    "osm_id": 264651245.0, 
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center"
+                }, 
+                {
+                    "osm_id": 264651212.0, 
+                    "type": "dormitory", 
+                    "id": 85729.0, 
+                    "name": "Nagler Hall"
+                }, 
+                {
+                    "osm_id": 264669366.0, 
+                    "type": "yes", 
+                    "id": 86068.0, 
+                    "name": "Saint Eleftherios"
+                }, 
+                {
+                    "osm_id": 264669362.0, 
+                    "type": "yes", 
+                    "id": 86126.0, 
+                    "name": "Penn South Housing"
+                }, 
+                {
+                    "osm_id": 264685212.0, 
+                    "type": "yes", 
+                    "id": 86347.0, 
+                    "name": "DoubleTree"
+                }, 
+                {
+                    "osm_id": 265260919.0, 
+                    "type": "yes", 
+                    "id": 88279.0, 
+                    "name": "Kaskel and Kaskel Building"
+                }, 
+                {
+                    "osm_id": 265260929.0, 
+                    "type": "yes", 
+                    "id": 88292.0, 
+                    "name": "Hyatt Midtown"
+                }, 
+                {
+                    "osm_id": 400535611.0, 
+                    "type": "yes", 
+                    "id": 131032.0, 
+                    "name": "Monroe Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Guys, Government Inspector is the #calarts advertisement photo this year, featuring my\u2026 https://t.co/CPpfFGL0cL", 
+                "created_at": "2016-11-11T21:46:49", 
+                "retweet_count": 0, 
+                "id": "797193889287389184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6797333, 
+                    41.43013
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#pregnant #wife @ Carmel, Town of https://t.co/SKK2T5B6WN", 
+                "created_at": "2016-10-01T02:00:53", 
+                "retweet_count": 0, 
+                "id": "782037537384755201", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98644, 
+                    40.75839
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 163474780.0, 
+                    "type": "yes", 
+                    "id": 859.0, 
+                    "name": "New York Marriott Marquis"
+                }, 
+                {
+                    "osm_id": 263194427.0, 
+                    "type": "yes", 
+                    "id": 83624.0, 
+                    "name": "420 West 42nd Street"
+                }, 
+                {
+                    "osm_id": 266033995.0, 
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School"
+                }, 
+                {
+                    "osm_id": 266034023.0, 
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower"
+                }, 
+                {
+                    "osm_id": 266034045.0, 
+                    "type": "yes", 
+                    "id": 93147.0, 
+                    "name": "InterContinental New York Times Square"
+                }, 
+                {
+                    "osm_id": 266149299.0, 
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre"
+                }, 
+                {
+                    "osm_id": 266149300.0, 
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre"
+                }, 
+                {
+                    "osm_id": 266149302.0, 
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149328.0, 
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Because sometimes you just need to order your favorite #peanutbutter online because you can't\u2026 https://t.co/bcX0i23SSV", 
+                "created_at": "2016-09-29T18:28:13", 
+                "retweet_count": 0, 
+                "id": "781561234982334465", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Everyone's all obsessed with #pokemongo and I'm sitting here finally completing my dream of\u2026 https://t.co/6kuN0JIDMa", 
+                "created_at": "2016-07-20T14:22:28", 
+                "retweet_count": 0, 
+                "id": "755769851323506689", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6797333, 
+                    41.43013
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#homemade #personalpizza. Took all day but totally worth it. Homemade #dough, #fresh #tomatoes,\u2026 https://t.co/vmirjUH7w8", 
+                "created_at": "2016-07-18T00:25:07", 
+                "retweet_count": 0, 
+                "id": "754834348705128449", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9083, 
+                    40.77476
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 52171596.0, 
+                    "type": "yes", 
+                    "id": 606.0, 
+                    "name": "Super 8 North Bergen"
+                }, 
+                {
+                    "osm_id": 269224896.0, 
+                    "type": "apartments", 
+                    "id": 98140.0, 
+                    "name": "The Park Millennium"
+                }, 
+                {
+                    "osm_id": 269229979.0, 
+                    "type": "yes", 
+                    "id": 98151.0, 
+                    "name": "Congregation Sherith Israel"
+                }, 
+                {
+                    "osm_id": 371373555.0, 
+                    "type": "motel", 
+                    "id": 126438.0, 
+                    "name": "Fountain Motel"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's been a while. Feels good. #writing #creativity #beerhelps @ Astoria Bier and Cheese - Ditmars https://t.co/iZ342bQT3u", 
+                "created_at": "2016-06-18T17:27:56", 
+                "retweet_count": 0, 
+                "id": "744220111788249088", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98312556, 
+                    40.77246141
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 193612488.0, 
+                    "type": "yes", 
+                    "id": 966.0, 
+                    "name": "CJ Korea Express"
+                }, 
+                {
+                    "osm_id": 193612487.0, 
+                    "type": "yes", 
+                    "id": 968.0, 
+                    "name": "1000 Castle Road"
+                }, 
+                {
+                    "osm_id": 265354534.0, 
+                    "type": "yes", 
+                    "id": 90615.0, 
+                    "name": "Metropolitan Opera House"
+                }, 
+                {
+                    "osm_id": 265354527.0, 
+                    "type": "yes", 
+                    "id": 90622.0, 
+                    "name": "David Geffen Hall"
+                }, 
+                {
+                    "osm_id": 269210910.0, 
+                    "type": "yes", 
+                    "id": 97958.0, 
+                    "name": "West 59th Street Generating Station"
+                }, 
+                {
+                    "osm_id": 269211267.0, 
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School"
+                }, 
+                {
+                    "osm_id": 279480829.0, 
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#photographer #moviedate @bridgerep pre-show at #lincolncenter doing his thing. @ Lincoln Center https://t.co/ATyy2C1CnZ", 
+                "created_at": "2016-05-06T05:49:17", 
+                "retweet_count": 0, 
+                "id": "728461611711631360", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.03255962, 
+                    40.72663925
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 375874980.0, 
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#latergram of the awesome #newyorkcity #skyline #view I had on the roof last night in\u2026 https://t.co/wYruSQ3jNT", 
+                "created_at": "2016-03-22T13:49:05", 
+                "retweet_count": 0, 
+                "id": "712274906839384065", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.03255962, 
+                    40.72663925
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 375874980.0, 
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#jerseycity #skyline through a pane of broken glass. @ Newport Waterfront https://t.co/57u4exEKL7", 
+                "created_at": "2016-03-21T23:33:19", 
+                "retweet_count": 0, 
+                "id": "712059544537579521", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91797776, 
+                    40.76881885
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 167923911.0, 
+                    "type": "yes", 
+                    "id": 884.0, 
+                    "name": "Time Warner Center"
+                }, 
+                {
+                    "osm_id": 193611218.0, 
+                    "type": "yes", 
+                    "id": 991.0, 
+                    "name": "Port Logistics Group"
+                }, 
+                {
+                    "osm_id": 193611223.0, 
+                    "type": "yes", 
+                    "id": 992.0, 
+                    "name": "Twin Med"
+                }, 
+                {
+                    "osm_id": 262349420.0, 
+                    "type": "apartments", 
+                    "id": 83622.0, 
+                    "name": "Coliseum Park Apartments South"
+                }, 
+                {
+                    "osm_id": 265355139.0, 
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails"
+                }, 
+                {
+                    "osm_id": 266874001.0, 
+                    "type": "apartments", 
+                    "id": 94916.0, 
+                    "name": "The Morad Diplomat"
+                }, 
+                {
+                    "osm_id": 266877908.0, 
+                    "type": "church", 
+                    "id": 95109.0, 
+                    "name": "Saint John the Martyr Church"
+                }, 
+                {
+                    "osm_id": 266886533.0, 
+                    "type": "yes", 
+                    "id": 95460.0, 
+                    "name": "Permanent Mission of the Republic of Serbia to the United Nations"
+                }, 
+                {
+                    "osm_id": 266887377.0, 
+                    "type": "yes", 
+                    "id": 95515.0, 
+                    "name": "City University of New York Hunter College"
+                }, 
+                {
+                    "osm_id": 269201968.0, 
+                    "type": "yes", 
+                    "id": 97938.0, 
+                    "name": "Harborview Terrace I"
+                }, 
+                {
+                    "osm_id": 284878244.0, 
+                    "type": "apartments", 
+                    "id": 125621.0, 
+                    "name": "The Octagon"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#bread #progress @ Astoria, Queens https://t.co/6NmJOzDagE", 
+                "created_at": "2016-03-21T04:21:05", 
+                "retweet_count": 0, 
+                "id": "711769577139609600", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.8567, 
+                    41.1651
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Some delicious #pizza made with paul_delfino and grandpa -- three #generations, six #pizzas,\u2026 https://t.co/3raaZHv5mt", 
+                "created_at": "2016-03-19T21:57:55", 
+                "retweet_count": 0, 
+                "id": "711310760216027137", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91797776, 
+                    40.76881885
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 167923911.0, 
+                    "type": "yes", 
+                    "id": 884.0, 
+                    "name": "Time Warner Center"
+                }, 
+                {
+                    "osm_id": 193611218.0, 
+                    "type": "yes", 
+                    "id": 991.0, 
+                    "name": "Port Logistics Group"
+                }, 
+                {
+                    "osm_id": 193611223.0, 
+                    "type": "yes", 
+                    "id": 992.0, 
+                    "name": "Twin Med"
+                }, 
+                {
+                    "osm_id": 262349420.0, 
+                    "type": "apartments", 
+                    "id": 83622.0, 
+                    "name": "Coliseum Park Apartments South"
+                }, 
+                {
+                    "osm_id": 265355139.0, 
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails"
+                }, 
+                {
+                    "osm_id": 266874001.0, 
+                    "type": "apartments", 
+                    "id": 94916.0, 
+                    "name": "The Morad Diplomat"
+                }, 
+                {
+                    "osm_id": 266877908.0, 
+                    "type": "church", 
+                    "id": 95109.0, 
+                    "name": "Saint John the Martyr Church"
+                }, 
+                {
+                    "osm_id": 266886533.0, 
+                    "type": "yes", 
+                    "id": 95460.0, 
+                    "name": "Permanent Mission of the Republic of Serbia to the United Nations"
+                }, 
+                {
+                    "osm_id": 266887377.0, 
+                    "type": "yes", 
+                    "id": 95515.0, 
+                    "name": "City University of New York Hunter College"
+                }, 
+                {
+                    "osm_id": 269201968.0, 
+                    "type": "yes", 
+                    "id": 97938.0, 
+                    "name": "Harborview Terrace I"
+                }, 
+                {
+                    "osm_id": 284878244.0, 
+                    "type": "apartments", 
+                    "id": 125621.0, 
+                    "name": "The Octagon"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy Irish. #slainte #saintpatricksday @ Astoria, Queens https://t.co/6XQKhWBofs", 
+                "created_at": "2016-03-17T23:18:05", 
+                "retweet_count": 0, 
+                "id": "710606161142288384", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91797776, 
+                    40.76881885
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 167923911.0, 
+                    "type": "yes", 
+                    "id": 884.0, 
+                    "name": "Time Warner Center"
+                }, 
+                {
+                    "osm_id": 193611218.0, 
+                    "type": "yes", 
+                    "id": 991.0, 
+                    "name": "Port Logistics Group"
+                }, 
+                {
+                    "osm_id": 193611223.0, 
+                    "type": "yes", 
+                    "id": 992.0, 
+                    "name": "Twin Med"
+                }, 
+                {
+                    "osm_id": 262349420.0, 
+                    "type": "apartments", 
+                    "id": 83622.0, 
+                    "name": "Coliseum Park Apartments South"
+                }, 
+                {
+                    "osm_id": 265355139.0, 
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails"
+                }, 
+                {
+                    "osm_id": 266874001.0, 
+                    "type": "apartments", 
+                    "id": 94916.0, 
+                    "name": "The Morad Diplomat"
+                }, 
+                {
+                    "osm_id": 266877908.0, 
+                    "type": "church", 
+                    "id": 95109.0, 
+                    "name": "Saint John the Martyr Church"
+                }, 
+                {
+                    "osm_id": 266886533.0, 
+                    "type": "yes", 
+                    "id": 95460.0, 
+                    "name": "Permanent Mission of the Republic of Serbia to the United Nations"
+                }, 
+                {
+                    "osm_id": 266887377.0, 
+                    "type": "yes", 
+                    "id": 95515.0, 
+                    "name": "City University of New York Hunter College"
+                }, 
+                {
+                    "osm_id": 269201968.0, 
+                    "type": "yes", 
+                    "id": 97938.0, 
+                    "name": "Harborview Terrace I"
+                }, 
+                {
+                    "osm_id": 284878244.0, 
+                    "type": "apartments", 
+                    "id": 125621.0, 
+                    "name": "The Octagon"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#blackandblue. Enjoying my @breweryommegang #taketheblackstout while watching the @nyrangers win\u2026 https://t.co/3qkvg59zv1", 
+                "created_at": "2016-03-05T02:10:12", 
+                "retweet_count": 0, 
+                "id": "705938431885631488", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.16861111, 
+                    40.6925
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hard to see, but @delta and @makeawishintl have set up a receiving line for a little girl whose\u2026 https://t.co/J9XV4DggXS", 
+                "created_at": "2016-02-22T18:35:37", 
+                "retweet_count": 0, 
+                "id": "701837765898534912", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91797776, 
+                    40.76881885
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 167923911.0, 
+                    "type": "yes", 
+                    "id": 884.0, 
+                    "name": "Time Warner Center"
+                }, 
+                {
+                    "osm_id": 193611218.0, 
+                    "type": "yes", 
+                    "id": 991.0, 
+                    "name": "Port Logistics Group"
+                }, 
+                {
+                    "osm_id": 193611223.0, 
+                    "type": "yes", 
+                    "id": 992.0, 
+                    "name": "Twin Med"
+                }, 
+                {
+                    "osm_id": 262349420.0, 
+                    "type": "apartments", 
+                    "id": 83622.0, 
+                    "name": "Coliseum Park Apartments South"
+                }, 
+                {
+                    "osm_id": 265355139.0, 
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails"
+                }, 
+                {
+                    "osm_id": 266874001.0, 
+                    "type": "apartments", 
+                    "id": 94916.0, 
+                    "name": "The Morad Diplomat"
+                }, 
+                {
+                    "osm_id": 266877908.0, 
+                    "type": "church", 
+                    "id": 95109.0, 
+                    "name": "Saint John the Martyr Church"
+                }, 
+                {
+                    "osm_id": 266886533.0, 
+                    "type": "yes", 
+                    "id": 95460.0, 
+                    "name": "Permanent Mission of the Republic of Serbia to the United Nations"
+                }, 
+                {
+                    "osm_id": 266887377.0, 
+                    "type": "yes", 
+                    "id": 95515.0, 
+                    "name": "City University of New York Hunter College"
+                }, 
+                {
+                    "osm_id": 269201968.0, 
+                    "type": "yes", 
+                    "id": 97938.0, 
+                    "name": "Harborview Terrace I"
+                }, 
+                {
+                    "osm_id": 284878244.0, 
+                    "type": "apartments", 
+                    "id": 125621.0, 
+                    "name": "The Octagon"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Not bad for a first try. #artisan #sourdough #bread at #home. @ Astoria, Queens https://t.co/LCv5lLlthW", 
+                "created_at": "2016-02-21T19:25:48", 
+                "retweet_count": 0, 
+                "id": "701488007476543488", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98988, 
+                    40.7265
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247850388.0, 
+                    "type": "yes", 
+                    "id": 10982.0, 
+                    "name": "Broadway Arches"
+                }, 
+                {
+                    "osm_id": 249664800.0, 
+                    "type": "yes", 
+                    "id": 35483.0, 
+                    "name": "Holland Tunnel Ventilation Tower"
+                }, 
+                {
+                    "osm_id": 375874980.0, 
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#thankyouforwaiting #rehearsal with @bridgerep kasey.brown.58 nfoster89 zingzinga.\u2026 https://t.co/Oh9aRA6wIy", 
+                "created_at": "2016-02-10T20:42:33", 
+                "retweet_count": 0, 
+                "id": "697521056341430272", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98845, 
+                    40.756786
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 58821294.0, 
+                    "type": "yes", 
+                    "id": 610.0, 
+                    "name": "15X Tollgate"
+                }, 
+                {
+                    "osm_id": 108160358.0, 
+                    "type": "yes", 
+                    "id": 662.0, 
+                    "name": "Port Authority Bus Terminal"
+                }, 
+                {
+                    "osm_id": 265282692.0, 
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street"
+                }, 
+                {
+                    "osm_id": 266143298.0, 
+                    "type": "yes", 
+                    "id": 93132.0, 
+                    "name": "AMC Empire 25"
+                }, 
+                {
+                    "osm_id": 266143341.0, 
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#loveofmylife in my #hat. @ B.B. King Blues Club &amp; Grill https://t.co/7GHwYBPP1O", 
+                "created_at": "2016-01-31T03:12:20", 
+                "retweet_count": 0, 
+                "id": "693632880384348161", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91911687, 
+                    40.76897257
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 150520452.0, 
+                    "type": "yes", 
+                    "id": 787.0, 
+                    "name": "Trump International Hotel"
+                }, 
+                {
+                    "osm_id": 167923911.0, 
+                    "type": "yes", 
+                    "id": 884.0, 
+                    "name": "Time Warner Center"
+                }, 
+                {
+                    "osm_id": 193611218.0, 
+                    "type": "yes", 
+                    "id": 991.0, 
+                    "name": "Port Logistics Group"
+                }, 
+                {
+                    "osm_id": 265355139.0, 
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails"
+                }, 
+                {
+                    "osm_id": 266874001.0, 
+                    "type": "apartments", 
+                    "id": 94916.0, 
+                    "name": "The Morad Diplomat"
+                }, 
+                {
+                    "osm_id": 266873974.0, 
+                    "type": "yes", 
+                    "id": 95089.0, 
+                    "name": "Bohemian National Hall"
+                }, 
+                {
+                    "osm_id": 266887387.0, 
+                    "type": "yes", 
+                    "id": 95491.0, 
+                    "name": "Permanent Mission of the Republic of Mali to the United Nations"
+                }, 
+                {
+                    "osm_id": 266887377.0, 
+                    "type": "yes", 
+                    "id": 95515.0, 
+                    "name": "City University of New York Hunter College"
+                }, 
+                {
+                    "osm_id": 266887443.0, 
+                    "type": "yes", 
+                    "id": 95542.0, 
+                    "name": "Italian Cultural Institute of New York"
+                }, 
+                {
+                    "osm_id": 269201979.0, 
+                    "type": "yes", 
+                    "id": 97932.0, 
+                    "name": "CBS Broadcast Center"
+                }, 
+                {
+                    "osm_id": 280850929.0, 
+                    "type": "yes", 
+                    "id": 123610.0, 
+                    "name": "Weehawken Public Library"
+                }, 
+                {
+                    "osm_id": 284878244.0, 
+                    "type": "apartments", 
+                    "id": 125621.0, 
+                    "name": "The Octagon"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Because maybe... You're gonna be the one to #shave me... #wonderBeard bluebeardsusa @ Astoria,\u2026 https://t.co/LeGh9hihW0", 
+                "created_at": "2016-01-22T14:39:10", 
+                "retweet_count": 0, 
+                "id": "690544235649581057", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#WorldTradeCenter #JobSite #Selfie -- rocking that #PPE and #Westfield swag. What a gorgeous\u2026 https://t.co/OIG0d6702X", 
+                "created_at": "2016-01-18T18:51:08", 
+                "retweet_count": 0, 
+                "id": "689158097034547200", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.7875, 
+                    41.1364
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "For #Christmas my #dad paul_delfino is dressing up as @pharrell, and in the process he is\u2026 https://t.co/PWy5JSv5Ie", 
+                "created_at": "2015-12-25T19:19:09", 
+                "retweet_count": 0, 
+                "id": "680467837887066113", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93083333, 
+                    41.285
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"I know the stories, and I know the rhymes.\" #Antipasti and #TheNightmareBeforeChristmas. Yes I'm\u2026 https://t.co/JzsLh9gwln", 
+                "created_at": "2015-12-24T16:24:59", 
+                "retweet_count": 0, 
+                "id": "680061617787265025", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.11296782, 
+                    42.34234596
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "On the T. #ForHereAllAreOne @ Beacon Street, Brookline, Boston, Massachusetts, America https://t.co/4oU2D6evrK", 
+                "created_at": "2015-11-21T22:37:28", 
+                "retweet_count": 0, 
+                "id": "668196558228299777", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.07051541, 
+                    29.94279425
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Progress. @wwiimuseum I'll see you next week. (Too bad the #AV wasn't running). #lighting #design\u2026 https://t.co/XHb2817LDJ", 
+                "created_at": "2015-11-13T21:45:55", 
+                "retweet_count": 0, 
+                "id": "665284483197902852", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.07051541, 
+                    29.94279425
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Jungle #Selfie at the #museum. Hunting for #gantom fixtures but they sure can hide. #lighting\u2026 https://t.co/6RrfkmuhyB", 
+                "created_at": "2015-11-13T01:53:18", 
+                "retweet_count": 0, 
+                "id": "664984349213872128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.07051541, 
+                    29.94279425
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Full Speed Ahead! #museum #lighting #design #ship #wwii @ The National WWII Museum https://t.co/74J7GaxSWx", 
+                "created_at": "2015-11-10T23:27:01", 
+                "retweet_count": 0, 
+                "id": "664222759195668480", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.059, 
+                    29.9728
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Color Media for days. #lighting #design #museum @ New Orleans, Louisiana https://t.co/yvfbqObxWq", 
+                "created_at": "2015-11-09T20:39:11", 
+                "retweet_count": 0, 
+                "id": "663818137142448128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.77888889, 
+                    40.63972222
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm only human. #shakeshack #travel #airport @ John F. Kennedy International Airport https://t.co/ueqChtbqLl", 
+                "created_at": "2015-11-08T23:42:54", 
+                "retweet_count": 0, 
+                "id": "663501982213251072", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99278645, 
+                    40.75052792
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lucky to have been at the big @nyrangers win tonight with my dad, paul_delfino. Great game, great\u2026 https://t.co/8A3GW9rRvJ", 
+                "created_at": "2015-10-20T02:06:00", 
+                "retweet_count": 0, 
+                "id": "656290237711183872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99278645, 
+                    40.75052792
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Watching #hockey with the #wife when this gem rolled around. #love you #hottie! @ Madison Square Garden https://t.co/2CjdZc4SH9", 
+                "created_at": "2015-10-01T00:47:44", 
+                "retweet_count": 0, 
+                "id": "649385171364397056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91907196, 
+                    40.76900273
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 150520452.0, 
+                    "type": "yes", 
+                    "id": 787.0, 
+                    "name": "Trump International Hotel"
+                }, 
+                {
+                    "osm_id": 167923911.0, 
+                    "type": "yes", 
+                    "id": 884.0, 
+                    "name": "Time Warner Center"
+                }, 
+                {
+                    "osm_id": 193611218.0, 
+                    "type": "yes", 
+                    "id": 991.0, 
+                    "name": "Port Logistics Group"
+                }, 
+                {
+                    "osm_id": 262349419.0, 
+                    "type": "apartments", 
+                    "id": 83701.0, 
+                    "name": "Coliseum Park Apartments North"
+                }, 
+                {
+                    "osm_id": 265355139.0, 
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails"
+                }, 
+                {
+                    "osm_id": 266874001.0, 
+                    "type": "apartments", 
+                    "id": 94916.0, 
+                    "name": "The Morad Diplomat"
+                }, 
+                {
+                    "osm_id": 266873974.0, 
+                    "type": "yes", 
+                    "id": 95089.0, 
+                    "name": "Bohemian National Hall"
+                }, 
+                {
+                    "osm_id": 266887387.0, 
+                    "type": "yes", 
+                    "id": 95491.0, 
+                    "name": "Permanent Mission of the Republic of Mali to the United Nations"
+                }, 
+                {
+                    "osm_id": 266887443.0, 
+                    "type": "yes", 
+                    "id": 95542.0, 
+                    "name": "Italian Cultural Institute of New York"
+                }, 
+                {
+                    "osm_id": 266887464.0, 
+                    "type": "yes", 
+                    "id": 95567.0, 
+                    "name": "Henry P. Davison House"
+                }, 
+                {
+                    "osm_id": 269201979.0, 
+                    "type": "yes", 
+                    "id": 97932.0, 
+                    "name": "CBS Broadcast Center"
+                }, 
+                {
+                    "osm_id": 280850929.0, 
+                    "type": "yes", 
+                    "id": 123610.0, 
+                    "name": "Weehawken Public Library"
+                }, 
+                {
+                    "osm_id": 284878244.0, 
+                    "type": "apartments", 
+                    "id": 125621.0, 
+                    "name": "The Octagon"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Homemade #pizza. @cosmicchristina made the #dough and I did the rest. msm_cluney helped with the\u2026 https://t.co/rhIy6ecT6V", 
+                "created_at": "2015-09-06T00:27:08", 
+                "retweet_count": 0, 
+                "id": "640320290757677056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99950647, 
+                    40.69478358
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Our #anniversary #date got a little out of hand when the sky opened up on #BrooklynBridgePark while\u2026 https://t.co/pSlPUz5AGT", 
+                "created_at": "2015-08-16T21:52:58", 
+                "retweet_count": 0, 
+                "id": "633033736355979264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.0793357, 
+                    42.10673942
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Old Sturbridge Village Bake Shoppe. Makes me so happy to be back here after such a long absence. Also\u2026 https://t.co/gr4PI25yt8", 
+                "created_at": "2015-08-13T14:58:23", 
+                "retweet_count": 0, 
+                "id": "631842237681373184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97064819, 
+                    40.75511915
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 42500733.0, 
+                    "type": "yes", 
+                    "id": 598.0, 
+                    "name": "383 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 86121621.0, 
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower"
+                }, 
+                {
+                    "osm_id": 137860913.0, 
+                    "type": "commercial", 
+                    "id": 691.0, 
+                    "name": "277 Park Avenue"
+                }, 
+                {
+                    "osm_id": 146220936.0, 
+                    "type": "commercial", 
+                    "id": 762.0, 
+                    "name": "Postum Building"
+                }, 
+                {
+                    "osm_id": 162004802.0, 
+                    "type": "commercial", 
+                    "id": 833.0, 
+                    "name": "HBO Headquarters"
+                }, 
+                {
+                    "osm_id": 164645790.0, 
+                    "type": "hotel", 
+                    "id": 868.0, 
+                    "name": "The Roosevelt Hotel"
+                }, 
+                {
+                    "osm_id": 265302062.0, 
+                    "type": "yes", 
+                    "id": 89194.0, 
+                    "name": "Bricken Textile Building"
+                }, 
+                {
+                    "osm_id": 265302059.0, 
+                    "type": "yes", 
+                    "id": 89198.0, 
+                    "name": "Bush Tower"
+                }, 
+                {
+                    "osm_id": 265302168.0, 
+                    "type": "yes", 
+                    "id": 89264.0, 
+                    "name": "The Knickerbocker Hotel"
+                }, 
+                {
+                    "osm_id": 265884380.0, 
+                    "type": "apartments", 
+                    "id": 92782.0, 
+                    "name": "Cosmopolitan"
+                }, 
+                {
+                    "osm_id": 265884399.0, 
+                    "type": "office", 
+                    "id": 92796.0, 
+                    "name": "780 Third Avenue"
+                }, 
+                {
+                    "osm_id": 265884394.0, 
+                    "type": "yes", 
+                    "id": 92798.0, 
+                    "name": "The Lexington"
+                }, 
+                {
+                    "osm_id": 266170661.0, 
+                    "type": "yes", 
+                    "id": 93428.0, 
+                    "name": "Engine 65"
+                }, 
+                {
+                    "osm_id": 266170820.0, 
+                    "type": "commercial", 
+                    "id": 93558.0, 
+                    "name": "530 5th Avenue"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Grasshopper #Tacos at #PompanoNYC. Some of our party were adventurous enough, like paul_delfino...\u2026 https://t.co/nedHsxjEeA", 
+                "created_at": "2015-07-26T23:11:53", 
+                "retweet_count": 0, 
+                "id": "625443449857265664", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97149511, 
+                    40.78083859
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Not-so-hidden treasures. #centralPark #CityHike @ Central Park West https://t.co/jBfGUij09O", 
+                "created_at": "2015-07-19T16:34:47", 
+                "retweet_count": 0, 
+                "id": "622806803936604160", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99916667, 
+                    40.6975
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#TBT to last week's surprise visit. msm_cluney, eamonpkelley and I enjoying #BrooklynBridgePark and\u2026 https://t.co/HD2gMTCITw", 
+                "created_at": "2015-07-16T20:55:59", 
+                "retweet_count": 0, 
+                "id": "621785371010015233", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99916667, 
+                    40.6975
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Bocce in #BrooklynBridgePark with msm_cluney and eamonpkelley cause we are #OldMen @ Brooklyn Bridge\u2026 https://t.co/sF7e0uEbAe", 
+                "created_at": "2015-07-12T14:36:42", 
+                "retweet_count": 0, 
+                "id": "620240371063386112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9859085, 
+                    40.7616386
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 164720439.0, 
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place"
+                }, 
+                {
+                    "osm_id": 265320987.0, 
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church"
+                }, 
+                {
+                    "osm_id": 265338414.0, 
+                    "type": "yes", 
+                    "id": 90287.0, 
+                    "name": "Belvedere Hotel"
+                }, 
+                {
+                    "osm_id": 265357840.0, 
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier"
+                }, 
+                {
+                    "osm_id": 265357850.0, 
+                    "type": "yes", 
+                    "id": 90786.0, 
+                    "name": "UPS"
+                }, 
+                {
+                    "osm_id": 266151919.0, 
+                    "type": "yes", 
+                    "id": 93244.0, 
+                    "name": "Saint Malachy Church"
+                }, 
+                {
+                    "osm_id": 279410766.0, 
+                    "type": "yes", 
+                    "id": 102038.0, 
+                    "name": "NJ02 Savvis Data Center"
+                }, 
+                {
+                    "osm_id": 347368357.0, 
+                    "type": "yes", 
+                    "id": 126321.0, 
+                    "name": "Tricera-Shops"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My #wife @cosmicchristina doesn't want to take a #selfie with me. What a lame-o. #datenight\u2026 https://t.co/dzuOFkPOAY", 
+                "created_at": "2015-07-02T22:56:08", 
+                "retweet_count": 0, 
+                "id": "616742176572198913", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91914854, 
+                    40.76959431
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 193612499.0, 
+                    "type": "yes", 
+                    "id": 970.0, 
+                    "name": "Repechage"
+                }, 
+                {
+                    "osm_id": 193611218.0, 
+                    "type": "yes", 
+                    "id": 991.0, 
+                    "name": "Port Logistics Group"
+                }, 
+                {
+                    "osm_id": 262349419.0, 
+                    "type": "apartments", 
+                    "id": 83701.0, 
+                    "name": "Coliseum Park Apartments North"
+                }, 
+                {
+                    "osm_id": 265344253.0, 
+                    "type": "university", 
+                    "id": 90267.0, 
+                    "name": "Edward Guiliano Global Center"
+                }, 
+                {
+                    "osm_id": 265343861.0, 
+                    "type": "apartments", 
+                    "id": 90269.0, 
+                    "name": "15 Central Park West"
+                }, 
+                {
+                    "osm_id": 265344256.0, 
+                    "type": "university", 
+                    "id": 90371.0, 
+                    "name": "New Technology Building"
+                }, 
+                {
+                    "osm_id": 265355142.0, 
+                    "type": "hospital", 
+                    "id": 90623.0, 
+                    "name": "Mount Sinai Roosevelt Hospital"
+                }, 
+                {
+                    "osm_id": 265355143.0, 
+                    "type": "apartments", 
+                    "id": 90626.0, 
+                    "name": "Two Columbus Avenue"
+                }, 
+                {
+                    "osm_id": 265355138.0, 
+                    "type": "yes", 
+                    "id": 90640.0, 
+                    "name": "Church of Saint Paul the Apostle"
+                }, 
+                {
+                    "osm_id": 266874646.0, 
+                    "type": "yes", 
+                    "id": 94932.0, 
+                    "name": "Jan Hus Church"
+                }, 
+                {
+                    "osm_id": 266900829.0, 
+                    "type": "commercial", 
+                    "id": 96402.0, 
+                    "name": "New York Health and Racquet Club"
+                }, 
+                {
+                    "osm_id": 269201979.0, 
+                    "type": "yes", 
+                    "id": 97932.0, 
+                    "name": "CBS Broadcast Center"
+                }, 
+                {
+                    "osm_id": 280850927.0, 
+                    "type": "school", 
+                    "id": 123617.0, 
+                    "name": "Woodrow Wilson School"
+                }, 
+                {
+                    "osm_id": 284878244.0, 
+                    "type": "apartments", 
+                    "id": 125621.0, 
+                    "name": "The Octagon"
+                }, 
+                {
+                    "osm_id": 371374266.0, 
+                    "type": "retail", 
+                    "id": 126439.0, 
+                    "name": "Taco Bell"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Beer and neighbors. #NewYorkLife #DelfinosTakeNY @ Astoria, Queens https://t.co/BIcWyt0tfT", 
+                "created_at": "2015-06-19T22:44:40", 
+                "retweet_count": 0, 
+                "id": "612028250022375425", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90537974, 
+                    40.77590715
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 193611211.0, 
+                    "type": "yes", 
+                    "id": 951.0, 
+                    "name": "Equinix NY4 Data Center"
+                }, 
+                {
+                    "osm_id": 266910261.0, 
+                    "type": "yes", 
+                    "id": 97382.0, 
+                    "name": "New York Auto Loans"
+                }, 
+                {
+                    "osm_id": 266930863.0, 
+                    "type": "yes", 
+                    "id": 97787.0, 
+                    "name": "Building at 133 East 80th Street"
+                }, 
+                {
+                    "osm_id": 269231594.0, 
+                    "type": "yes", 
+                    "id": 98257.0, 
+                    "name": "Vedanta Society of New York"
+                }, 
+                {
+                    "osm_id": 269233461.0, 
+                    "type": "yes", 
+                    "id": 98344.0, 
+                    "name": "West 65th Street Substation"
+                }, 
+                {
+                    "osm_id": 269247841.0, 
+                    "type": "apartments", 
+                    "id": 98414.0, 
+                    "name": "The Majestic"
+                }, 
+                {
+                    "osm_id": 281114242.0, 
+                    "type": "yes", 
+                    "id": 123613.0, 
+                    "name": "Macy's Secaucus Distribution Center"
+                }, 
+                {
+                    "osm_id": 281345438.0, 
+                    "type": "apartments", 
+                    "id": 125431.0, 
+                    "name": "Shore Towers"
+                }, 
+                {
+                    "osm_id": 366521782.0, 
+                    "type": "retail", 
+                    "id": 126397.0, 
+                    "name": "Columbia Park Theaters"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "J + C = #Bar. #DelfinosTakeNY #DrinkThemToDeath #WeAreDefinitelyHavingAParty @ The Delfino's https://t.co/kYnEHl0ZYG", 
+                "created_at": "2015-06-11T02:39:32", 
+                "retweet_count": 0, 
+                "id": "608825864357298177", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90537974, 
+                    40.77590715
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 193611211.0, 
+                    "type": "yes", 
+                    "id": 951.0, 
+                    "name": "Equinix NY4 Data Center"
+                }, 
+                {
+                    "osm_id": 266910261.0, 
+                    "type": "yes", 
+                    "id": 97382.0, 
+                    "name": "New York Auto Loans"
+                }, 
+                {
+                    "osm_id": 266930863.0, 
+                    "type": "yes", 
+                    "id": 97787.0, 
+                    "name": "Building at 133 East 80th Street"
+                }, 
+                {
+                    "osm_id": 269231594.0, 
+                    "type": "yes", 
+                    "id": 98257.0, 
+                    "name": "Vedanta Society of New York"
+                }, 
+                {
+                    "osm_id": 269233461.0, 
+                    "type": "yes", 
+                    "id": 98344.0, 
+                    "name": "West 65th Street Substation"
+                }, 
+                {
+                    "osm_id": 269247841.0, 
+                    "type": "apartments", 
+                    "id": 98414.0, 
+                    "name": "The Majestic"
+                }, 
+                {
+                    "osm_id": 281114242.0, 
+                    "type": "yes", 
+                    "id": 123613.0, 
+                    "name": "Macy's Secaucus Distribution Center"
+                }, 
+                {
+                    "osm_id": 281345438.0, 
+                    "type": "apartments", 
+                    "id": 125431.0, 
+                    "name": "Shore Towers"
+                }, 
+                {
+                    "osm_id": 366521782.0, 
+                    "type": "retail", 
+                    "id": 126397.0, 
+                    "name": "Columbia Park Theaters"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "New TV but nothing to put it on. #DelfinosTakeNY @ The Delfino's https://t.co/3q7Em0mHnW", 
+                "created_at": "2015-06-10T20:10:07", 
+                "retweet_count": 0, 
+                "id": "608727866826723329", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.87, 
+                    41.28
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Well, we made it. #DelfinosTakeNY @ Cortlandt Manor, New York https://t.co/eLuJL5JinP", 
+                "created_at": "2015-06-09T17:08:20", 
+                "retweet_count": 0, 
+                "id": "608319729988739073", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.19280542, 
+                    41.0527652
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nearly there. Enjoying my #eastCoast #treat: the #tastyKake. #tryIt #trustme #DelfinosTakeNY @ I 80 https://t.co/0l2E9DV3mQ", 
+                "created_at": "2015-06-09T00:34:51", 
+                "retweet_count": 0, 
+                "id": "608069710689796096", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.99606791, 
+                    39.95270007
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm in heaven. @cosmicchristina is in hell. #pickles #theBest #myWifeHasTerribleTasteInPickles\u2026 https://t.co/n1s5Il2GY5", 
+                "created_at": "2015-06-08T17:41:20", 
+                "retweet_count": 0, 
+                "id": "607965646878568448", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.22306714, 
+                    38.63613164
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@cosmicchristina double fisting drinks. #DelfinosTakeNY #theFountainOnLocust @ The Fountain on Locust https://t.co/GGQPe9s61b", 
+                "created_at": "2015-06-07T18:47:15", 
+                "retweet_count": 0, 
+                "id": "607619848202526720", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.22306714, 
+                    38.63613164
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Loving the decor here at #theFountainOnLocust. #DelfinosTakeNY @ The Fountain on Locust https://t.co/jSZFdZXSEy", 
+                "created_at": "2015-06-07T18:36:11", 
+                "retweet_count": 0, 
+                "id": "607617061448228864", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -94.620789, 
+                    39.044395
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Regram from @cosmicchristina. We definitely didn't eat all this #delicious #barbecue at\u2026 https://t.co/VR5I8AMpQA", 
+                "created_at": "2015-06-06T21:28:12", 
+                "retweet_count": 0, 
+                "id": "607297963065544704", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.27523211, 
+                    40.01894846
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@cosmicchristina and I are quickly falling in love with #Boulder #Colorado. I'm not sure we are going\u2026 https://t.co/ZxG4hnInLZ", 
+                "created_at": "2015-06-05T18:19:08", 
+                "retweet_count": 0, 
+                "id": "606887997565468672", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.71132, 
+                    40.39554
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We froze, but it was worth it. #RockyMountainNationalPark #Colorado #DelfinosTakeNY @ Forest Canyon\u2026 https://t.co/gRac6TCsOE", 
+                "created_at": "2015-06-05T14:09:35", 
+                "retweet_count": 0, 
+                "id": "606825193709936641", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.75435, 
+                    40.44713
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Serious snow. #Colorado #RockyMountainNationalPark #DelfinosTakeNY @ Medicine Bow Curve Overlook https://t.co/x4QSYAus1x", 
+                "created_at": "2015-06-05T14:07:33", 
+                "retweet_count": 0, 
+                "id": "606824683464466432", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.75435, 
+                    40.44713
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "So high up. The #RockyMountainNationalPark absolutely blew us away. #Colorado #DelfinosTakeNY @\u2026 https://t.co/kFzf2GTi38", 
+                "created_at": "2015-06-05T14:07:02", 
+                "retweet_count": 0, 
+                "id": "606824552447000577", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.82159521, 
+                    40.25184727
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lunch of #Champions. #Colorado #DelfinosTakeNY @ The HUB Coffee and Cones https://t.co/0xguE9NQFN", 
+                "created_at": "2015-06-04T21:30:08", 
+                "retweet_count": 0, 
+                "id": "606573677585563648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.824, 
+                    40.2505
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Still more #Colorado. Just keeps giving. #DelfinosTakeNY @ Grand Lake, Colorado https://t.co/B4wltLs1IU", 
+                "created_at": "2015-06-04T21:29:11", 
+                "retweet_count": 0, 
+                "id": "606573434685038592", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.77481314, 
+                    39.80528616
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Mountain Runoff #Colorado #DelfinosTakeNY @ Berthoud Pass https://t.co/mx31ywFgXw", 
+                "created_at": "2015-06-04T20:19:29", 
+                "retweet_count": 0, 
+                "id": "606555896508903426", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.40259995, 
+                    39.63730663
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#RiverSelfie at #GoreCreek near #VailCascadeHotel. Loving every minute of #Colorado, and honored I\u2026 https://t.co/JTNCM5pwFW", 
+                "created_at": "2015-06-04T16:51:07", 
+                "retweet_count": 0, 
+                "id": "606503457508499456", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.40259995, 
+                    39.63730663
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The view from our hotel room at the #vailcascadehotel. Colorado is stunning. I don't think we're ever\u2026 https://t.co/jiwytBTBs2", 
+                "created_at": "2015-06-04T15:37:21", 
+                "retweet_count": 0, 
+                "id": "606484894055809026", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -108.73442457, 
+                    39.10100118
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Colorado National Monument. #DelfinosTakeNY @ Colorado National Monument https://t.co/olc369AT9E", 
+                "created_at": "2015-06-04T02:53:57", 
+                "retweet_count": 0, 
+                "id": "606292778180608000", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -109.55046887, 
+                    38.57707724
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#DelfinosTakeNY @ Arches National Park https://t.co/gediaCNQPB", 
+                "created_at": "2015-06-03T22:01:29", 
+                "retweet_count": 0, 
+                "id": "606219176458485760", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -109.46306696, 
+                    37.64340778
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#DelfinosTakeNY @ Recapture Reservoir. https://t.co/7tTvfeeQQ1", 
+                "created_at": "2015-06-03T01:04:27", 
+                "retweet_count": 0, 
+                "id": "605902833754324992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.31779603, 
+                    36.10322275
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "That's a T-Rex footprint in the Arizona desert. Seriously. Today continues to amaze. #DelfinosTakeNY\u2026 https://t.co/xpGKrZSDsw", 
+                "created_at": "2015-06-02T21:49:16", 
+                "retweet_count": 0, 
+                "id": "605853713073213440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.82684, 
+                    36.04152
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Goodbye, Grand Canyon. You've been indescribable. #DelfinosTakeNY #grandcanyon @ Watchtower-Grand Canyon https://t.co/AibpegPh0n", 
+                "created_at": "2015-06-02T20:58:43", 
+                "retweet_count": 0, 
+                "id": "605840995167576064", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -112.13943708, 
+                    36.05723622
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#DelfinosTakeNY @ Grand Canyon National Park https://t.co/SlohEtWqxD", 
+                "created_at": "2015-06-02T18:00:05", 
+                "retweet_count": 0, 
+                "id": "605796039577116674", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -112.10813888, 
+                    36.05962336
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#DelfinosTakeNY @ South Rim of the Grand Canyon, AZ https://t.co/IBefOhfaDB", 
+                "created_at": "2015-06-02T17:56:55", 
+                "retweet_count": 0, 
+                "id": "605795241648472066", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -112.10813888, 
+                    36.05962336
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Look at us hotties. #DelfinosTakeNY @ South Rim of the Grand Canyon, AZ https://t.co/ml3JiGVpkS", 
+                "created_at": "2015-06-02T17:56:06", 
+                "retweet_count": 0, 
+                "id": "605795035011903488", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -112.13943708, 
+                    36.05723622
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "That is a grand canyon indeed. #DelfinosTakeNY @ Grand Canyon National Park https://t.co/Nys6pSVXCk", 
+                "created_at": "2015-06-02T17:55:12", 
+                "retweet_count": 0, 
+                "id": "605794810566279168", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.37804466, 
+                    34.42709606
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First meal in #California... Last meal in #California. #InNOut #DelfinosTakeNY @ In-N-Out Burger -\u2026 https://t.co/SwEK2RsHu8", 
+                "created_at": "2015-06-01T20:04:24", 
+                "retweet_count": 0, 
+                "id": "605464935909498880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.37804466, 
+                    34.42709606
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Most important stop of the trip? I say yes. #DelfinosTakeNY #InNOut #Priorities @ In-N-Out Burger -\u2026 https://t.co/b4WVyRsxXX", 
+                "created_at": "2015-06-01T20:00:07", 
+                "retweet_count": 0, 
+                "id": "605463860095643648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98536199, 
+                    40.76789995
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 163597767.0, 
+                    "type": "yes", 
+                    "id": 857.0, 
+                    "name": "Mercedes House"
+                }, 
+                {
+                    "osm_id": 193611193.0, 
+                    "type": "yes", 
+                    "id": 960.0, 
+                    "name": "ArrowPac"
+                }, 
+                {
+                    "osm_id": 193611223.0, 
+                    "type": "yes", 
+                    "id": 992.0, 
+                    "name": "Twin Med"
+                }, 
+                {
+                    "osm_id": 265353505.0, 
+                    "type": "yes", 
+                    "id": 90545.0, 
+                    "name": "Holiday Inn Hotel New York City 57th St."
+                }, 
+                {
+                    "osm_id": 265353547.0, 
+                    "type": "yes", 
+                    "id": 90581.0, 
+                    "name": "The Windermere"
+                }, 
+                {
+                    "osm_id": 269199818.0, 
+                    "type": "apartments", 
+                    "id": 97917.0, 
+                    "name": "Harborview Terrace II"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "grad school: conquered. @ Hudson Common https://t.co/KDmM97mvmv", 
+                "created_at": "2015-05-24T02:45:57", 
+                "retweet_count": 0, 
+                "id": "602304497277378560", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98478498, 
+                    40.77069091
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 160318552.0, 
+                    "type": "apartments", 
+                    "id": 822.0, 
+                    "name": "The Helena"
+                }, 
+                {
+                    "osm_id": 193612484.0, 
+                    "type": "yes", 
+                    "id": 967.0, 
+                    "name": "Moda Express"
+                }, 
+                {
+                    "osm_id": 257722856.0, 
+                    "type": "school", 
+                    "id": 83550.0, 
+                    "name": "Union City High School"
+                }, 
+                {
+                    "osm_id": 265355146.0, 
+                    "type": "college", 
+                    "id": 90628.0, 
+                    "name": "North Hall"
+                }, 
+                {
+                    "osm_id": 269204552.0, 
+                    "type": "college", 
+                    "id": 97962.0, 
+                    "name": "New Building"
+                }, 
+                {
+                    "osm_id": 281256367.0, 
+                    "type": "commercial", 
+                    "id": 123616.0, 
+                    "name": "BMW Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#DesignMeeting2015 #LightingDesign #GetAtMe #Lego @ Fordham University https://t.co/Ok0lU1Zx5H", 
+                "created_at": "2015-05-23T14:53:36", 
+                "retweet_count": 0, 
+                "id": "602125230488887296", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.563824, 
+                    34.045053
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hey @cosmicchristina I bought us a house. @ Getty Villa https://t.co/aNYnN4HKZh", 
+                "created_at": "2015-05-17T20:41:47", 
+                "retweet_count": 0, 
+                "id": "600038526542061568", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.2859347, 
+                    34.01578766
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Space shuttle #Endeavor. My wife @cosmicchristina is such a #space #nerd but that's why I love her. @\u2026 https://t.co/c0WpLG2d88", 
+                "created_at": "2015-05-17T15:26:28", 
+                "retweet_count": 0, 
+                "id": "599959175515525121", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.56723535, 
+                    34.39286797
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's graduating time. @ CalArts School of Theater https://t.co/509ww1zCZ1", 
+                "created_at": "2015-05-16T01:03:48", 
+                "retweet_count": 0, 
+                "id": "599379689610817536", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.94305556, 
+                    35.21388889
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Temptation thy name is #Cinnabon @ Charlotte Douglas International Airport https://t.co/qu97oxjQ6r", 
+                "created_at": "2015-04-15T20:07:38", 
+                "retweet_count": 0, 
+                "id": "588433521976442880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.922873, 
+                    35.190189
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "North Carolina soul. Thank god I don't live here I would be 1000 pounds. @ Nana's Soul Food Kitchen https://t.co/7ZjaIq5T3Y", 
+                "created_at": "2015-04-13T19:00:18", 
+                "retweet_count": 0, 
+                "id": "587691801550684160", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.56723535, 
+                    34.39286797
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#TBT to the first light plot I ever did... And the last one I did by hand. @ CalArts School of Theater https://t.co/smybpL9JH3", 
+                "created_at": "2015-04-02T23:14:33", 
+                "retweet_count": 0, 
+                "id": "583769515885989888", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.459801, 
+                    34.152907
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@cosmicchristina and I are finally sharing a milkshake, after all these years... All it took was some\u2026 https://t.co/4c8AsWWcgT", 
+                "created_at": "2015-02-28T04:27:53", 
+                "retweet_count": 0, 
+                "id": "571527184550117376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.367184, 
+                    34.091075
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Had an oyster for the first time with creezyreezy and the gang. Awesome. Only the tiniest bit\u2026 http://t.co/s6NDo7bJQu", 
+                "created_at": "2015-02-01T02:43:10", 
+                "retweet_count": 0, 
+                "id": "561716358858432512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.413528, 
+                    34.167332
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First ever gym selfie. Cause I go to the gym now guys. @ L A  Fitness Sherman Oaks http://t.co/ozD92AjcOx", 
+                "created_at": "2015-01-29T19:15:23", 
+                "retweet_count": 0, 
+                "id": "560878893436248064", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.56767048, 
+                    34.39347737
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Decorating my future home. Hope you like antique books @cosmicchristina - because I can't help myself\u2026 http://t.co/G8tbSYUKOA", 
+                "created_at": "2014-10-20T20:45:23", 
+                "retweet_count": 0, 
+                "id": "524300369006825474", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.574067, 
+                    34.42871
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Been a long time coming, but now I'm ready for LDI. #ItsBusinessTime @ Visual Terrain, Inc. http://t.co/U55V2OQFX0", 
+                "created_at": "2014-10-07T19:33:00", 
+                "retweet_count": 0, 
+                "id": "519571109276962816", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.55820579, 
+                    34.41186334
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Going on hour 2.5 at the dentist. I am not pleased. @ Valencia Dental Group and Orthodontics http://t.co/LNGUJ3KpIy", 
+                "created_at": "2014-09-08T19:24:06", 
+                "retweet_count": 0, 
+                "id": "509059622771372033", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.42255824, 
+                    37.80595835
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just spent $20 on chocolate. And I don't regret that one bit. @ Ghirardelli Square http://t.co/f6xFozJyZx", 
+                "created_at": "2014-08-21T02:26:15", 
+                "retweet_count": 0, 
+                "id": "502280490636693504", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41003244, 
+                    37.80916131
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pier 39 selfie. @ Pier 39- San Fransico, Ca http://t.co/iqEW7qiHTM", 
+                "created_at": "2014-08-20T23:53:18", 
+                "retweet_count": 0, 
+                "id": "502241997902839810", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.46637069, 
+                    37.76987283
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ California Academy of Sciences http://t.co/Zks1tacMza", 
+                "created_at": "2014-08-20T18:57:51", 
+                "retweet_count": 0, 
+                "id": "502167646469492738", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.44191722, 
+                    37.43368493
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Not a bad spot to have lunch. cosmicchristina and I are loving #halfmoonbay. #nofilter #minimoon @ The\u2026 http://t.co/VMNJeJ49lF", 
+                "created_at": "2014-08-19T19:20:45", 
+                "retweet_count": 0, 
+                "id": "501811020734558208", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36984998, 
+                    34.16152441
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Not terrible for a fifteen minute healthy dinner at 9:30 at night. @ The Delfino Household http://t.co/qSrjHOzv3f", 
+                "created_at": "2014-07-17T04:40:47", 
+                "retweet_count": 0, 
+                "id": "489630773285515265", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.39344637, 
+                    34.15435613
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Remember when prowlers were hot shit?", 
+                "created_at": "2014-07-11T01:51:15", 
+                "retweet_count": 0, 
+                "id": "487413779571818499", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.98354925, 
+                    37.64977244
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fresh picked for cosmicchristina .\nYeah I know what I'm doing. #ImAKeeper @ Mammoth Lake http://t.co/rEuNlYOaOz", 
+                "created_at": "2014-07-05T17:55:00", 
+                "retweet_count": 0, 
+                "id": "485481986379640832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.98354925, 
+                    37.64977244
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#MammothProblems @ Mammoth Lake http://t.co/NkC77GSdHl", 
+                "created_at": "2014-07-03T22:08:15", 
+                "retweet_count": 0, 
+                "id": "484820942938710016", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.5744234, 
+                    34.42912552
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@DaveLozo They must think McIlrath is max 2 years away. Saving a spot for him on the roster.", 
+                "created_at": "2014-07-01T18:52:16", 
+                "retweet_count": 0, 
+                "id": "484046849146245121", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.58078711, 
+                    34.41838402
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "What the flying fuck is happening on the 5 South right now? #AlwaysSantaClarita", 
+                "created_at": "2014-07-01T04:37:15", 
+                "retweet_count": 0, 
+                "id": "483831676917649408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57431128, 
+                    34.42908543
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Long work hours = Way too much Frasier @ Visual Terrain, Inc. http://t.co/qNJltjNgqZ", 
+                "created_at": "2014-07-01T01:49:15", 
+                "retweet_count": 0, 
+                "id": "483789398283407360", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.37067719, 
+                    34.15761975
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@DaveLozo Don't have stats to back me now but it always felt like AV called Richie line 2nd but played them as 3rd. Inverse with Brass line.", 
+                "created_at": "2014-06-29T20:49:27", 
+                "retweet_count": 0, 
+                "id": "483351564539531266", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.37521272, 
+                    34.1411817
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@syoungld I hope that wasn't on the way home from work. #GoinCrazy", 
+                "created_at": "2014-06-28T04:41:56", 
+                "retweet_count": 0, 
+                "id": "482745692805283840", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36990508, 
+                    34.16154907
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ash Catch Them All. ...wait... #RuinAVideoGameCharacter", 
+                "created_at": "2014-06-24T14:38:07", 
+                "retweet_count": 0, 
+                "id": "481446172947533824", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36988181, 
+                    34.16148577
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pika Chewing Gum #RuinAVideoGameCharacter", 
+                "created_at": "2014-06-24T14:37:40", 
+                "retweet_count": 0, 
+                "id": "481446062628929538", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36987078, 
+                    34.16159009
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sonic the Hot Dog and Tater Tot combo with a Chocolate Milkshake #RuinAVideoGameCharacter", 
+                "created_at": "2014-06-24T14:34:54", 
+                "retweet_count": 0, 
+                "id": "481445366219284481", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36990754, 
+                    34.16147991
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Crash Bandicooter #RuinAVideoGameCharacter", 
+                "created_at": "2014-06-24T14:31:38", 
+                "retweet_count": 0, 
+                "id": "481444541992431616", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.5744203, 
+                    34.42924618
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@cosmicchristina \u201c@avantgame: How to actually enter the Golden Age of Video Games? http://t.co/TpmqiNmE3Z\u201d", 
+                "created_at": "2014-06-17T17:25:20", 
+                "retweet_count": 0, 
+                "id": "478951539004829696", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36980104, 
+                    34.16150492
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "What a fun game. Can't be bitter about any of it but the call.", 
+                "created_at": "2014-06-14T04:27:27", 
+                "retweet_count": 0, 
+                "id": "477668617169825792", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3697656, 
+                    34.16157072
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@VisualTerrain  \u201c@NYRangers: The @EmpireStateBldg celebrates the #NYR goals! https://t.co/hLlg3bbuUb #NYRCupFinal\u201d Go lighting, go #NYR!", 
+                "created_at": "2014-06-14T02:13:13", 
+                "retweet_count": 1, 
+                "id": "477634835733692416", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36972921, 
+                    34.16156932
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@TheBroadwayHat Good Ole BC boys.", 
+                "created_at": "2014-06-14T02:11:38", 
+                "retweet_count": 0, 
+                "id": "477634439250341889", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36982389, 
+                    34.1614822
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pretty sure mike millbury is drunk right now. He can't speak at all.", 
+                "created_at": "2014-06-14T02:10:46", 
+                "retweet_count": 1, 
+                "id": "477634219322011648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.15508421, 
+                    36.13069604
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@MattHamilton25 Makes sense. I kind of missed that bit of it. Thanks sportscenter alert.", 
+                "created_at": "2014-06-05T20:22:57", 
+                "retweet_count": 0, 
+                "id": "474647583365685248", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.15508263, 
+                    36.13069517
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Shit, Dan Boyle isn't worth more than a 5th?", 
+                "created_at": "2014-06-05T20:06:10", 
+                "retweet_count": 0, 
+                "id": "474643361769328641", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.16916334, 
+                    36.11188813
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Every day I'm Hagelin. \n\nLet's go #Rangers!", 
+                "created_at": "2014-06-05T00:54:04", 
+                "retweet_count": 1, 
+                "id": "474353427900674048", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.15512583, 
+                    36.12977733
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@wyshynski @YahooSports Wow. Not one #NYR pick. I'll take the underdog status.", 
+                "created_at": "2014-06-04T23:15:46", 
+                "retweet_count": 0, 
+                "id": "474328686703808512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.13921085, 
+                    36.08272873
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Solar Plants in the desert from the air. We live in the future and it's awesome. @ McCarran\u2026 http://t.co/g8bT6XSQMU", 
+                "created_at": "2014-06-03T15:47:02", 
+                "retweet_count": 0, 
+                "id": "473853371984928769", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.4061645, 
+                    33.94706876
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@BlueSeatBlogs - You were right... And I am glad.", 
+                "created_at": "2014-05-30T02:51:31", 
+                "retweet_count": 0, 
+                "id": "472208656809738240", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.40687594, 
+                    33.94654607
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I've never been this excited by or proud of a sports team in my life. Let's Go #Rangers - Lord Stanley awaits thee.", 
+                "created_at": "2014-05-30T02:48:55", 
+                "retweet_count": 0, 
+                "id": "472208001294544896", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3696877, 
+                    34.16149181
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Here's my conundrum: not sold that you score those three to tie it up without pulling Hank, but there's no way the King lets in that 5th.", 
+                "created_at": "2014-05-28T02:59:49", 
+                "retweet_count": 0, 
+                "id": "471485970336862208", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36968785, 
+                    34.16149389
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If I were the Canadians, or Canadians fans, I would not be proud of this game. Yeah, a win is a win--but this is a worriesome game for them.", 
+                "created_at": "2014-05-28T02:51:06", 
+                "retweet_count": 0, 
+                "id": "471483775931514880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.3161917, 
+                    35.48470621
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I want to be watching this game SO BADLY", 
+                "created_at": "2014-05-17T17:19:53", 
+                "retweet_count": 0, 
+                "id": "467716144296898561", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.40249932, 
+                    33.94174621
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Garts2point2 Compliance buyout. Pens still have one left I think? But you have to try and trade him first, even for some picks.", 
+                "created_at": "2014-05-16T14:41:59", 
+                "retweet_count": 0, 
+                "id": "467314020530151424", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.4025058, 
+                    33.94191773
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#TradeMalkin", 
+                "created_at": "2014-05-16T14:38:59", 
+                "retweet_count": 0, 
+                "id": "467313266390081537", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57441938, 
+                    34.42910372
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Jamesbedell Boyle will cost a fair bit more than he does now but it would be wrong to let him go.", 
+                "created_at": "2014-05-13T23:46:53", 
+                "retweet_count": 0, 
+                "id": "466363986880241664", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36962297, 
+                    34.16146684
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Anyone know what that Neal 10 minute misconduct was for? (Besides being a bitch). #NYR", 
+                "created_at": "2014-05-12T01:44:43", 
+                "retweet_count": 0, 
+                "id": "465668865079259136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57445961, 
+                    34.42909312
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@drosennhl @PLeonardNYDN Beat the crap out of him Pat! Gotta stand up for yourself in Game 7!", 
+                "created_at": "2014-04-30T22:55:02", 
+                "retweet_count": 0, 
+                "id": "461639896696758272", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57456832, 
+                    34.42917903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@mashmore98 Sometimes that game does whatever it wants to do.", 
+                "created_at": "2014-04-30T22:54:00", 
+                "retweet_count": 0, 
+                "id": "461639635697823744", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36953845, 
+                    34.16144896
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Even with such a horrible power play.", 
+                "created_at": "2014-04-27T16:48:13", 
+                "retweet_count": 0, 
+                "id": "460460417903378432", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36983274, 
+                    34.16148449
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Wish I could be at #MSG right now. The atmosphere must be incredible. #LGR #NYR", 
+                "created_at": "2014-04-27T16:47:27", 
+                "retweet_count": 0, 
+                "id": "460460225057673217", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57440094, 
+                    34.42907916
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hell to the yes. #LGR", 
+                "created_at": "2014-04-25T23:18:13", 
+                "retweet_count": 0, 
+                "id": "459833791566327808", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57437126, 
+                    34.4290821
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Herman_NYRBlog Do the recent signings out of NCAA also play on taxi squad?", 
+                "created_at": "2014-04-23T15:45:10", 
+                "retweet_count": 0, 
+                "id": "458995002228494336", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57904, 
+                    34.423416
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gotta love #Rustic @ Rustic Eatery http://t.co/W7OfT3mzKU", 
+                "created_at": "2014-04-09T20:27:57", 
+                "retweet_count": 0, 
+                "id": "453992734555398145", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.37050212, 
+                    34.16542794
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@cosmicchristina @RothmanHockey: A very disappointing end to @QUBobcatHockey's season, falling 4-0 in the NCAA Tournament\u201d", 
+                "created_at": "2014-03-29T00:56:47", 
+                "retweet_count": 0, 
+                "id": "449711735784476672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3698523, 
+                    34.16149455
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@BlueSeatBlogs I think it's interesting. At first I reacted very negatively towards it, as a biased fan... But he has some good points.", 
+                "created_at": "2014-03-14T14:02:45", 
+                "retweet_count": 0, 
+                "id": "444473712884973569", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36997269, 
+                    34.16150279
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@nicholas_diaz no wonder ya'll usually set off the fire alarm", 
+                "created_at": "2014-03-10T08:13:29", 
+                "retweet_count": 0, 
+                "id": "442936264312897536", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36973061, 
+                    34.16154523
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I feel for Carolina fans. The over-the-glass DoG penalty is stupid. Still, a win is a win, and shit happens to every team at some point.", 
+                "created_at": "2014-03-08T02:42:02", 
+                "retweet_count": 0, 
+                "id": "442128077519208448", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.56713848, 
+                    34.39365135
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just to inform you, @Keurig, if you make it so your machines may not use refills, you will permanently lose me as a customer.", 
+                "created_at": "2014-03-04T00:33:13", 
+                "retweet_count": 0, 
+                "id": "440646106733486080", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36979985, 
+                    34.16153502
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Proteautype Poutout?", 
+                "created_at": "2014-02-21T15:17:31", 
+                "retweet_count": 0, 
+                "id": "436882382239453184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36984998, 
+                    34.16152441
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'll have to take you through it... Step by step. @ The Delfino Household http://t.co/6VrcbtwTQn", 
+                "created_at": "2014-01-05T07:31:02", 
+                "retweet_count": 0, 
+                "id": "419732756638478336", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.56733918, 
+                    34.3926925
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#NWF2014 @ California Institute of the Arts http://t.co/ehQMcnrXyf", 
+                "created_at": "2013-12-10T22:13:25", 
+                "retweet_count": 0, 
+                "id": "410532731807096833", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.56733918, 
+                    34.3926925
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Light Art! I call it \"Studies in Shadow: Symmetry\", which is both pretentious and obvious but I\u2026 http://t.co/MUB9eILEyD", 
+                "created_at": "2013-12-06T08:17:43", 
+                "retweet_count": 0, 
+                "id": "408872868936949760", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36973673, 
+                    34.16153331
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u201c@Lauren_Belfoy: You never go full Kopitard.\u201d That's my fantasy team name! ...we suck.", 
+                "created_at": "2013-11-26T06:08:44", 
+                "retweet_count": 0, 
+                "id": "405216532008927232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.567161, 
+                    34.392562
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can't help but feel like I'm breaking some kind of international craft brew law. @ Design Studio http://t.co/oA6MYzbfd4", 
+                "created_at": "2013-11-22T03:13:42", 
+                "retweet_count": 1, 
+                "id": "403722932582903808", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.37035535, 
+                    34.16148015
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@delfino_t #PicsOrItDidntHappen", 
+                "created_at": "2013-11-03T17:07:33", 
+                "retweet_count": 0, 
+                "id": "397047409424887808", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36530481, 
+                    34.09817466
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@delfino_t I'm convinced he's only around till the 29th, when Hags can play again", 
+                "created_at": "2013-10-27T01:45:58", 
+                "retweet_count": 0, 
+                "id": "394278767029264384", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.55820569, 
+                    34.41509948
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@delfino_t Infinitely better than a gaseous day. A liquid one isn't always terrible though.", 
+                "created_at": "2013-10-18T22:02:20", 
+                "retweet_count": 1, 
+                "id": "391323386728558592", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3698933, 
+                    34.16143017
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@lifehacker ...it looks like OSX.", 
+                "created_at": "2013-10-17T15:22:03", 
+                "retweet_count": 0, 
+                "id": "390860265681862656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.91866854, 
+                    33.80554023
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Oh my goodness, this is amazingly gorgeous. @ Cars Land http://t.co/YUxmGoSHoJ", 
+                "created_at": "2013-10-13T02:48:03", 
+                "retweet_count": 0, 
+                "id": "389220961566097408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.92272186, 
+                    33.80712154
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Disneyland! The Grand California is gorgeous. @ Disney's Grand Californian Hotel &amp; Spa http://t.co/XE5GJBMHt1", 
+                "created_at": "2013-10-12T15:49:23", 
+                "retweet_count": 0, 
+                "id": "389055203980640256", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.41083715, 
+                    34.23464684
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Finally, some weather!", 
+                "created_at": "2013-10-09T14:43:07", 
+                "retweet_count": 0, 
+                "id": "387951365013508096", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36970972, 
+                    34.16152179
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@CosmicChristina #DelpertoWedding", 
+                "created_at": "2013-10-08T05:05:30", 
+                "retweet_count": 0, 
+                "id": "387443614625705984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36970972, 
+                    34.16152179
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@delfino_t Number 2 right now. What's up?!?!? #SorryNotSorry", 
+                "created_at": "2013-10-08T05:00:50", 
+                "retweet_count": 0, 
+                "id": "387442438849052672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3699139, 
+                    34.15942845
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u201c@delfino_t: Damnit quick is on my fantasy league\u201d haha suck it", 
+                "created_at": "2013-10-08T04:58:49", 
+                "retweet_count": 0, 
+                "id": "387441931711549440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3715848, 
+                    34.16467945
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I actually feel a bit bad for Quick. That's rough.", 
+                "created_at": "2013-10-08T04:48:01", 
+                "retweet_count": 0, 
+                "id": "387439215031492609", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57430994, 
+                    34.42911626
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "So @CosmicChristina, are we going to have a wedding hashtag? I've seen a lot of them lately. Or is that too corny? I'm torn.", 
+                "created_at": "2013-10-07T18:27:23", 
+                "retweet_count": 0, 
+                "id": "387283025131606018", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57418481, 
+                    34.42906323
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@BlueSeatBlogs Some west coast #NYR fans are very very happy with the whole west-coast thing. I'll be able to watch from my couch.", 
+                "created_at": "2013-10-07T18:03:01", 
+                "retweet_count": 0, 
+                "id": "387276893604421632", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.49814188, 
+                    34.0171642
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@nicholas_diaz We are eating dinner and then we're heading over! Where should we start? #GlowSantaMonica", 
+                "created_at": "2013-09-29T02:33:19", 
+                "retweet_count": 0, 
+                "id": "384143822915002368", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36978703, 
+                    34.16153166
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Off to #GlowSantaMonica with @CosmicChristina! Can't wait to light it up.", 
+                "created_at": "2013-09-29T01:18:14", 
+                "retweet_count": 0, 
+                "id": "384124930335334400", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.53305577, 
+                    34.37963687
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ugh the DMV smells like ass and broken dreams.", 
+                "created_at": "2013-09-24T19:54:07", 
+                "retweet_count": 0, 
+                "id": "382593811743924224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36984998, 
+                    34.16152441
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Our refrigerator is like 20% condiments, 20% sauces, and 15% beer. #JustLikeCollege @ The Delfino\u2026 http://t.co/k9pw9vuTA4", 
+                "created_at": "2013-09-23T14:17:36", 
+                "retweet_count": 0, 
+                "id": "382146736653103105", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36984998, 
+                    34.16152441
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Building with #LEGO bricks. On a computer. For class. #ILoveSchool @ The Delfino Household http://t.co/DpWct9ZQyt", 
+                "created_at": "2013-09-22T23:38:30", 
+                "retweet_count": 0, 
+                "id": "381925503328059392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.13711194, 
+                    34.14513008
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pasadena Playhouse to see Steven Young's lighting design of Smokey Joe's! #OvationNominee @ The\u2026 http://t.co/PWRm1GXw1I", 
+                "created_at": "2013-09-22T02:43:06", 
+                "retweet_count": 1, 
+                "id": "381609571317714944", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.36991653, 
+                    34.16127858
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@CosmicChristina hehe love you! Also Siri is cool too", 
+                "created_at": "2013-09-19T03:09:11", 
+                "retweet_count": 0, 
+                "id": "380528972905209856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57445965, 
+                    34.42905032
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@TheNYRBlog @PatrickKearns @BlueSeatBlogs What does that say about Torts' style? I am inclined to say 'a lot'", 
+                "created_at": "2013-09-16T16:08:20", 
+                "retweet_count": 0, 
+                "id": "379637887936905217", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57453442, 
+                    34.42908167
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#thingsIDontMissAboutNY \u201c@NFoster15: Oh btw it's a million degrees in the bowels of hell in the subway\u201d", 
+                "created_at": "2013-07-18T22:53:53", 
+                "retweet_count": 0, 
+                "id": "357996674267873280", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.447998, 
+                    34.41592552
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@delfino_t @KateUpton You're so stupid.", 
+                "created_at": "2013-07-14T15:12:02", 
+                "retweet_count": 0, 
+                "id": "356430895730786305", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.44782549, 
+                    34.41610417
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@TSNBobMcKenzie Do #NJD still have to forfeit 1st-rd pick now that contract doesn't exist?", 
+                "created_at": "2013-07-11T21:02:53", 
+                "retweet_count": 0, 
+                "id": "355432027354439680", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.55817683, 
+                    34.4118813
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@delfino_t @NYRangers BC grad and great player. Sad he's a devil now I have to hate him.", 
+                "created_at": "2013-07-11T16:12:09", 
+                "retweet_count": 1, 
+                "id": "355358862158725124", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.44793187, 
+                    34.41593937
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@delfino_t Crazily enough I like the clothed one better.", 
+                "created_at": "2013-07-11T02:45:40", 
+                "retweet_count": 0, 
+                "id": "355155901679808513", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.44793051, 
+                    34.4160066
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@jnormile26 thanks James!", 
+                "created_at": "2013-07-07T22:05:33", 
+                "retweet_count": 0, 
+                "id": "353998248043753472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.19527468, 
+                    34.24559015
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@blueseatblogs Did you know you've got spam on the bottom of your posts? Only shows up in RSS. http://t.co/TamOCaHhcb", 
+                "created_at": "2013-07-07T15:44:43", 
+                "retweet_count": 0, 
+                "id": "353902405244567552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.44769593, 
+                    34.41601386
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@StanFischler Don't short change Jarkko. Man is clearly quite good at what he does.", 
+                "created_at": "2013-07-05T17:44:56", 
+                "retweet_count": 0, 
+                "id": "353207885423058944", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.54413427, 
+                    34.4230256
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Kpower90 Not gonna be saying that when Eriksson is lighting up the northeast.", 
+                "created_at": "2013-07-04T19:14:17", 
+                "retweet_count": 0, 
+                "id": "352867981056937985", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.55629883, 
+                    34.41230948
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@jessespector @Real_ESPNLeBrun  Hearing the city of Houston may be moving as part of deal to bring #PlymouthRock to Dallas", 
+                "created_at": "2013-07-04T18:50:13", 
+                "retweet_count": 0, 
+                "id": "352861925471830016", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.56532842, 
+                    34.37854586
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@TheWrage You would disagree?", 
+                "created_at": "2013-07-02T18:27:50", 
+                "retweet_count": 0, 
+                "id": "352131517880860672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.44792371, 
+                    34.4160234
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@nyr99je I'm doing awesome! Some crazy things happening today huh.", 
+                "created_at": "2013-06-30T20:01:00", 
+                "retweet_count": 0, 
+                "id": "351430188413890561", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.44792136, 
+                    34.41609518
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@delfino_t His trade value has never been lower, and we are lacking defensive depth. That trade makes no sense.", 
+                "created_at": "2013-06-30T17:12:52", 
+                "retweet_count": 0, 
+                "id": "351387874412871682", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.44800987, 
+                    34.4160359
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@delfino_t You must hate me then", 
+                "created_at": "2013-06-30T17:09:52", 
+                "retweet_count": 1, 
+                "id": "351387118414729216", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.55979694, 
+                    34.41361569
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@JimCerny @scott2319 With H. Sedin and Kesler in #VAN I don't see where Vinny fits short term. Still a #2 to me.", 
+                "created_at": "2013-06-27T16:23:06", 
+                "retweet_count": 0, 
+                "id": "350288185122762752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.56255134, 
+                    34.42181276
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "For less money than current contract Olesz would make a serviceable 6/7th D. Maybe not for #NYR but for someone.", 
+                "created_at": "2013-06-27T16:20:45", 
+                "retweet_count": 0, 
+                "id": "350287594719948800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57430403, 
+                    34.42897942
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@BlueSeatBlogs Me!", 
+                "created_at": "2013-06-27T16:19:17", 
+                "retweet_count": 0, 
+                "id": "350287227244388352", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57424081, 
+                    34.42906394
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@MaggieMaguire @NFoster15 Aww, I'm honored. You still in bahston?", 
+                "created_at": "2013-06-20T00:26:26", 
+                "retweet_count": 0, 
+                "id": "347510718263853056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.57422901, 
+                    34.42901945
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@NFoster15 Nah, dude, but thanks. Company dollar. #hotel #swaaaag #nicebutnottoonice", 
+                "created_at": "2013-06-20T00:15:51", 
+                "retweet_count": 0, 
+                "id": "347508054637551617", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

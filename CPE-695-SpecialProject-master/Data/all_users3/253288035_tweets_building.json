@@ -1,0 +1,4398 @@
+{
+    "total_favorite_count": 20258, 
+    "followers_count": 1344, 
+    "total_tweets": 117, 
+    "user_id": 253288035, 
+    "screen_name": "arimaione", 
+    "friends_count": 845, 
+    "buildings": {
+        "hospital": 2, 
+        "fire_station": 2, 
+        "school": 11, 
+        "hotel": 3, 
+        "office": 2, 
+        "theatre": 12, 
+        "apartments": 133, 
+        "university": 4, 
+        "civic": 2, 
+        "commercial": 58, 
+        "supermarket": 2, 
+        "dormitory": 3, 
+        "submarine": 2, 
+        "construction": 4, 
+        "church": 7, 
+        "tower": 2, 
+        "retail": 6, 
+        "ship": 3
+    }, 
+    "features": [
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "There's no drug around quite like what I found in you// @ New York, New York https://t.co/zELnXRZieT", 
+            "id": "797121662202298368", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-11T16:59:48", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "*i ain't thinkin bout you @ New York, New York https://t.co/bbXLiagJbb", 
+            "id": "796818219499720705", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-10T20:54:02", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "You know I got the sauce//you know I'm sauceyyyy @ New York, New York https://t.co/o4edEQ08q8", 
+            "id": "796409824674254848", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-09T17:51:13", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Working on \"Get It Together\" while Alex documents the magic \u2728\ud83c\udfa4 can't wait to have a full\u2026 https://t.co/p5nQTpeuul", 
+            "id": "796148076364828672", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T00:31:07", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Did it ever matter ?\u00bf?\u00bf @ East Village, Manhattan https://t.co/neyRkx929Z", 
+            "id": "794565301643919360", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-04T15:41:44", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Don't Call Me Baby // baronvonfancy // \ud83d\udcf8 @e_bachaumard @ East Village, Manhattan https://t.co/6XEW1Hg5kK", 
+            "id": "794351499417632771", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-04T01:32:10", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Don't say we didn't warn ya \u26a0\ufe0f\u26a0\ufe0f\u26a0\ufe0f @ East Village, Manhattan https://t.co/yrTF7jeqOk", 
+            "id": "794228827866206208", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-03T17:24:43", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41", 
+                    "osm_id": 250474273.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126562.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377078046.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126566.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377077898.0
+                }
+            ], 
+            "text": "I didn't know being an alien was such a big trend this year until I walked outside and saw every\u2026 https://t.co/udVbzV5Nip", 
+            "id": "792457390524395526", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-29T20:05:39", 
+            "coordinates": [
+                -73.99029026, 
+                40.73528359
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "The New School University Center", 
+                    "The New School University Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "university": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "construction", 
+                    "id": 883.0, 
+                    "name": "Three World Trade Center", 
+                    "osm_id": 166839381.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99124.0, 
+                    "name": "Gateway Plaza 100", 
+                    "osm_id": 277919043.0
+                }
+            ], 
+            "text": "@GQMagazine @ World Trade Center https://t.co/bwoxZtt9lK", 
+            "id": "792118683980226564", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-28T21:39:45", 
+            "coordinates": [
+                -74.01188873, 
+                40.71120398
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "construction", 
+                "name": [
+                    "Three World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "construction", 
+                    "id": 883.0, 
+                    "name": "Three World Trade Center", 
+                    "osm_id": 166839381.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99124.0, 
+                    "name": "Gateway Plaza 100", 
+                    "osm_id": 277919043.0
+                }
+            ], 
+            "text": "@GQMagazine @ World Trade Center https://t.co/GDCt2T9YcH", 
+            "id": "792117879135232000", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-28T21:36:33", 
+            "coordinates": [
+                -74.01188873, 
+                40.71120398
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "construction", 
+                "name": [
+                    "Three World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "construction", 
+                    "id": 883.0, 
+                    "name": "Three World Trade Center", 
+                    "osm_id": 166839381.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99124.0, 
+                    "name": "Gateway Plaza 100", 
+                    "osm_id": 277919043.0
+                }
+            ], 
+            "text": "@GQMagazine @ World Trade Center https://t.co/2TihTJDAXx", 
+            "id": "792117642769358848", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-28T21:35:37", 
+            "coordinates": [
+                -74.01188873, 
+                40.71120398
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "construction", 
+                "name": [
+                    "Three World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }
+            ], 
+            "text": "The combination of @brunomars 24K Magic and @callmekcookz choreography has me living mahhhhh\u2026 https://t.co/kqcuac0XMO", 
+            "id": "791375962709565442", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-26T20:28:27", 
+            "coordinates": [
+                -73.98959914, 
+                40.75912153
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Manhattan Plaza Apartments I", 
+                    "Victory Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "#sorrynotsorry @ New York, New York https://t.co/ifv49vFqgi", 
+            "id": "789895248654770176", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-22T18:24:37", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I know you got someone comin'//you're spittin game//oh you got it @ New York, New York https://t.co/Z0HjKvuhPs", 
+            "id": "788438773348663296", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-18T17:57:06", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "And you made me lose my self control// @ New York, New York https://t.co/Ckp4In3MJh", 
+            "id": "788433240138842112", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-18T17:35:07", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Wish we'd grown up on the same advice// @ New York, New York https://t.co/uhZUc6PkAi", 
+            "id": "788407782957518848", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-18T15:53:58", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 35470.0, 
+                    "name": "Urban Glass House", 
+                    "osm_id": 249664651.0
+                }
+            ], 
+            "text": "Not your average babes \ud83d\udca3 @ Whiskey Town https://t.co/u2l5mxoLHl", 
+            "id": "787809107399041024", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T00:15:02", 
+            "coordinates": [
+                -73.99021947, 
+                40.72568347
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Urban Glass House"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Thanks 19 for teaching me my self worth, here's to 20\ud83c\udccf @ New York, New York https://t.co/kt85o7NbZK", 
+            "id": "787729712701399041", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-16T18:59:33", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Poppin'\ud83d\udca5 @ New York, New York https://t.co/A67OgObuFX", 
+            "id": "787406366277271553", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T21:34:41", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "A pic on pics \ud83d\udcf8 @ Up &amp; Down https://t.co/ipTUpYa5GS", 
+            "id": "787347374452707328", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T17:40:16", 
+            "coordinates": [
+                -74.0019533, 
+                40.739508
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments", 
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "#AriTurns20 @ West Side, New York https://t.co/d8CO6sASlt", 
+            "id": "787124846064918528", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T02:56:02", 
+            "coordinates": [
+                -73.98568215, 
+                40.7723797
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Beacon School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Love is not cruel//we are cruel//love is not a game//we have made a game//out of love @ New\u2026 https://t.co/h4ke68hyRz", 
+            "id": "786337762957942784", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T22:48:26", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "He who wants a rose//must respect the thorn @ New York, New York https://t.co/8SMzMpQS85", 
+            "id": "786325859099480064", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T22:01:08", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Lookin for a real love, ain't that somethin' rare @ New York, New York https://t.co/FHHr5IaLA2", 
+            "id": "783756962743799809", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-05T19:53:16", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Who dat @ New York, New York https://t.co/5gyRCGaAmK", 
+            "id": "781213592959983616", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T19:26:49", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Happy 2 year NYC, you cool AF!!! @ New York, New York https://t.co/2dL2V30jd4", 
+            "id": "781170010005839873", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T16:33:38", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "\ud83c\udf3b\ud83c\udf3b\ud83c\udf3b @ New York, New York https://t.co/27lP3y2vgq", 
+            "id": "780251048975929344", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-26T03:42:01", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "And she waits patiently//for a love that has been promised @ New York, New York https://t.co/HYZmv0rZdX", 
+            "id": "780056230060523520", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-25T14:47:52", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "If you give me sunflowers I'll probably date you \ud83c\udf3b @ New York, New York https://t.co/aYk1gAzbKq", 
+            "id": "779721156416966656", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-24T16:36:24", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "After being dance deprived for about a month this felt sooooooo good! Amazing to be back I love\u2026 https://t.co/VIIC6N1bvd", 
+            "id": "779496116442243072", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-24T01:42:11", 
+            "coordinates": [
+                -73.9894409, 
+                40.7594452
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Missing your body all over me//my mind can't seem to set you free @ New York, New York https://t.co/SQOc7WF1Jy", 
+            "id": "778370940019310592", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-20T23:11:08", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "We went to three parties in one night .... This is serious accomplishment for us grandmas \ud83d\udc75\ud83c\udffc\ud83d\udc75\ud83c\udffc @\u2026 https://t.co/g9bBd7hMkT", 
+            "id": "777729572683022341", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-19T04:42:34", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Just a friendly reminder if you haven't seen my music video to my song \"My Turn Now\" check out\u2026 https://t.co/CpvPbCc5wm", 
+            "id": "776912190515347456", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-16T22:34:35", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "I wanted you so easily//Illusions past and now I see//Image is so different to reality @ Soho,\u2026 https://t.co/4EsaCl1Vag", 
+            "id": "770691672552464384", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-30T18:36:28", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Wish I was there//wish we'd grown up on the same advice//and our time was right @ New York, New\u2026 https://t.co/Vf5IQzrtwA", 
+            "id": "770335731655073792", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-29T19:02:05", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "*baby I'm still rising @ Soho, New York Fashion District https://t.co/gPkZY9SmJq", 
+            "id": "769938732552257536", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-28T16:44:33", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "Wrapped up like bubblegum \ud83d\udc45\ud83d\udc85\ud83c\udffc\ud83c\udf38 @ Soho, New York Fashion District https://t.co/FbhHctAEvS", 
+            "id": "769698616206299136", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-28T00:50:25", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "Kylie who??? (@kyliejenner inspired look today\ud83d\ude44) @ Soho, New York Fashion District https://t.co/zFhxuMwt08", 
+            "id": "769641509243252736", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-27T21:03:29", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "Blowin' kisses at LF because their sale prices got even lower?!?! Come hang with me today at\u2026 https://t.co/SoshELqepM", 
+            "id": "769182760221171712", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-26T14:40:35", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "Shout out to my babygirl d.alilaa who's always taking fire pics of me\ud83d\ude08 @ Soho, New York Fashion\u2026 https://t.co/W77Zf3f089", 
+            "id": "768953234127986688", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-25T23:28:32", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "A lil sneak peak of a new song I've been working on ft juliereumert on the keys\ud83c\udfb9 a recorded\u2026 https://t.co/oYT0OIGpKy", 
+            "id": "768585424256307202", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-24T23:06:59", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "You are the faint line//between faith and//blindly waiting - letter to my future lover\u2026 https://t.co/0wdzZNg2Vn", 
+            "id": "768525602341224448", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-24T19:09:16", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "You've got your demons//she's got her regrets @ New York, New York https://t.co/80YgKY3Qoj", 
+            "id": "768277946691940352", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-24T02:45:11", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Suffer//Charlie Puth\ud83c\udf39so happy to be apart of this sexy video choreographed by the wonderful\u2026 https://t.co/Ey0yse7hML", 
+            "id": "768133997570514944", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-23T17:13:10", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "Cooler than most//@alleengarbo @ Soho, New York Fashion District https://t.co/Btq8OgYoI8", 
+            "id": "767885229910585344", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-23T00:44:40", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "I'm a cool girl//ice cold @ Soho, New York Fashion District https://t.co/yzTDVVl2I2", 
+            "id": "766776629385392128", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-19T23:19:29", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }
+            ], 
+            "text": "Dirrty//Christina Aguilara ... a much needed class w/ @yvonne_marie84 also shout out to our\u2026 https://t.co/KvfOKEhnpm", 
+            "id": "764938103169712129", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-14T21:33:50", 
+            "coordinates": [
+                -73.9895995, 
+                40.75912017
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Manhattan Plaza Apartments I", 
+                    "Victory Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Finally decided to sit down and teach myself guitar. Not sure why I picked this song to be my\u2026 https://t.co/iqPZJZWSzX", 
+            "id": "764881978613174272", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-14T17:50:49", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "Come down to LF in soho 60% off everything in the store!!! Only sale of the season find me\u2026 https://t.co/tucEGLu5lV", 
+            "id": "764530711692976128", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-13T18:35:00", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 856.0, 
+                    "name": "1700 Broadway", 
+                    "osm_id": 164073289.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93293.0, 
+                    "name": "888 8th Avenue", 
+                    "osm_id": 266155271.0
+                }
+            ], 
+            "text": "day off from work=hanging out w sydzucker,coffee,and reading my favorite book \u2615\ufe0f\ud83d\udcd6\ud83c\udf39 @ W 55th Street https://t.co/97lki6Ew5G", 
+            "id": "764192373991768064", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-12T20:10:34", 
+            "coordinates": [
+                -73.98179, 
+                40.76381
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "1700 Broadway"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "Happy birthday to my best friend @brianaantunes thank you for always making me laugh like a\u2026 https://t.co/rbPxuIahjM", 
+            "id": "762306183420112896", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-07T15:15:31", 
+            "coordinates": [
+                -73.98662188, 
+                40.71884837
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Like silk I get slick @ New York, New York https://t.co/luMigP2aum", 
+            "id": "760547726560006145", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-02T18:48:02", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Suffer-Vince Staples &amp; Andrealo Remix // Charlie Puth #hiphop #nyc #dance #charlieputh #suffer\u2026 https://t.co/Ng0bM6r97D", 
+            "id": "760238214942748672", 
+            "favorite_count": 2, 
+            "created_at": "2016-08-01T22:18:09", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Happy Birthday to my sweet sweet @del_lvee // thank you for blessing me with your friendship and\u2026 https://t.co/XhV9Cgdfuy", 
+            "id": "760176194386071552", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-01T18:11:42", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "Daily Reminder*** @ Soho, New York Fashion District https://t.co/ISmC0j7pN1", 
+            "id": "759832656922157056", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-31T19:26:37", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Decided to do a last minute cover of Sandcastles by beyonce the other day, full video is up on\u2026 https://t.co/d5zrr9RxY9", 
+            "id": "759494770381250560", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-30T21:03:58", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "My new song \"Don't Wanna\" is now streaming on Spotify and all your other favorite music apps!\u2026 https://t.co/pw7dYYBW1K", 
+            "id": "759042299154296832", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-29T15:06:01", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "When the matcha makes you cha cha \ud83d\udc83\ud83c\udffd #chachamatcha @ Cha Cha Matcha https://t.co/HBbLd6DN1b", 
+            "id": "758808602878484481", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-28T23:37:23", 
+            "coordinates": [
+                -73.99626, 
+                40.72005
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "I've been waiting two months to drink this Matcha\ud83c\udf75 #chachamatcha @ Cha Cha Matcha https://t.co/1vNIwFX5Qi", 
+            "id": "758751439929937920", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-28T19:50:14", 
+            "coordinates": [
+                -73.99626, 
+                40.72005
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Rehearsal today for my1way2 upcoming video to charlieputh 's song Suffer. Y'all are in for a\u2026 https://t.co/mmru85bTqV", 
+            "id": "758409731530686464", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-27T21:12:25", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99482.0, 
+                    "name": "10 Liberty Street", 
+                    "osm_id": 278069577.0
+                }
+            ], 
+            "text": "Releasing a new song this Friday!! Who's ready?! \ud83d\udc95\ud83d\udc45\ud83c\udf6d #DontWanna #AriMaione @ KidSuper https://t.co/aOGC3nLcRP", 
+            "id": "758025682756759553", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-26T19:46:20", 
+            "coordinates": [
+                -73.95581, 
+                40.7075699
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "10 Liberty Street"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Today's necessities ... new music is on its way! Who's ready?!\ud83d\ude48\ud83d\udc83\ud83c\udffd\ud83c\udfa4 @ New York, New York https://t.co/0kHbsZgRvG", 
+            "id": "756530939950428160", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-22T16:46:46", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "So grateful for these two friends \ud83c\udf39 @ Lower East Side Manhattan, Clinton Str https://t.co/RNZe2u5ImG", 
+            "id": "755620932979396608", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-20T04:30:43", 
+            "coordinates": [
+                -73.98522075, 
+                40.71895837
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "//searching for a love that resembles heaven//yet somehow we end up in hell// @ New York, New York https://t.co/W9xC6CnEI2", 
+            "id": "755131244388741121", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-18T20:04:52", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I", 
+                    "osm_id": 259686626.0
+                }
+            ], 
+            "text": "Happy 21st Birthday to one of my greatest friends who inspires me constantly. This is your year\u2026 https://t.co/RxTKMpeV8h", 
+            "id": "754729175190278144", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-17T17:27:12", 
+            "coordinates": [
+                -73.2977, 
+                40.715
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Colgate Center I"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "First thing I do when I get back to NYC is taking @yvonne_marie84 class! I'm feelin stiletto\u2026 https://t.co/MH3QX8QY8x", 
+            "id": "748916758413733888", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-01T16:30:44", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I know this is super delayed but I wanted to give a HUGE thank you to everyone who came out to\u2026 https://t.co/MTJBrnk6UW", 
+            "id": "747841764548034560", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-28T17:19:05", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Check out my behind the scenes video for \"My Turn Now\" Thank you @yostmedia \ud83d\udc4f\ud83c\udffb\ud83d\udc95\ud83c\udfa5 reach out to\u2026 https://t.co/wjFlVvjCvr", 
+            "id": "743594261367635968", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-17T00:01:01", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "And it's your turn now to buy \"My Turn Now\" on ITunes!!! Don't forget to leave a review and\u2026 https://t.co/60aLyINLEY", 
+            "id": "743233067419058177", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-16T00:05:46", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "MY TURN NOW VIDEO IS OUT NOW!!!! Song is also available on iTunes, Spotify, Tidal, and\u2026 https://t.co/EQCPozsWS2", 
+            "id": "743067004630933504", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-15T13:05:54", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97869.0, 
+                    "name": "PublicSchool 6", 
+                    "osm_id": 266930939.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 98353.0, 
+                    "name": "Public School M199 Jesse Isador Straus", 
+                    "osm_id": 269235421.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98360.0, 
+                    "name": "160 Riverside Boulevard", 
+                    "osm_id": 269239464.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98365.0, 
+                    "name": "The Gallery", 
+                    "osm_id": 269247240.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98371.0, 
+                    "name": "Harsen House", 
+                    "osm_id": 269247252.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98454.0, 
+                    "name": "The Hermitage", 
+                    "osm_id": 269278989.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98459.0, 
+                    "name": "Park Royal", 
+                    "osm_id": 269283338.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98470.0, 
+                    "name": "The Langham", 
+                    "osm_id": 269283415.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98492.0, 
+                    "name": "The Olcott", 
+                    "osm_id": 269279009.0
+                }
+            ], 
+            "text": "Tomorrow night. My Turn Now Music Video Premier Party. Be there or be square. 321 First Ave\u2026 https://t.co/btFmhYIBHS", 
+            "id": "742457215504818176", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-13T20:42:49", 
+            "coordinates": [
+                -73.95091401, 
+                40.7774776
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "160 Riverside Boulevard", 
+                    "The Gallery", 
+                    "Harsen House", 
+                    "The Hermitage", 
+                    "Park Royal", 
+                    "The Langham", 
+                    "The Olcott"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "apartments": 8
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 41406.0, 
+                    "name": "First Presbyterian Church", 
+                    "osm_id": 250072646.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 86500.0, 
+                    "name": "St. George's Church", 
+                    "osm_id": 264752147.0
+                }
+            ], 
+            "text": "\u26a0\ufe0fPSA to all my followers and friends: you're all welcomed to come celebrate the release of my\u2026 https://t.co/N99Uva0vEc", 
+            "id": "741696680605700098", 
+            "favorite_count": 1, 
+            "created_at": "2016-06-11T18:20:43", 
+            "coordinates": [
+                -73.9807281, 
+                40.7343712
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "First Presbyterian Church", 
+                    "St. George's Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "My Turn Now // 6\u202215\u202216 @ New York, New York https://t.co/QnsQRUe7ef", 
+            "id": "741360675361062912", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-10T20:05:33", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Diet Mountain Dew//Lana Del Rey @ New York, New York https://t.co/682AxTLT4s", 
+            "id": "735556307349016581", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-25T19:41:04", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "1:00 am and that's a wrap!!!! Thank you so much to my crew and everyone who made this possible\u2026 https://t.co/mL091Ald9A", 
+            "id": "734971690829107200", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-24T04:58:00", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 88213.0, 
+                    "name": "St. Michael's Church", 
+                    "osm_id": 265258280.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 129286.0, 
+                    "name": "The Shops & Restaurants at Hudson Yards", 
+                    "osm_id": 398440363.0
+                }
+            ], 
+            "text": "Such a great rehearsal today w/ @yvonne_marie84 &amp; @chrissypal7 for the \"My Turn Now\" music\u2026 https://t.co/pfFmZaGxKU", 
+            "id": "733406637168295939", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-19T21:19:02", 
+            "coordinates": [
+                -73.99199799, 
+                40.753494
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "The Shops & Restaurants at Hudson Yards"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "The 13 year old inside me was unleashed last night. Thank you justinbieber for inspiring me all\u2026 https://t.co/yQP1KfZWXb", 
+            "id": "728274853711720449", 
+            "favorite_count": 1, 
+            "created_at": "2016-05-05T17:27:10", 
+            "coordinates": [
+                -73.97618, 
+                40.68327
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 11263.0, 
+                    "name": "Third North", 
+                    "osm_id": 247852541.0
+                }
+            ], 
+            "text": "Me and my whoadies 'bout to stroll up @ Durden Bar https://t.co/6ipJ6QPqIy", 
+            "id": "726876178548723715", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-01T20:49:20", 
+            "coordinates": [
+                -73.9854431, 
+                40.7316589
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Third North"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }, 
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 840.0, 
+                    "name": "101 Park Avenue", 
+                    "osm_id": 161849936.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 125756.0, 
+                    "name": "Holiday Inn Express", 
+                    "osm_id": 292840084.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 125767.0, 
+                    "name": "Hyatt Place", 
+                    "osm_id": 292840085.0
+                }
+            ], 
+            "text": "Hey thanks for being in my life I appreciate you \ud83d\udc96 @ Public House NYC https://t.co/ko2cw9dEqt", 
+            "id": "723961270752391173", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-23T19:46:32", 
+            "coordinates": [
+                -73.976214, 
+                40.7504856
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "hotel", 
+                "name": [
+                    "Holiday Inn Express", 
+                    "Hyatt Place"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2, 
+                "hotel": 3, 
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "That's some wise street art. #whoo @ New York, New York https://t.co/qkG1hcmLOY", 
+            "id": "719314876741652480", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-11T00:03:25", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "university", 
+                    "id": 795.0, 
+                    "name": "Helen and Martin Kimmel Center for University Life", 
+                    "osm_id": 155075464.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 10677.0, 
+                    "name": "Hilary Gardens", 
+                    "osm_id": 247842676.0
+                }
+            ], 
+            "text": "A guy who plays jazz piano&gt;&gt;&gt; @ Webster Hall https://t.co/Ki4b8BZzFE", 
+            "id": "718587966130663424", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-08T23:54:56", 
+            "coordinates": [
+                -73.98980964, 
+                40.7298265
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "Helen and Martin Kimmel Center for University Life"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "Yea OK I got a little fat but my shorty told me that he like it like that @ Broadway Dance Center https://t.co/HL8Q1m0uGz", 
+            "id": "716735741850689537", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-03T21:14:51", 
+            "coordinates": [
+                -73.9894409, 
+                40.7594452
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "Sundays are better in stilettos\ud83d\udc60 thank you always @yvonne_marie84 (reppin that @indyraps merch)\u2026 https://t.co/bSgFxQ84Kb", 
+            "id": "716734677172809728", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-03T21:10:37", 
+            "coordinates": [
+                -73.9894409, 
+                40.7594452
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }
+            ], 
+            "text": "A queen on her throne. @ Chinatown, Manhattan https://t.co/G3P0M2bB90", 
+            "id": "713474137193324544", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-25T21:14:24", 
+            "coordinates": [
+                -73.99722222, 
+                40.71472222
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa", 
+                    "osm_id": 269219557.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "Can't wait for the next beautiful spring day in NYC. Thank you @whut_the_heck for capturing this\u2026 https://t.co/oUmLlkjxHC", 
+            "id": "712381333050413056", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-22T20:51:59", 
+            "coordinates": [
+                -73.972216, 
+                40.77274259
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Grand Tier", 
+                    "The Europa", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "This song hit all the feels, so happy @callmekcookz is back in NYC!! \ud83d\ude0d @ Broadway Dance Center https://t.co/aDIdNc1gSO", 
+            "id": "712070096873717762", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-22T00:15:15", 
+            "coordinates": [
+                -73.9894409, 
+                40.7594452
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "\"I'm an instant star. Just add water and stir.\" -David Bowie @ Soho, New York Fashion District https://t.co/WbAZFPsQBS", 
+            "id": "709450120882946048", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-14T18:44:24", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 84106.0, 
+                    "name": "Grand Street Settlement", 
+                    "osm_id": 264621452.0
+                }
+            ], 
+            "text": "Friday nights be like .... @danca95xoxo @ Harlem World https://t.co/NRfJgcQ8gQ", 
+            "id": "708513147838136320", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-12T04:41:12", 
+            "coordinates": [
+                -73.95512194, 
+                40.71831538
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Stuyvesant High School", 
+                    "Grand Street Settlement"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "Love yourself, it kills people. @ Soho, New York Fashion District https://t.co/s5FSi7VtNQ", 
+            "id": "708025052768428032", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-10T20:21:41", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "Dope shoot today down in soho w @teamJoshBro #chachamatcha @ Soho, New York Fashion District https://t.co/l47N7arZaQ", 
+            "id": "707352141057400832", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-08T23:47:47", 
+            "coordinates": [
+                -74.00125, 
+                40.72387
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Gotcha on my mind, don't ever think I don't. @ New York, New York https://t.co/ydOZgK0Iuq", 
+            "id": "702977887188754433", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-25T22:06:03", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "submarine", 
+                    "id": 611.0, 
+                    "name": "USS Growler", 
+                    "osm_id": 53142768.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83593.0, 
+                    "name": "888 Seventh Avenue", 
+                    "osm_id": 259882502.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87739.0, 
+                    "name": "1740 Broadway", 
+                    "osm_id": 265151172.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87820.0, 
+                    "name": "Westerly", 
+                    "osm_id": 265151973.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89415.0, 
+                    "name": "Hudsonview Terrace", 
+                    "osm_id": 265318791.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 90143.0, 
+                    "name": "Church of the Sacred Heart of Jesus", 
+                    "osm_id": 265327696.0
+                }
+            ], 
+            "text": "Happy Birthday to the silliest most fun loving girl ever! You are the most wonderful person I\u2026 https://t.co/9l4AbTCrYD", 
+            "id": "702223120065765377", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-23T20:06:53", 
+            "coordinates": [
+                -73.9658127, 
+                40.7650986
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "888 Seventh Avenue", 
+                    "1740 Broadway"
+                ]
+            }, 
+            "building_frequency": {
+                "submarine": 2, 
+                "ship": 2, 
+                "church": 2, 
+                "commercial": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99482.0, 
+                    "name": "10 Liberty Street", 
+                    "osm_id": 278069577.0
+                }
+            ], 
+            "text": "If you haven't check out my EP yet don't worry I still think your cool, just click on the link\u2026 https://t.co/SD1ZiN8Wc5", 
+            "id": "701835589734244352", 
+            "favorite_count": 2, 
+            "created_at": "2016-02-22T18:26:58", 
+            "coordinates": [
+                -73.95581, 
+                40.7075699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "10 Liberty Street"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Hello my lovely followers! The time has finally come for me to release my original music I have\u2026 https://t.co/StVxGVGN3N", 
+            "id": "701574665576165376", 
+            "favorite_count": 1, 
+            "created_at": "2016-02-22T01:10:09", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99482.0, 
+                    "name": "10 Liberty Street", 
+                    "osm_id": 278069577.0
+                }
+            ], 
+            "text": "Paparazzi, catch my fly, and my cocky fresh. #getwithit #ep #comingsoon @ KidSuper https://t.co/64eEWWJlnT", 
+            "id": "700380481905369088", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-18T18:04:53", 
+            "coordinates": [
+                -73.95581, 
+                40.7075699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "10 Liberty Street"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 35470.0, 
+                    "name": "Urban Glass House", 
+                    "osm_id": 249664651.0
+                }
+            ], 
+            "text": "3:19AM @ The Bowery Electric https://t.co/YSrcTetkeW", 
+            "id": "698421202235355136", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-13T08:19:25", 
+            "coordinates": [
+                -73.99201207, 
+                40.72572712
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99482.0, 
+                    "name": "10 Liberty Street", 
+                    "osm_id": 278069577.0
+                }
+            ], 
+            "text": "?\u00bf?\u00bf? @ KidSuper https://t.co/R1bT0vtCox", 
+            "id": "698219339837734913", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-12T18:57:17", 
+            "coordinates": [
+                -73.95581, 
+                40.7075699
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "10 Liberty Street"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99482.0, 
+                    "name": "10 Liberty Street", 
+                    "osm_id": 278069577.0
+                }
+            ], 
+            "text": "\ud83e\udd84 @ KidSuper https://t.co/MssmwQXqpP", 
+            "id": "697189547352969216", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-09T22:45:15", 
+            "coordinates": [
+                -73.95581, 
+                40.7075699
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "10 Liberty Street"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "Thank you @callmekcookz for always giving me life, you da best but you already know that \ud83d\udc4f\ud83c\udffb\u2026 https://t.co/mJmK5T4L4t", 
+            "id": "696829503499329536", 
+            "favorite_count": 1, 
+            "created_at": "2016-02-08T22:54:34", 
+            "coordinates": [
+                -73.9894409, 
+                40.7594452
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "Part 2. @yvonne_marie84 @ Broadway Dance Center https://t.co/CIyzk21vPW", 
+            "id": "696472028468088832", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-07T23:14:06", 
+            "coordinates": [
+                -73.9894409, 
+                40.7594452
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "This was the first combo I did with @yvonne_marie84 oh how only a few months of classes can\u2026 https://t.co/gcPv8cpZmI", 
+            "id": "696470341221269504", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-07T23:07:23", 
+            "coordinates": [
+                -73.9894409, 
+                40.7594452
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Head over @teamjoshbro 's profile and click on the link in his bio to watch this pretty\u2026 https://t.co/e66hLWSH3Y", 
+            "id": "695420240646131715", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-05T01:34:40", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "My two favorite things, puppies &amp; New York City. @ New York, New York https://t.co/pgcy0DKN3u", 
+            "id": "685845115529740292", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-09T15:26:32", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "Just your everyday hip hop stars \u270c\ud83c\udffc\ufe0f\ud83d\udc83\ud83c\udffd\ud83d\udc82\ud83c\udffc\ud83c\udf1f @ Broadway Dance Center https://t.co/hcsTpj9mRC", 
+            "id": "682363549402923008", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-31T00:52:02", 
+            "coordinates": [
+                -73.9894409, 
+                40.7594452
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }
+            ], 
+            "text": "New York City - where dreamers come to run away @ Brooklyn Bridge https://t.co/RpaNBTDZMr", 
+            "id": "676149885071196161", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-13T21:21:09", 
+            "coordinates": [
+                -73.99891, 
+                40.70765
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Greenwich Club Residences"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "|so let me love you baby,it's better for the both of us| #newsong #orignal #lyrics #comingsoon @\u2026 https://t.co/M8ygakXJWB", 
+            "id": "675037166280511488", 
+            "favorite_count": 1, 
+            "created_at": "2015-12-10T19:39:36", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "It's finally out!!! Everyone please go check out Speak's new music video for \"Platinum\" this is\u2026 https://t.co/qV9YOAVz0O", 
+            "id": "674728550075772928", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-09T23:13:16", 
+            "coordinates": [
+                -73.9943976, 
+                40.71826632
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "@speakz @ Chinatown Town, New York City https://t.co/dZGFkA4kY7", 
+            "id": "673557615679578112", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-06T17:40:24", 
+            "coordinates": [
+                -73.9943976, 
+                40.71826632
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 835.0, 
+                    "name": "Grace Church", 
+                    "osm_id": 160947235.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 11343.0, 
+                    "name": "Founders Hall", 
+                    "osm_id": 247857074.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 126411.0, 
+                    "name": "Saint Demetrius", 
+                    "osm_id": 366536016.0
+                }
+            ], 
+            "text": "Just experienced life for the first time. \ud83c\udf5c @ Kambi Ramen Inc https://t.co/l19dzymCK4", 
+            "id": "671418083567869952", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-30T19:58:40", 
+            "coordinates": [
+                -73.9836578, 
+                40.7319527
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Grace Church", 
+                    "Saint Demetrius"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "church": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }, 
+                {
+                    "type": "fire_station", 
+                    "id": 41326.0, 
+                    "name": "Ladder 8", 
+                    "osm_id": 250052723.0
+                }
+            ], 
+            "text": "\u2601\ufe0f\u2601\ufe0f\u2601\ufe0f @ Two Hands Cafe https://t.co/KvW2WfDR61", 
+            "id": "668833709500424192", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-23T16:49:17", 
+            "coordinates": [
+                -73.9959488, 
+                40.7196693
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "fire_station", 
+                "name": [
+                    "Ladder 8"
+                ]
+            }, 
+            "building_frequency": {
+                "fire_station": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 83701.0, 
+                    "name": "Coliseum Park Apartments North", 
+                    "osm_id": 262349419.0
+                }, 
+                {
+                    "type": "hospital", 
+                    "id": 90623.0, 
+                    "name": "Mount Sinai Roosevelt Hospital", 
+                    "osm_id": 265355142.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails", 
+                    "osm_id": 265355139.0
+                }
+            ], 
+            "text": "Introducing the crazy girl you all know and love behind my snapchats izzyjgraham \ud83d\udc6d @ Upper East Side https://t.co/oskgAWnlHT", 
+            "id": "667770446335582217", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-20T18:24:15", 
+            "coordinates": [
+                -73.96555556, 
+                40.76916667
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "hospital", 
+                "name": [
+                    "Mount Sinai Roosevelt Hospital"
+                ]
+            }, 
+            "building_frequency": {
+                "hospital": 2, 
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "Nothin like dancing along side yo bestfran \ud83d\udc60\ud83d\udc6f @whut_the_heck thank you @yvonne_marie84 for always\u2026 https://t.co/rbarRA5079", 
+            "id": "663794795249315840", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-09T19:06:26", 
+            "coordinates": [
+                -73.9894409, 
+                40.7594452
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "This ones for heenadamania . Thank you @callmekcookz for doing this one last time!! @justinbieber\u2026 https://t.co/pra1DXqOGE", 
+            "id": "662427687328292864", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-06T00:34:02", 
+            "coordinates": [
+                -73.9894409, 
+                40.7594452
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87739.0, 
+                    "name": "1740 Broadway", 
+                    "osm_id": 265151172.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90165.0, 
+                    "name": "Lumiere", 
+                    "osm_id": 265329547.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125589.0, 
+                    "name": "La Premier", 
+                    "osm_id": 282863156.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "\ud83e\udd84 @ Central Park - New York City x https://t.co/exASIVhma9", 
+            "id": "662016002327228416", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-04T21:18:09", 
+            "coordinates": [
+                -73.9807779, 
+                40.7647637
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Lumiere", 
+                    "La Premier"
+                ]
+            }, 
+            "building_frequency": {
+                "ship": 2, 
+                "commercial": 2, 
+                "supermarket": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 98353.0, 
+                    "name": "Public School M199 Jesse Isador Straus", 
+                    "osm_id": 269235421.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98360.0, 
+                    "name": "160 Riverside Boulevard", 
+                    "osm_id": 269239464.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98371.0, 
+                    "name": "Harsen House", 
+                    "osm_id": 269247252.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98459.0, 
+                    "name": "Park Royal", 
+                    "osm_id": 269283338.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98470.0, 
+                    "name": "The Langham", 
+                    "osm_id": 269283415.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98492.0, 
+                    "name": "The Olcott", 
+                    "osm_id": 269279009.0
+                }
+            ], 
+            "text": "Hey Tommy do you know when your best friend goes to Canada to dance and leaves you and your other\u2026 https://t.co/1JYUCEgmbw", 
+            "id": "661217708772597760", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-02T16:26:01", 
+            "coordinates": [
+                -73.97346976, 
+                40.77756172
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "160 Riverside Boulevard", 
+                    "Harsen House", 
+                    "Park Royal", 
+                    "The Langham", 
+                    "The Olcott"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 6
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 3527.0, 
+                    "name": "Tower 67", 
+                    "osm_id": 241826149.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98414.0, 
+                    "name": "The Majestic", 
+                    "osm_id": 269247841.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126397.0, 
+                    "name": "Columbia Park Theaters", 
+                    "osm_id": 366521782.0
+                }
+            ], 
+            "text": "When city girls try to row a boat \ud83d\udea4 @ Bow Bridge, Central Park https://t.co/UlsgdJWtoB", 
+            "id": "659844711696461824", 
+            "favorite_count": 0, 
+            "created_at": "2015-10-29T21:30:13", 
+            "coordinates": [
+                -73.97183333, 
+                40.77583333
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Tower 67", 
+                    "The Majestic"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "Idky Lil Wayne always gotta be so nasty but this song goes offffff. @callmekcookz @ Broadway Dance\u2026 https://t.co/08r92zYA4q", 
+            "id": "656969695493529600", 
+            "favorite_count": 0, 
+            "created_at": "2015-10-21T23:05:55", 
+            "coordinates": [
+                -73.9894409, 
+                40.7594452
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

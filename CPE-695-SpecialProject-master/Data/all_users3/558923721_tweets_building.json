@@ -1,0 +1,5189 @@
+{
+    "total_favorite_count": 357, 
+    "followers_count": 347, 
+    "total_tweets": 105, 
+    "user_id": 558923721, 
+    "screen_name": "PGNYrugscarpets", 
+    "friends_count": 746, 
+    "buildings": {
+        "dormitory": 13, 
+        "commercial": 2, 
+        "church": 178, 
+        "college": 25, 
+        "apartments": 193
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16837.0, 
+                    "name": "The Aston", 
+                    "osm_id": 248143758.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87467.0, 
+                    "name": "Marble Collegiate Church", 
+                    "osm_id": 265042551.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125726.0, 
+                    "name": "505W19", 
+                    "osm_id": 288767467.0
+                }
+            ], 
+            "text": "Check out our #electionday and #veteransday #blog with #details of our #sales on @1stdibs houzz\u2026 https://t.co/x4Ki087BPH", 
+            "id": "797187167005057024", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T21:20:06", 
+            "coordinates": [
+                -73.98568216, 
+                40.74559667
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Aston", 
+                    "London Towne House", 
+                    "505W19"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16837.0, 
+                    "name": "The Aston", 
+                    "osm_id": 248143758.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87467.0, 
+                    "name": "Marble Collegiate Church", 
+                    "osm_id": 265042551.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125726.0, 
+                    "name": "505W19", 
+                    "osm_id": 288767467.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #antique #northwest #persian #rug now for #sale exclusively\u2026 https://t.co/eVK2T5lQrG", 
+            "id": "796454792595906560", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T20:49:54", 
+            "coordinates": [
+                -73.98568216, 
+                40.74559667
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Aston", 
+                    "London Towne House", 
+                    "505W19"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16837.0, 
+                    "name": "The Aston", 
+                    "osm_id": 248143758.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87467.0, 
+                    "name": "Marble Collegiate Church", 
+                    "osm_id": 265042551.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125726.0, 
+                    "name": "505W19", 
+                    "osm_id": 288767467.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #vintage #persian #heriz #rug now for #sale @1stdibs\u2026 https://t.co/30qUqilFtP", 
+            "id": "793924003991785473", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-02T21:13:27", 
+            "coordinates": [
+                -73.98568216, 
+                40.74559667
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Aston", 
+                    "London Towne House", 
+                    "505W19"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #tapestry #tuesday ! This #antique #french #charlemagne #wallhanging is for #sale with\u2026 https://t.co/TmS6nkLXOs", 
+            "id": "793553840444469248", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-01T20:42:33", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #vintage #european #silk #textile now for #sale with\u2026 https://t.co/d2OFsxCXxb", 
+            "id": "788837919276531712", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-19T20:23:10", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16837.0, 
+                    "name": "The Aston", 
+                    "osm_id": 248143758.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87467.0, 
+                    "name": "Marble Collegiate Church", 
+                    "osm_id": 265042551.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125726.0, 
+                    "name": "505W19", 
+                    "osm_id": 288767467.0
+                }
+            ], 
+            "text": "#happycolumbusday ! Check out this new #blog for #details of our #columbusday #sales on all our\u2026 https://t.co/7HioNH2OWq", 
+            "id": "785578277368922112", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-10T20:30:31", 
+            "coordinates": [
+                -73.98568216, 
+                40.74559667
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Aston", 
+                    "London Towne House", 
+                    "505W19"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #vintage #persian #baktiari #oriental #rug on #sale with\u2026 https://t.co/dnJjh53bNo", 
+            "id": "781570787941711873", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T19:06:11", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #vintage #turkish #oriental #rug with soft colors now for\u2026 https://t.co/TO0c9TnbZw", 
+            "id": "781237833201754112", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-28T21:03:08", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16837.0, 
+                    "name": "The Aston", 
+                    "osm_id": 248143758.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87467.0, 
+                    "name": "Marble Collegiate Church", 
+                    "osm_id": 265042551.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125726.0, 
+                    "name": "505W19", 
+                    "osm_id": 288767467.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #antique #chinese #peking #oriental #rug now for #sale\u2026 https://t.co/RyQc9X5DqU", 
+            "id": "778672045370515457", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-21T19:07:37", 
+            "coordinates": [
+                -73.98568216, 
+                40.74559667
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Aston", 
+                    "London Towne House", 
+                    "505W19"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16837.0, 
+                    "name": "The Aston", 
+                    "osm_id": 248143758.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87467.0, 
+                    "name": "Marble Collegiate Church", 
+                    "osm_id": 265042551.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125726.0, 
+                    "name": "505W19", 
+                    "osm_id": 288767467.0
+                }
+            ], 
+            "text": "Tonight's the night! Join us tonight from 5-7pm for our 45th #anniversary #wineandcheese\u2026 https://t.co/uKXaN5KtK4", 
+            "id": "775421518721449984", 
+            "favorite_count": 4, 
+            "created_at": "2016-09-12T19:51:11", 
+            "coordinates": [
+                -73.98568216, 
+                40.74559667
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Aston", 
+                    "London Towne House", 
+                    "505W19"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "All of us here at Persian Gallery New York invite you to join us this #monday evening from 5-7pm\u2026 https://t.co/DtnBkdylNC", 
+            "id": "774284615586635776", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-09T16:33:32", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust was this #antique #persian #heriz #rug with a #rare #bluegreen\u2026 https://t.co/6aWYfy6mPo", 
+            "id": "773895646923350016", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-08T14:47:55", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Check out the #laborday #weekend #sale for our #collection of #antique and #vintage #rugs\u2026 https://t.co/E0nhh6nzaq", 
+            "id": "771435606408851461", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-01T19:52:35", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16837.0, 
+                    "name": "The Aston", 
+                    "osm_id": 248143758.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87467.0, 
+                    "name": "Marble Collegiate Church", 
+                    "osm_id": 265042551.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125726.0, 
+                    "name": "505W19", 
+                    "osm_id": 288767467.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #antique #turkish #prayer #carpet now for #sale @1stdibs\u2026 https://t.co/sdxk0jNWOL", 
+            "id": "771074960693555200", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-31T19:59:31", 
+            "coordinates": [
+                -73.98568216, 
+                40.74559667
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Aston", 
+                    "London Towne House", 
+                    "505W19"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Last day for the #endofsummer #sale houzz ! Catch the #discount prices on our #collection of\u2026 https://t.co/3vqW5bM19T", 
+            "id": "766015994531868672", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-17T20:56:59", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #tuesday #treat is this #small #antique #persian #rug with #ivory #field and #flowers now\u2026 https://t.co/meoMKQateG", 
+            "id": "765657066379874305", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-16T21:10:44", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "New #blog detailing the finding of a #rare #pokemongo #character at #pgny ! Find #rugachu and\u2026 https://t.co/iw95IPJvAu", 
+            "id": "764199847943692288", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-12T20:40:16", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "It's #tapestry #tuesday ! This #antique #french #wallhanging with #musicians #playing is for\u2026 https://t.co/bkpshDP97V", 
+            "id": "763110890455633920", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-09T20:33:08", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "Your #monday #motivation is this #antique #persian #kurd #carpet now for #sale with\u2026 https://t.co/zoo1jk4Hc1", 
+            "id": "762756840727965696", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-08T21:06:16", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "New #blog detailing the finding of a #rare #pokemongo #character at #pgny ! Find #rugachu and\u2026 https://t.co/q1e5l3AVb7", 
+            "id": "761662850662367232", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-05T20:39:09", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "Your #mondaymotivation is this #antique #rounded #persian #kerman #rug with #wool and #silk now\u2026 https://t.co/qHZVc7LyPB", 
+            "id": "760219589276041216", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-01T21:04:08", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #thursday #thrill is this #vintage #persian #kerman #rug with #soft #colors now for #sale\u2026 https://t.co/1s1ufRinSa", 
+            "id": "758750143835320320", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-28T19:45:05", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Last chance to use #discount #code PGJULY in our @etsy #shop for a great #collection of #vintage\u2026 https://t.co/UTLxNXtR5W", 
+            "id": "758408849686749184", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-27T21:08:54", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "Your #monday #motivation is this #antique #bible #tapestry with #oldtestament figures #isaac\u2026 https://t.co/glbrdJcnfp", 
+            "id": "757641058142519296", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-25T18:17:59", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "Get a great #discount on our #collection of #antique and #vintage #rug #carpet #pillow #textiles\u2026 https://t.co/aA2h1OmgLU", 
+            "id": "756594186229514240", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-22T20:58:05", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "Get a great #discount on our #collection of #vintage #french #pillows in our @etsy #shop by\u2026 https://t.co/eGJ8xKi8aQ", 
+            "id": "756586498741399553", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-22T20:27:32", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #vintage #persian #shiraz #carpet now for #sale exclusively\u2026 https://t.co/yFphyoKsVa", 
+            "id": "755858631879516160", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-20T20:15:15", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "Don't miss your chance for the extra #discounted #prices from our #july4th #sale on a great\u2026 https://t.co/fDQhu2ZF0o", 
+            "id": "754059262746300420", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-15T21:05:12", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #thursday #thrill is this #antique #french #aubusson #carpet #pillow now for #sale @etsy !\u2026 https://t.co/ccmhM7C4ID", 
+            "id": "753691721096163330", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-14T20:44:43", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #thursday #thrill is this #antique #persian #geometric #design #carpet now for #sale\u2026 https://t.co/znnIPd0mnG", 
+            "id": "751149796581380096", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-07T20:24:01", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #tuesday #treat is this #square #antique #persian #carpet with #soft #colors now for #sale\u2026 https://t.co/ocdzF1TdNX", 
+            "id": "750417561494355969", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-05T19:54:23", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#happyfourthofjuly ! Check out this new #blog detailing all the #july4th #sales and #discount\u2026 https://t.co/rxAzLwZi91", 
+            "id": "748994561750536192", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-01T21:39:53", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Last day for the extra 10% #discount on top of already #discounted #prices on a great selection\u2026 https://t.co/LNQn5vV0EG", 
+            "id": "748620185398018048", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-30T20:52:15", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #antique #persian #kerman #rug with #soft #colors now for\u2026 https://t.co/xJ1lwNLdYe", 
+            "id": "748223389530267649", 
+            "favorite_count": 2, 
+            "created_at": "2016-06-29T18:35:32", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "For an extra 10% #discount on top of already #discounted #prices on a great selection of\u2026 https://t.co/spafd5eCom", 
+            "id": "746440895763980289", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-24T20:32:32", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Last chance for the #surprise #discount at our #etsyshop ! Use code PGNYC at #checkout for a\u2026 https://t.co/5vNNKlJSyR", 
+            "id": "746439258701979648", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-24T20:26:02", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "For the #firstdayofsummer bring home this #bright &amp; #sunny #ivory #antique #persian #kerman\u2026 https://t.co/07egFXmWHA", 
+            "id": "744985574214250496", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-20T20:09:36", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#tgif ! This #fine #antique #persian #serapi #carpet is on #sale with additional 10% #discount\u2026 https://t.co/0lmRrFhno4", 
+            "id": "743891246054277121", 
+            "favorite_count": 1, 
+            "created_at": "2016-06-17T19:41:08", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "For a #surprise #discount on an #eclectic #group of #antique and #vintage #rug #pillows use the\u2026 https://t.co/cNMqSJcem6", 
+            "id": "743539860510806017", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-16T20:24:51", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #fine #antique #silk #pictorial #persian #carpet depicting\u2026 https://t.co/screppgbVZ", 
+            "id": "743178978949799936", 
+            "favorite_count": 4, 
+            "created_at": "2016-06-15T20:30:50", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #vintage #persian #kerman #carpet with #soft #colors now for\u2026 https://t.co/iO6UHeOKPL", 
+            "id": "740637900103094276", 
+            "favorite_count": 2, 
+            "created_at": "2016-06-08T20:13:30", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #turkish #tuesday ! This #vintage #kilim #flatweave #runner is now for #sale w/ an\u2026 https://t.co/YwAU4MahsE", 
+            "id": "740284358020370433", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-07T20:48:39", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #monday #motivation is this #fine #antique #persian #sarouk #floral #rug now for #sale\u2026 https://t.co/7oHp71dW63", 
+            "id": "739922281275752448", 
+            "favorite_count": 2, 
+            "created_at": "2016-06-06T20:49:53", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Check out the #rug &amp; #textiles #sale on houzz for an additional 10% #discount on all the #pgny\u2026 https://t.co/RvyqTylnfS", 
+            "id": "738805388380917760", 
+            "favorite_count": 1, 
+            "created_at": "2016-06-03T18:51:45", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #wanderlust is this #vintage #flatweave #kilim #carpet now for #sale @1stdibs\u2026 https://t.co/ZzZqr9FOHA", 
+            "id": "738115903448055808", 
+            "favorite_count": 3, 
+            "created_at": "2016-06-01T21:11:59", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#tgif Check out this new #pgny #rug #blog for all the details of #persiangallery #memorialday\u2026 https://t.co/uJvCKa6okC", 
+            "id": "736294740447113216", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-27T20:35:20", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #thursday #thrill is this #pair of #decorative #stripe #satin #pillows for #sale with #huge\u2026 https://t.co/reyawzv4mL", 
+            "id": "735930501178003456", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-26T20:27:59", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #vintage #pillow with #antique #french #aubusson cover, now for\u2026 https://t.co/XSXnea6EWS", 
+            "id": "735576762634100737", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-25T21:02:21", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #Tuesday #treat was this #antique #persian #rug on #sale for #memorialdayweekend along with\u2026 https://t.co/iDoDttf67B", 
+            "id": "735482204583690240", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-25T14:46:36", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "For a new #pgny #blog with details about our #antique #tapestry on #display in the #showroom of\u2026 https://t.co/1t4MSdhQ5J", 
+            "id": "733762517332328448", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-20T20:53:11", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #Wednesday #wanderlust is this #vintage #decorative #pillow now for #sale with #discount\u2026 https://t.co/wN4YtrQhgk", 
+            "id": "733030437128376320", 
+            "favorite_count": 4, 
+            "created_at": "2016-05-18T20:24:09", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #tapestry #tuesday ! This #antique #french #needlepoint #tapestry is now for #sale with\u2026 https://t.co/v5l8ufiMk6", 
+            "id": "732646549008883712", 
+            "favorite_count": 1, 
+            "created_at": "2016-05-17T18:58:43", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "It's #textile #thursday ! This #antique #european #needlepoint #carpet is now for #sale with\u2026 https://t.co/WgXrPYoAjl", 
+            "id": "730855265164234752", 
+            "favorite_count": 2, 
+            "created_at": "2016-05-12T20:20:48", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #vintage #french #aubusson #pillow now for #sale at the #pgny\u2026 https://t.co/RDc8nQmnRT", 
+            "id": "730472621096218624", 
+            "favorite_count": 1, 
+            "created_at": "2016-05-11T19:00:19", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }
+            ], 
+            "text": "Your #thursday #thrill is this #antique #ivory #persian #kerman #carpet now for #sale\u2026 https://t.co/cONmSh7rgw", 
+            "id": "725771638298521601", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-28T19:40:17", 
+            "coordinates": [
+                -73.98773, 
+                40.747107
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "Marvin Feldman Center", 
+                    "Fred P. Pomerantz Art & Design Center"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "college": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #vintage #decorative #french #aubusson #pillow for #sale with\u2026 https://t.co/m6Bvr8WqkO", 
+            "id": "722886193898082305", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-20T20:34:33", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#tgif Ease the pain of #taxday with this #soft #antique #persian #kerman #carpet now for #sale\u2026 https://t.co/HZXKoCKHjp", 
+            "id": "721038444529655808", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-15T18:12:16", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #vintage #decorative #bessarabian #pillow now for sale @etsy\u2026 https://t.co/SJAOa02sXo", 
+            "id": "720348055363391489", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-13T20:28:54", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #mythology #monday ! This #antique #peterpaulrubens #brussels #achilles #tapestry is for\u2026 https://t.co/hinnjaFr8z", 
+            "id": "719602722018836480", 
+            "favorite_count": 3, 
+            "created_at": "2016-04-11T19:07:13", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#tgif thank goodness it's a #flatweave !\nThis #vintage #kilim #carpet is now for #sale with\u2026 https://t.co/rSCKOxIj0S", 
+            "id": "716006596476805120", 
+            "favorite_count": 3, 
+            "created_at": "2016-04-01T20:57:30", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #antique #needlepoint #tapestry now for #sale @1stdibs\u2026 https://t.co/SJsIBHCpYU", 
+            "id": "715278946728812544", 
+            "favorite_count": 2, 
+            "created_at": "2016-03-30T20:46:04", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #matching #monday ! This #pair of #slim #vintage #pillows is for #sale with #discount houzz\u2026 https://t.co/ghgPPxUyES", 
+            "id": "714562107954569220", 
+            "favorite_count": 3, 
+            "created_at": "2016-03-28T21:17:37", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Yesterday's #thursday #tapestry was this #antique #french #pastoral #wallhanging now for #sale\u2026 https://t.co/40QaVr2x33", 
+            "id": "713409018656649216", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-25T16:55:39", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #antique #persian #tribal #rug now for #sale @1stdibs\u2026 https://t.co/tlTwXI2QcK", 
+            "id": "712718917567913984", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-23T19:13:26", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #turkish #tuesday ! This #vintage #deer #design #kilim is now for #sale with #discount\u2026 https://t.co/ey2uO4BOHn", 
+            "id": "712351927863009281", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-22T18:55:09", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#EidNorooz moborak! #HappyNowruz ! Happy #firstdayofspring ! #PersianNewYear #spring #pgny #nyc\u2026 https://t.co/ykLOTYHX4z", 
+            "id": "711640824489103363", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-20T19:49:28", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #shamrock #green #goodie for #stpatricksday is this #vintage #floral #pillow now for #sale\u2026 https://t.co/I9ZkuYdEpd", 
+            "id": "710850932712546304", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-18T15:30:43", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #antique #khotan #gallery #carpet now for #sale @1stdibs\u2026 https://t.co/Y2N1e4ewEz", 
+            "id": "710192310622011392", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-16T19:53:36", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Beware the #idesofmarch ! This #antique #brussels #juliuscaesar #tapestry is for #sale at #pgny\u2026 https://t.co/YKixvymt28", 
+            "id": "709832819766390784", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-15T20:05:06", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #tapestry #tuesday ! This #antique #french #verdure #pastoral #wallhanging is for #sale w/\u2026 https://t.co/Bb4RVGk4g1", 
+            "id": "709822981996986368", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-15T19:26:01", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #malayer #monday ! This #tranquil #antique #persian #gallery #rug with #paisley #designs is\u2026 https://t.co/b3Bmhrjt04", 
+            "id": "709487189420277761", 
+            "favorite_count": 2, 
+            "created_at": "2016-03-14T21:11:42", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#tgif Thank Goodness It's Friday! Here's a #special #friday #discount for our #instagram fans.\u2026 https://t.co/eeAZwp6RbE", 
+            "id": "708383907415248896", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-11T20:07:39", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #tehran #thursday ! This #fine #antique #persian #carpet with #herati #design is now for\u2026 https://t.co/HoqtASbjQs", 
+            "id": "708024821632860164", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-10T20:20:46", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #antique #persian #camelhair #serab #runner now for #sale @1stdibs\u2026 https://t.co/iUYyYsSYKR", 
+            "id": "707651632595472384", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-09T19:37:51", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #turkish #thursday ! This #antique #oushak #carpet with #soft #colors is now for #sale\u2026 https://t.co/QnC0RVVawI", 
+            "id": "705456003484131328", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-03T18:13:12", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Missed #supertuesday ? Catch these super #tapestry #pillows instead, now for #sale @1stdibs\u2026 https://t.co/XtEVwbolOb", 
+            "id": "705047169452142592", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-02T15:08:38", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #turkish #tuesday ! This #outstanding #antique #oushak #carpet is now for #sale @1stdibs\u2026 https://t.co/TcxtPagkvq", 
+            "id": "702230595586408448", 
+            "favorite_count": 2, 
+            "created_at": "2016-02-23T20:36:35", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#tgif thank goodness it's #french ! This #fine #antique #french #tapestry with #king\u2026 https://t.co/yQPfLLFJKA", 
+            "id": "700770616962637824", 
+            "favorite_count": 2, 
+            "created_at": "2016-02-19T19:55:09", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #thursday #treasure was this #fine #antique #persian #tabriz #carpet with #soft #colors now\u2026 https://t.co/HCmEnLiNWU", 
+            "id": "700706116301418497", 
+            "favorite_count": 1, 
+            "created_at": "2016-02-19T15:38:51", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #tapestry #thursday ! This #antique #historical #flemish #wallhanging is for #sale with\u2026 https://t.co/lNr6wi56fI", 
+            "id": "697888293275488256", 
+            "favorite_count": 2, 
+            "created_at": "2016-02-11T21:01:49", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #fine #antique #persian #lavar #carpet for #sale on @1stdibs\u2026 https://t.co/O6IO8siUyc", 
+            "id": "697520395000422401", 
+            "favorite_count": 1, 
+            "created_at": "2016-02-10T20:39:56", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #tapestry #tuesday ! This #antique #french #mille #fleurs #chivalry #wallhanging is for\u2026 https://t.co/FVBWS8FlW8", 
+            "id": "697159506015428610", 
+            "favorite_count": 2, 
+            "created_at": "2016-02-09T20:45:53", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#tgif thank goodness it's #french !  This #fine #flatweave #antique #aubusson #carpet is for\u2026 https://t.co/EJxs3xN2PK", 
+            "id": "695724193711812608", 
+            "favorite_count": 1, 
+            "created_at": "2016-02-05T21:42:28", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #turkish #thursday ! This #handwoven #antique #oushak #carpet with #cypress #tree #design\u2026 https://t.co/iw49CW8z4t", 
+            "id": "695369658354921472", 
+            "favorite_count": 2, 
+            "created_at": "2016-02-04T22:13:40", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #Wednesday #want is this #fine #antique #persian #lavar #carpet now for #sale @1stdibs\u2026 https://t.co/IaSmZI4TR9", 
+            "id": "694969746245160960", 
+            "favorite_count": 2, 
+            "created_at": "2016-02-03T19:44:34", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #tapestrytuesday ! This #fine #antique #french #aubusson #rustic #tapestry is for sale w/\u2026 https://t.co/QWbF0IW3ae", 
+            "id": "694639998000316416", 
+            "favorite_count": 1, 
+            "created_at": "2016-02-02T21:54:15", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #medallion #monday ! This #antique #persian #serapi #bakshaish #carpet is for #sale with\u2026 https://t.co/T9CmWKyBTe", 
+            "id": "694262114442153984", 
+            "favorite_count": 1, 
+            "created_at": "2016-02-01T20:52:41", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#tgif Thank Goodness It's #floral ! This #fine #antique #persian #kerman #rug is now for #sale\u2026 https://t.co/VERF38tk3J", 
+            "id": "693155491871117312", 
+            "favorite_count": 1, 
+            "created_at": "2016-01-29T19:35:22", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 3
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #thursday #treasure is this #green #antique #caucasus #rug now for #sale with #discount\u2026 https://t.co/BUn24EVlDr", 
+            "id": "692833521199509505", 
+            "favorite_count": 2, 
+            "created_at": "2016-01-28T22:15:58", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #Wednesday #want is this lovely #antique #persian #hamadan #rug that's now for #sale\u2026 https://t.co/HhZCQGsy3N", 
+            "id": "692471176975769600", 
+            "favorite_count": 2, 
+            "created_at": "2016-01-27T22:16:08", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #tabriz #tuesday ! This #fine #antique #persian #decorative #rug is now for #sale @1stdibs\u2026 https://t.co/egZnZmQJsQ", 
+            "id": "692073676699754498", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-26T19:56:37", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #turkish #thursday ! This #vintage #flatweave #kilim #carpet with an #ivory field is now\u2026 https://t.co/YDV3ZpqKUX", 
+            "id": "690287237905399808", 
+            "favorite_count": 1, 
+            "created_at": "2016-01-21T21:37:57", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 3
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #Wednesday #want is this #antique #silk #turkish #rug, which is now for #sale @1stdibs\u2026 https://t.co/C7lXAzZdCf", 
+            "id": "689929432165957632", 
+            "favorite_count": 2, 
+            "created_at": "2016-01-20T21:56:09", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #tapestry #tuesday ! These four #amazing #antique #tapestries which were recently in\u2026 https://t.co/hkIuDjtghs", 
+            "id": "689502981671276544", 
+            "favorite_count": 1, 
+            "created_at": "2016-01-19T17:41:35", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "This #antique #french #gamepark #foxhunting #tapestry which was recently in a #ralphlauren\u2026 https://t.co/mBgVQzv6pg", 
+            "id": "689178490571218945", 
+            "favorite_count": 1, 
+            "created_at": "2016-01-18T20:12:11", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#tgif Thank Goodness It's #flemish ! This #antique #landscape #tapestry which was on #display at\u2026 https://t.co/CORAYaL0w9", 
+            "id": "688110201837232128", 
+            "favorite_count": 1, 
+            "created_at": "2016-01-15T21:27:11", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "This #antique #flemish #landscape #tapestry which was on #display at #ralphlauren is now for\u2026 https://t.co/hhE3T1C9mp", 
+            "id": "687731731252797441", 
+            "favorite_count": 2, 
+            "created_at": "2016-01-14T20:23:16", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #antique #verdure #landscape #tapestry which was in a major\u2026 https://t.co/X0T9B2wUQm", 
+            "id": "687681053247586305", 
+            "favorite_count": 1, 
+            "created_at": "2016-01-14T17:01:54", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #antique #verdure #landscape #tapestry which was in a major\u2026 https://t.co/X0T9B2wUQm", 
+            "id": "687397478057000962", 
+            "favorite_count": 1, 
+            "created_at": "2016-01-13T22:15:04", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #tabriz #tuesday ! This #fine #antique #persian #decorative #rug is now for #sale @1stdibs\u2026 https://t.co/fo9HNkXiEj", 
+            "id": "686986217783738370", 
+            "favorite_count": 2, 
+            "created_at": "2016-01-12T19:00:52", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #mohtesham #monday ! This #fine #antique #persian #kashan #carpet is for #sale with\u2026 https://t.co/qCWoGSdQ6I", 
+            "id": "686604217344212994", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-11T17:42:56", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "#tgif Thank Goodness It's #flemish ! This #antique #historical #war #tapestry is for #sale with\u2026 https://t.co/kBBaddNmED", 
+            "id": "685531826585251840", 
+            "favorite_count": 2, 
+            "created_at": "2016-01-08T18:41:38", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 3
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #thursday #treat is this #distressed #antique #persian #kerman #carpet with a #european\u2026 https://t.co/mgWJFmpv5O", 
+            "id": "685176275477069832", 
+            "favorite_count": 2, 
+            "created_at": "2016-01-07T19:08:48", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "Your #wednesday #want is this #antique #northwest #persian #rug now for #sale @1stdibs\u2026 https://t.co/HlsuDF2jw8", 
+            "id": "684860055066382337", 
+            "favorite_count": 2, 
+            "created_at": "2016-01-06T22:12:15", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16973.0, 
+                    "name": "777 Sixth Avenue", 
+                    "osm_id": 248144157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 85726.0, 
+                    "name": "St. Paul's Church", 
+                    "osm_id": 264651587.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87540.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 265042513.0
+                }
+            ], 
+            "text": "It's #tapestrytuesday  This #antique #mythology #tapestry of the #courtship of #apollo is for\u2026 https://t.co/v5aYo8NK88", 
+            "id": "684465501892902912", 
+            "favorite_count": 1, 
+            "created_at": "2016-01-05T20:04:27", 
+            "coordinates": [
+                -73.9835815, 
+                40.7452812
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Paul's Church", 
+                    "Church of the Transfiguration"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 2
+        }
+    ]
+}

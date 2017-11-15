@@ -1,0 +1,3864 @@
+{
+    "total_favorite_count": 2089, 
+    "total_tweets": 172, 
+    "screen_name": "dannieybarra", 
+    "friends_count": 2082, 
+    "followers_count": 2321, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sit down ya'll, I got a little story for you about how I met this woman here. This badass in\u2026 https://t.co/nf2n4g1NSd", 
+                "created_at": "2016-11-11T15:25:44", 
+                "retweet_count": 0, 
+                "id": "797097990129352704", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fallin' for fall \ud83d\udd25\ud83d\udca5\ud83c\udf41\ud83c\udf42\ud83c\udf30\ud83d\udd25 @ Seasons Salon and Day Spa https://t.co/7mJLhwqLmb", 
+                "created_at": "2016-11-09T23:29:36", 
+                "retweet_count": 0, 
+                "id": "796494983658356740", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Glam up your Monday with 100% volume lashes \u2728\u2728\u2728 @ Seasons Salon and Day Spa https://t.co/4XQOyjlzA1", 
+                "created_at": "2016-11-07T18:50:52", 
+                "retweet_count": 0, 
+                "id": "795700061187571712", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Saturday vibes \ud83d\udc9e\u2763\ufe0f\ud83d\udc9e @ Seasons Salon and Day Spa https://t.co/lpWO6NeNM4", 
+                "created_at": "2016-11-05T16:51:41", 
+                "retweet_count": 0, 
+                "id": "794945293255118848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "100% volume, D curl, 12-15 on the sexy Lexi \ud83d\ude18\ud83d\ude18 @toofreshlex @ Seasons Salon and Day Spa https://t.co/pqHGHcJv3t", 
+                "created_at": "2016-11-04T21:24:48", 
+                "retweet_count": 1, 
+                "id": "794651634508951552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "20% Classic 80% volume hybrid set \u3030\u27b0\u3030 @ Seasons Salon and Day Spa https://t.co/c57c6tIFuR", 
+                "created_at": "2016-11-03T17:54:27", 
+                "retweet_count": 0, 
+                "id": "794236311498526720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Goodmorning with this set of volume lashes!!! \n.\n.\n.\n.\n.\n.\n.\n#lashes #eyelashextensions\u2026 https://t.co/YQ6keOyMOg", 
+                "created_at": "2016-11-03T14:18:04", 
+                "retweet_count": 0, 
+                "id": "794181857168400388", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pumpkin posh \ud83c\udf83\n.\n.\n.\n.\n.\n.\n.\n.\n#facepaint #halloween\ud83c\udf83 #trickortreat #halloweenideas\u2026 https://t.co/TRT9oT7B1p", 
+                "created_at": "2016-10-31T22:52:47", 
+                "retweet_count": 0, 
+                "id": "793224225985363968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm freaking myself out over here doing this zombie make up \ud83d\ude1d\ud83d\ude1d\n.\n.\n.\n.\n.\n.\n.\n.\n#sugarskull\u2026 https://t.co/mp5hpxC3ZN", 
+                "created_at": "2016-10-31T18:57:19", 
+                "retweet_count": 0, 
+                "id": "793164969609195520", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Holiday lashes \u2764\ufe0f\u2764\ufe0f\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#lashes #eyelashextensions #lashextensions\u2026 https://t.co/0aqV8A3LqC", 
+                "created_at": "2016-10-31T18:55:33", 
+                "retweet_count": 0, 
+                "id": "793164523276476417", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "FALL in love \u2764\ufe0f\ud83c\udf41\ud83c\udf42\u2764\ufe0f \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#balayage #utahcountyhairdresser #utahhair\u2026 https://t.co/gyYbY2YXYZ", 
+                "created_at": "2016-10-28T19:40:44", 
+                "retweet_count": 0, 
+                "id": "792088731033411585", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This is Halloween!!!! \ud83c\udf83\ud83c\udf83\ud83c\udf83\n.\n.\n.\n#sugarskull #facepaint #halloween #sugarskullface #trickortreat\u2026 https://t.co/1gY8iravqH", 
+                "created_at": "2016-10-28T15:28:25", 
+                "retweet_count": 0, 
+                "id": "792025232391405568", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Peek-a-boo lashes that pop \ud83d\udc7b \n\n.\n.\n.\n.\n.\n.\n.\n.\n#lashes #eyelashextensions #lashextensions\u2026 https://t.co/k2ynkGDn2U", 
+                "created_at": "2016-10-27T15:22:50", 
+                "retweet_count": 0, 
+                "id": "791661442600669185", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.4403862, 
+                    36.15311288
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drop knee \ud83c\udf35 @ Red Rock Canyons Las Vegas https://t.co/WChQLq1BH5", 
+                "created_at": "2016-10-25T15:46:54", 
+                "retweet_count": 0, 
+                "id": "790942723280887808", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.4403862, 
+                    36.15311288
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Heatstroke nap on a a 2 foot cliff \ud83d\udd25 @ Red Rock Canyons Las Vegas https://t.co/lNGYKc4r7f", 
+                "created_at": "2016-10-21T14:18:47", 
+                "retweet_count": 0, 
+                "id": "789470992821260288", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.17283812, 
+                    36.11618237
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"The currency of being 23 will remain the same, just by another name.\" @ Red Rock Canyon https://t.co/TFgLRMMFx6", 
+                "created_at": "2016-10-21T05:04:44", 
+                "retweet_count": 0, 
+                "id": "789331562772987904", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.40387228, 
+                    33.89482354
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Love to amandawheatfill for the sea salt hair \ud83d\udc99\ud83c\udf0a\ud83d\udc99 @ Manhattan Beach, Manhattan Beach, California https://t.co/GOGwOtc0pF", 
+                "created_at": "2016-10-19T19:11:13", 
+                "retweet_count": 0, 
+                "id": "788819813091205123", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.377, 
+                    33.8565
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "'Everything that shines ain't always gonna be gold.' @ Redondo Beach, California https://t.co/WJVqDa02pF", 
+                "created_at": "2016-10-19T17:59:18", 
+                "retweet_count": 0, 
+                "id": "788801715957096448", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "All about that rich mocha \u2615\ufe0f @ Seasons Salon and Day Spa https://t.co/7MeZ7HMUjM", 
+                "created_at": "2016-10-19T17:54:03", 
+                "retweet_count": 0, 
+                "id": "788800394818453504", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lashalicious \u2666\ufe0f\u2665\ufe0f\u2666\ufe0f @ Seasons Salon and Day Spa https://t.co/r203b1mGvG", 
+                "created_at": "2016-10-19T15:21:59", 
+                "retweet_count": 0, 
+                "id": "788762122410917889", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lashalicious \u2666\ufe0f\u2665\ufe0f\u2666\ufe0f @ Seasons Salon and Day Spa https://t.co/1nmkJcL8eH", 
+                "created_at": "2016-10-19T15:19:44", 
+                "retweet_count": 0, 
+                "id": "788761558256156672", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.10191355, 
+                    34.07815063
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The great dango \ud83c\udf61\ud83c\udf61\ud83c\udf61 @ Wang Xing Ji Juicy Dumplings https://t.co/CBpyUtuYxE", 
+                "created_at": "2016-10-19T01:56:44", 
+                "retweet_count": 0, 
+                "id": "788559476118941697", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Winter is coming \u2744\ufe0f\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#behindthechair #lorealprofessional @lorealprous\u2026 https://t.co/s3mEtnjCYn", 
+                "created_at": "2016-10-17T04:49:10", 
+                "retweet_count": 0, 
+                "id": "787878092874416128", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Saturday classics \ud83e\udd17\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#lashes #eyelashextensions #lashextensions #fulllashset\u2026 https://t.co/vVaxRS9Sji", 
+                "created_at": "2016-10-15T14:57:58", 
+                "retweet_count": 0, 
+                "id": "787306528764157952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Come shop the Seasons Boutique for perfect fall attire \ud83d\udc9b\ud83c\udf42\ud83d\udc9b\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#boutique\u2026 https://t.co/dUqDr0bOcB", 
+                "created_at": "2016-10-14T23:25:08", 
+                "retweet_count": 0, 
+                "id": "787071771723833344", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fall brunette balayage!! \ud83c\udf42\u2734\ufe0f\ud83c\udf42 \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#balayage #utahcountyhairdresser\u2026 https://t.co/v7gOr2jV5b", 
+                "created_at": "2016-10-14T18:18:35", 
+                "retweet_count": 0, 
+                "id": "786994628461494272", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "They're classics because they're classics \ud83d\udc4c\ud83c\udffc\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#lashes #eyelashextensions\u2026 https://t.co/BPOUweliIj", 
+                "created_at": "2016-10-13T02:07:13", 
+                "retweet_count": 0, 
+                "id": "786387786798551040", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's that time of year for facepainting fun!!! \ud83c\udfa8 Happy Halloween and give Seasons a call to\u2026 https://t.co/w9YiZA4BCS", 
+                "created_at": "2016-10-12T15:23:57", 
+                "retweet_count": 0, 
+                "id": "786225904208969728", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Khaleesi Chic \ud83d\udc09\ud83d\udc32\ud83d\udc09 \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#behindthechair #lorealprofessional\u2026 https://t.co/pitcjHgsD1", 
+                "created_at": "2016-10-10T22:19:16", 
+                "retweet_count": 0, 
+                "id": "785605647048044544", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can we talk about how on point these lashes turned out?! \ud83d\ude0d\ud83d\ude0d Guess what- I'm now offering VOLUME\u2026 https://t.co/eSiYIWv9Tb", 
+                "created_at": "2016-10-07T18:08:34", 
+                "retweet_count": 0, 
+                "id": "784455391245701120", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm so grateful to my homies at the salon! It's been a fun day of nail and lash training \u2764\ufe0f\u2764\ufe0f @\u2026 https://t.co/Ak8bWK37Y3", 
+                "created_at": "2016-10-06T21:58:10", 
+                "retweet_count": 0, 
+                "id": "784150786544660480", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The season change says FALL TIME which means going warmer and darker. Aka, my FAVORITE time to\u2026 https://t.co/FkLhVUfr99", 
+                "created_at": "2016-10-05T01:17:57", 
+                "retweet_count": 0, 
+                "id": "783476287314636800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.972216, 
+                    40.77274259
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 193612488.0, 
+                    "type": "yes", 
+                    "id": 966.0, 
+                    "name": "CJ Korea Express"
+                }, 
+                {
+                    "osm_id": 193612487.0, 
+                    "type": "yes", 
+                    "id": 968.0, 
+                    "name": "1000 Castle Road"
+                }, 
+                {
+                    "osm_id": 265354534.0, 
+                    "type": "yes", 
+                    "id": 90615.0, 
+                    "name": "Metropolitan Opera House"
+                }, 
+                {
+                    "osm_id": 265354527.0, 
+                    "type": "yes", 
+                    "id": 90622.0, 
+                    "name": "David Geffen Hall"
+                }, 
+                {
+                    "osm_id": 269211267.0, 
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School"
+                }, 
+                {
+                    "osm_id": 269212824.0, 
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier"
+                }, 
+                {
+                    "osm_id": 269219551.0, 
+                    "type": "yes", 
+                    "id": 98027.0, 
+                    "name": "Congregation Habonim"
+                }, 
+                {
+                    "osm_id": 269219557.0, 
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa"
+                }, 
+                {
+                    "osm_id": 279480829.0, 
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial"
+                }, 
+                {
+                    "osm_id": 347377417.0, 
+                    "type": "yes", 
+                    "id": 126330.0, 
+                    "name": "600 Meadowlands Parkway"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"On some solitary rock, a desperate lover left his mark: Baby, I've changed. Please come back.\"\u2026 https://t.co/9QF8Gpy0lY", 
+                "created_at": "2016-10-01T23:53:40", 
+                "retweet_count": 0, 
+                "id": "782367910459215872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Empire State of Mind #nyc @ New York, New York https://t.co/vHloSODwcQ", 
+                "created_at": "2016-10-01T17:39:43", 
+                "retweet_count": 0, 
+                "id": "782273803619622912", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9910368, 
+                    40.7342397
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 250072646.0, 
+                    "type": "church", 
+                    "id": 41406.0, 
+                    "name": "First Presbyterian Church"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "There's basically nothing that chocolate doesn't make better \ud83c\udf6b\ud83c\udf6e\ud83c\udf6b @ Max Brenner https://t.co/ojdrToKwJR", 
+                "created_at": "2016-09-30T00:14:27", 
+                "retweet_count": 0, 
+                "id": "781648364735717376", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.88095885, 
+                    40.86371128
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fall foliage \ud83c\udf42\ud83d\udc9b\ud83c\udf83 @ The New York Botanical Garden https://t.co/STVmeefWxO", 
+                "created_at": "2016-09-29T21:49:55", 
+                "retweet_count": 0, 
+                "id": "781611993857941504", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.88095885, 
+                    40.86371128
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Botanical besties \ud83c\udf32\u270c\ud83c\udffc\ufe0f\ud83c\udf33 restless_canyon @meaggx @ The New York Botanical Garden https://t.co/g1hNftQ4SC", 
+                "created_at": "2016-09-29T21:46:05", 
+                "retweet_count": 0, 
+                "id": "781611029453242369", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986, 
+                    40.747
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 159871578.0, 
+                    "type": "yes", 
+                    "id": 821.0, 
+                    "name": "Tower 31"
+                }, 
+                {
+                    "osm_id": 182240448.0, 
+                    "type": "apartments", 
+                    "id": 901.0, 
+                    "name": "Castle Point Apartments"
+                }, 
+                {
+                    "osm_id": 236107988.0, 
+                    "type": "yes", 
+                    "id": 1189.0, 
+                    "name": "Eventi"
+                }, 
+                {
+                    "osm_id": 264627649.0, 
+                    "type": "yes", 
+                    "id": 84230.0, 
+                    "name": "Pier 60"
+                }, 
+                {
+                    "osm_id": 264627647.0, 
+                    "type": "yes", 
+                    "id": 84420.0, 
+                    "name": "Pier 61"
+                }, 
+                {
+                    "osm_id": 264651216.0, 
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall"
+                }, 
+                {
+                    "osm_id": 264651244.0, 
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center"
+                }, 
+                {
+                    "osm_id": 264651245.0, 
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center"
+                }, 
+                {
+                    "osm_id": 264651212.0, 
+                    "type": "dormitory", 
+                    "id": 85729.0, 
+                    "name": "Nagler Hall"
+                }, 
+                {
+                    "osm_id": 264669366.0, 
+                    "type": "yes", 
+                    "id": 86068.0, 
+                    "name": "Saint Eleftherios"
+                }, 
+                {
+                    "osm_id": 264669362.0, 
+                    "type": "yes", 
+                    "id": 86126.0, 
+                    "name": "Penn South Housing"
+                }, 
+                {
+                    "osm_id": 264685212.0, 
+                    "type": "yes", 
+                    "id": 86347.0, 
+                    "name": "DoubleTree"
+                }, 
+                {
+                    "osm_id": 265260919.0, 
+                    "type": "yes", 
+                    "id": 88279.0, 
+                    "name": "Kaskel and Kaskel Building"
+                }, 
+                {
+                    "osm_id": 265260929.0, 
+                    "type": "yes", 
+                    "id": 88292.0, 
+                    "name": "Hyatt Midtown"
+                }, 
+                {
+                    "osm_id": 400535611.0, 
+                    "type": "yes", 
+                    "id": 131032.0, 
+                    "name": "Monroe Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Finally met Meagan and having all the adventures \ud83d\ude0e\ud83d\udc95\ud83d\udc4c\ud83c\udffc#Wattpad #newyork #nyc #subway #travel @\u2026 https://t.co/aPTIUiKge2", 
+                "created_at": "2016-09-29T19:14:40", 
+                "retweet_count": 0, 
+                "id": "781572923429621761", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96974445, 
+                    40.77988787
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.\"\u2026 https://t.co/A6Vr7Y4Rxd", 
+                "created_at": "2016-09-29T16:09:30", 
+                "retweet_count": 0, 
+                "id": "781526325383294981", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00944444, 
+                    40.70638889
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 129700432.0, 
+                    "type": "apartments", 
+                    "id": 688.0, 
+                    "name": "Millennium Tower Residences"
+                }, 
+                {
+                    "osm_id": 277924003.0, 
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza"
+                }, 
+                {
+                    "osm_id": 277924006.0, 
+                    "type": "yes", 
+                    "id": 99155.0, 
+                    "name": "Museum of Jewish Heritage"
+                }, 
+                {
+                    "osm_id": 278042241.0, 
+                    "type": "apartments", 
+                    "id": 99256.0, 
+                    "name": "45 Wall Street"
+                }, 
+                {
+                    "osm_id": 278053476.0, 
+                    "type": "yes", 
+                    "id": 99279.0, 
+                    "name": "Continental Bank Building"
+                }, 
+                {
+                    "osm_id": 278053497.0, 
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street"
+                }, 
+                {
+                    "osm_id": 278053487.0, 
+                    "type": "yes", 
+                    "id": 99325.0, 
+                    "name": "Harriman Building"
+                }, 
+                {
+                    "osm_id": 278053608.0, 
+                    "type": "yes", 
+                    "id": 99390.0, 
+                    "name": "52 Broadway"
+                }, 
+                {
+                    "osm_id": 278053607.0, 
+                    "type": "yes", 
+                    "id": 99391.0, 
+                    "name": "50 Broadway"
+                }, 
+                {
+                    "osm_id": 278067732.0, 
+                    "type": "yes", 
+                    "id": 99392.0, 
+                    "name": "P.S. - I.S. 276 Battery Park City School"
+                }, 
+                {
+                    "osm_id": 278053605.0, 
+                    "type": "yes", 
+                    "id": 99394.0, 
+                    "name": "45 Broadway Atrium"
+                }, 
+                {
+                    "osm_id": 278067734.0, 
+                    "type": "apartments", 
+                    "id": 99408.0, 
+                    "name": "Le Rivage"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Money, power, glory.\" #lanadelrey #wallstreet #nyc #newyork @ Wall Street https://t.co/b0HIRnlBNV", 
+                "created_at": "2016-09-29T03:53:51", 
+                "retweet_count": 0, 
+                "id": "781341194047684608", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01302024, 
+                    40.7108204
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309471.0, 
+                    "type": "yes", 
+                    "id": 631.0, 
+                    "name": "200 Liberty Street"
+                }, 
+                {
+                    "osm_id": 277919043.0, 
+                    "type": "apartments", 
+                    "id": 99124.0, 
+                    "name": "Gateway Plaza 100"
+                }, 
+                {
+                    "osm_id": 277921806.0, 
+                    "type": "yes", 
+                    "id": 99131.0, 
+                    "name": "Gateway Plaza 300"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "9.11 @ World Trade Center 9/11 Memorial, NYC https://t.co/TYjq5vWpaT", 
+                "created_at": "2016-09-29T03:45:07", 
+                "retweet_count": 0, 
+                "id": "781338994378469376", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01102778, 
+                    40.70683333
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 232065148.0, 
+                    "type": "yes", 
+                    "id": 1182.0, 
+                    "name": "Communipaw Terminal"
+                }, 
+                {
+                    "osm_id": 277924003.0, 
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza"
+                }, 
+                {
+                    "osm_id": 278053471.0, 
+                    "type": "yes", 
+                    "id": 99275.0, 
+                    "name": "Adams Express Building"
+                }, 
+                {
+                    "osm_id": 278053497.0, 
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street"
+                }, 
+                {
+                    "osm_id": 278053531.0, 
+                    "type": "yes", 
+                    "id": 99331.0, 
+                    "name": "New York Stock Exchange"
+                }, 
+                {
+                    "osm_id": 278053485.0, 
+                    "type": "yes", 
+                    "id": 99371.0, 
+                    "name": "One Exchange Plaza"
+                }, 
+                {
+                    "osm_id": 278067736.0, 
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Next to Washington they all look small.\" #wallstreet #nyc #newyork @ New York Stock Exchange https://t.co/6gMEaolM82", 
+                "created_at": "2016-09-29T02:59:02", 
+                "retweet_count": 0, 
+                "id": "781327397639557120", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99815201, 
+                    40.70703413
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 40010489.0, 
+                    "type": "yes", 
+                    "id": 591.0, 
+                    "name": "One Seaport Plaza"
+                }, 
+                {
+                    "osm_id": 232065148.0, 
+                    "type": "yes", 
+                    "id": 1182.0, 
+                    "name": "Communipaw Terminal"
+                }, 
+                {
+                    "osm_id": 277924004.0, 
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch"
+                }, 
+                {
+                    "osm_id": 278053471.0, 
+                    "type": "yes", 
+                    "id": 99275.0, 
+                    "name": "Adams Express Building"
+                }, 
+                {
+                    "osm_id": 278042253.0, 
+                    "type": "yes", 
+                    "id": 99291.0, 
+                    "name": "Goldilox Towers"
+                }, 
+                {
+                    "osm_id": 278053530.0, 
+                    "type": "yes", 
+                    "id": 99330.0, 
+                    "name": "\u7d10\u7d04\u8b49\u5238\u4ea4\u6613\u6240"
+                }, 
+                {
+                    "osm_id": 278053531.0, 
+                    "type": "yes", 
+                    "id": 99331.0, 
+                    "name": "New York Stock Exchange"
+                }, 
+                {
+                    "osm_id": 278053485.0, 
+                    "type": "yes", 
+                    "id": 99371.0, 
+                    "name": "One Exchange Plaza"
+                }, 
+                {
+                    "osm_id": 278069550.0, 
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory"
+                }, 
+                {
+                    "osm_id": 278069567.0, 
+                    "type": "yes", 
+                    "id": 99414.0, 
+                    "name": "Wallace Building"
+                }, 
+                {
+                    "osm_id": 278067736.0, 
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"And I ain't comin' down.\" #tompetty #roomatthetop @ The Brooklyn Bridge New York City https://t.co/Gy8hv5bIxK", 
+                "created_at": "2016-09-29T01:34:41", 
+                "retweet_count": 0, 
+                "id": "781306171621859328", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99815201, 
+                    40.70703413
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 40010489.0, 
+                    "type": "yes", 
+                    "id": 591.0, 
+                    "name": "One Seaport Plaza"
+                }, 
+                {
+                    "osm_id": 232065148.0, 
+                    "type": "yes", 
+                    "id": 1182.0, 
+                    "name": "Communipaw Terminal"
+                }, 
+                {
+                    "osm_id": 277924004.0, 
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch"
+                }, 
+                {
+                    "osm_id": 278053471.0, 
+                    "type": "yes", 
+                    "id": 99275.0, 
+                    "name": "Adams Express Building"
+                }, 
+                {
+                    "osm_id": 278042253.0, 
+                    "type": "yes", 
+                    "id": 99291.0, 
+                    "name": "Goldilox Towers"
+                }, 
+                {
+                    "osm_id": 278053530.0, 
+                    "type": "yes", 
+                    "id": 99330.0, 
+                    "name": "\u7d10\u7d04\u8b49\u5238\u4ea4\u6613\u6240"
+                }, 
+                {
+                    "osm_id": 278053531.0, 
+                    "type": "yes", 
+                    "id": 99331.0, 
+                    "name": "New York Stock Exchange"
+                }, 
+                {
+                    "osm_id": 278053485.0, 
+                    "type": "yes", 
+                    "id": 99371.0, 
+                    "name": "One Exchange Plaza"
+                }, 
+                {
+                    "osm_id": 278069550.0, 
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory"
+                }, 
+                {
+                    "osm_id": 278069567.0, 
+                    "type": "yes", 
+                    "id": 99414.0, 
+                    "name": "Wallace Building"
+                }, 
+                {
+                    "osm_id": 278067736.0, 
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Brooklyn. @ The Brooklyn Bridge New York City https://t.co/V9nVJ7poDf", 
+                "created_at": "2016-09-29T01:24:05", 
+                "retweet_count": 0, 
+                "id": "781303503755042816", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99818544, 
+                    40.7070729
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 40010489.0, 
+                    "type": "yes", 
+                    "id": 591.0, 
+                    "name": "One Seaport Plaza"
+                }, 
+                {
+                    "osm_id": 109337830.0, 
+                    "type": "yes", 
+                    "id": 672.0, 
+                    "name": "Federal Hall National Memorial"
+                }, 
+                {
+                    "osm_id": 232065148.0, 
+                    "type": "yes", 
+                    "id": 1182.0, 
+                    "name": "Communipaw Terminal"
+                }, 
+                {
+                    "osm_id": 277924004.0, 
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch"
+                }, 
+                {
+                    "osm_id": 278053471.0, 
+                    "type": "yes", 
+                    "id": 99275.0, 
+                    "name": "Adams Express Building"
+                }, 
+                {
+                    "osm_id": 278042253.0, 
+                    "type": "yes", 
+                    "id": 99291.0, 
+                    "name": "Goldilox Towers"
+                }, 
+                {
+                    "osm_id": 278053530.0, 
+                    "type": "yes", 
+                    "id": 99330.0, 
+                    "name": "\u7d10\u7d04\u8b49\u5238\u4ea4\u6613\u6240"
+                }, 
+                {
+                    "osm_id": 278053531.0, 
+                    "type": "yes", 
+                    "id": 99331.0, 
+                    "name": "New York Stock Exchange"
+                }, 
+                {
+                    "osm_id": 278053485.0, 
+                    "type": "yes", 
+                    "id": 99371.0, 
+                    "name": "One Exchange Plaza"
+                }, 
+                {
+                    "osm_id": 278053600.0, 
+                    "type": "yes", 
+                    "id": 99387.0, 
+                    "name": "1 Wall Street"
+                }, 
+                {
+                    "osm_id": 278069550.0, 
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory"
+                }, 
+                {
+                    "osm_id": 278067736.0, 
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire"
+                }, 
+                {
+                    "osm_id": 278084743.0, 
+                    "type": "yes", 
+                    "id": 99556.0, 
+                    "name": "Brooklyn Bridge Sightseeing"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Talkin' 'bout that newer nation, and if you don't like it you can beat it, beat it baby.\"\u2026 https://t.co/ETovJD4pnC", 
+                "created_at": "2016-09-29T01:10:24", 
+                "retweet_count": 0, 
+                "id": "781300060747431936", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9774987, 
+                    40.77861698
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "gracielaurennn I love you soooooooo much right now \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d @ Patsy's Pizzeria https://t.co/T1vDfcOTzL", 
+                "created_at": "2016-09-28T23:02:22", 
+                "retweet_count": 0, 
+                "id": "781267839038742529", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9774987, 
+                    40.77861698
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thank you gracielaurennn for recommending authentic New York pizza to try!!! \u2764\ufe0f\ud83c\udf55\ud83c\udf77 @ Patsy's\u2026 https://t.co/q3mOpYoNwW", 
+                "created_at": "2016-09-28T22:38:51", 
+                "retweet_count": 0, 
+                "id": "781261919214825473", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96222587, 
+                    40.80740767
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"For the things we have to learn before we can do them, we learn by doing them.\" #aristotle\u2026 https://t.co/Rl8xwsaC6P", 
+                "created_at": "2016-09-28T21:43:59", 
+                "retweet_count": 0, 
+                "id": "781248114074214400", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96222587, 
+                    40.80740767
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "An Ivy League school has always been a dream of mine. It's awesome to be visiting the university\u2026 https://t.co/QxPtgO3odT", 
+                "created_at": "2016-09-28T21:04:38", 
+                "retweet_count": 0, 
+                "id": "781238210278133760", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9617797, 
+                    40.79429095
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Everything can change in a New York minute.\" #eagles #nyc #centralpark #newyork #manhattan\u2026 https://t.co/WW08Idgp85", 
+                "created_at": "2016-09-28T20:04:35", 
+                "retweet_count": 0, 
+                "id": "781223098716721152", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.96423178, 
+                    41.36094074
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#mystic @ Mystic seaport in Connecticut. https://t.co/hU1a9dWEoz", 
+                "created_at": "2016-09-28T15:15:22", 
+                "retweet_count": 0, 
+                "id": "781150314485383169", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.8187, 
+                    41.3748
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Goin' anywhere.\" #journey #rhodeisland #wanderlust #travel #trains @ Westerly, Rhode Island https://t.co/bWrUNfdxqj", 
+                "created_at": "2016-09-28T14:52:57", 
+                "retweet_count": 0, 
+                "id": "781144671540146176", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.93055556, 
+                    42.045
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Goodbye Massy!! \ud83e\udd80\ud83c\udf41\u2764\ufe0f #massachusettes #dudley #bffs #travel @ Dudley, Massachusetts https://t.co/94mJBACYS3", 
+                "created_at": "2016-09-28T14:11:06", 
+                "retweet_count": 0, 
+                "id": "781134139378503680", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.62147846, 
+                    42.09017626
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"It's never enough!\" \ud83d\ude02\ud83d\ude02 @ Big E, Massachusetts Building https://t.co/bULsU7QJfi", 
+                "created_at": "2016-09-27T19:19:16", 
+                "retweet_count": 0, 
+                "id": "780849303816441856", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.61807362, 
+                    42.09167454
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Big E\u203c\ufe0f #thebige #massachusettes #springfield @ The Big E https://t.co/EFxHYEbQD9", 
+                "created_at": "2016-09-27T19:14:38", 
+                "retweet_count": 0, 
+                "id": "780848138051526656", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.93055556, 
+                    42.045
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"The woods are lovely, dark, and deep.\"\n#massachusettes #dudley @ Dudley, Massachusetts https://t.co/KhOVpslxfK", 
+                "created_at": "2016-09-27T13:13:40", 
+                "retweet_count": 0, 
+                "id": "780757300009205760", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.8037499, 
+                    42.25755
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Today was INCREDIBLE because I was able to finally meet one of my best friends in real life that\u2026 https://t.co/mZsBE6MnZ6", 
+                "created_at": "2016-09-27T00:42:18", 
+                "retweet_count": 0, 
+                "id": "780568210810740740", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.91208848, 
+                    40.78130904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Sail on silver girl. Sail on by.\"  #newyork @ Queens - Astoria - NY https://t.co/1IO0tfa3vk", 
+                "created_at": "2016-09-26T17:52:51", 
+                "retweet_count": 0, 
+                "id": "780465169059180544", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.993899, 
+                    40.750638
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 264667030.0, 
+                    "type": "yes", 
+                    "id": 86092.0, 
+                    "name": "James Farley Post Office"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When you are close enough to go meet one of your best friends in MA... you do it \ud83d\ude1d\ud83d\ude86\ud83d\udd54 @\u2026 https://t.co/oE6tawZHoo", 
+                "created_at": "2016-09-26T16:39:42", 
+                "retweet_count": 0, 
+                "id": "780446761387188224", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95045987, 
+                    40.80993465
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Half the fun in traveling is getting lost on public transit \u303d\ufe0f #NYC #subway #metro #newyork @\u2026 https://t.co/EKf7TwQK7O", 
+                "created_at": "2016-09-26T15:42:10", 
+                "retweet_count": 0, 
+                "id": "780432283572600832", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98663311, 
+                    40.75931985
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 159912554.0, 
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I"
+                }, 
+                {
+                    "osm_id": 243088863.0, 
+                    "type": "yes", 
+                    "id": 9403.0, 
+                    "name": "One MiMA Tower"
+                }, 
+                {
+                    "osm_id": 265300047.0, 
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments"
+                }, 
+                {
+                    "osm_id": 265320169.0, 
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149309.0, 
+                    "type": "yes", 
+                    "id": 93187.0, 
+                    "name": "Scientology"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 279400689.0, 
+                    "type": "yes", 
+                    "id": 102067.0, 
+                    "name": "The Shops at Lincoln Harbor"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Where all the magic is happening \u2728\ud83d\ude2d\u2728 #Hamilton #NYC #broadway @ Richard Rodgers Theatre - Hamilton https://t.co/c5hvKCGZnN", 
+                "created_at": "2016-09-25T20:25:52", 
+                "retweet_count": 0, 
+                "id": "780141288930807808", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98663311, 
+                    40.75931985
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 159912554.0, 
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I"
+                }, 
+                {
+                    "osm_id": 243088863.0, 
+                    "type": "yes", 
+                    "id": 9403.0, 
+                    "name": "One MiMA Tower"
+                }, 
+                {
+                    "osm_id": 265300047.0, 
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments"
+                }, 
+                {
+                    "osm_id": 265320169.0, 
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149309.0, 
+                    "type": "yes", 
+                    "id": 93187.0, 
+                    "name": "Scientology"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 279400689.0, 
+                    "type": "yes", 
+                    "id": 102067.0, 
+                    "name": "The Shops at Lincoln Harbor"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Scratch that, this is not a moment, it's the movement.\" #hamilton #broadway #nyc @ Richard\u2026 https://t.co/5LYwLUDWOd", 
+                "created_at": "2016-09-25T18:44:18", 
+                "retweet_count": 0, 
+                "id": "780115727906930688", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98644, 
+                    40.75839
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 163474780.0, 
+                    "type": "yes", 
+                    "id": 859.0, 
+                    "name": "New York Marriott Marquis"
+                }, 
+                {
+                    "osm_id": 263194427.0, 
+                    "type": "yes", 
+                    "id": 83624.0, 
+                    "name": "420 West 42nd Street"
+                }, 
+                {
+                    "osm_id": 266033995.0, 
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School"
+                }, 
+                {
+                    "osm_id": 266034023.0, 
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower"
+                }, 
+                {
+                    "osm_id": 266034045.0, 
+                    "type": "yes", 
+                    "id": 93147.0, 
+                    "name": "InterContinental New York Times Square"
+                }, 
+                {
+                    "osm_id": 266149299.0, 
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre"
+                }, 
+                {
+                    "osm_id": 266149300.0, 
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre"
+                }, 
+                {
+                    "osm_id": 266149302.0, 
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149328.0, 
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"In New York you can be a new man.\" #hamilton #newyork #timessquare #nyc @ Times Square, New\u2026 https://t.co/SaUZC9lPfP", 
+                "created_at": "2016-09-25T16:21:53", 
+                "retweet_count": 0, 
+                "id": "780079888527155200", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lash locaaaaa \ud83e\udd17\ud83e\udd17\ud83e\udd17 Back at it at @SeasonsSalon\u2026 https://t.co/RF9KpK7dSQ", 
+                "created_at": "2016-09-22T01:41:01", 
+                "retweet_count": 0, 
+                "id": "778771048288354304", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.040921, 
+                    37.503342
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Reflect \ud83c\udf33 @ Seonjeongneung - Three Royal Tombs Park https://t.co/slZDu7wjQF", 
+                "created_at": "2016-09-21T10:42:33", 
+                "retweet_count": 0, 
+                "id": "778544940779470848", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.10238911, 
+                    37.50958316
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "THE SUPER MOON!!!!! The dude next to me accurately describes my feelings for it \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83c\udf15 #sokawaii \ud83c\udf15\u2026 https://t.co/jmcnXszZJt", 
+                "created_at": "2016-09-21T00:31:25", 
+                "retweet_count": 0, 
+                "id": "778391145881735169", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02782986, 
+                    37.49834601
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Another mandatory food post \ud83d\ude0d\ud83c\udf7d @ Gangnam, Seoul, S Korea https://t.co/x3EKXNG2Il", 
+                "created_at": "2016-09-20T00:25:08", 
+                "retweet_count": 0, 
+                "id": "778027174372704256", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.10238911, 
+                    37.50958316
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "View from last night \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f #seokchonlake @ Seokchon Lake \uc11d\ucd0c\ud638\uc218 https://t.co/K3t0yGMiJP", 
+                "created_at": "2016-09-19T06:28:52", 
+                "retweet_count": 0, 
+                "id": "777756325539348481", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02782986, 
+                    37.49834601
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Stay curious. @ Gangnam, Seoul, S Korea https://t.co/vtjuLWX9tD", 
+                "created_at": "2016-09-19T02:41:40", 
+                "retweet_count": 0, 
+                "id": "777699147919060992", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02782986, 
+                    37.49834601
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Don't know where it goes, but it's only me and I walk alone.\" @ Gangnam, Seoul, S Korea https://t.co/NwuPy77jTb", 
+                "created_at": "2016-09-19T02:40:00", 
+                "retweet_count": 0, 
+                "id": "777698726563504129", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    126.977, 
+                    37.5689
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Self discovery and solitude \u263a\ufe0f\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#korea #southkorea #seoul #travel #wanderlust\u2026 https://t.co/cLAYHvlv1K", 
+                "created_at": "2016-09-18T06:30:28", 
+                "retweet_count": 0, 
+                "id": "777394338196316160", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02782986, 
+                    37.49834601
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The streets of South Korea are something else \ud83d\udc96\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#southkorea #korea\u2026 https://t.co/2YZniOKwLi", 
+                "created_at": "2016-09-17T23:40:15", 
+                "retweet_count": 0, 
+                "id": "777291105180278785", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.05862172, 
+                    37.51097849
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dress like a local. Live like a local. \ud83d\udc57\ud83c\udf72\n.\n.\n.\n.\n.\n.\n.\n.\n.\n\n.\n#Korea #southkorea #koreanfashion\u2026 https://t.co/wDlw5sdFWI", 
+                "created_at": "2016-09-17T14:02:07", 
+                "retweet_count": 0, 
+                "id": "777145611179130880", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    126.977, 
+                    37.5689
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Korean rameeeeeennnnnnn \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#southkorea #korea\u2026 https://t.co/OUcaUinccF", 
+                "created_at": "2016-09-17T11:51:27", 
+                "retweet_count": 0, 
+                "id": "777112727957438464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02782986, 
+                    37.49834601
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fried pig intestine with sliced potatoes and white radish. Absolutely phenomenal \u2764\ufe0f\ud83d\udc45\u2764\ufe0f\u2026 https://t.co/WH2TcM5Zoj", 
+                "created_at": "2016-09-17T11:48:47", 
+                "retweet_count": 0, 
+                "id": "777112057078505472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02708019, 
+                    37.4988258
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Underground shopping at Gangnam Station is massive and overwhelming \ud83d\ude0d\ud83e\udd11\ud83d\ude0d @ \uac15\ub0a8\uc5ed(Gangman Station) https://t.co/FnFy4cVE5I", 
+                "created_at": "2016-09-16T08:05:43", 
+                "retweet_count": 0, 
+                "id": "776693535257100288", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    126.98562364, 
+                    37.58248545
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"And down the long and silent street,\nThe dawn, with silver-sandaled feet,\nCrept like a\u2026 https://t.co/vXboOZxZfa", 
+                "created_at": "2016-09-16T00:34:42", 
+                "retweet_count": 0, 
+                "id": "776580033657892865", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    126.9767994, 
+                    37.57261302
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Emperor people at palace places \ud83d\udc51 @ Gwanghwamun Square, Seoul, South Korea https://t.co/rZYhvD521Z", 
+                "created_at": "2016-09-15T22:36:14", 
+                "retweet_count": 0, 
+                "id": "776550219513225216", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02024731, 
+                    37.43389577
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Taffy I think? Mesmerizing nonetheless. @ \uc11c\uc6b8\ub79c\ub4dc https://t.co/uFuIjx1H9l", 
+                "created_at": "2016-09-15T22:32:00", 
+                "retweet_count": 0, 
+                "id": "776549153186906112", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.05852649, 
+                    37.51363403
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"In the middle of the night I go walking in my sleep through the valley of fear to a river so\u2026 https://t.co/um9l2HgMBL", 
+                "created_at": "2016-09-15T03:21:23", 
+                "retweet_count": 0, 
+                "id": "776259592217096192", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    126.97722222, 
+                    37.57861111
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"The acquiring of culture is the development of an avid hunger for knowledge and\u2026 https://t.co/XzKrOvek2g", 
+                "created_at": "2016-09-15T00:11:52", 
+                "retweet_count": 0, 
+                "id": "776211899172159489", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02782986, 
+                    37.49834601
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Foods that idk the names of and I'm not going to try spelling but it was friggin delicious \ud83d\udc45 @\u2026 https://t.co/UARt7J6CEj", 
+                "created_at": "2016-09-14T10:39:25", 
+                "retweet_count": 0, 
+                "id": "776007440034856960", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02024731, 
+                    37.43389577
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pokemon trainer status \u270c\ud83c\udffc\ufe0f\n.\n.\n.\n.\n.\n.\n.\n.\n#seoul #korea #asia #travel #wanderlust #southkorea\u2026 https://t.co/RA2X1V7Nc4", 
+                "created_at": "2016-09-14T10:33:33", 
+                "retweet_count": 0, 
+                "id": "776005961320427520", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.86026848, 
+                    41.83485481
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Flags and ferries. I have a thing for both \ud83c\uddf0\ud83c\uddf7\u26f4 @ Han River, Seoul, South Korea https://t.co/8QYmrLlvs7", 
+                "created_at": "2016-09-14T08:13:06", 
+                "retweet_count": 0, 
+                "id": "775970614632931329", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.06344969, 
+                    37.49911478
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Annyeonghaseyoooo \u270c\ud83c\udffc\ufe0f\ud83c\udf78\ud83c\udfaf @ Daechi-dong https://t.co/uTgafFFibB", 
+                "created_at": "2016-09-13T03:33:19", 
+                "retweet_count": 0, 
+                "id": "775537817074139136", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.06198304, 
+                    37.50990688
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Right at home amongst the place where entertainment is pioneered \u2733\ufe0f\ud83d\udd06\ud83d\udca2 @ SMTOWN COEX Artium https://t.co/ZKZEOkrUJe", 
+                "created_at": "2016-09-13T00:05:40", 
+                "retweet_count": 0, 
+                "id": "775485560882356224", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02782986, 
+                    37.49834601
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"I want to reach out and touch the flame.\" @ Gangnam, Seoul, S Korea https://t.co/1QkkVd9Bqx", 
+                "created_at": "2016-09-12T23:59:11", 
+                "retweet_count": 0, 
+                "id": "775483928811536384", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02024731, 
+                    37.43389577
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Would you tell me, please, which way I ought to go from here?\"\n\"That depends a good deal on\u2026 https://t.co/FIiI74VDmr", 
+                "created_at": "2016-09-12T23:06:52", 
+                "retweet_count": 0, 
+                "id": "775470764862631937", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.02782986, 
+                    37.49834601
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#gangnamstyle \ud83d\ude0e @ Gangnam, Seoul, S Korea https://t.co/GDLhesPi27", 
+                "created_at": "2016-09-12T01:33:06", 
+                "retweet_count": 0, 
+                "id": "775145176851505152", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    126.9836283, 
+                    37.5560883
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cable car ride with eonni \u270c\ud83c\udffc\ufe0f\ud83d\udc93\u270c\ud83c\udffc\ufe0f @ Seol Tower https://t.co/q4wqHpkl86", 
+                "created_at": "2016-09-11T12:51:15", 
+                "retweet_count": 0, 
+                "id": "774953451214278657", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    126.98411219, 
+                    37.56326674
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This cat is unamused \ud83d\ude39 Cat cafe ftw! \u2615\ufe0f @ Cat Cafe Attic Cat https://t.co/XUT9Co5DWQ", 
+                "created_at": "2016-09-11T06:41:19", 
+                "retweet_count": 0, 
+                "id": "774860355034120192", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    126.98562364, 
+                    37.58248545
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bukchon Palace \ud83c\udf8e @ Bukchon Hanok ,Seoul https://t.co/EbQjxdsVpK", 
+                "created_at": "2016-09-11T04:53:50", 
+                "retweet_count": 0, 
+                "id": "774833307938947072", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.28027778, 
+                    37.70833333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The view I woke up to this morning \ud83c\udf0a #sanfransisco @ San Francisco Bay https://t.co/VQHWtjCtq4", 
+                "created_at": "2016-09-09T17:29:09", 
+                "retweet_count": 0, 
+                "id": "774298613413543936", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Be free. Be you. \ud83d\udc98 #hairextensions #utahcountyhairdresser @ Seasons Salon and Day Spa https://t.co/rgWlxqWhmQ", 
+                "created_at": "2016-09-08T12:47:39", 
+                "retweet_count": 0, 
+                "id": "773865382612463617", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "On point white-blonde \ud83d\udc4c\ud83c\udffc\ud83c\udff3\ud83d\udc4c\ud83c\udffc#utahcountyhairdresser #highendsalon #platinumblonde\u2026 https://t.co/Oo8ldFmioC", 
+                "created_at": "2016-09-08T03:30:37", 
+                "retweet_count": 0, 
+                "id": "773725199372001281", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.46551582, 
+                    28.47368294
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Details details details \ud83d\udc40 Been planning and waiting for this all year \ud83d\ude0d Thank you\u2026 https://t.co/SBlk5gHt98", 
+                "created_at": "2016-09-07T14:00:08", 
+                "retweet_count": 0, 
+                "id": "773521236831985664", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.46551582, 
+                    28.47368294
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@_findyoursmile rocked my freaking world yesterday with this masterpiece \ud83d\ude0d I got into the shop\u2026 https://t.co/CIrKpy81ii", 
+                "created_at": "2016-09-07T13:48:41", 
+                "retweet_count": 0, 
+                "id": "773518351964438528", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Wet&amp;dry \ud83d\udca6\ud83d\udc81\ud83c\udffc\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#behindthechair @lorealprous  #lorealprofessional\u2026 https://t.co/2oqlU4NdGL", 
+                "created_at": "2016-09-06T00:03:51", 
+                "retweet_count": 0, 
+                "id": "772948391445889024", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Toner with a splash of #pravana \ud83d\ude01\ud83d\ude01\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\nbehindthechair @lorealprous\u2026 https://t.co/uSOwajv1Bm", 
+                "created_at": "2016-09-05T23:48:11", 
+                "retweet_count": 0, 
+                "id": "772944446015045632", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Post foil lightener in preparation for AWESOMNESS \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#behindthechair\u2026 https://t.co/TXnZuWnYoJ", 
+                "created_at": "2016-09-05T23:05:27", 
+                "retweet_count": 0, 
+                "id": "772933693514145792", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Long lasting classics thanks to our new lash sealant\u2026 https://t.co/RNDlpDUNi0", 
+                "created_at": "2016-09-05T19:05:00", 
+                "retweet_count": 0, 
+                "id": "772873182630014976", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.81662261, 
+                    40.74998509
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just another day at the zoo \ud83d\ude02\ud83d\udca6 @ Utah's Hogle Zoo https://t.co/2gxAGEbyPq", 
+                "created_at": "2016-09-04T20:22:48", 
+                "retweet_count": 0, 
+                "id": "772530372315938816", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My morning friend \ud83d\ude0d @ Seasons Salon and Day Spa https://t.co/9E6731FHiW", 
+                "created_at": "2016-09-03T16:02:38", 
+                "retweet_count": 0, 
+                "id": "772102511503282177", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lashtastic \ud83d\udc41 @ Seasons Salon and Day Spa https://t.co/16nr9LkSJW", 
+                "created_at": "2016-09-02T17:21:43", 
+                "retweet_count": 0, 
+                "id": "771760024322531328", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "All about that hair extension life \ud83d\udc81\ud83c\udffc\u2763 @ Seasons Salon and Day Spa https://t.co/FHAuE7kiK5", 
+                "created_at": "2016-09-02T00:04:17", 
+                "retweet_count": 0, 
+                "id": "771498947957448704", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "You know you have the best clients when they bring you your fav @starbucks order \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d #chailatte\u2026 https://t.co/ePkko7kD8K", 
+                "created_at": "2016-09-01T22:47:04", 
+                "retweet_count": 0, 
+                "id": "771479517135269888", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Periwinkle Opal love by amandawheatfill \ud83c\udf61\ud83d\udd2e\ud83d\udc9c \n.\n.\n.\n.\n.\n.\n.\n.\n.\n. \n#pravanacolor #pravana\u2026 https://t.co/qUbi4UIrCU", 
+                "created_at": "2016-08-31T21:07:45", 
+                "retweet_count": 0, 
+                "id": "771092135311450112", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Mysteriously sexy #lashes \ud83d\udc98 @ Seasons Salon and Day Spa https://t.co/RGcNaDbe97", 
+                "created_at": "2016-08-31T20:14:23", 
+                "retweet_count": 0, 
+                "id": "771078702914478080", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I think I'm addicted to doing lashes \ud83d\ude05 \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n #eyelashextensions\u2026 https://t.co/w65TV0sC5z", 
+                "created_at": "2016-08-29T21:05:50", 
+                "retweet_count": 0, 
+                "id": "770366877361180672", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.81584645, 
+                    40.75003585
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "No filter needed for neeture \ud83d\udc1d\ud83d\udc1d\ud83d\udc1d #nature #beehive #honeycomb #natureisawesome #birdshow @ Utah's\u2026 https://t.co/AMsQRjr0rg", 
+                "created_at": "2016-08-29T16:41:34", 
+                "retweet_count": 0, 
+                "id": "770300371973574656", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.81584645, 
+                    40.75003585
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Stellar Bird Baths \ud83d\ude0d\ud83d\udca6\ud83d\ude0d #stellarseaeagle #birdshow #hoglezoo hoglezoo #birdofprey #eagle @ Utah's\u2026 https://t.co/cMUwlPvKsv", 
+                "created_at": "2016-08-28T23:03:29", 
+                "retweet_count": 0, 
+                "id": "770034097238446080", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hair transformation \ud83d\ude0d Darkened up the roots and smudged down into a balayage \ud83d\udc93 #behindthechair\u2026 https://t.co/zzCeYmkU4C", 
+                "created_at": "2016-08-27T17:43:07", 
+                "retweet_count": 0, 
+                "id": "769591082967502848", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thank you SOOOO much misslizbliz for the green haired adventure!! I can officially say I've been\u2026 https://t.co/yXQxHekA9R", 
+                "created_at": "2016-08-27T17:34:32", 
+                "retweet_count": 0, 
+                "id": "769588924209623040", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Back in the salon again for some lash time!! \ud83d\udd56\ud83d\ude0d\ud83d\udd51 @SeasonsSalon \n.\n.\n.\n.\n.\n.\n.\n.\n.\n#lashes\u2026 https://t.co/ZfpOII2BAY", 
+                "created_at": "2016-08-24T18:19:52", 
+                "retweet_count": 0, 
+                "id": "768513169472061441", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.4727921, 
+                    33.98681426
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Giant burning ball of gas going down \ud83c\udf1e @ Venice Beach, CA https://t.co/uqq1ZwvxdK", 
+                "created_at": "2016-08-23T03:59:55", 
+                "retweet_count": 0, 
+                "id": "767934368128065536", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.41417721, 
+                    33.88355674
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kissing eels and takin' names \ud83d\ude08 @ Manhattan Beach Roundhouse Aquarium https://t.co/LF1DoDEL6y", 
+                "created_at": "2016-08-23T00:46:02", 
+                "retweet_count": 0, 
+                "id": "767885576666251266", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.40527778, 
+                    33.88888889
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Basic beaches \ud83d\udc81\ud83c\udffc #Starbucks #oakleys #beach @ Manhattan Beach, California https://t.co/JVwVhDOCRE", 
+                "created_at": "2016-08-23T00:27:06", 
+                "retweet_count": 0, 
+                "id": "767880811177766912", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.4, 
+                    33.8663
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Line the slacks with all that you got \ud83d\ude0e @ Hermosa Beach, California https://t.co/1w38ALVkn4", 
+                "created_at": "2016-08-22T23:20:13", 
+                "retweet_count": 1, 
+                "id": "767863977657241600", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.40107115, 
+                    33.86202188
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When you get caught taking a selfie and it ends in slack-lining with new friends \ud83d\ude05\ud83d\ude02\ud83d\ude4c\ud83c\udffc @ Hermosa\u2026 https://t.co/tYN1x7cx5k", 
+                "created_at": "2016-08-22T20:42:14", 
+                "retweet_count": 0, 
+                "id": "767824222995513344", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.4, 
+                    33.8663
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The seagull struggles with the current too \ud83d\ude02 #beachhopping #hermosabeach @ Hermosa Beach,\u2026 https://t.co/O3JbshddkS", 
+                "created_at": "2016-08-22T19:52:05", 
+                "retweet_count": 0, 
+                "id": "767811602313781252", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.40107115, 
+                    33.86202188
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Compact af \u270c\ud83c\udffc\ufe0f\u270c\ud83c\udffc @ Hermosa Beach Pier https://t.co/LRyFkUvqfh", 
+                "created_at": "2016-08-22T19:38:19", 
+                "retweet_count": 0, 
+                "id": "767808134912077824", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.377, 
+                    33.8565
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Feelin' beechy @ Redondo Beach, California https://t.co/eqvbC804gi", 
+                "created_at": "2016-08-22T18:13:51", 
+                "retweet_count": 0, 
+                "id": "767786879823519745", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.377, 
+                    33.8565
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ocean: 3\nDannie: 0 @ Redondo Beach, California https://t.co/ybGWcmNJ8k", 
+                "created_at": "2016-08-22T17:59:09", 
+                "retweet_count": 0, 
+                "id": "767783180854235137", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.377, 
+                    33.8565
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Birds on the beach @ Redondo Beach, California https://t.co/cY2GAbo9QJ", 
+                "created_at": "2016-08-22T17:37:13", 
+                "retweet_count": 0, 
+                "id": "767777662181965825", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.25, 
+                    34.1709
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#alberteinstein #einstein #evolvingoutloud #kylecease @ Glendale, California https://t.co/dtfQeNTHaP", 
+                "created_at": "2016-08-21T19:10:42", 
+                "retweet_count": 0, 
+                "id": "767438797957201925", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.25433943, 
+                    34.14884328
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#evolvingoutloud @ Alex Theatre https://t.co/z1HPmUiNs9", 
+                "created_at": "2016-08-20T16:14:19", 
+                "retweet_count": 0, 
+                "id": "767032023387086848", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.25, 
+                    34.1709
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Surrounded by oranges and ocean air \ud83c\udf4a\ud83c\udf0a\ud83c\udf4a @ Glendale, California https://t.co/1N8xoyKV9z", 
+                "created_at": "2016-08-20T15:45:01", 
+                "retweet_count": 0, 
+                "id": "767024648550834176", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Blood red nails on your fingertips \ud83d\ude08 #bonjovi #nails #acrylicnails #rednails #gelpolish\u2026 https://t.co/UAlrDjaY7e", 
+                "created_at": "2016-08-18T16:48:58", 
+                "retweet_count": 0, 
+                "id": "766315966871572480", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sooooo happy with how this subtle balayage turned out!! \ud83d\ude0d\ud83d\ude0d #balayage #subtlebalayage #ombre\u2026 https://t.co/03jHqSzzdy", 
+                "created_at": "2016-08-18T00:43:58", 
+                "retweet_count": 0, 
+                "id": "766073114883227649", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Classic French tip \ud83d\udc85\ud83c\udffc\ud83d\udc85\ud83c\udffc #nailtech #orem #oremnails #oremnailtech  #gelnails #gelnailpolish\u2026 https://t.co/Gn63l8ia2Y", 
+                "created_at": "2016-08-17T18:29:54", 
+                "retweet_count": 0, 
+                "id": "765978980285550592", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "just_10_aston KILLIN' it with my bomb gorgeous #volumelashes because he's literally the best.\u2026 https://t.co/T6hNQuHPbs", 
+                "created_at": "2016-08-13T20:20:07", 
+                "retweet_count": 0, 
+                "id": "764557163972980741", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lashes lashes lashes \u2763\u2764\ufe0f\u2763 @ Seasons Salon and Day Spa https://t.co/tRQFJeQsfU", 
+                "created_at": "2016-08-12T17:27:08", 
+                "retweet_count": 0, 
+                "id": "764151244541886464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I have now been every color of the rainbow \ud83d\ude0d\u2764\ufe0f\ud83c\udf4a\ud83d\udc9b\ud83d\udc9a\ud83d\udc99\ud83d\udc9c #rainbowhair #greenhair #bluehair\u2026 https://t.co/UKCD7WgxSt", 
+                "created_at": "2016-08-11T01:49:13", 
+                "retweet_count": 0, 
+                "id": "763552822373785600", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -113.09867209, 
+                    40.73660665
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#saltyaf #saltflats #sunrise \ud83c\udf05 @ Bonneville Salt Flats, Wendover, Utah https://t.co/DhYL5TtyK5", 
+                "created_at": "2016-08-09T12:37:09", 
+                "retweet_count": 0, 
+                "id": "762991103691948032", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.89337446, 
+                    40.5090781
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The places where dreams come true \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d #IKEA @ IKEA USA https://t.co/nNT4BmC0Fq", 
+                "created_at": "2016-08-08T16:39:18", 
+                "retweet_count": 0, 
+                "id": "762689655129182208", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Warm brunette A-line \ud83d\udc9b\u2764\ufe0f\ud83d\udc9b  \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#behindthechair #americansalon #utahcountyhair\u2026 https://t.co/ESdKIdj2uB", 
+                "created_at": "2016-08-06T21:28:25", 
+                "retweet_count": 0, 
+                "id": "762037638627004420", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy Saturday!! \ud83d\udc9c\ud83c\udfa8\ud83d\udc9c #makeup #Mua #utahmua #utahmakeupartist #makeupartist #janeiradale\u2026 https://t.co/dhnT1Fti0O", 
+                "created_at": "2016-08-06T15:39:54", 
+                "retweet_count": 0, 
+                "id": "761949931552796672", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Braided wedding updo \ud83c\udf80\ud83c\udf81\ud83c\udf80 #behindthechair #weddinghair #weddingbraids #weddingupdo #updo\u2026 https://t.co/QxVSNgsE25", 
+                "created_at": "2016-08-04T17:54:01", 
+                "retweet_count": 0, 
+                "id": "761258907566243840", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#blackandwhite \ud83d\udd32\ud83d\udd33\ud83d\udd32 #utahcountynails #gelnails #nailtech #utahnailtech #nails #blacknails\u2026 https://t.co/bugFfx2sSj", 
+                "created_at": "2016-08-04T17:41:15", 
+                "retweet_count": 0, 
+                "id": "761255695652192256", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Because sparkles never go out of style \u2728 #nailtech #gelnails #geloverlay #acrylicnails #salon\u2026 https://t.co/70UB1zeHbf", 
+                "created_at": "2016-08-03T16:47:57", 
+                "retweet_count": 0, 
+                "id": "760879894536589314", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.81584642, 
+                    40.75003553
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Eggel selfie \ud83d\udc23 hoglezoo #birdofprey #birdsofprey #eagle #eagles #baldeagle #zoo #birdkeeper\u2026 https://t.co/QnjWGaLDFj", 
+                "created_at": "2016-08-02T21:41:24", 
+                "retweet_count": 0, 
+                "id": "760591353566887941", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "10-2 today!! THERES GONNA BE WAFFLE LOVE SO COME AND ENJOY WAFFLES WITH ME \ud83d\ude0d\ud83d\ude0d Also I'll be doing\u2026 https://t.co/hutdcNm9E5", 
+                "created_at": "2016-07-30T15:16:48", 
+                "retweet_count": 0, 
+                "id": "759407403699998720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Waterfall and Dutch double braid \ud83d\ude0d #waterfallbraid #braids #dutchbraid #bridalbraid @ Seasons\u2026 https://t.co/1wn0avLG9F", 
+                "created_at": "2016-07-29T16:53:22", 
+                "retweet_count": 0, 
+                "id": "759069318017671168", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Textured Dutch braid on tramsnails  \ud83c\udfee\ud83c\udf81\ud83c\udfee #braids #dutchbraid #braidmania #braid #braiding\u2026 https://t.co/OUOWdf2qcQ", 
+                "created_at": "2016-07-28T21:43:38", 
+                "retweet_count": 0, 
+                "id": "758779976946708480", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Back with the lash game! \ud83c\udf40 @ Seasons Salon and Day Spa https://t.co/x44xFRW7Xl", 
+                "created_at": "2016-07-27T21:09:06", 
+                "retweet_count": 0, 
+                "id": "758408899141758977", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -112.06527353, 
+                    33.51943474
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#besties \ud83d\udc6f\ud83d\udc6f @ The Yard https://t.co/9534YUjNB2", 
+                "created_at": "2016-07-27T18:40:21", 
+                "retweet_count": 0, 
+                "id": "758371464269664256", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.831, 
+                    33.415
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#slacklining #mesa #arizona #hotaf ogdencanyonite @ Mesa, Arizona https://t.co/qiRxGzSjun", 
+                "created_at": "2016-07-26T15:46:27", 
+                "retweet_count": 0, 
+                "id": "757965311924658176", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -110.23333333, 
+                    34.3
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Getting in touch with that inner child \ud83d\udcfa\u23f3 #aliceinwonderland #vcr @ Pinedale, Arizona https://t.co/I2waniepqE", 
+                "created_at": "2016-07-26T01:45:16", 
+                "retweet_count": 0, 
+                "id": "757753622092480517", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -109.54972222, 
+                    38.5725
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Take time to enjoy nature today \ud83c\udf32\ud83c\udf42\ud83d\udca7#Moab #rockclimbing #skinnydipping #camping #sportclimbing @\u2026 https://t.co/xJEEqnMmwn", 
+                "created_at": "2016-07-24T17:54:06", 
+                "retweet_count": 0, 
+                "id": "757272662586580993", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Blonde balayage and smudge root ftw! \u2763\u2763 #btc #balayge #ombre #ombrehair #smudgeroot\u2026 https://t.co/ahiYKi2PH4", 
+                "created_at": "2016-07-21T00:37:41", 
+                "retweet_count": 0, 
+                "id": "755924676178808832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pastel pink vibes \ud83d\udc9e \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#pinkhair @ Seasons Salon and Day Spa https://t.co/srwn2aa7rM", 
+                "created_at": "2016-07-18T20:17:15", 
+                "retweet_count": 0, 
+                "id": "755134358214873093", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.81585184, 
+                    40.75003135
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm so unbelievably happy to be back at the Hogle Zoo on Sundays and Tuesdays \u2764\ufe0f The birds and\u2026 https://t.co/B5AMCHMcEY", 
+                "created_at": "2016-07-17T23:42:04", 
+                "retweet_count": 0, 
+                "id": "754823516009140224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The 'Dannie Deluxe Double Stacked Lashes' on my favorite aesthetics.by.kelsey\u2026 https://t.co/4pvcisGtL1", 
+                "created_at": "2016-07-14T22:43:46", 
+                "retweet_count": 0, 
+                "id": "753721680325935104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.8717249, 
+                    40.7702461
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#revival @ Cafe on 1st https://t.co/ilfkpx9IpE", 
+                "created_at": "2016-07-12T22:09:21", 
+                "retweet_count": 0, 
+                "id": "752988241331163136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "More \u2728MAGIC\u2728 with eyelash extensions. This is halfway through a full set \u2b50\ufe0f\n.\n.\n.\n.\n.\n.\n#lashes\u2026 https://t.co/RnxIcJLArl", 
+                "created_at": "2016-07-12T20:27:29", 
+                "retweet_count": 0, 
+                "id": "752962607858999297", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Video clips from today's fun \ud83d\ude3b FOLLOW me on SNAPCHAT for the full adventure of installing\u2026 https://t.co/ABrnMpt5VG", 
+                "created_at": "2016-07-09T20:58:30", 
+                "retweet_count": 0, 
+                "id": "751883250042298368", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "FOLLOW me on SNAPCHAT for the full adventure of installing extensions! \ud83d\ude0e\ud83d\udc4c\ud83c\udffc\ud83d\ude3d\u2026 https://t.co/ptjORfbsgV", 
+                "created_at": "2016-07-09T20:43:26", 
+                "retweet_count": 0, 
+                "id": "751879458160832512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "**BOX COLOR CATASTROPHE** This is why we don't color our hair with Walmart color my friends.\u2026 https://t.co/kJdG8ZH8Of", 
+                "created_at": "2016-07-09T17:17:31", 
+                "retweet_count": 1, 
+                "id": "751827636775686144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf13 HALF AND HALF / BEFORE AND AFTER \ud83c\udf17 This client came in after 4 weeks for a fill.. The right\u2026 https://t.co/DwbakH4In4", 
+                "created_at": "2016-07-08T15:45:01", 
+                "retweet_count": 0, 
+                "id": "751441970162204672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "And the gentlest placement of each lash \ud83d\udc4c\ud83c\udffc\ud83d\udc95  #eyelashextensions #lashextensions #lashes\u2026 https://t.co/EayYJJl4Gh", 
+                "created_at": "2016-07-07T01:45:50", 
+                "retweet_count": 0, 
+                "id": "750868394438778880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Separating the lashes! \ud83d\udc40 #eyelashextensions #lashextensions #lashes #eyelashes #salon #spa\u2026 https://t.co/2eFdnPglWM", 
+                "created_at": "2016-07-07T01:43:15", 
+                "retweet_count": 0, 
+                "id": "750867745768701953", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.02949871, 
+                    32.5426675
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#boundaries @ U.S. International Border Crossing at San Ysidro/Tijuana https://t.co/h37UP6erVW", 
+                "created_at": "2016-07-05T07:09:44", 
+                "retweet_count": 0, 
+                "id": "750225131797176320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70143172, 
+                    40.31274304
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The basic life chose us \ud83d\ude0e #starbucks @ Starbucks https://t.co/HQrEm9iYar", 
+                "created_at": "2016-06-30T17:40:35", 
+                "retweet_count": 0, 
+                "id": "748571949748584449", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Had so much fun with the open house today and excited to say I was hired on as an Ambassador and\u2026 https://t.co/2NMjEjxTbw", 
+                "created_at": "2016-06-29T21:35:49", 
+                "retweet_count": 0, 
+                "id": "748268761942220801", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.732, 
+                    40.3703
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Yes I am obsessed with this movie. No I do not have any shame. \ud83d\udc9a\ud83d\udc09\ud83d\udc9a #spiritedaway #studioghibli\u2026 https://t.co/S2wC7Hqu6y", 
+                "created_at": "2016-06-29T04:18:51", 
+                "retweet_count": 0, 
+                "id": "748007798169022464", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.961, 
+                    41.2277
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Jr. High Gang \ud83d\ude0e\ud83d\ude02\ud83d\ude08 @ Ogden, Utah https://t.co/xEKMPkqyZE", 
+                "created_at": "2016-06-25T03:56:27", 
+                "retweet_count": 0, 
+                "id": "746552611004944384", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Eyes on the prize!! \ud83d\udc9b\ud83c\udfc6\ud83d\udc9b #eyelashextensions #eyelashes #utahcounty #utahcountyeyelashextensions\u2026 https://t.co/wQwTBQGarS", 
+                "created_at": "2016-06-17T15:54:19", 
+                "retweet_count": 0, 
+                "id": "743834164215029760", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude0d FAVORITE \ud83d\ude0d - - Shades of grey \ud83d\udcf7\u26d3\ud83c\udf9e #greyhair #grayhair #silverhair #greyombre #grayombre\u2026 https://t.co/ehNXquJnra", 
+                "created_at": "2016-06-15T15:59:53", 
+                "retweet_count": 0, 
+                "id": "743110792032182273", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.744862, 
+                    40.328074
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lash Training! #bellasnightout #bellalashes @ Bella Lash Eyelash Extensions https://t.co/dMsLEg9UJb", 
+                "created_at": "2016-06-14T00:05:10", 
+                "retweet_count": 0, 
+                "id": "742508140244152321", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Color of the month! \ud83d\ude0e\ud83c\udfa8 Burgundy x Indigo x Blue \u2764\ufe0f\ud83d\udc9c\ud83d\udc99 #shorthairdontcare #shorthair #pravana\u2026 https://t.co/RiRb9QW2jr", 
+                "created_at": "2016-06-13T21:45:00", 
+                "retweet_count": 0, 
+                "id": "742472867653267456", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.70245, 
+                    40.31411
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Color correction- BEFORE AND AFTER #balayage #reversebalayage #brunetteombre #ombre\u2026 https://t.co/UELItaQY5N", 
+                "created_at": "2016-06-13T21:39:36", 
+                "retweet_count": 0, 
+                "id": "742471508182863872", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.883, 
+                    40.75
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Burgundy #grilling to #jimmybuffett \ud83c\udf62\ud83c\udf3d\ud83c\udf74 @ Salt Lake City, Utah https://t.co/HzUK7M0gS3", 
+                "created_at": "2016-06-08T03:10:50", 
+                "retweet_count": 0, 
+                "id": "740380538599538688", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

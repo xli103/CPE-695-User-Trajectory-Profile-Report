@@ -1,0 +1,1052 @@
+{
+    "total_favorite_count": 6489, 
+    "total_tweets": 46, 
+    "screen_name": "bigdavew22", 
+    "friends_count": 1851, 
+    "followers_count": 353, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97936699, 
+                    40.75906157
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 42496314.0, 
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building"
+                }, 
+                {
+                    "osm_id": 145341302.0, 
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza"
+                }, 
+                {
+                    "osm_id": 159912554.0, 
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I"
+                }, 
+                {
+                    "osm_id": 163465869.0, 
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building"
+                }, 
+                {
+                    "osm_id": 243088863.0, 
+                    "type": "yes", 
+                    "id": 9403.0, 
+                    "name": "One MiMA Tower"
+                }, 
+                {
+                    "osm_id": 258619240.0, 
+                    "type": "yes", 
+                    "id": 83555.0, 
+                    "name": "TKTS"
+                }, 
+                {
+                    "osm_id": 265299994.0, 
+                    "type": "yes", 
+                    "id": 88948.0, 
+                    "name": "Saint Raphael's Church"
+                }, 
+                {
+                    "osm_id": 265320169.0, 
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149330.0, 
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater"
+                }, 
+                {
+                    "osm_id": 266149327.0, 
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre"
+                }, 
+                {
+                    "osm_id": 266170541.0, 
+                    "type": "theatre", 
+                    "id": 93316.0, 
+                    "name": "Cort Theatre"
+                }, 
+                {
+                    "osm_id": 266170797.0, 
+                    "type": "yes", 
+                    "id": 93541.0, 
+                    "name": "Simon and Schuster Building"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }, 
+                {
+                    "osm_id": 279400339.0, 
+                    "type": "yes", 
+                    "id": 102026.0, 
+                    "name": "Sheraton"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Top of the Rockefeller building. #NYC @ Top Of The Rock NYC https://t.co/ucNenkic6y", 
+                "created_at": "2016-10-20T19:37:39", 
+                "retweet_count": 0, 
+                "id": "789188854376861696", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01102778, 
+                    40.70683333
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 232065148.0, 
+                    "type": "yes", 
+                    "id": 1182.0, 
+                    "name": "Communipaw Terminal"
+                }, 
+                {
+                    "osm_id": 277924003.0, 
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza"
+                }, 
+                {
+                    "osm_id": 278053471.0, 
+                    "type": "yes", 
+                    "id": 99275.0, 
+                    "name": "Adams Express Building"
+                }, 
+                {
+                    "osm_id": 278053497.0, 
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street"
+                }, 
+                {
+                    "osm_id": 278053531.0, 
+                    "type": "yes", 
+                    "id": 99331.0, 
+                    "name": "New York Stock Exchange"
+                }, 
+                {
+                    "osm_id": 278053485.0, 
+                    "type": "yes", 
+                    "id": 99371.0, 
+                    "name": "One Exchange Plaza"
+                }, 
+                {
+                    "osm_id": 278067736.0, 
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "New York Stock Exchange with George Washington at the front. #NYC @\u2026 https://t.co/QrcFemNiSj", 
+                "created_at": "2016-10-20T19:26:00", 
+                "retweet_count": 0, 
+                "id": "789185919534321664", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.06772384, 
+                    43.09016676
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The International Boundary Line that divides Canada and the United\u2026 https://t.co/L5gDk63AOV", 
+                "created_at": "2016-10-20T19:22:48", 
+                "retweet_count": 0, 
+                "id": "789185116278894593", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.07350257, 
+                    43.09122666
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Got a shot of a rainbow from the ferry we took on the Niagara Falls.\u2026 https://t.co/aRUbWGebuG", 
+                "created_at": "2016-10-20T19:16:42", 
+                "retweet_count": 0, 
+                "id": "789183579162972162", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98644, 
+                    40.75839
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 163474780.0, 
+                    "type": "yes", 
+                    "id": 859.0, 
+                    "name": "New York Marriott Marquis"
+                }, 
+                {
+                    "osm_id": 263194427.0, 
+                    "type": "yes", 
+                    "id": 83624.0, 
+                    "name": "420 West 42nd Street"
+                }, 
+                {
+                    "osm_id": 266033995.0, 
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School"
+                }, 
+                {
+                    "osm_id": 266034023.0, 
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower"
+                }, 
+                {
+                    "osm_id": 266034045.0, 
+                    "type": "yes", 
+                    "id": 93147.0, 
+                    "name": "InterContinental New York Times Square"
+                }, 
+                {
+                    "osm_id": 266149299.0, 
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre"
+                }, 
+                {
+                    "osm_id": 266149300.0, 
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre"
+                }, 
+                {
+                    "osm_id": 266149302.0, 
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149328.0, 
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Devasted another amazing trip to the United States (and Canada) is\u2026 https://t.co/CnYys8kmQY", 
+                "created_at": "2016-10-12T22:49:22", 
+                "retweet_count": 0, 
+                "id": "786337998212390913", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.07524789, 
+                    43.09127961
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Night time at Niagara. #Canada #NiagaraFalls @ The Falls in Niagara,\u2026 https://t.co/1PMGIDIf2a", 
+                "created_at": "2016-10-12T05:18:06", 
+                "retweet_count": 0, 
+                "id": "786073437710286848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.03744394, 
+                    40.67794854
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Statue Of Liberty. #NewYork #USA @ Staten Island Manhattan Ferry https://t.co/TGMMGbqS5x", 
+                "created_at": "2016-10-12T05:16:18", 
+                "retweet_count": 0, 
+                "id": "786072985430003712", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00880278, 
+                    40.70111667
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 38868195.0, 
+                    "type": "yes", 
+                    "id": 590.0, 
+                    "name": "Staten Island Ferry Whitehall Terminal"
+                }, 
+                {
+                    "osm_id": 169362470.0, 
+                    "type": "yes", 
+                    "id": 889.0, 
+                    "name": "Battery Maritime Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Quick helicopter round New York and just about to board the ferry to\u2026 https://t.co/eJRgYx0O2J", 
+                "created_at": "2016-10-10T19:21:59", 
+                "retweet_count": 0, 
+                "id": "785561030952976385", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.069714, 
+                    38.890432
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Marine Corps War Memorial https://t.co/stlyuQwNeW", 
+                "created_at": "2016-10-09T10:57:10", 
+                "retweet_count": 0, 
+                "id": "785071602455248896", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.03464372, 
+                    38.88990919
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Washington Monument. #WashintonMonument @ Washington Monument\u2026 https://t.co/pAtDAa1SZU", 
+                "created_at": "2016-10-09T02:06:01", 
+                "retweet_count": 0, 
+                "id": "784937934298415104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.04858468, 
+                    38.88927534
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Reflecting Pool in #Washington @ Reflecting Pool https://t.co/tf2sQRb7WH", 
+                "created_at": "2016-10-09T02:03:49", 
+                "retweet_count": 0, 
+                "id": "784937378515456001", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.02785757, 
+                    38.89614847
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CapitalHill is huge! #Washington @ Capital Hill https://t.co/HPaN6ASnR6", 
+                "created_at": "2016-10-09T02:02:43", 
+                "retweet_count": 0, 
+                "id": "784937103092244480", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.04955193, 
+                    38.88925797
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"It is he, who freed the slaves\". #AbrahamLincoln  #Washington @\u2026 https://t.co/K6ywDZR2TI", 
+                "created_at": "2016-10-09T02:00:27", 
+                "retweet_count": 0, 
+                "id": "784936533291835393", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.03651268, 
+                    38.8985601
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bit wet through but managed to get a look at the White House today.\u2026 https://t.co/WLSGTxjbn4", 
+                "created_at": "2016-10-09T01:59:00", 
+                "retweet_count": 0, 
+                "id": "784936165916962816", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.12592079, 
+                    41.90028343
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Back on American soil, and went to visit the New York/Pennsylvania\u2026 https://t.co/HuDpaW0jjS", 
+                "created_at": "2016-10-07T17:48:51", 
+                "retweet_count": 0, 
+                "id": "784450428406796288", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.07285099, 
+                    43.09081348
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "View of the Niagara Falls from our hotel. Amazing. #NiagaraFalls\u2026 https://t.co/kuCKrP3Pnl", 
+                "created_at": "2016-10-07T01:51:26", 
+                "retweet_count": 0, 
+                "id": "784209488500887552", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.40221712, 
+                    34.06890091
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Don't know why he's grinning....was only taking a picture of the\u2026 https://t.co/raH9ApMrNm", 
+                "created_at": "2016-08-11T16:29:00", 
+                "retweet_count": 0, 
+                "id": "763774226562224128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.54095, 
+                    53.2353
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Great weekend at the Lincoln Castle to see @ub40official perform,\u2026 https://t.co/QA8DNzYtoJ", 
+                "created_at": "2016-07-11T06:29:18", 
+                "retweet_count": 0, 
+                "id": "752389284242554880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.54355501, 
+                    53.22872829
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "That Ab Fab film looks good. #AlsoFeaturing @ ODEON https://t.co/OM35WD39US", 
+                "created_at": "2016-06-12T17:58:13", 
+                "retweet_count": 0, 
+                "id": "742053406324490242", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.54638395, 
+                    53.22936106
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A Monday evening on the Brayford. #NoFilter @ The Brayford https://t.co/SSpDSBlxfA", 
+                "created_at": "2016-06-08T19:26:53", 
+                "retweet_count": 0, 
+                "id": "740626167699517440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.947726, 
+                    53.420687
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Never forget the 96. #Liverpool #Dortmund #Hillsborough #JFT96 #YNWA\u2026 https://t.co/jQ9a9xpbdG", 
+                "created_at": "2016-04-15T15:59:31", 
+                "retweet_count": 0, 
+                "id": "721005038127058944", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.9608653, 
+                    53.43044272
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Despite the current score line, always love coming back to the club\u2026 https://t.co/wyHhnMfAdt", 
+                "created_at": "2016-04-14T20:23:57", 
+                "retweet_count": 0, 
+                "id": "720709197726244864", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.54019596, 
+                    53.23027389
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dave 3:16 say this glass of wine is nice!!! #3:16 #wrestlemania @\u2026 https://t.co/fLi4RlsHxI", 
+                "created_at": "2016-04-04T18:23:22", 
+                "retweet_count": 0, 
+                "id": "717054973738004480", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.54661, 
+                    53.2294617
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Looks like zara.w didn't appreciate the banter with her pizza today.\u2026 https://t.co/56CrZfZM0V", 
+                "created_at": "2016-03-28T17:28:16", 
+                "retweet_count": 0, 
+                "id": "714504389780615169", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.33925043, 
+                    34.10170028
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Deleting old pictures off my phone, found myself a future profile\u2026 https://t.co/AUFO2Bin5c", 
+                "created_at": "2016-03-15T19:17:33", 
+                "retweet_count": 0, 
+                "id": "709820850539659264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.63385862, 
+                    53.18272805
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Had the absolute pleasure of listening to Charlie Nicholas speaking\u2026 https://t.co/z4gISI3rSW", 
+                "created_at": "2016-03-06T18:45:48", 
+                "retweet_count": 0, 
+                "id": "706551370170519552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.53146135, 
+                    53.24823942
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Trophy? \u2705 Good looking girl under each arm? \u2705 Massive cheesy grin\u2026 https://t.co/nDv3v9lGC8", 
+                "created_at": "2016-01-24T20:12:32", 
+                "retweet_count": 0, 
+                "id": "691352909439594496", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.5395993, 
+                    53.23161963
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The jumper that won Christmas. #ChristmasJumper #DarthVader\u2026 https://t.co/plTPKsDSHd", 
+                "created_at": "2015-12-20T17:40:25", 
+                "retweet_count": 0, 
+                "id": "678631049430102016", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.96114126, 
+                    53.43073431
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My favourite place in the world. #Anfield #Home #LFC @ Anfield Stadium\u2026 https://t.co/ROmB0rwuFM", 
+                "created_at": "2015-11-26T19:49:15", 
+                "retweet_count": 0, 
+                "id": "669966165309980672", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.40287755, 
+                    34.06924133
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Where they filmed Pretty Woman. A pair of socks only cost $800. #BitSteep\u2026 https://t.co/0DrkkeHIrZ", 
+                "created_at": "2015-11-19T20:26:17", 
+                "retweet_count": 0, 
+                "id": "667438769352679424", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -116.76845678, 
+                    36.22901274
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Still got loads of pictures to bore people with! This is Badwater Basin,\u2026 https://t.co/aPLaKoYRLz", 
+                "created_at": "2015-11-19T20:16:58", 
+                "retweet_count": 0, 
+                "id": "667436423155466240", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.33940773, 
+                    34.10171884
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Saw loads of names on the Walk of Fame, but perhaps the biggest was Nora\u2026 https://t.co/UTdoEsQdHy", 
+                "created_at": "2015-11-15T21:39:19", 
+                "retweet_count": 0, 
+                "id": "666007598383009792", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -116.82589662, 
+                    36.2856629
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just causally chilling in Death Valley. #AsYouDo #DeathValley @ Devil's\u2026 https://t.co/7Ip2gL6qU9", 
+                "created_at": "2015-11-15T21:33:45", 
+                "retweet_count": 0, 
+                "id": "666006197560983552", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.172778, 
+                    36.082056
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Devastated to be leaving today #VivaLasVegas #FamousSign @ Welcome to\u2026 https://t.co/4hv0fwZtcy", 
+                "created_at": "2015-11-11T21:36:48", 
+                "retweet_count": 0, 
+                "id": "664557410414014464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.76333921, 
+                    36.0697309
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "On the way back from California to Nevada through the sun, rain....and\u2026 https://t.co/hf1M7RhJYb", 
+                "created_at": "2015-11-11T06:47:42", 
+                "retweet_count": 0, 
+                "id": "664333662192689153", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.33940773, 
+                    34.10171884
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bit weird, I didn't do that. #Elvis #TheresOnlyOneDavidWalters @\u2026 https://t.co/HLzfIq9em6", 
+                "created_at": "2015-11-10T06:59:39", 
+                "retweet_count": 0, 
+                "id": "663974280607076352", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.34058575, 
+                    34.10183557
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Chinese Theatre on Hollywood Boulevard #Hollywood @ TCL Chinese Theatres https://t.co/lRQU7KbhZr", 
+                "created_at": "2015-11-09T07:41:05", 
+                "retweet_count": 0, 
+                "id": "663622320242606080", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.17533682, 
+                    36.09915562
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Excalibur at night #excaliburhotel #vegas @ Excalibur Hotel Casino https://t.co/4lzL6PnBtA", 
+                "created_at": "2015-11-08T18:58:48", 
+                "retweet_count": 0, 
+                "id": "663430485134020608", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.17504446, 
+                    36.09938465
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just how I like my Saturday nights, eating a whole chicken, men fighting\u2026 https://t.co/KoF5n86OXh", 
+                "created_at": "2015-11-08T07:19:10", 
+                "retweet_count": 0, 
+                "id": "663254418205224960", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -114.73356379, 
+                    36.01428653
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "On top of the Hoover Damn. #HooverDamn @ Hoover Dam, Nevada / Arizona\u2026 https://t.co/mNmcEXVTly", 
+                "created_at": "2015-11-07T17:38:13", 
+                "retweet_count": 0, 
+                "id": "663047818974654464", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.17353539, 
+                    36.10161307
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Luxor hotel we're stopping at. #LasVegas #luxorhotel @ Las Vegas Blvd.\u2026 https://t.co/FEaH0oVcCe", 
+                "created_at": "2015-11-07T07:55:44", 
+                "retweet_count": 0, 
+                "id": "662901233179496448", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -114.73777778, 
+                    36.01555556
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "One of the pictures from the Hoover Damn. @ Hoover Dam https://t.co/183VRIxNe0", 
+                "created_at": "2015-11-06T16:41:38", 
+                "retweet_count": 0, 
+                "id": "662671190255755264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.17801659, 
+                    36.11896806
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ceasars Palace and the fountain all lit up. @ Ceasar's Palace, Las Vegas, Nevada https://t.co/El2bRREl7d", 
+                "created_at": "2015-11-06T14:55:34", 
+                "retweet_count": 0, 
+                "id": "662644499345108992", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.17566703, 
+                    36.0957922
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Great view from the hotel room we're stopping in. #LasVegas @ Luxor Hotel and Casino https://t.co/hRC7gQj8ma", 
+                "created_at": "2015-11-05T16:43:48", 
+                "retweet_count": 0, 
+                "id": "662309347540627456", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.16949231, 
+                    51.15831241
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "In 11 hours time, it will be! (I will be saying this a lot). #LasVegas #ImSorry #SouthPark @ Gatwick\u2026 https://t.co/SPkpAEQb3n", 
+                "created_at": "2015-11-04T11:09:04", 
+                "retweet_count": 0, 
+                "id": "661862722779222016", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.54095, 
+                    53.23529
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nice evening at the castle last night. #LincolnCastle @ Lincoln Castle https://t.co/DAdqPqqFwD", 
+                "created_at": "2015-09-27T12:18:42", 
+                "retweet_count": 0, 
+                "id": "648109509051723776", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

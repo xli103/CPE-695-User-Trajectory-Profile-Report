@@ -1,0 +1,433 @@
+{
+    "total_favorite_count": 1430, 
+    "followers_count": 1997, 
+    "total_tweets": 9, 
+    "user_id": 189628977, 
+    "screen_name": "davilagrau", 
+    "friends_count": 254, 
+    "buildings": {
+        "school": 5, 
+        "office": 2, 
+        "theatre": 7, 
+        "apartments": 11, 
+        "commercial": 8, 
+        "retail": 3
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Just posted a photo @ East Village, Manhattan https://t.co/Rq9Bag9Biw", 
+            "id": "786712820968779776", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-13T23:38:47", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Just posted a photo @ East Village, Manhattan https://t.co/n02XycYy8d", 
+            "id": "786711354635874304", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-13T23:32:57", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "Just posted a photo @ West Side, New York https://t.co/ax5PVJMQmK", 
+            "id": "786534750345367552", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-13T11:51:12", 
+            "coordinates": [
+                -73.98568215, 
+                40.7723797
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Beacon School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99376.0, 
+                    "name": "1 Whitehall Street", 
+                    "osm_id": 278053579.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 126464.0, 
+                    "name": "St. Ann's Warehouse", 
+                    "osm_id": 373709849.0
+                }
+            ], 
+            "text": "Just posted a photo @ Brooklyn Bridge Park https://t.co/QTCZofs6ya", 
+            "id": "786346008246706176", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:21:12", 
+            "coordinates": [
+                -73.9896546, 
+                40.7038145
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "St. Ann's Warehouse"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa", 
+                    "osm_id": 269219557.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "Just posted a photo @ Central Park https://t.co/6Oewa3h34H", 
+            "id": "785786843849777152", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-11T10:19:17", 
+            "coordinates": [
+                -73.972216, 
+                40.77274259
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Grand Tier", 
+                    "The Europa", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa", 
+                    "osm_id": 269219557.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "Just posted a photo @ Central Park https://t.co/LmBORrB923", 
+            "id": "785598347398803456", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-10T21:50:16", 
+            "coordinates": [
+                -73.972216, 
+                40.77274259
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Grand Tier", 
+                    "The Europa", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 667.0, 
+                    "name": "Time-Life Building", 
+                    "osm_id": 109284794.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 671.0, 
+                    "name": "1290 Avenue of the Americas", 
+                    "osm_id": 109284795.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 685.0, 
+                    "name": "666 Fifth Avenue", 
+                    "osm_id": 118476502.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 846.0, 
+                    "name": "Biltmore Tower", 
+                    "osm_id": 163480139.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 854.0, 
+                    "name": "31 West 52nd Street", 
+                    "osm_id": 162747896.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89310.0, 
+                    "name": "New Gotham", 
+                    "osm_id": 265312767.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93218.0, 
+                    "name": "Samuel J. Friedman Theatre", 
+                    "osm_id": 266149331.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93294.0, 
+                    "name": "Walter Kerr Theatre", 
+                    "osm_id": 266151926.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93506.0, 
+                    "name": "Lehman Brothers Building", 
+                    "osm_id": 266170754.0
+                }
+            ], 
+            "text": "Just posted a photo @ 5th Ave. Manhattan https://t.co/z56D3nZqzo", 
+            "id": "785188897101869057", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-09T18:43:15", 
+            "coordinates": [
+                -73.97579848, 
+                40.76054966
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Time-Life Building", 
+                    "1290 Avenue of the Americas", 
+                    "666 Fifth Avenue", 
+                    "31 West 52nd Street", 
+                    "Lehman Brothers Building"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 6, 
+                "theatre": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School", 
+                    "osm_id": 266033995.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower", 
+                    "osm_id": 266034023.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre", 
+                    "osm_id": 266149299.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre", 
+                    "osm_id": 266149300.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }
+            ], 
+            "text": "No running today! @ Times Square, New York City https://t.co/L87eOkbNML", 
+            "id": "785107689034526720", 
+            "favorite_count": 4, 
+            "created_at": "2016-10-09T13:20:34", 
+            "coordinates": [
+                -73.98644, 
+                40.75839
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Booth Theatre", 
+                    "Broadhurst Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square", 
+                    "osm_id": 266143341.0
+                }
+            ], 
+            "text": "Just posted a photo @ Hilton Times Square https://t.co/xJBldctJk4", 
+            "id": "784878296790163456", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-08T22:09:02", 
+            "coordinates": [
+                -73.9885711, 
+                40.7565708
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "11 Times Square"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

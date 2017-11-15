@@ -1,0 +1,637 @@
+{
+    "total_favorite_count": 191, 
+    "followers_count": 279, 
+    "total_tweets": 12, 
+    "user_id": 245203806, 
+    "screen_name": "mgdozler", 
+    "friends_count": 604, 
+    "buildings": {
+        "school": 5, 
+        "office": 5, 
+        "theatre": 6, 
+        "apartments": 17, 
+        "hotel": 3, 
+        "commercial": 9, 
+        "dormitory": 3, 
+        "college": 4, 
+        "church": 4, 
+        "tower": 3
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83601.0, 
+                    "name": "MGM Building", 
+                    "osm_id": 260257168.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89354.0, 
+                    "name": "Gotham West", 
+                    "osm_id": 265317863.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90187.0, 
+                    "name": "Longacre House", 
+                    "osm_id": 265331324.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 90237.0, 
+                    "name": "One Worldwide Plaza", 
+                    "osm_id": 265338408.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 93314.0, 
+                    "name": "Times Square Church", 
+                    "osm_id": 266155269.0
+                }
+            ], 
+            "text": "I worship at the temple of democracy. My belief is the rule of law. That's why I confess Donald\u2026 https://t.co/s5cRS6Ku6l", 
+            "id": "797876722884440065", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T19:00:09", 
+            "coordinates": [
+                -73.97391563, 
+                40.76246983
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "MGM Building", 
+                    "One Worldwide Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church", 
+                    "osm_id": -3357433.0
+                }
+            ], 
+            "text": "Pre-election Hillary pep rally with Madonna! The Madonna. #ExpressYourself by voting! #ImWithHer\u2026 https://t.co/ipzXj3RuYU", 
+            "id": "795820327724953600", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-08T02:48:46", 
+            "coordinates": [
+                -73.9975, 
+                40.73083333
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Our Lady of Pompeii Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 796.0, 
+                    "name": "3 Park Avenue", 
+                    "osm_id": 156943046.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85674.0, 
+                    "name": "Shirley Goodman Resource Center", 
+                    "osm_id": 264651243.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 85727.0, 
+                    "name": "SVA Theater", 
+                    "osm_id": 264651626.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 101016.0, 
+                    "name": "The Corinthian", 
+                    "osm_id": 278328259.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 118373.0, 
+                    "name": "Public School 150", 
+                    "osm_id": 280369233.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125722.0, 
+                    "name": "Vision Machine", 
+                    "osm_id": 288603699.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125725.0, 
+                    "name": "500W21", 
+                    "osm_id": 288767466.0
+                }
+            ], 
+            "text": "#Unisphere \ud83c\udf0d #kweens \ud83d\udc51 #scruff #NYC #NewYork #Queens @ Unisphere-Flushing Meadows Corona Park https://t.co/XmQ2upBHCj", 
+            "id": "792442107944316928", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-29T19:04:56", 
+            "coordinates": [
+                -73.84462595, 
+                40.74615153
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "3 Park Avenue", 
+                    "The Corinthian", 
+                    "Vision Machine", 
+                    "500W21"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "school": 2, 
+                "college": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Proudly voting (absentee) for Hillary Clinton during the final #debate2016! \ud83c\uddfa\ud83c\uddf8\ud83d\uddf3\ud83c\uddfa\ud83c\uddf8 #ImWithHer\u2026 https://t.co/L7d6q5t8KA", 
+            "id": "788911600061198336", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-20T01:15:57", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 86112.0, 
+                    "name": "Church of the Holy Apostles", 
+                    "osm_id": 264671930.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91970.0, 
+                    "name": "Woodstock Tower", 
+                    "osm_id": 265520352.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 92673.0, 
+                    "name": "The Vanderbilt", 
+                    "osm_id": 265865023.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125777.0, 
+                    "name": "200 Eleventh Avenue", 
+                    "osm_id": 293950322.0
+                }
+            ], 
+            "text": "Watching the UN General Assembly appoint Antonio Guterres of #Portugal as the 9th #UN\u2026 https://t.co/8fWH4SNpdP", 
+            "id": "786585003186532352", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-13T15:10:53", 
+            "coordinates": [
+                -73.9685875, 
+                40.74934432
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Woodstock Tower", 
+                    "The Vanderbilt", 
+                    "200 Eleventh Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 86057.0, 
+                    "name": "Public School 33", 
+                    "osm_id": 264667033.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 91982.0, 
+                    "name": "Ford Foundation", 
+                    "osm_id": 265517922.0
+                }
+            ], 
+            "text": "Sacurrity Council \ud83d\udea8 #UN #UNSC #NYC #NewYork #scruff @ United Nations Security Council https://t.co/gds3VDFQPJ", 
+            "id": "786344535307587584", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:15:21", 
+            "coordinates": [
+                -73.96739401, 
+                40.7497319
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "tower", 
+                "name": [
+                    "Two Penn Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2, 
+                "commercial": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School", 
+                    "osm_id": 266033995.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower", 
+                    "osm_id": 266034023.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre", 
+                    "osm_id": 266149299.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre", 
+                    "osm_id": 266149300.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }
+            ], 
+            "text": "King of the (concrete) jungle. \ud83e\udd81 \ud83d\uddfd #NYC #NewYork #scruff @ Times Square, New York City https://t.co/fd2DE726Z6", 
+            "id": "785615575561048068", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-10T22:58:43", 
+            "coordinates": [
+                -73.98644, 
+                40.75839
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Booth Theatre", 
+                    "Broadhurst Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }, 
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 830.0, 
+                    "name": "Grand Central Plaza", 
+                    "osm_id": 161049888.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 840.0, 
+                    "name": "101 Park Avenue", 
+                    "osm_id": 161849936.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91950.0, 
+                    "name": "International Plaza", 
+                    "osm_id": 265516413.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 92700.0, 
+                    "name": "Lorillard Building", 
+                    "osm_id": 265869522.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 125756.0, 
+                    "name": "Holiday Inn Express", 
+                    "osm_id": 292840084.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 125767.0, 
+                    "name": "Hyatt Place", 
+                    "osm_id": 292840085.0
+                }
+            ], 
+            "text": "New desk at work has a good view... @UN_Photo #UN #UnitedStates @ United Nations, General Assembly https://t.co/c8HUUhP4h7", 
+            "id": "783806998542372865", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-05T23:12:05", 
+            "coordinates": [
+                -73.96753285, 
+                40.75044396
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "Grand Central Plaza", 
+                    "101 Park Avenue", 
+                    "Lorillard Building"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2, 
+                "hotel": 3, 
+                "office": 4, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 901.0, 
+                    "name": "Castle Point Apartments", 
+                    "osm_id": 182240448.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 85729.0, 
+                    "name": "Nagler Hall", 
+                    "osm_id": 264651212.0
+                }
+            ], 
+            "text": ".time for a new (york/work) flow for a while. \ud83d\uddfd #NYC @ Midtown Manhattan https://t.co/g5R0oFks0w", 
+            "id": "783441434246467584", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-04T22:59:28", 
+            "coordinates": [
+                -73.986, 
+                40.747
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Coed Hall", 
+                    "Nagler Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 3, 
+                "college": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 584.0, 
+                    "name": "\u5e1d\u570b\u5927\u5ec8", 
+                    "osm_id": 34633854.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe", 
+                    "osm_id": 396820651.0
+                }
+            ], 
+            "text": "Empire State Building lit in pink and pulsating like a beating heart. Pretty awesome! #NYC\u2026 https://t.co/R55GNBySrY", 
+            "id": "699003738317414401", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-14T22:54:12", 
+            "coordinates": [
+                -73.98536297, 
+                40.74843498
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Christa McAuliffe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway", 
+                    "osm_id": 163629929.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street", 
+                    "osm_id": 265282692.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93064.0, 
+                    "name": "American Airlines Theatre", 
+                    "osm_id": 266033991.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square", 
+                    "osm_id": 266143341.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway", 
+                    "osm_id": 266149373.0
+                }
+            ], 
+            "text": "Vanya and Sonia and Masha and Spike! Hilarious show! http://t.co/bCNhzljHB5", 
+            "id": "325798690914725888", 
+            "favorite_count": 0, 
+            "created_at": "2013-04-21T02:30:35", 
+            "coordinates": [
+                -73.985411, 
+                40.757005
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "1500 Broadway", 
+                    "11 Times Square", 
+                    "1501 Broadway"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 4, 
+                "theatre": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "I have no idea what I'm even prohibited from doing.... http://t.co/wTKW9Xi34b", 
+            "id": "325642773598437376", 
+            "favorite_count": 1, 
+            "created_at": "2013-04-20T16:11:02", 
+            "coordinates": [
+                -73.994352, 
+                40.754632
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

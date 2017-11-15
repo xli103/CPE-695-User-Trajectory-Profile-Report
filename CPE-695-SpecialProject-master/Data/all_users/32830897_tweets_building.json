@@ -1,0 +1,46 @@
+{
+    "total_favorite_count": 1838, 
+    "total_tweets": 2, 
+    "screen_name": "MURDAHBABY", 
+    "friends_count": 79978, 
+    "followers_count": 80694, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95, 
+                    40.65
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@frenchiebsm x @djlazyk #ChickenRoom2 via livemixtapes \ud83d\udd4a\ud83d\udc13\ud83d\udc14 @ Brooklyn, New York https://t.co/p2dZuUiVHf", 
+                "created_at": "2016-11-13T21:55:32", 
+                "retweet_count": 4, 
+                "id": "797920860682100737", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.3881, 
+                    33.7489
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Damn \ud83d\udc40 #RipShawtyLo @ Atlanta, Georgia https://t.co/Q4PBZByxhx", 
+                "created_at": "2016-09-21T20:01:38", 
+                "retweet_count": 1, 
+                "id": "778685640162418689", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

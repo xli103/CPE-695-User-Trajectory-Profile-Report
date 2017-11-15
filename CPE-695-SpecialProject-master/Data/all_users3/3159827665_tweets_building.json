@@ -1,0 +1,700 @@
+{
+    "total_favorite_count": 0, 
+    "followers_count": 368, 
+    "total_tweets": 15, 
+    "user_id": 3159827665, 
+    "screen_name": "madewell_jobs", 
+    "friends_count": 2, 
+    "buildings": {
+        "school": 13, 
+        "office": 3, 
+        "apartments": 17, 
+        "dormitory": 6, 
+        "construction": 3, 
+        "church": 6, 
+        "retail": 7
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 11343.0, 
+                    "name": "Founders Hall", 
+                    "osm_id": 247857074.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36148.0, 
+                    "name": "Church of St. Luke in the Fields", 
+                    "osm_id": 249666372.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job? Seasonal Sales Associate, Madewell, 115 5th Ave - https://t.co/D5tcCqSIj9 #Retail #NewYork, NY", 
+            "id": "798224243964014592", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T18:01:04", 
+            "coordinates": [
+                -73.9874105, 
+                40.7322535
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Founders Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 2.0, 
+                    "name": "The Dakota", 
+                    "osm_id": -1341944.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98419.0, 
+                    "name": "The Bancroft", 
+                    "osm_id": 269247827.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98443.0, 
+                    "name": "The Franconia", 
+                    "osm_id": 269247820.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, 1146 Madison Ave - https://t.co/93AWf44rGC", 
+            "id": "797871875481186304", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T18:40:53", 
+            "coordinates": [
+                -73.9521468, 
+                40.7766412
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Dakota", 
+                    "Lincoln Guild", 
+                    "The Bancroft", 
+                    "The Franconia"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 11343.0, 
+                    "name": "Founders Hall", 
+                    "osm_id": 247857074.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36148.0, 
+                    "name": "Church of St. Luke in the Fields", 
+                    "osm_id": 249666372.0
+                }
+            ], 
+            "text": "If you're looking for work in #NewYork, NY, check out this #job: https://t.co/eNWqDpAWtl #Retail #Hiring", 
+            "id": "797460295912329221", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T15:25:25", 
+            "coordinates": [
+                -73.9874105, 
+                40.7322535
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Founders Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 11343.0, 
+                    "name": "Founders Hall", 
+                    "osm_id": 247857074.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36148.0, 
+                    "name": "Church of St. Luke in the Fields", 
+                    "osm_id": 249666372.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job? Sales Support Associate, Madewell, 115 5th Ave - https://t.co/V4PAdwSVnG #Retail #NewYork, NY", 
+            "id": "797222853586235392", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T23:41:54", 
+            "coordinates": [
+                -73.9874105, 
+                40.7322535
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Founders Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 544.0, 
+                    "name": "Stevens Institute of Technology", 
+                    "osm_id": 26974143.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16842.0, 
+                    "name": "Capitol at Chelsea", 
+                    "osm_id": 248143760.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87455.0, 
+                    "name": "Instrata NoMad", 
+                    "osm_id": 265042538.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88471.0, 
+                    "name": "The Anthem", 
+                    "osm_id": 265268122.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125728.0, 
+                    "name": "Chelsea Tower", 
+                    "osm_id": 287496552.0
+                }
+            ], 
+            "text": "See our latest #LongIslandCity, NY #job and click to apply: Assistant Designer - Madewell Outerwear and Bottoms - https://t.co/sg7Bltln4o", 
+            "id": "797172425720893440", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T20:21:31", 
+            "coordinates": [
+                -73.9485424, 
+                40.744679
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Windsor Court", 
+                    "Capitol at Chelsea", 
+                    "Instrata NoMad", 
+                    "The Anthem", 
+                    "Chelsea Tower"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "office": 2, 
+                "apartments": 6
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 115320.0, 
+                    "name": "Junior High School 126", 
+                    "osm_id": 280123701.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School", 
+                    "osm_id": 375874980.0
+                }
+            ], 
+            "text": "We're #hiring! Read about our latest #job opening here: Seasonal Support Associate, Madewell, Roosevelt... - https://t.co/P3EjukcaK0", 
+            "id": "796798586511994881", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T19:36:01", 
+            "coordinates": [
+                -73.6342954, 
+                40.7267682
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Junior High School 126", 
+                    "Dr. Ronald E. McNair Academic High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 115320.0, 
+                    "name": "Junior High School 126", 
+                    "osm_id": 280123701.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School", 
+                    "osm_id": 375874980.0
+                }
+            ], 
+            "text": "See our latest #GardenCity, NY #job and click to apply: Sales Support Associate, Madewell, Roosevelt Field Mall - https://t.co/kBMbjhP0ZW", 
+            "id": "796785954660880384", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T18:45:49", 
+            "coordinates": [
+                -73.6342954, 
+                40.7267682
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Junior High School 126", 
+                    "Dr. Ronald E. McNair Academic High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 115320.0, 
+                    "name": "Junior High School 126", 
+                    "osm_id": 280123701.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School", 
+                    "osm_id": 375874980.0
+                }
+            ], 
+            "text": "We're #hiring! Click to apply: Stylist, Madewell, Roosevelt Field Mall - https://t.co/NLwOQ9eJ6M #Job #GardenCity, NY #Jobs", 
+            "id": "796773327557660672", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T17:55:39", 
+            "coordinates": [
+                -73.6342954, 
+                40.7267682
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Junior High School 126", 
+                    "Dr. Ronald E. McNair Academic High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 115320.0, 
+                    "name": "Junior High School 126", 
+                    "osm_id": 280123701.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School", 
+                    "osm_id": 375874980.0
+                }
+            ], 
+            "text": "Interested in a #job in #GardenCity, NY? This could be a great fit: https://t.co/y6I5zKi2v4 #Retail #Hiring", 
+            "id": "796735515399589888", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T15:25:24", 
+            "coordinates": [
+                -73.6342954, 
+                40.7267682
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Junior High School 126", 
+                    "Dr. Ronald E. McNair Academic High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 115320.0, 
+                    "name": "Junior High School 126", 
+                    "osm_id": 280123701.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School", 
+                    "osm_id": 375874980.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job in #GardenCity, NY? https://t.co/z1w0vJDtcA #Retail #Hiring", 
+            "id": "796722928364625920", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T14:35:23", 
+            "coordinates": [
+                -73.6342954, 
+                40.7267682
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Junior High School 126", 
+                    "Dr. Ronald E. McNair Academic High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 11343.0, 
+                    "name": "Founders Hall", 
+                    "osm_id": 247857074.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36148.0, 
+                    "name": "Church of St. Luke in the Fields", 
+                    "osm_id": 249666372.0
+                }
+            ], 
+            "text": "If you're looking for work in #NewYork, NY, check out this #job: https://t.co/eWv1SYnGlr #Retail #Hiring", 
+            "id": "796523194454708225", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-10T01:21:42", 
+            "coordinates": [
+                -73.9874105, 
+                40.7322535
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Founders Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "construction", 
+                    "id": 99197.0, 
+                    "name": "Two World Trade Center", 
+                    "osm_id": 278033607.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99723.0, 
+                    "name": "Chatham Green", 
+                    "osm_id": 278105947.0
+                }
+            ], 
+            "text": "This #job might be a great fit for you: Keyholder, Madewell, North 6th Street - https://t.co/jtSbokYNfL #Retail #Brooklyn, NY #Hiring", 
+            "id": "796034756504715264", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-08T17:00:50", 
+            "coordinates": [
+                -73.9660683, 
+                40.7119031
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "construction", 
+                "name": [
+                    "Two World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "dormitory", 
+                    "id": 11343.0, 
+                    "name": "Founders Hall", 
+                    "osm_id": 247857074.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36148.0, 
+                    "name": "Church of St. Luke in the Fields", 
+                    "osm_id": 249666372.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job? Seasonal Sales Associate, Madewell, 69 Gansevoort - https://t.co/Y1jisZTBZa #Sales #NewYork, NY", 
+            "id": "794907254868701184", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-05T14:20:32", 
+            "coordinates": [
+                -73.9874105, 
+                40.7322535
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Founders Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 544.0, 
+                    "name": "Stevens Institute of Technology", 
+                    "osm_id": 26974143.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16842.0, 
+                    "name": "Capitol at Chelsea", 
+                    "osm_id": 248143760.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87455.0, 
+                    "name": "Instrata NoMad", 
+                    "osm_id": 265042538.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88471.0, 
+                    "name": "The Anthem", 
+                    "osm_id": 265268122.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125728.0, 
+                    "name": "Chelsea Tower", 
+                    "osm_id": 287496552.0
+                }
+            ], 
+            "text": "Join the Madewell team! See our latest #job opening here: https://t.co/KRfrMxLKoc #BusinessMgmt #LongIslandCity, NY #Hiring", 
+            "id": "794869428349386753", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-05T11:50:14", 
+            "coordinates": [
+                -73.9485424, 
+                40.744679
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Windsor Court", 
+                    "Capitol at Chelsea", 
+                    "Instrata NoMad", 
+                    "The Anthem", 
+                    "Chelsea Tower"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "office": 2, 
+                "apartments": 6
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "construction", 
+                    "id": 99197.0, 
+                    "name": "Two World Trade Center", 
+                    "osm_id": 278033607.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99723.0, 
+                    "name": "Chatham Green", 
+                    "osm_id": 278105947.0
+                }
+            ], 
+            "text": "This #job might be a great fit for you: Seasonal Sales Associate, Madewell, North 6th Street - https://t.co/uCMXpCo6eP #Sales #Brooklyn, NY", 
+            "id": "794658362948349952", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-04T21:51:32", 
+            "coordinates": [
+                -73.9660683, 
+                40.7119031
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "construction", 
+                "name": [
+                    "Two World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

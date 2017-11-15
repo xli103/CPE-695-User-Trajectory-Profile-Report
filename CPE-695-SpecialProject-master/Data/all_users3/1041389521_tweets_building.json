@@ -1,0 +1,103 @@
+{
+    "total_favorite_count": 23646, 
+    "followers_count": 677, 
+    "total_tweets": 3, 
+    "user_id": 1041389521, 
+    "screen_name": "ohheyyitsangel", 
+    "friends_count": 740, 
+    "buildings": {
+        "apartments": 4
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "tb to the day i say my champagne papi \ud83d\ude4f\ud83c\udffe @ Drake &amp; Future Summer\u2026 https://t.co/MKN0f5ukcc", 
+            "id": "786336278245552129", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T22:42:32", 
+            "coordinates": [
+                -73.9923478, 
+                40.7506734
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "it's all about us right now, girl where u goin? @ Drake &amp; Future\u2026 https://t.co/hbuBAawyD6", 
+            "id": "762052966794797056", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-06T22:29:20", 
+            "coordinates": [
+                -73.9923478, 
+                40.7506734
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "so trust me we'll be out here lookinn for revengeeee @ Drake &amp;\u2026 https://t.co/h5mGyi4AjB", 
+            "id": "761343845070204929", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-04T23:31:32", 
+            "coordinates": [
+                -73.9923478, 
+                40.7506734
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "total_favorite_count": 1003, 
+    "followers_count": 300, 
+    "total_tweets": 6, 
+    "user_id": 87576653, 
+    "screen_name": "mperez135", 
+    "friends_count": 287, 
+    "buildings": {
+        "construction": 3, 
+        "commercial": 9, 
+        "theatre": 7, 
+        "office": 2, 
+        "apartments": 6
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Exploring the area @ New York, New York https://t.co/GyktpF2sJV", 
+            "id": "782671786391601153", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-02T20:01:09", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower", 
+                    "osm_id": 86121621.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 669.0, 
+                    "name": "Times Square Tower", 
+                    "osm_id": 109285745.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 691.0, 
+                    "name": "277 Park Avenue", 
+                    "osm_id": 137860913.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 769.0, 
+                    "name": "JP Morgan Chase Tower", 
+                    "osm_id": 146278002.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 781.0, 
+                    "name": "North American Plywood Building", 
+                    "osm_id": 150402504.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91354.0, 
+                    "name": "River Tower", 
+                    "osm_id": 265441627.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 91614.0, 
+                    "name": "The Halcyon", 
+                    "osm_id": 265459554.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93159.0, 
+                    "name": "Nederlander Theatre", 
+                    "osm_id": 266143337.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93399.0, 
+                    "name": "Putman Building", 
+                    "osm_id": 266170632.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 126056.0, 
+                    "name": "The Sutton", 
+                    "osm_id": 301780388.0
+                }
+            ], 
+            "text": "The crew. Filming with the NYPD this week #nypd #filmcrew #setlife #steadicam #1stac #2ndac\u2026 https://t.co/OU8ku7JsHe", 
+            "id": "781561093219123200", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-29T18:27:39", 
+            "coordinates": [
+                -73.8858, 
+                40.7556
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Bank of America Tower", 
+                    "Times Square Tower", 
+                    "277 Park Avenue", 
+                    "JP Morgan Chase Tower", 
+                    "Putman Building"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 3, 
+                "commercial": 6, 
+                "theatre": 2, 
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building", 
+                    "osm_id": 163465869.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93180.0, 
+                    "name": "Bernard B. Jacobs Theatre", 
+                    "osm_id": 266149298.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93221.0, 
+                    "name": "John Golden Theatre", 
+                    "osm_id": 266149325.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre", 
+                    "osm_id": 266149329.0
+                }
+            ], 
+            "text": "The #sonyf5 setup today for a corporate gig in #nyc earlier today. #cinema #steadicam\u2026 https://t.co/n5LdDnSeDj", 
+            "id": "747588615774035968", 
+            "favorite_count": 1, 
+            "created_at": "2016-06-28T00:33:10", 
+            "coordinates": [
+                -73.9786973, 
+                40.75875356
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Bernard B. Jacobs Theatre", 
+                    "John Golden Theatre", 
+                    "Music Box Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "theatre": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Awesome win tonight for the Rangers! #nyr #nyrangers @ Madison Square Garden https://t.co/vIkqShPbXI", 
+            "id": "717544945779871744", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-06T02:50:21", 
+            "coordinates": [
+                -73.9923477, 
+                40.7506752
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater", 
+                    "osm_id": 266149330.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre", 
+                    "osm_id": 266149329.0
+                }
+            ], 
+            "text": "Today I got to fly an old 1981 Panasonic VHS camera. Not everyday you see one of these in use. @\u2026 https://t.co/GpRndFrVHy", 
+            "id": "663174860881948672", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-08T02:03:02", 
+            "coordinates": [
+                -73.985131, 
+                40.758895
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Richard Rodgers Theater", 
+                    "Music Box Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99123.0, 
+                    "name": "Gateway Plaza 500", 
+                    "osm_id": 277919044.0
+                }
+            ], 
+            "text": "#skate #nyc #skateboarding @ Manhattan Bridge (B, D, Q) https://t.co/hVH524U9XW", 
+            "id": "621826067544809472", 
+            "favorite_count": 0, 
+            "created_at": "2015-07-16T23:37:42", 
+            "coordinates": [
+                -73.99304362, 
+                40.71159505
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Gateway Plaza 500"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

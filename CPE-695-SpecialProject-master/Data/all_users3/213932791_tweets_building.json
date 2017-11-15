@@ -1,0 +1,435 @@
+{
+    "total_favorite_count": 786, 
+    "followers_count": 146, 
+    "total_tweets": 11, 
+    "user_id": 213932791, 
+    "screen_name": "Lizziek417", 
+    "friends_count": 269, 
+    "buildings": {
+        "school": 4, 
+        "theatre": 2, 
+        "apartments": 13, 
+        "residential": 2, 
+        "hotel": 2, 
+        "commercial": 3, 
+        "supermarket": 2, 
+        "garage": 2, 
+        "ship": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }
+            ], 
+            "text": "Chilly temps, cheery blooms @ Forty One Madison https://t.co/zb21D2i6rd", 
+            "id": "781561659533828096", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T18:29:55", 
+            "coordinates": [
+                -73.98646054, 
+                40.7426077
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }
+            ], 
+            "text": "Something new &amp; something blue @ Forty One Madison https://t.co/gUontjsITg", 
+            "id": "780821244438425600", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-27T17:27:46", 
+            "coordinates": [
+                -73.98657, 
+                40.74246
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }
+            ], 
+            "text": "Cheers to a festive Christmas in April with @traditionalhome\u2026 https://t.co/y81FkdTr0l", 
+            "id": "720720910529994755", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-14T21:10:30", 
+            "coordinates": [
+                -73.9865875, 
+                40.7425079
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "What dreams are made of \ud83c\udf6a\ud83c\udf66\ud83c\udf6b @ Black Tap Craft Burgers &amp; Beer\u2026 https://t.co/UH5SvAwbDM", 
+            "id": "708773586094432256", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-12T21:56:05", 
+            "coordinates": [
+                -74.00204788, 
+                40.73957982
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments", 
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 87696.0, 
+                    "name": "Le Parker M\u00e9ridien", 
+                    "osm_id": 265148531.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 87702.0, 
+                    "name": "New York City Center", 
+                    "osm_id": 265150597.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower", 
+                    "osm_id": 265325191.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 90161.0, 
+                    "name": "Public School 58", 
+                    "osm_id": 265329549.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "Tea for three with Eloise @ The Plaza Hotel https://t.co/zKYp0acdlf", 
+            "id": "685922213745291265", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-09T20:32:54", 
+            "coordinates": [
+                -73.97408598, 
+                40.76422894
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 58"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "theatre": 2, 
+                "apartments": 2, 
+                "hotel": 2, 
+                "supermarket": 2, 
+                "ship": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87247.0, 
+                    "name": "Chelsea Landmark", 
+                    "osm_id": 265038893.0
+                }
+            ], 
+            "text": "Froyo, Ros\u00e9 and Sex &amp; the City: soaking up the NYC girls night's in with\u2026 https://t.co/s3WkjqRoM0", 
+            "id": "628010115879321600", 
+            "favorite_count": 0, 
+            "created_at": "2015-08-03T01:10:54", 
+            "coordinates": [
+                -73.9801025, 
+                40.7444687
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Windsor Court", 
+                    "Chelsea Landmark"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "garage", 
+                    "id": 24802.0, 
+                    "name": "NYC Sanitation Department", 
+                    "osm_id": 248171348.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 56402.0, 
+                    "name": "Saint Francis De Sales School for the Deaf", 
+                    "osm_id": 250228568.0
+                }
+            ], 
+            "text": "Sardis selfie with special guest appearance by Elizabeth Taylor @ Sardi's Restaurant https://t.co/PbhnFJmOz5", 
+            "id": "620356018443264000", 
+            "favorite_count": 1, 
+            "created_at": "2015-07-12T22:16:15", 
+            "coordinates": [
+                -73.8787186, 
+                40.67062777
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "garage", 
+                "name": [
+                    "NYC Sanitation Department"
+                ]
+            }, 
+            "building_frequency": {
+                "garage": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }
+            ], 
+            "text": "View from the (almost) top \ud83c\udf4e\ud83c\udf4e @ World Trade Center 1 https://t.co/DfBFv7H5fM", 
+            "id": "613793972750823424", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-24T19:41:01", 
+            "coordinates": [
+                -73.99448682, 
+                40.74124026
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grand Chelsea"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 364.0, 
+                    "name": "Hughes High School", 
+                    "osm_id": -3556683.0
+                }, 
+                {
+                    "type": "residential", 
+                    "id": 804.0, 
+                    "name": "Davis Hall", 
+                    "osm_id": 158972212.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84309.0, 
+                    "name": "The Caledonia", 
+                    "osm_id": 264625645.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 85522.0, 
+                    "name": "Tekserve", 
+                    "osm_id": 264649433.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87262.0, 
+                    "name": "The Vanguard Chelsea", 
+                    "osm_id": 265038916.0
+                }
+            ], 
+            "text": "Beautiful blooms + stunning glassware=the winning combination for a great day at the juliskaofficial\u2026 https://t.co/QTAYPlHEOi", 
+            "id": "606194731912204288", 
+            "favorite_count": 1, 
+            "created_at": "2015-06-03T20:24:21", 
+            "coordinates": [
+                -73.98579593, 
+                40.74357312
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caledonia", 
+                    "The Vanguard Chelsea"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "commercial": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126353.0, 
+                    "name": "Hudson Square South", 
+                    "osm_id": 351324400.0
+                }
+            ], 
+            "text": "\ud83c\udfbcI don't think you're ready for this jelly\ud83c\udfb6 @ The Donut Pub https://t.co/vK5jKbEZPC", 
+            "id": "604746347477143553", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-30T20:28:59", 
+            "coordinates": [
+                -73.99992319, 
+                40.73865949
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Hudson Square South"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 89029.0, 
+                    "name": "Jet Partners", 
+                    "osm_id": 265301795.0
+                }
+            ], 
+            "text": "Such fun showcasing juliskaofficial at the #MarthaWeddingParty @ Gotham Hall http://t.co/pKHYQpruGr", 
+            "id": "559443743527686144", 
+            "favorite_count": 0, 
+            "created_at": "2015-01-25T20:12:37", 
+            "coordinates": [
+                -73.98723673, 
+                40.75132859
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Jet Partners"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

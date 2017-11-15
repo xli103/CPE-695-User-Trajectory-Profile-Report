@@ -1,0 +1,1530 @@
+{
+    "total_favorite_count": 398, 
+    "total_tweets": 29, 
+    "screen_name": "DJMariFreaux", 
+    "friends_count": 286, 
+    "followers_count": 252, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9586, 
+                    40.67857
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164164.0, 
+                    "type": "yes", 
+                    "id": 20754.0, 
+                    "name": "St. Augustine Park Slope"
+                }, 
+                {
+                    "osm_id": 251002520.0, 
+                    "type": "yes", 
+                    "id": 83144.0, 
+                    "name": "Ample Hills Creamery"
+                }, 
+                {
+                    "osm_id": 265733505.0, 
+                    "type": "school", 
+                    "id": 92233.0, 
+                    "name": "Acorn Community High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Everybody has choices. Choose positive vibes \ud83c\udf0c. Excited to be joining @djilldigitz and\u2026 https://t.co/Nac935zEMg", 
+                "created_at": "2016-11-09T20:53:31", 
+                "retweet_count": 2, 
+                "id": "796455703410081793", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.989722, 
+                    40.717222
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 74268323.0, 
+                    "type": "apartments", 
+                    "id": 624.0, 
+                    "name": "Paulus Hook Apartments"
+                }, 
+                {
+                    "osm_id": 249842305.0, 
+                    "type": "yes", 
+                    "id": 36247.0, 
+                    "name": "Ahrens Building"
+                }, 
+                {
+                    "osm_id": 249848204.0, 
+                    "type": "yes", 
+                    "id": 36558.0, 
+                    "name": "Chung Pak Building"
+                }, 
+                {
+                    "osm_id": 249848312.0, 
+                    "type": "yes", 
+                    "id": 36628.0, 
+                    "name": "White Street Correctional Facility"
+                }, 
+                {
+                    "osm_id": 250568890.0, 
+                    "type": "yes", 
+                    "id": 82421.0, 
+                    "name": "Public School-Intermediate School 89"
+                }, 
+                {
+                    "osm_id": 259774436.0, 
+                    "type": "yes", 
+                    "id": 83617.0, 
+                    "name": "Hyatt Regency Jersey City on the Hudson"
+                }, 
+                {
+                    "osm_id": 285940922.0, 
+                    "type": "yes", 
+                    "id": 125688.0, 
+                    "name": "Downtown Community Television Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When the Cali homie is in town and takes shots all night. Don't touch my smile \ud83c\udfb5\ud83d\ude03\ud83d\ude06\ud83d\ude04 #HappinessIs\u2026 https://t.co/Esn0ceKv9G", 
+                "created_at": "2016-11-05T04:26:15", 
+                "retweet_count": 0, 
+                "id": "794757697522515968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9436035, 
+                    40.6830902
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248179087.0, 
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses"
+                }, 
+                {
+                    "osm_id": 250331145.0, 
+                    "type": "yes", 
+                    "id": 67958.0, 
+                    "name": "Key Food"
+                }, 
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Don't miss a beat! Back at it with my fav @jj_djcritical... the bartenders will keep you warm\u2026 https://t.co/cClV6JNbS5", 
+                "created_at": "2016-10-27T23:03:34", 
+                "retweet_count": 0, 
+                "id": "791777386270433280", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.4152393, 
+                    33.746449
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My fav about two years ago \ud83d\ude0d ::insert prolific message about our future, cuz it's bright:: \ud83d\udca1\u2026 https://t.co/qfIOSN368M", 
+                "created_at": "2016-10-12T16:52:53", 
+                "retweet_count": 0, 
+                "id": "786248283685466113", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94373914, 
+                    40.68317164
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241823178.0, 
+                    "type": "yes", 
+                    "id": 2580.0, 
+                    "name": "Saint Augustines Protestant Episcopal Church"
+                }, 
+                {
+                    "osm_id": 248179087.0, 
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses"
+                }, 
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "TONIGHT back with my bro @jj_djcritical at loversrocknyc RnB Thursdays \ud83d\ude0b FREE as always. RnB\u2026 https://t.co/b7qKLdMW2j", 
+                "created_at": "2016-09-29T18:48:09", 
+                "retweet_count": 0, 
+                "id": "781566249516105728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95568399, 
+                    40.72103353
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782462.0, 
+                    "type": "yes", 
+                    "id": 83592.0, 
+                    "name": "Harborside Plaza 10"
+                }, 
+                {
+                    "osm_id": 283449794.0, 
+                    "type": "yes", 
+                    "id": 125590.0, 
+                    "name": "Helen's Pizza"
+                }, 
+                {
+                    "osm_id": 315343732.0, 
+                    "type": "yes", 
+                    "id": 126104.0, 
+                    "name": "The Annex"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This weather has me thinking of warmer days. All love to the #ImOnARoof! team xo. Soo vibey\u2026 https://t.co/NWdsAOWISE", 
+                "created_at": "2016-09-29T17:14:43", 
+                "retweet_count": 0, 
+                "id": "781542737992617985", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97685187, 
+                    40.72689023
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 241829644.0, 
+                    "type": "yes", 
+                    "id": 4152.0, 
+                    "name": "Beetle House NYC"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247848703.0, 
+                    "type": "yes", 
+                    "id": 10960.0, 
+                    "name": "University Towers Apartments I"
+                }, 
+                {
+                    "osm_id": 264854033.0, 
+                    "type": "yes", 
+                    "id": 87257.0, 
+                    "name": "Newport (Path)"
+                }, 
+                {
+                    "osm_id": 375874980.0, 
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gang signs out the window, ya bish... hoping all of them offend you, ya bishhh #SundayMusic\u2026 https://t.co/auutHpGWx6", 
+                "created_at": "2016-09-25T17:18:49", 
+                "retweet_count": 0, 
+                "id": "780094218672955392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98928628, 
+                    40.71816939
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 140838263.0, 
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I"
+                }, 
+                {
+                    "osm_id": 249847704.0, 
+                    "type": "yes", 
+                    "id": 36550.0, 
+                    "name": "Art gallery"
+                }, 
+                {
+                    "osm_id": 249847709.0, 
+                    "type": "yes", 
+                    "id": 36561.0, 
+                    "name": "HSBC"
+                }, 
+                {
+                    "osm_id": 250568902.0, 
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tonight the ladies will be putting in werk... come correct... come true... come thru \ud83d\ude0f #Repost\u2026 https://t.co/hZ4ZOLwLxG", 
+                "created_at": "2016-09-22T20:27:50", 
+                "retweet_count": 0, 
+                "id": "779054620983394309", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98920392, 
+                    40.71821016
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 140838263.0, 
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I"
+                }, 
+                {
+                    "osm_id": 249847704.0, 
+                    "type": "yes", 
+                    "id": 36550.0, 
+                    "name": "Art gallery"
+                }, 
+                {
+                    "osm_id": 249847709.0, 
+                    "type": "yes", 
+                    "id": 36561.0, 
+                    "name": "HSBC"
+                }, 
+                {
+                    "osm_id": 250568902.0, 
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When you're lowkey crushin' on the entire lineup \ud83d\ude0d This week at UNTLD the ladies are taking\u2026 https://t.co/mVq97iIUiY", 
+                "created_at": "2016-09-21T16:52:43", 
+                "retweet_count": 0, 
+                "id": "778638096048979968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95567866, 
+                    40.7209424
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 245352073.0, 
+                    "type": "school", 
+                    "id": 10023.0, 
+                    "name": "Sensory Kids"
+                }, 
+                {
+                    "osm_id": 245352076.0, 
+                    "type": "yes", 
+                    "id": 10029.0, 
+                    "name": "Nail Tek"
+                }, 
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782462.0, 
+                    "type": "yes", 
+                    "id": 83592.0, 
+                    "name": "Harborside Plaza 10"
+                }, 
+                {
+                    "osm_id": 278284165.0, 
+                    "type": "yes", 
+                    "id": 100617.0, 
+                    "name": "Congregation Chasam Sofer"
+                }, 
+                {
+                    "osm_id": 315343732.0, 
+                    "type": "yes", 
+                    "id": 126104.0, 
+                    "name": "The Annex"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This Sunday we're going all the way up!!! #ImOnARoof NYC season finale is the move for Sunday.\u2026 https://t.co/I1TMHR7ufY", 
+                "created_at": "2016-09-16T20:58:24", 
+                "retweet_count": 0, 
+                "id": "776887984939474944", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95554098, 
+                    40.7212154
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248771052.0, 
+                    "type": "yes", 
+                    "id": 28427.0, 
+                    "name": "Harney&Sons soho"
+                }, 
+                {
+                    "osm_id": 249664385.0, 
+                    "type": "yes", 
+                    "id": 35376.0, 
+                    "name": "The Drawing Center"
+                }, 
+                {
+                    "osm_id": 250266613.0, 
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20"
+                }, 
+                {
+                    "osm_id": 259782465.0, 
+                    "type": "yes", 
+                    "id": 83588.0, 
+                    "name": "Portofino Apartments"
+                }, 
+                {
+                    "osm_id": 283449794.0, 
+                    "type": "yes", 
+                    "id": 125590.0, 
+                    "name": "Helen's Pizza"
+                }, 
+                {
+                    "osm_id": 315343732.0, 
+                    "type": "yes", 
+                    "id": 126104.0, 
+                    "name": "The Annex"
+                }, 
+                {
+                    "osm_id": 371137439.0, 
+                    "type": "yes", 
+                    "id": 126430.0, 
+                    "name": "199Mott"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This Sunday, I'm on a roof \u270c\ud83d\udc7d Come rock out with me at the last NYC imonaroof this season xo\u2026 https://t.co/si34vY1xkQ", 
+                "created_at": "2016-09-14T20:03:24", 
+                "retweet_count": 0, 
+                "id": "776149371142410241", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9586, 
+                    40.67857
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164164.0, 
+                    "type": "yes", 
+                    "id": 20754.0, 
+                    "name": "St. Augustine Park Slope"
+                }, 
+                {
+                    "osm_id": 251002520.0, 
+                    "type": "yes", 
+                    "id": 83144.0, 
+                    "name": "Ample Hills Creamery"
+                }, 
+                {
+                    "osm_id": 265733505.0, 
+                    "type": "school", 
+                    "id": 92233.0, 
+                    "name": "Acorn Community High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "To all my friends, and to all of my past and future lovers, come out TONIGHT to experience\u2026 https://t.co/zFT1UNAH9Z", 
+                "created_at": "2016-09-14T15:18:20", 
+                "retweet_count": 0, 
+                "id": "776077630697250816", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95564527, 
+                    40.71411852
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3696430.0, 
+                    "type": "yes", 
+                    "id": 460.0, 
+                    "name": "New York State Supreme Court"
+                }, 
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 157880278.0, 
+                    "type": "yes", 
+                    "id": 800.0, 
+                    "name": "Emigrant Industrial Savings Bank Building"
+                }, 
+                {
+                    "osm_id": 241823871.0, 
+                    "type": "industrial", 
+                    "id": 2821.0, 
+                    "name": "Domino Sugar Refinery"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277890482.0, 
+                    "type": "yes", 
+                    "id": 99129.0, 
+                    "name": "Fiterman Hall"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 278105948.0, 
+                    "type": "public", 
+                    "id": 99801.0, 
+                    "name": "Daniel Patrick Moynihan United States Courthouse"
+                }, 
+                {
+                    "osm_id": 278256433.0, 
+                    "type": "school", 
+                    "id": 100367.0, 
+                    "name": "Public School 134"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Save the date *9/30/16* Music \u2022 Art \u2022 Live Performances \u2022 Outdoor vibes\ud83c\udfb5Tunes by yours truly xo\u2026 https://t.co/jx3xAjm1Zf", 
+                "created_at": "2016-09-02T20:58:59", 
+                "retweet_count": 0, 
+                "id": "771814702292856832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.989557, 
+                    40.7180761
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 140838263.0, 
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I"
+                }, 
+                {
+                    "osm_id": 249847709.0, 
+                    "type": "yes", 
+                    "id": 36561.0, 
+                    "name": "HSBC"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250568902.0, 
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udfb6 I just wanna be dope forever, I just wanna be who I am! \ud83c\udfb6 \n\nTonight, come chill with the\u2026 https://t.co/Nq1yNyMQPC", 
+                "created_at": "2016-08-11T17:34:44", 
+                "retweet_count": 0, 
+                "id": "763790767315906561", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.989557, 
+                    40.7180761
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 140838263.0, 
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I"
+                }, 
+                {
+                    "osm_id": 249847709.0, 
+                    "type": "yes", 
+                    "id": 36561.0, 
+                    "name": "HSBC"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250568902.0, 
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last week you saw what we did with @theophilusl, this Thursday we're keeping the wavvvy-ness\u2026 https://t.co/3SUVD0MbDV", 
+                "created_at": "2016-08-10T21:25:36", 
+                "retweet_count": 0, 
+                "id": "763486478416637997", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9437401, 
+                    40.68316742
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241823178.0, 
+                    "type": "yes", 
+                    "id": 2580.0, 
+                    "name": "Saint Augustines Protestant Episcopal Church"
+                }, 
+                {
+                    "osm_id": 248179087.0, 
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses"
+                }, 
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Everytime we're together, it just gets better and better \ud83d\ude1c. Throwback to two weeks ago at\u2026 https://t.co/8FoQfkFEnL", 
+                "created_at": "2016-08-09T14:27:26", 
+                "retweet_count": 0, 
+                "id": "763018857275658240", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98957253, 
+                    40.71811938
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 140838263.0, 
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I"
+                }, 
+                {
+                    "osm_id": 249847709.0, 
+                    "type": "yes", 
+                    "id": 36561.0, 
+                    "name": "HSBC"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250568902.0, 
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#UNTLD (at @Chloe81Nyc in New York, NY) https://t.co/GFAN0UlOuv", 
+                "created_at": "2016-08-05T04:01:26", 
+                "retweet_count": 0, 
+                "id": "761411766098206720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.61286154, 
+                    40.73810556
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248773603.0, 
+                    "type": "yes", 
+                    "id": 28988.0, 
+                    "name": "ABC Kitchen"
+                }, 
+                {
+                    "osm_id": 250490660.0, 
+                    "type": "yes", 
+                    "id": 82129.0, 
+                    "name": "Church of the Village"
+                }, 
+                {
+                    "osm_id": 250490670.0, 
+                    "type": "yes", 
+                    "id": 82130.0, 
+                    "name": "NYC LGBT Community Center"
+                }, 
+                {
+                    "osm_id": 264637734.0, 
+                    "type": "church", 
+                    "id": 84701.0, 
+                    "name": "Church of Saint Francis Xavier"
+                }, 
+                {
+                    "osm_id": 264758365.0, 
+                    "type": "yes", 
+                    "id": 86744.0, 
+                    "name": "Epiphany Library"
+                }, 
+                {
+                    "osm_id": 264762244.0, 
+                    "type": "yes", 
+                    "id": 86934.0, 
+                    "name": "NYU College of Dentistry"
+                }, 
+                {
+                    "osm_id": 278325850.0, 
+                    "type": "office", 
+                    "id": 100860.0, 
+                    "name": "OCME DNA Forensic Biology Laboratory Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Had so much fun spinning for Life Ride!  #amfAR (@ Kiehl's in Garden City, NY) https://t.co/P60pU0wmuq", 
+                "created_at": "2016-08-04T21:51:25", 
+                "retweet_count": 0, 
+                "id": "761318649684779008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.989557, 
+                    40.7180761
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 140838263.0, 
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I"
+                }, 
+                {
+                    "osm_id": 249847709.0, 
+                    "type": "yes", 
+                    "id": 36561.0, 
+                    "name": "HSBC"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250568902.0, 
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tomorrow night we're back with special guest DJ, NY Theo... y'all thought I was playing?!\u2026 https://t.co/bnhLvn9MP9", 
+                "created_at": "2016-08-03T22:01:47", 
+                "retweet_count": 0, 
+                "id": "760958873117360129", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92906257, 
+                    40.68269473
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248165022.0, 
+                    "type": "yes", 
+                    "id": 21333.0, 
+                    "name": "Iglesia Universal Del Reino De Dios"
+                }, 
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last night was everythinggg. deejayrubadub straight slayed her set at @solangeknowles's\u2026 https://t.co/L8R9N8xHQ0", 
+                "created_at": "2016-08-01T20:59:54", 
+                "retweet_count": 0, 
+                "id": "760218522630971392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9436035, 
+                    40.6830902
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248179087.0, 
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses"
+                }, 
+                {
+                    "osm_id": 250331145.0, 
+                    "type": "yes", 
+                    "id": 67958.0, 
+                    "name": "Key Food"
+                }, 
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ohh la la la! \ud83c\udfb6 Your fav Thursday duo is back at loversrocknyc for R&amp;B night! If you've been,\u2026 https://t.co/xaedBaUxGZ", 
+                "created_at": "2016-07-27T19:12:43", 
+                "retweet_count": 0, 
+                "id": "758379611172532224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.989557, 
+                    40.7180761
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 140838263.0, 
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I"
+                }, 
+                {
+                    "osm_id": 249847709.0, 
+                    "type": "yes", 
+                    "id": 36561.0, 
+                    "name": "HSBC"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250568902.0, 
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tomorrow @chloe81nyc is all #UNTLD \ud83c\udf0a deejayrubadub and I will set off #DayLite \ud83c\udf07 happy hour\u2026 https://t.co/bFlXpGdzxC", 
+                "created_at": "2016-07-27T16:06:13", 
+                "retweet_count": 0, 
+                "id": "758332676529065984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.989557, 
+                    40.7180761
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 140838263.0, 
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I"
+                }, 
+                {
+                    "osm_id": 249847709.0, 
+                    "type": "yes", 
+                    "id": 36561.0, 
+                    "name": "HSBC"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250568902.0, 
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thursday is the new Friday \ud83d\ude1c deejayrubadub and I will be setting off the untldnyc happy hr at\u2026 https://t.co/8Qd9jo6sLy", 
+                "created_at": "2016-07-24T21:47:10", 
+                "retweet_count": 0, 
+                "id": "757331313321967617", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99263, 
+                    40.72544
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110661.0, 
+                    "type": "yes", 
+                    "id": 553.0, 
+                    "name": "South Garage"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 249664631.0, 
+                    "type": "yes", 
+                    "id": 35451.0, 
+                    "name": "Trump SoHo"
+                }, 
+                {
+                    "osm_id": 362642225.0, 
+                    "type": "house", 
+                    "id": 126382.0, 
+                    "name": "Battello"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tonight will be sooo live \ud83d\ude1c Catch me early at Von throwing back \ud83c\udf7a @RollingRock_33 at 10pm\u2026 https://t.co/u6kVm2iqkL", 
+                "created_at": "2016-07-13T18:06:47", 
+                "retweet_count": 0, 
+                "id": "753289587582271488", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99263, 
+                    40.72544
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110661.0, 
+                    "type": "yes", 
+                    "id": 553.0, 
+                    "name": "South Garage"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 249664631.0, 
+                    "type": "yes", 
+                    "id": 35451.0, 
+                    "name": "Trump SoHo"
+                }, 
+                {
+                    "osm_id": 362642225.0, 
+                    "type": "house", 
+                    "id": 126382.0, 
+                    "name": "Battello"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Come through! \n\n#MadeFromScratch #Repost @hstyler_rsny\n\u30fb\u30fb\u30fb\nThis Wednesday July 13th Come be\u2026 https://t.co/JwjCrvFgMQ", 
+                "created_at": "2016-07-11T17:31:41", 
+                "retweet_count": 1, 
+                "id": "752555975605911553", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98532, 
+                    40.71791
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 140838263.0, 
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I"
+                }, 
+                {
+                    "osm_id": 249847594.0, 
+                    "type": "church", 
+                    "id": 36468.0, 
+                    "name": "Most Precious Blood Church"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250052732.0, 
+                    "type": "yes", 
+                    "id": 41361.0, 
+                    "name": "60 Hudson Street"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }, 
+                {
+                    "osm_id": 311152348.0, 
+                    "type": "yes", 
+                    "id": 126072.0, 
+                    "name": "Independence Plaza III"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This time next Saturday join me for this exclusive rooftop soir\u00e9e. Beautiful people, beautiful\u2026 https://t.co/9gtQFRYhgo", 
+                "created_at": "2016-07-08T19:09:02", 
+                "retweet_count": 0, 
+                "id": "751493312981368832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.94610793, 
+                    41.03369546
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy holidays \ud83d\ude0a\ud83c\udf08\ud83d\ude2f @ Montauk Point https://t.co/hAQWXGYWrY", 
+                "created_at": "2016-07-05T02:16:18", 
+                "retweet_count": 0, 
+                "id": "750151287182921728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9436035, 
+                    40.6830902
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248179087.0, 
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses"
+                }, 
+                {
+                    "osm_id": 250331145.0, 
+                    "type": "yes", 
+                    "id": 67958.0, 
+                    "name": "Key Food"
+                }, 
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tonight @jj_djcritical and I are back at it at loversrocknyc!! We'll be playing that music that\u2026 https://t.co/WEPUHyJIFy", 
+                "created_at": "2016-06-30T18:19:09", 
+                "retweet_count": 0, 
+                "id": "748581654822854656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.03522936, 
+                    40.41724385
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Using Instagram as it was originally intended. I'm present. Here and now. Beach trip before work\u2026 https://t.co/KgYSlyppoi", 
+                "created_at": "2016-06-29T17:13:27", 
+                "retweet_count": 0, 
+                "id": "748202734470434816", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

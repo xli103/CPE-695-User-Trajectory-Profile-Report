@@ -1,0 +1,58 @@
+{
+    "total_favorite_count": 4394, 
+    "followers_count": 537, 
+    "total_tweets": 1, 
+    "user_id": 3087790380, 
+    "screen_name": "_gunzalezb", 
+    "friends_count": 371, 
+    "buildings": {
+        "school": 2, 
+        "university": 3
+    }, 
+    "features": [
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41", 
+                    "osm_id": 250474273.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126562.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377078046.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126566.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377077898.0
+                }
+            ], 
+            "text": "back where the sun never shine @ 14 Street - Union Square https://t.co/fC9JqSS5mh", 
+            "id": "786356584800776193", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-13T00:03:14", 
+            "coordinates": [
+                -73.99029026, 
+                40.73528359
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "The New School University Center", 
+                    "The New School University Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "university": 3
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

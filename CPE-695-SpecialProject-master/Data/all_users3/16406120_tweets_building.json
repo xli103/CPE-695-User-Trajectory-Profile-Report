@@ -1,0 +1,372 @@
+{
+    "total_favorite_count": 17666, 
+    "followers_count": 1240, 
+    "total_tweets": 9, 
+    "user_id": 16406120, 
+    "screen_name": "lfresh", 
+    "friends_count": 1841, 
+    "buildings": {
+        "school": 3, 
+        "apartments": 10, 
+        "construction": 2, 
+        "college": 3, 
+        "church": 3, 
+        "retail": 6
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "college", 
+                    "id": 85681.0, 
+                    "name": "David Dubinsky Student Center", 
+                    "osm_id": 264651248.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125724.0, 
+                    "name": "TEN23", 
+                    "osm_id": 288767464.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 126151.0, 
+                    "name": "Business and Liberal Arts Center", 
+                    "osm_id": 319773437.0
+                }
+            ], 
+            "text": "Kimchee fried rice (.. ) (@ Woorijip in New York, NY) https://t.co/fkyizRy8LP", 
+            "id": "795764267698057217", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-07T23:06:00", 
+            "coordinates": [
+                -73.98639761, 
+                40.74768966
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "college", 
+                "name": [
+                    "David Dubinsky Student Center", 
+                    "Business and Liberal Arts Center"
+                ]
+            }, 
+            "building_frequency": {
+                "college": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "#deconstructed #cocacola #bottle \n\n*blink* @ Tribeca https://t.co/RWP3fBRvjw", 
+            "id": "795704523553701893", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-07T19:08:36", 
+            "coordinates": [
+                -74.0078, 
+                40.7183
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church", 
+                    "osm_id": -3357433.0
+                }
+            ], 
+            "text": "Just posted a photo @ Noodle Bar https://t.co/Jb8tlxUjet", 
+            "id": "791069701321424896", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-26T00:11:28", 
+            "coordinates": [
+                -74.0026409, 
+                40.73030285
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Our Lady of Pompeii Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 99147.0, 
+                    "name": "Saint Peter's Church", 
+                    "osm_id": 277904749.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 99197.0, 
+                    "name": "Two World Trade Center", 
+                    "osm_id": 278033607.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99723.0, 
+                    "name": "Chatham Green", 
+                    "osm_id": 278105947.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 99830.0, 
+                    "name": "Public School 1", 
+                    "osm_id": 278106869.0
+                }
+            ], 
+            "text": "#construction @ Williamsburg Bridge https://t.co/EMPvhC5mbz", 
+            "id": "789673979644616704", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-22T03:45:22", 
+            "coordinates": [
+                -73.96888733, 
+                40.71249202
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 1"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "construction": 2, 
+                "apartments": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 35470.0, 
+                    "name": "Urban Glass House", 
+                    "osm_id": 249664651.0
+                }
+            ], 
+            "text": "@bandrybarry &amp; #Andr\u00e9Holland answering @hillmangrad questions during q&amp;a for #moonlight @\u2026 https://t.co/zT1RAJ04Ob", 
+            "id": "789663492731174912", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-22T03:03:42", 
+            "coordinates": [
+                -73.99706, 
+                40.72573
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 35470.0, 
+                    "name": "Urban Glass House", 
+                    "osm_id": 249664651.0
+                }
+            ], 
+            "text": "When you'd really rather slouch but you aren't that tall and your view gets blocked\u2026 https://t.co/XnZDCHJnL8", 
+            "id": "789622236575563776", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-22T00:19:46", 
+            "coordinates": [
+                -73.99706, 
+                40.72573
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 35470.0, 
+                    "name": "Urban Glass House", 
+                    "osm_id": 249664651.0
+                }
+            ], 
+            "text": "Line already beginning to go out the door for @BandryBarry #moonlight ! @ Angelika Film Center https://t.co/0xG32AMlHI", 
+            "id": "789618753705095168", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-22T00:05:55", 
+            "coordinates": [
+                -73.99706, 
+                40.72573
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 35470.0, 
+                    "name": "Urban Glass House", 
+                    "osm_id": 249664651.0
+                }
+            ], 
+            "text": "Just posted a photo @ Angelika Film Center https://t.co/nUjjX6LXIi", 
+            "id": "789617695956332544", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-22T00:01:43", 
+            "coordinates": [
+                -73.99706, 
+                40.72573
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 35470.0, 
+                    "name": "Urban Glass House", 
+                    "osm_id": 249664651.0
+                }
+            ], 
+            "text": "I'm at Angelika Film Center for Moonlight in New York, NY https://t.co/bRxEaTCzjX", 
+            "id": "789616676941754369", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-21T23:57:40", 
+            "coordinates": [
+                -73.99727853, 
+                40.72573509
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "total_favorite_count": 2571, 
+    "followers_count": 295, 
+    "total_tweets": 1, 
+    "user_id": 2500139810, 
+    "screen_name": "CamiPereira2", 
+    "friends_count": 1964, 
+    "buildings": {
+        "hotel": 2, 
+        "office": 3, 
+        "apartments": 3
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 840.0, 
+                    "name": "101 Park Avenue", 
+                    "osm_id": 161849936.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91950.0, 
+                    "name": "International Plaza", 
+                    "osm_id": 265516413.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 92700.0, 
+                    "name": "Lorillard Building", 
+                    "osm_id": 265869522.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 125756.0, 
+                    "name": "Holiday Inn Express", 
+                    "osm_id": 292840084.0
+                }
+            ], 
+            "text": "Embajadora de Estados Unidos, presente presidencia @ United Nations\u2026 https://t.co/rBlmPvorzb", 
+            "id": "786339981799329792", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T22:57:15", 
+            "coordinates": [
+                -73.96756118, 
+                40.75054477
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "101 Park Avenue", 
+                    "Lorillard Building"
+                ]
+            }, 
+            "building_frequency": {
+                "hotel": 2, 
+                "office": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

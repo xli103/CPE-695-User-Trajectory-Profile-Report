@@ -1,0 +1,72 @@
+{
+    "total_favorite_count": 400, 
+    "followers_count": 575, 
+    "total_tweets": 1, 
+    "user_id": 297817712, 
+    "screen_name": "moxymissa", 
+    "friends_count": 566, 
+    "buildings": {
+        "commercial": 3, 
+        "theatre": 3, 
+        "apartments": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 811.0, 
+                    "name": "The Orion", 
+                    "osm_id": 158854338.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93177.0, 
+                    "name": "McGraw Hill Building", 
+                    "osm_id": 266143357.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93184.0, 
+                    "name": "Helen Hayes Theatre", 
+                    "osm_id": 266149304.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93272.0, 
+                    "name": "Times Square Building", 
+                    "osm_id": 266149338.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93511.0, 
+                    "name": "Lyceum Theatre", 
+                    "osm_id": 266170755.0
+                }
+            ], 
+            "text": "So I'm in New York right now... #ohhello @ Lyceum Theatre (Broadway) https://t.co/8jOfwKd4Zk", 
+            "id": "786357231059083264", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-13T00:05:48", 
+            "coordinates": [
+                -73.9847, 
+                40.7577
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "McGraw Hill Building", 
+                    "Times Square Building"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

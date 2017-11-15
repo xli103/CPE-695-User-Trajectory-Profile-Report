@@ -1,0 +1,574 @@
+{
+    "total_favorite_count": 18361, 
+    "total_tweets": 8, 
+    "screen_name": "paris_jillian", 
+    "friends_count": 376, 
+    "followers_count": 552, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00678187, 
+                    40.73973908
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 288749896.0, 
+                    "type": "yes", 
+                    "id": 125721.0, 
+                    "name": "Whitney Museum of American Art"
+                }, 
+                {
+                    "osm_id": 351317831.0, 
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments"
+                }, 
+                {
+                    "osm_id": 396113960.0, 
+                    "type": "yes", 
+                    "id": 127163.0, 
+                    "name": "Supremo"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "might be my favorite place tbh \ud83d\ude3b\ud83c\udf65\ud83c\udf6d\ud83c\udf79\ud83c\udf6c @ Sugar Factory https://t.co/NCq4qWZJM9", 
+                "created_at": "2016-11-10T23:11:35", 
+                "retweet_count": 0, 
+                "id": "796852835782656001", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.2203, 
+                    40.7306
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3343762.0, 
+                    "type": "yes", 
+                    "id": 80.0, 
+                    "name": "Vanderbilt Law School New York University"
+                }, 
+                {
+                    "osm_id": -3357433.0, 
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church"
+                }, 
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 247842673.0, 
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza"
+                }, 
+                {
+                    "osm_id": 247852537.0, 
+                    "type": "yes", 
+                    "id": 11264.0, 
+                    "name": "Radisson Martinique Hotel"
+                }, 
+                {
+                    "osm_id": 247855548.0, 
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex"
+                }, 
+                {
+                    "osm_id": 247864215.0, 
+                    "type": "church", 
+                    "id": 11678.0, 
+                    "name": "Immaculate Conception Church"
+                }, 
+                {
+                    "osm_id": 247864236.0, 
+                    "type": "school", 
+                    "id": 11690.0, 
+                    "name": "Immaculate Conception School"
+                }, 
+                {
+                    "osm_id": 248166211.0, 
+                    "type": "yes", 
+                    "id": 22264.0, 
+                    "name": "Hemmerdinger Hall"
+                }, 
+                {
+                    "osm_id": 317716546.0, 
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church"
+                }, 
+                {
+                    "osm_id": 317884689.0, 
+                    "type": "yes", 
+                    "id": 126130.0, 
+                    "name": "Hudson County Community College - Building E"
+                }, 
+                {
+                    "osm_id": 317885073.0, 
+                    "type": "yes", 
+                    "id": 126136.0, 
+                    "name": "Jersey Journal Building"
+                }, 
+                {
+                    "osm_id": 317884694.0, 
+                    "type": "yes", 
+                    "id": 126138.0, 
+                    "name": "Hudson County Community College - Building X"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "i still cannot wrap my head around the fact that not only youre a\u2026 https://t.co/ijUJ5CCJkR", 
+                "created_at": "2016-10-21T23:41:12", 
+                "retweet_count": 0, 
+                "id": "789612532457697281", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.19332, 
+                    40.73048
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3343762.0, 
+                    "type": "yes", 
+                    "id": 80.0, 
+                    "name": "Vanderbilt Law School New York University"
+                }, 
+                {
+                    "osm_id": -3357433.0, 
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church"
+                }, 
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 241844932.0, 
+                    "type": "church", 
+                    "id": 7231.0, 
+                    "name": "Saint Mark's in-the-Bowery"
+                }, 
+                {
+                    "osm_id": 247842673.0, 
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza"
+                }, 
+                {
+                    "osm_id": 247855548.0, 
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex"
+                }, 
+                {
+                    "osm_id": 247864236.0, 
+                    "type": "school", 
+                    "id": 11690.0, 
+                    "name": "Immaculate Conception School"
+                }, 
+                {
+                    "osm_id": 248166211.0, 
+                    "type": "yes", 
+                    "id": 22264.0, 
+                    "name": "Hemmerdinger Hall"
+                }, 
+                {
+                    "osm_id": 280137526.0, 
+                    "type": "yes", 
+                    "id": 116265.0, 
+                    "name": "McDonald's"
+                }, 
+                {
+                    "osm_id": 317716546.0, 
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church"
+                }, 
+                {
+                    "osm_id": 317884691.0, 
+                    "type": "yes", 
+                    "id": 126131.0, 
+                    "name": "Hudson County Community College - Building G"
+                }, 
+                {
+                    "osm_id": 317885073.0, 
+                    "type": "yes", 
+                    "id": 126136.0, 
+                    "name": "Jersey Journal Building"
+                }, 
+                {
+                    "osm_id": 317884694.0, 
+                    "type": "yes", 
+                    "id": 126138.0, 
+                    "name": "Hudson County Community College - Building X"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "snap selfies are taking over \ud83d\ude2c @ Ralphs Famous Italian Ice of East\u2026 https://t.co/eRlhyXNvbc", 
+                "created_at": "2016-10-12T22:47:00", 
+                "retweet_count": 0, 
+                "id": "786337399546798080", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.19332, 
+                    40.73048
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3343762.0, 
+                    "type": "yes", 
+                    "id": 80.0, 
+                    "name": "Vanderbilt Law School New York University"
+                }, 
+                {
+                    "osm_id": -3357433.0, 
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church"
+                }, 
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 241844932.0, 
+                    "type": "church", 
+                    "id": 7231.0, 
+                    "name": "Saint Mark's in-the-Bowery"
+                }, 
+                {
+                    "osm_id": 247842673.0, 
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza"
+                }, 
+                {
+                    "osm_id": 247855548.0, 
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex"
+                }, 
+                {
+                    "osm_id": 247864236.0, 
+                    "type": "school", 
+                    "id": 11690.0, 
+                    "name": "Immaculate Conception School"
+                }, 
+                {
+                    "osm_id": 248166211.0, 
+                    "type": "yes", 
+                    "id": 22264.0, 
+                    "name": "Hemmerdinger Hall"
+                }, 
+                {
+                    "osm_id": 280137526.0, 
+                    "type": "yes", 
+                    "id": 116265.0, 
+                    "name": "McDonald's"
+                }, 
+                {
+                    "osm_id": 317716546.0, 
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church"
+                }, 
+                {
+                    "osm_id": 317884691.0, 
+                    "type": "yes", 
+                    "id": 126131.0, 
+                    "name": "Hudson County Community College - Building G"
+                }, 
+                {
+                    "osm_id": 317885073.0, 
+                    "type": "yes", 
+                    "id": 126136.0, 
+                    "name": "Jersey Journal Building"
+                }, 
+                {
+                    "osm_id": 317884694.0, 
+                    "type": "yes", 
+                    "id": 126138.0, 
+                    "name": "Hudson County Community College - Building X"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "we make pumpkin spice lattes and get 15 dollars and real pumpkins as\u2026 https://t.co/jppLS19nWK", 
+                "created_at": "2016-10-06T20:58:48", 
+                "retweet_count": 0, 
+                "id": "784135842432450560", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.19332, 
+                    40.73048
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3343762.0, 
+                    "type": "yes", 
+                    "id": 80.0, 
+                    "name": "Vanderbilt Law School New York University"
+                }, 
+                {
+                    "osm_id": -3357433.0, 
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church"
+                }, 
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 241844932.0, 
+                    "type": "church", 
+                    "id": 7231.0, 
+                    "name": "Saint Mark's in-the-Bowery"
+                }, 
+                {
+                    "osm_id": 247842673.0, 
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza"
+                }, 
+                {
+                    "osm_id": 247855548.0, 
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex"
+                }, 
+                {
+                    "osm_id": 247864236.0, 
+                    "type": "school", 
+                    "id": 11690.0, 
+                    "name": "Immaculate Conception School"
+                }, 
+                {
+                    "osm_id": 248166211.0, 
+                    "type": "yes", 
+                    "id": 22264.0, 
+                    "name": "Hemmerdinger Hall"
+                }, 
+                {
+                    "osm_id": 280137526.0, 
+                    "type": "yes", 
+                    "id": 116265.0, 
+                    "name": "McDonald's"
+                }, 
+                {
+                    "osm_id": 317716546.0, 
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church"
+                }, 
+                {
+                    "osm_id": 317884691.0, 
+                    "type": "yes", 
+                    "id": 126131.0, 
+                    "name": "Hudson County Community College - Building G"
+                }, 
+                {
+                    "osm_id": 317885073.0, 
+                    "type": "yes", 
+                    "id": 126136.0, 
+                    "name": "Jersey Journal Building"
+                }, 
+                {
+                    "osm_id": 317884694.0, 
+                    "type": "yes", 
+                    "id": 126138.0, 
+                    "name": "Hudson County Community College - Building X"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "when before work snap selfies turn into instagram selfies \ud83d\ude2c\ud83d\ude2c @\u2026 https://t.co/s6kNZoLXiY", 
+                "created_at": "2016-10-05T21:46:52", 
+                "retweet_count": 0, 
+                "id": "783785553443577856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.19332, 
+                    40.73048
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3343762.0, 
+                    "type": "yes", 
+                    "id": 80.0, 
+                    "name": "Vanderbilt Law School New York University"
+                }, 
+                {
+                    "osm_id": -3357433.0, 
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church"
+                }, 
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 241844932.0, 
+                    "type": "church", 
+                    "id": 7231.0, 
+                    "name": "Saint Mark's in-the-Bowery"
+                }, 
+                {
+                    "osm_id": 247842673.0, 
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza"
+                }, 
+                {
+                    "osm_id": 247855548.0, 
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex"
+                }, 
+                {
+                    "osm_id": 247864236.0, 
+                    "type": "school", 
+                    "id": 11690.0, 
+                    "name": "Immaculate Conception School"
+                }, 
+                {
+                    "osm_id": 248166211.0, 
+                    "type": "yes", 
+                    "id": 22264.0, 
+                    "name": "Hemmerdinger Hall"
+                }, 
+                {
+                    "osm_id": 280137526.0, 
+                    "type": "yes", 
+                    "id": 116265.0, 
+                    "name": "McDonald's"
+                }, 
+                {
+                    "osm_id": 317716546.0, 
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church"
+                }, 
+                {
+                    "osm_id": 317884691.0, 
+                    "type": "yes", 
+                    "id": 126131.0, 
+                    "name": "Hudson County Community College - Building G"
+                }, 
+                {
+                    "osm_id": 317885073.0, 
+                    "type": "yes", 
+                    "id": 126136.0, 
+                    "name": "Jersey Journal Building"
+                }, 
+                {
+                    "osm_id": 317884694.0, 
+                    "type": "yes", 
+                    "id": 126138.0, 
+                    "name": "Hudson County Community College - Building X"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "anothaaaaa one \ud83d\udc40\ud83d\udc36\ud83c\udf66\ud83c\udf67 @ Ralphs Famous Italian Ice of East Islip https://t.co/SG1q4mIk2g", 
+                "created_at": "2016-09-26T20:45:31", 
+                "retweet_count": 0, 
+                "id": "780508624493875200", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.41061142, 
+                    40.82336282
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "better than sex bath addition \ud83d\ude08\ud83d\udc86\ud83c\udffd\ud83d\ude07\ud83d\udca3 @ LUSH Cosmetics Walt Whitman https://t.co/DG2MZYSCld", 
+                "created_at": "2016-09-11T16:18:22", 
+                "retweet_count": 0, 
+                "id": "775005573582622720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92591377, 
+                    40.79492835
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "welcome to the jungle biiiiiitch \ud83d\udd96\ud83c\udffd\ud83d\ude43\ud83d\ude08 @ Electric Zoo Festival https://t.co/zS7vZwyqCo", 
+                "created_at": "2016-09-05T21:01:31", 
+                "retweet_count": 0, 
+                "id": "772902506154319872", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

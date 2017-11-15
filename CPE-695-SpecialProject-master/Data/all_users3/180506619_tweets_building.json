@@ -1,0 +1,642 @@
+{
+    "total_favorite_count": 2089, 
+    "followers_count": 2321, 
+    "total_tweets": 14, 
+    "user_id": 180506619, 
+    "screen_name": "dannieybarra", 
+    "friends_count": 2082, 
+    "buildings": {
+        "school": 3, 
+        "theatre": 7, 
+        "office": 3, 
+        "apartments": 25, 
+        "commercial": 2, 
+        "dormitory": 3, 
+        "college": 3, 
+        "church": 5
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa", 
+                    "osm_id": 269219557.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "\"On some solitary rock, a desperate lover left his mark: Baby, I've changed. Please come back.\"\u2026 https://t.co/9QF8Gpy0lY", 
+            "id": "782367910459215872", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-01T23:53:40", 
+            "coordinates": [
+                -73.972216, 
+                40.77274259
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Grand Tier", 
+                    "The Europa", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Empire State of Mind #nyc @ New York, New York https://t.co/vHloSODwcQ", 
+            "id": "782273803619622912", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-01T17:39:43", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 41406.0, 
+                    "name": "First Presbyterian Church", 
+                    "osm_id": 250072646.0
+                }
+            ], 
+            "text": "There's basically nothing that chocolate doesn't make better \ud83c\udf6b\ud83c\udf6e\ud83c\udf6b @ Max Brenner https://t.co/ojdrToKwJR", 
+            "id": "781648364735717376", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-30T00:14:27", 
+            "coordinates": [
+                -73.9910368, 
+                40.7342397
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "First Presbyterian Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 901.0, 
+                    "name": "Castle Point Apartments", 
+                    "osm_id": 182240448.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 85729.0, 
+                    "name": "Nagler Hall", 
+                    "osm_id": 264651212.0
+                }
+            ], 
+            "text": "Finally met Meagan and having all the adventures \ud83d\ude0e\ud83d\udc95\ud83d\udc4c\ud83c\udffc#Wattpad #newyork #nyc #subway #travel @\u2026 https://t.co/aPTIUiKge2", 
+            "id": "781572923429621761", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-29T19:14:40", 
+            "coordinates": [
+                -73.986, 
+                40.747
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Coed Hall", 
+                    "Nagler Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 3, 
+                "college": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 688.0, 
+                    "name": "Millennium Tower Residences", 
+                    "osm_id": 129700432.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99256.0, 
+                    "name": "45 Wall Street", 
+                    "osm_id": 278042241.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99408.0, 
+                    "name": "Le Rivage", 
+                    "osm_id": 278067734.0
+                }
+            ], 
+            "text": "\"Money, power, glory.\" #lanadelrey #wallstreet #nyc #newyork @ Wall Street https://t.co/b0HIRnlBNV", 
+            "id": "781341194047684608", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-29T03:53:51", 
+            "coordinates": [
+                -74.00944444, 
+                40.70638889
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Millennium Tower Residences", 
+                    "South Cove Plaza", 
+                    "45 Wall Street", 
+                    "Le Rivage"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99124.0, 
+                    "name": "Gateway Plaza 100", 
+                    "osm_id": 277919043.0
+                }
+            ], 
+            "text": "9.11 @ World Trade Center 9/11 Memorial, NYC https://t.co/TYjq5vWpaT", 
+            "id": "781338994378469376", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-29T03:45:07", 
+            "coordinates": [
+                -74.01302024, 
+                40.7108204
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Gateway Plaza 100"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "\"Next to Washington they all look small.\" #wallstreet #nyc #newyork @ New York Stock Exchange https://t.co/6gMEaolM82", 
+            "id": "781327397639557120", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-29T02:59:02", 
+            "coordinates": [
+                -74.01102778, 
+                40.70683333
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory", 
+                    "osm_id": 278069550.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "\"And I ain't comin' down.\" #tompetty #roomatthetop @ The Brooklyn Bridge New York City https://t.co/Gy8hv5bIxK", 
+            "id": "781306171621859328", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-29T01:34:41", 
+            "coordinates": [
+                -73.99815201, 
+                40.70703413
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory", 
+                    "osm_id": 278069550.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "Brooklyn. @ The Brooklyn Bridge New York City https://t.co/V9nVJ7poDf", 
+            "id": "781303503755042816", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-29T01:24:05", 
+            "coordinates": [
+                -73.99815201, 
+                40.70703413
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory", 
+                    "osm_id": 278069550.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "\"Talkin' 'bout that newer nation, and if you don't like it you can beat it, beat it baby.\"\u2026 https://t.co/ETovJD4pnC", 
+            "id": "781300060747431936", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-29T01:10:24", 
+            "coordinates": [
+                -73.99818544, 
+                40.7070729
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "When you are close enough to go meet one of your best friends in MA... you do it \ud83d\ude1d\ud83d\ude86\ud83d\udd54 @\u2026 https://t.co/oE6tawZHoo", 
+            "id": "780446761387188224", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-26T16:39:42", 
+            "coordinates": [
+                -73.993899, 
+                40.750638
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "Where all the magic is happening \u2728\ud83d\ude2d\u2728 #Hamilton #NYC #broadway @ Richard Rodgers Theatre - Hamilton https://t.co/c5hvKCGZnN", 
+            "id": "780141288930807808", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-25T20:25:52", 
+            "coordinates": [
+                -73.98663311, 
+                40.75931985
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Manhattan Plaza Apartments I", 
+                    "Victory Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }
+            ], 
+            "text": "\"Scratch that, this is not a moment, it's the movement.\" #hamilton #broadway #nyc @ Richard\u2026 https://t.co/5LYwLUDWOd", 
+            "id": "780115727906930688", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-25T18:44:18", 
+            "coordinates": [
+                -73.98663311, 
+                40.75931985
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Manhattan Plaza Apartments I", 
+                    "Victory Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School", 
+                    "osm_id": 266033995.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower", 
+                    "osm_id": 266034023.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre", 
+                    "osm_id": 266149299.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre", 
+                    "osm_id": 266149300.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }
+            ], 
+            "text": "\"In New York you can be a new man.\" #hamilton #newyork #timessquare #nyc @ Times Square, New\u2026 https://t.co/SaUZC9lPfP", 
+            "id": "780079888527155200", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-25T16:21:53", 
+            "coordinates": [
+                -73.98644, 
+                40.75839
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Booth Theatre", 
+                    "Broadhurst Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

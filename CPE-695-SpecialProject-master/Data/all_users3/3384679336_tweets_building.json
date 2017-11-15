@@ -1,0 +1,147 @@
+{
+    "total_favorite_count": 89, 
+    "followers_count": 28, 
+    "total_tweets": 3, 
+    "user_id": 3384679336, 
+    "screen_name": "IllLewShaw", 
+    "friends_count": 41, 
+    "buildings": {
+        "commercial": 2, 
+        "office": 2, 
+        "apartments": 8
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 688.0, 
+                    "name": "Millennium Tower Residences", 
+                    "osm_id": 129700432.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99256.0, 
+                    "name": "45 Wall Street", 
+                    "osm_id": 278042241.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99408.0, 
+                    "name": "Le Rivage", 
+                    "osm_id": 278067734.0
+                }
+            ], 
+            "text": "Whatever gets me through #chemo #cancer #tallyofwords @ Wall Street https://t.co/LL3z2oICNd", 
+            "id": "786346649836584960", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:23:45", 
+            "coordinates": [
+                -74.00944444, 
+                40.70638889
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Millennium Tower Residences", 
+                    "South Cove Plaza", 
+                    "45 Wall Street", 
+                    "Le Rivage"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 29107.0, 
+                    "name": "Chesapeake House", 
+                    "osm_id": 248827297.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South", 
+                    "osm_id": 278326017.0
+                }
+            ], 
+            "text": "My next computer #cancer #writing @ NYU Langone Medical Center https://t.co/A0LQkJhleZ", 
+            "id": "779094244845821952", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T23:05:17", 
+            "coordinates": [
+                -73.97404804, 
+                40.74221502
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Chesapeake House", 
+                    "The Caroline", 
+                    "Kips Bay Tower South"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 99220.0, 
+                    "name": "Cleaning Exec Cleaning Services", 
+                    "osm_id": 278039422.0
+                }
+            ], 
+            "text": "Banana Flamb\u00e9. @ Les Halles Downtown https://t.co/4ZPCXRMXne", 
+            "id": "723654038340964354", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-22T23:25:42", 
+            "coordinates": [
+                -74.00913795, 
+                40.70993976
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Cleaning Exec Cleaning Services"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

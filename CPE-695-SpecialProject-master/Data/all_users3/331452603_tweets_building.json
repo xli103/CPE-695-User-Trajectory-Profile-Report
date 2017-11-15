@@ -1,0 +1,2844 @@
+{
+    "total_favorite_count": 489, 
+    "followers_count": 516, 
+    "total_tweets": 93, 
+    "user_id": 331452603, 
+    "screen_name": "GregBaxtrom", 
+    "friends_count": 454, 
+    "buildings": {
+        "school": 79, 
+        "industrial": 11, 
+        "apartments": 3, 
+        "university": 3, 
+        "commercial": 3, 
+        "church": 3, 
+        "retail": 3
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Turn that frown upside down with some cozy Spiked Mulled Cider! \ud83d\ude1f#olmsteding  #imwithher @ Olmsted https://t.co/PzagJsszwp", 
+            "id": "796480101227655172", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T22:30:28", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Fig fruit leather for the new lamb dish.  I get why people think I look like the guy from\u2026 https://t.co/fXpi9oggiq", 
+            "id": "796132723895189509", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-08T23:30:07", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies", 
+                    "osm_id": 241844600.0
+                }
+            ], 
+            "text": "#imwithher @ Boerum Hill https://t.co/GX6ECCchXg", 
+            "id": "796041764784271360", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-08T17:28:41", 
+            "coordinates": [
+                -73.98444444, 
+                40.685
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "School For International Studies"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Okay guys. When standing in line to vote in tomorrow's election. Vote for us too!   We are up\u2026 https://t.co/9v7OrYSC1s", 
+            "id": "795757734562041856", 
+            "favorite_count": 2, 
+            "created_at": "2016-11-07T22:40:03", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Adam Platt just reviewed us for New York Mag! \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f#olmsteding @ Olmsted https://t.co/pVGO4M366Q", 
+            "id": "795667134789599233", 
+            "favorite_count": 2, 
+            "created_at": "2016-11-07T16:40:02", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Lamb Porchetta now on the menu!  #coffee #fennel #figs #olmsteding @ Olmsted https://t.co/RQJxhHXgsH", 
+            "id": "795394434795966464", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-06T22:36:25", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Chawanmushi 3.0  roasted Maitake Mushrooms \ud83c\udf44, Smoked Trout Roe, Grated Bottarga.\u2026 https://t.co/C19pxPaXZs", 
+            "id": "795303815083859968", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-06T16:36:20", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "\ud83c\udf36\ud83d\ude21This one has been in the works for a while.  Aji Dulce \"Tabasco\" Hot Sauce.  \ud83c\udf36\ud83d\ude21@elisesp for\u2026 https://t.co/0jZwirIppP", 
+            "id": "795019176054288384", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-05T21:45:16", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "\ud83d\udc4bLast week for grilled pork collar covered in melted reading raclette. Topped with guindilla\u2026 https://t.co/3csjX4WAiu", 
+            "id": "794219616532889600", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-03T16:48:07", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Our fro-yo made eater_ny list.  @olmsteding. @ Olmsted https://t.co/Ak7o1fdLDh", 
+            "id": "792806703548989440", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T19:13:42", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Some pretty kind words from @kludt at eater_ny #olmsteding @ Olmsted https://t.co/FXQO1hguSi", 
+            "id": "792533642404913154", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T01:08:39", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Staff training includes s'mores. #olmsteding @ Olmsted https://t.co/um9AiCrPAm", 
+            "id": "792474203610091520", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-29T21:12:28", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Max our GM.  He gets shit done.  #olmsteding max.katzenberg @ Olmsted https://t.co/txTWxvfl9t", 
+            "id": "792447962626547712", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-29T19:28:11", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Enjoying some hot cocoa in the garden #nationalchocolateday #superdorkmug #olmsteding \ud83d\udcf8 by\u2026 https://t.co/LUHthc55ui", 
+            "id": "792056092645818370", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-28T17:31:02", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "That time when @questlove photo-bombed @chefmikeanthony, @junsoo_bae and @gregbaxtrom. #fbf\u2026 https://t.co/afIeOz4LxS", 
+            "id": "792024332608208896", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-28T15:24:50", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Ian you crazy bastard!!!  Sweet potatoes \ud83c\udf60 growing in our living wall #olmsteding @ Olmsted https://t.co/HNaKGQ3J9k", 
+            "id": "791752365066117121", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-27T21:24:08", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "#Repost questlovesfood with repostapp\n\u30fb\u30fb\u30fb\nBig fan of this dish from @gregbaxtrom, the proprietor\u2026 https://t.co/SCpySYO3L6", 
+            "id": "791693130995208192", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-27T17:28:46", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Hot chocolate at Olmsted. #olmsteding #stanleythermos #hotchocolate @ Olmsted https://t.co/6DikGoymFG", 
+            "id": "791372785889185792", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-26T20:15:49", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Amazing price and crazy delicious \ud83d\ude0b. Get to rucola for the white truffle pasta mane by\u2026 https://t.co/LbV5p4Qfs0", 
+            "id": "790649708150657025", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-24T20:22:34", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Side-rides for days. #olmsteding @ Olmsted https://t.co/CiABoKWozS", 
+            "id": "790018459392368640", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-23T02:34:13", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Dried marshmallow pieces for Swiss-Miss style hot chocolate.  #olmsteding #mrautumnman @ Olmsted https://t.co/s3O46qhh5Y", 
+            "id": "789933993139503105", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-22T20:58:34", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Delicata Vase.  Mace custard set inside.  Sliced pear, crispy speck and fried sage.  #olmsteding\u2026 https://t.co/6dJ79puezw", 
+            "id": "789897452732186624", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-22T18:33:22", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Thanks!!! \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f questlovesfood  We are 2.0ing the garden as we speak to keep it cozy for cold\u2026 https://t.co/X4UGGc7k3N", 
+            "id": "789205733912883200", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-20T20:44:44", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "The team tasting the first round of s'mores. #olmsteding #smores #prospectpark #prospectheights\u2026 https://t.co/I9D1BHBvVi", 
+            "id": "789134698538799105", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-20T16:02:28", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Testing out a new dessert tonight for the fall program. Carmel Apple Doughnuts \ud83c\udf4e \ud83c\udf69 #olmsteding @\u2026 https://t.co/DclTtg2RAr", 
+            "id": "788845689488957441", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-19T20:54:03", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "\ud83d\ude22\ud83c\udf45Sadly tomato season is coming to an end. Saying by to this guy next week. \ud83d\udc4b Heirloom Tomato\u2026 https://t.co/JMdpRBAcxP", 
+            "id": "788042032598093824", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T15:40:36", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "We have cozy blankets now \ud83e\udd17 #olmsteding @ Olmsted https://t.co/iMxK2w2seX", 
+            "id": "787112327141261312", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-15T02:06:17", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "When I can't find my old recipe notes I just so straight to the source.  #braisedredcabbage\u2026 https://t.co/G8whGxHCVO", 
+            "id": "786981022802010112", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-14T17:24:31", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Now accepting back of house CVs. Contact me greg@olmstednyc.com #olmsteding @ Olmsted https://t.co/SGWOvt2rcQ", 
+            "id": "786619689086615552", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-13T17:28:43", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "We sexy now \ud83d\udc81\u200d\u2642\ufe0f thanks @zagat @kellydobkin #olmsteding @ Olmsted https://t.co/fDehFSPj14", 
+            "id": "786610542219816960", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-13T16:52:22", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "@timeoutnewyork ...Get ready to flood your feed with #foodporn. Pick up a free copy today and\u2026 https://t.co/0HFDNJAzPR", 
+            "id": "786259589411049472", 
+            "favorite_count": 4, 
+            "created_at": "2016-10-12T17:37:48", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Delicata Vase \ud83c\udf3b#olmsteding @ Olmsted https://t.co/8jDoKaOiNE", 
+            "id": "785584647132549121", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-10T20:55:49", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies", 
+                    "osm_id": 241844600.0
+                }
+            ], 
+            "text": "Tea at home \ud83c\udfe1 #howdoidothis #olmsteding @ Boerum Hill https://t.co/rCn2M9fbT8", 
+            "id": "785501946149015552", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-10T15:27:12", 
+            "coordinates": [
+                -73.98444444, 
+                40.685
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "School For International Studies"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Tortillas are coming.... #olmsteding #rulestherearenorules @ Olmsted https://t.co/RIZoSrtFSn", 
+            "id": "784552939465633793", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-08T00:36:11", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Amazing!!!!  Thanks @timeoutnewyork \n\nWe\u2019re working on our list of the 100 best dishes of year!\u2026 https://t.co/7nps266Vt7", 
+            "id": "784506593597685760", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-07T21:32:01", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Jenny working the drive through window @olmstednyc #sliders #firstbuyout #wedding @ Olmsted https://t.co/0wyPzzMaJa", 
+            "id": "784197300210044928", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-07T01:03:00", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Identity crisis is real. Tempura fried scallops, shaved matsutake, pickled young ginger, table\u2026 https://t.co/X69Z3Zwj1m", 
+            "id": "783854296144150532", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T02:20:02", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Kale Crab Rangoon is happing.  #olmsteding @ Olmsted https://t.co/OeVrfBEpsI", 
+            "id": "783431747413442564", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-04T22:20:58", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "\ud83c\uddfb\ud83c\uddf3 Vietnamese \ud83d\udc19 Squid Salad.  #nosalademoji #olmsteding @ Olmsted https://t.co/hsdaSBwoMq", 
+            "id": "782713355937124352", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-02T22:46:20", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Hobo can test #1. S'mores will be a thing @olmstednyc #olmsteding #smores #garden @ Olmsted https://t.co/7neCZemGT8", 
+            "id": "781943801208311808", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-30T19:48:24", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "This is happening at Olmsted!!! Scotched Fig.  #ducksausage #olmsteding @ Olmsted https://t.co/v5irqRElV6", 
+            "id": "781930606322147328", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-30T18:55:58", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Get your vitamins! Kale cocktail.  Kinda healthy.  Mostly tasty.  #olmsteding @ Olmsted https://t.co/ZREyNg3tQF", 
+            "id": "781571239500472320", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T19:07:59", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies", 
+                    "osm_id": 241844600.0
+                }
+            ], 
+            "text": "Me most nights but with Duck Rillette and watching Futurama. @ Boerum Hill https://t.co/3KKFm1L2Mu", 
+            "id": "780989987865190400", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-28T04:38:17", 
+            "coordinates": [
+                -73.98444444, 
+                40.685
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "School For International Studies"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Can't wait for this!!!! We're teaming up with @elskerestaurant and @olmstednyc this Saturday for\u2026 https://t.co/PVrYq86HR1", 
+            "id": "780860350489133057", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-27T20:03:09", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "New Scallop tonight!  Greek\"ish\" Flavors. @ Olmsted https://t.co/QCa6XJl8SG", 
+            "id": "779464794499940352", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-23T23:37:43", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Crazy to think it was only a few months ago my father, Ian and I started building this place.\u2026 https://t.co/5oUjo9onzp", 
+            "id": "778632081312194563", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-21T16:28:49", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Ian working in his tool shed! \ud83d\udd28 #olmsteding @ Olmsted https://t.co/E7498HWZOq", 
+            "id": "778319825479274497", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-20T19:48:01", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "This is going down for family-meal!!! \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55   In 10 minutes it was all gone!   Thanks\u2026 https://t.co/ZgPC0hrgX7", 
+            "id": "777964943006195713", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-19T20:17:50", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "#Repost @olmstednyc with repostapp\n\u30fb\u30fb\u30fb\nHey Neighbor \ud83d\ude09\n#openingmondays\n#walkinsonly\u2026 https://t.co/UN3IfhfGed", 
+            "id": "777948939286962176", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-19T19:14:15", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Peppers drying for the winter \ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83d\udc81\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36 #olmsteding @ Olmsted https://t.co/eNCDkHMcp6", 
+            "id": "771427560790065152", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-01T19:20:37", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "#Repost infatuation_nyc with repostapp @infatuation \u30fb\u30fb\u30fb\n@olmstednyc is some of the most\u2026 https://t.co/AFHID1jxBS", 
+            "id": "770694896214827008", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-30T18:49:16", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "\ud83c\udf45 take \ud83d\udcfd 3. #thirdtimesacharm #tomatoes #howisummer #olmsteding @ Olmsted https://t.co/Gi6MGBcX26", 
+            "id": "770402700886507520", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-29T23:28:11", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Gary's eggs on Pain per Peux On @santimetre105 #garyisagirl #olmsteding @ Olmsted https://t.co/NIOXIvVDu1", 
+            "id": "770290202837417984", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-29T16:01:10", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "We are looking for 2 strong cooks to join our team.  Email me at Greg@olmstednyc.com #olmsteding\u2026 https://t.co/wKYjp2o2Ey", 
+            "id": "768900226409259008", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-25T19:57:54", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "We have a pretty dish pit! \ud83d\ude0d #olmsteding #dishpit @ Olmsted https://t.co/Ah70FDOBtg", 
+            "id": "768643197081968644", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-25T02:56:33", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Chawanmushi now with Grilled Fennel, Crispy Baby Artichokes, Burgundy Truffles.\ud83d\udcf8 @evansungnyc\u2026 https://t.co/mo6j4pP4EA", 
+            "id": "767098171994546177", 
+            "favorite_count": 2, 
+            "created_at": "2016-08-20T20:37:10", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "\ud83d\ude0dColin came to @olmstednyc \ud83d\ude0d #helikedthechawanmushi @ Olmsted https://t.co/GMpmwQmgFb", 
+            "id": "765258306411696128", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-15T18:46:12", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Duck 2X.  Bring back duck ballotine.  \ud83d\udc25 @ Olmsted https://t.co/lDOGaY1Bl9", 
+            "id": "764619646347669504", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-14T00:28:24", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "We are so worldly here at Olmsted.\ud83d\ude44 Gobi Pakora Cauliflower. #sweet #spicy #olmsteding @ Olmsted https://t.co/zncLd83aLh", 
+            "id": "764182002560040961", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-12T19:29:21", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "We are looking for 1 strong passionate cook to join our team. #olmsteding @ Olmsted https://t.co/pItDeZe9mG", 
+            "id": "763795823004114944", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-11T17:54:49", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Sick of the last tomato already.  Let's try this one. @ Olmsted https://t.co/jQG2D0pTyR", 
+            "id": "763493845514485760", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-10T21:54:52", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Free Ranged Quail!!!! #olmsteding @ Olmsted https://t.co/59fkasgRVx", 
+            "id": "762763184180699136", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-08T21:31:29", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "\ud83c\udf53Strawberries are out.  Peaches are in. \ud83c\udf7e\ud83c\udf51Peach Blini Sorbet. #olmsteding \ud83d\udcf8 @evansungnyc @ Olmsted https://t.co/f2vEe5Gxp9", 
+            "id": "761939078841532416", 
+            "favorite_count": 3, 
+            "created_at": "2016-08-06T14:56:47", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Tomato salad olmstednyc take one \ud83c\udfa5.  #tomatoes #basil #olmsteding @ Olmsted https://t.co/QqXZykgAG5", 
+            "id": "761643571489411072", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-05T19:22:32", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "What the hell are we going to do with tomatoes this year?!?! \ud83c\udf45\ud83d\ude2c\ud83c\udf45\ud83d\ude2c\ud83c\udf45\ud83d\ude2c @ Olmsted https://t.co/B7b4Jj281W", 
+            "id": "760534230917079040", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-02T17:54:25", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Turning the cucumber swag from the @munchies @vice garden into tasty cocktails by mikebohnmusic\u2026 https://t.co/0k7FrLYs0h", 
+            "id": "759493721347985408", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-30T20:59:48", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 81337.0, 
+                    "name": "Saint John's Church", 
+                    "osm_id": 250474274.0
+                }
+            ], 
+            "text": "Farmer's market fun with @ian_rothman and @evansungnyc #summer #corn #cornyjokes @ Union Square\u2026 https://t.co/R5z4WqkkAC", 
+            "id": "758338034874081281", 
+            "favorite_count": 2, 
+            "created_at": "2016-07-27T16:27:31", 
+            "coordinates": [
+                -73.9906, 
+                40.73625371
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Saint John's Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 81337.0, 
+                    "name": "Saint John's Church", 
+                    "osm_id": 250474274.0
+                }
+            ], 
+            "text": "Farmer market fun with @ian_rothman @evansungnyc #cornyjokes #corn #summer @ Union Square\u2026 https://t.co/ZfZeOdnBFQ", 
+            "id": "758337145266434052", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-27T16:23:59", 
+            "coordinates": [
+                -73.9906, 
+                40.73625371
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Saint John's Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "How Quaint.  max.katzenberg our GM tending to the garden.  #olmsteding @ Olmsted https://t.co/dpfUgkRR0w", 
+            "id": "757284970943635457", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-24T18:43:01", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "\ud83c\udf52Cherry candies\ud83c\udf52\u2714\ufe0f #olmsteding @ Olmsted https://t.co/xVE3mRiDJx", 
+            "id": "756893150434689024", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-23T16:46:04", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Gary got out!!!  #freerange @ Olmsted https://t.co/h1qyARWgzF", 
+            "id": "753705869771169792", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-14T21:40:57", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "When we can't think of something creative and new we go old-school.           Courgettes Farcies\u2026 https://t.co/SE03QevtqU", 
+            "id": "753326852467482624", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-13T20:34:52", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "We are approved!!!  Cocktails by mikebohnmusic start tomorrow at Olmsted.  \ud83c\udf78\ud83d\udc4a\ud83c\udf79 #olmsteding @\u2026 https://t.co/2Od7LYWSFa", 
+            "id": "752658927544852480", 
+            "favorite_count": 3, 
+            "created_at": "2016-07-12T00:20:46", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Channeling my early Alinea days.  #livinginthepast #dontfixwhatsnotbroken #ratatouille @ Olmsted https://t.co/8gDGY8nfyr", 
+            "id": "751874672527048704", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-09T20:24:25", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "We started with 2 kinds of white plates....now this!!! #handwashonly #olmsteding @ Olmsted https://t.co/UNvmwhyUnL", 
+            "id": "751813438259814400", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-09T16:21:06", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "We turned our crappy salamander into a pizza oven.  A la minute Peata. #repurposed #reused\u2026 https://t.co/6sbMA6pJqw", 
+            "id": "751198363761213440", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-07T23:37:01", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Thanks for the swag guys danielasotoinnes @chefdburns    Finally found time to play with both!!!\u2026 https://t.co/QmIxEZBNCX", 
+            "id": "751117466793836544", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-07T18:15:33", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center", 
+                    "osm_id": 248164200.0
+                }
+            ], 
+            "text": "Showing chef where I keep the Alinea Cookbook. Always close by!  #mentor #olmsteding @ Olmsted https://t.co/crQveB71H8", 
+            "id": "750390251261165568", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-05T18:05:52", 
+            "coordinates": [
+                -73.96884, 
+                40.6771699
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Helen Owen Carey Child Development Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Me laughing while dads working work hard... \ud83d\ude44 #brooklyn #dad #olmstednyc #prospectpark\u2026 https://t.co/5ach8kneDm", 
+            "id": "713423617908989956", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-25T17:53:39", 
+            "coordinates": [
+                -73.97199059, 
+                40.6628093
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 101130.0, 
+                    "name": "Public School 27", 
+                    "osm_id": 278372029.0
+                }
+            ], 
+            "text": "When the Combi doesn't fit and your dad can take down the door and its frame. #olmstednyc\u2026 https://t.co/Z4Iv5yhHbb", 
+            "id": "712695539855409154", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-23T17:40:32", 
+            "coordinates": [
+                -73.96944444, 
+                40.67777778
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 27"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Thanks @brooklynmag for including us!  #olmstednyc #prospectpark #prospectheights @ Prospect Park https://t.co/5aPUiaOwrJ", 
+            "id": "712347454633590784", 
+            "favorite_count": 2, 
+            "created_at": "2016-03-22T18:37:22", 
+            "coordinates": [
+                -73.97199059, 
+                40.6628093
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Work smart not hard.   #olmstednyc #prospectpark #prospectheights @ian_rothman @ Prospect Park https://t.co/I9MnWD5TaH", 
+            "id": "712321893014085633", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-22T16:55:48", 
+            "coordinates": [
+                -73.97199059, 
+                40.6628093
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Looking for ideas.  #olmstednyc #prospectpark #prospectheights #findingmyinstagramvoice @\u2026 https://t.co/nN4boJfzCb", 
+            "id": "711685089378377728", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-20T22:45:22", 
+            "coordinates": [
+                -73.97199059, 
+                40.6628093
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 101130.0, 
+                    "name": "Public School 27", 
+                    "osm_id": 278372029.0
+                }
+            ], 
+            "text": "When dad agrees the kitchen basement needs a paint job.  #olmstednyc #father #dad #diy @\u2026 https://t.co/JWaOoa3mqx", 
+            "id": "711593752368947201", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-20T16:42:25", 
+            "coordinates": [
+                -73.96944444, 
+                40.67777778
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 27"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "When your Dad is a total badass and can just make something to hide all the plumbing and\u2026 https://t.co/tdVlX5qHJ7", 
+            "id": "711320787710509056", 
+            "favorite_count": 2, 
+            "created_at": "2016-03-19T22:37:46", 
+            "coordinates": [
+                -73.97199059, 
+                40.6628093
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Ian Rothman kicking ass and taking names. #olmstednycgarden #olmstednyc #prospectpark\u2026 https://t.co/7Jl1QzfpDg", 
+            "id": "710602313166168064", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-17T23:02:48", 
+            "coordinates": [
+                -73.97199059, 
+                40.6628093
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "Ian and dad talking landscaping.  #olmstednyc #prospectpark #prospectheights @ Prospect Park https://t.co/hY3NgLaBoP", 
+            "id": "710506803642179585", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-17T16:43:17", 
+            "coordinates": [
+                -73.97199059, 
+                40.6628093
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "We made it on #florencefabricant looking ahead list!  #olmstednyc #prospectpark #prospectheights\u2026 https://t.co/aBGQ6CsvVS", 
+            "id": "710156582831661056", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-16T17:31:38", 
+            "coordinates": [
+                -73.97199059, 
+                40.6628093
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "We are now looking to hire our staff over the coming weeks.  If interested please email me.\u2026 https://t.co/8YT2mVe69e", 
+            "id": "709815741273534464", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-15T18:57:15", 
+            "coordinates": [
+                -73.97199059, 
+                40.6628093
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 362877634.0
+                }
+            ], 
+            "text": "\"Treat it like it's yours and someday it will be\" @jonathanbenno @ Prospect Park https://t.co/hK2SQNe6MQ", 
+            "id": "709711175425138689", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-15T12:01:44", 
+            "coordinates": [
+                -73.97199059, 
+                40.6628093
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 4775.0, 
+                    "name": "Public School K146 Brooklyn New School", 
+                    "osm_id": 241834635.0
+                }
+            ], 
+            "text": "Jack Black is my teacher.  Not really.  jackblack42. #istillstrugglewithdaytripper #thebeatles\u2026 https://t.co/CHGeIAqs0B", 
+            "id": "697869858369880066", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-11T19:48:34", 
+            "coordinates": [
+                -73.9822311, 
+                40.6796455
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School K146 Brooklyn New School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41", 
+                    "osm_id": 250474273.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126562.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377078046.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126566.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377077898.0
+                }
+            ], 
+            "text": "Corey Chow crushing the fry station with cheese burger spring-rolls and empanadas!   #superbowl\u2026 https://t.co/ZrD7IJOa0T", 
+            "id": "696494522419781633", 
+            "favorite_count": 2, 
+            "created_at": "2016-02-08T00:43:29", 
+            "coordinates": [
+                -73.99055556, 
+                40.73555556
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "The New School University Center", 
+                    "The New School University Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "university": 3
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 126401.0, 
+                    "name": "Burger King", 
+                    "osm_id": 366526237.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126413.0, 
+                    "name": "Sanai's", 
+                    "osm_id": 366535521.0
+                }
+            ], 
+            "text": "This #colinquinn show was super funny! @ Cherry Lane Theatre https://t.co/KUt5fmfOxo", 
+            "id": "620385366537818114", 
+            "favorite_count": 0, 
+            "created_at": "2015-07-13T00:12:52", 
+            "coordinates": [
+                -74.0053101, 
+                40.7312508
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Burger King", 
+                    "Sanai's"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 3
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

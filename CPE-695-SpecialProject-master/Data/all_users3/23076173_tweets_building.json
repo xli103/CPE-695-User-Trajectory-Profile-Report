@@ -1,0 +1,4157 @@
+{
+    "total_favorite_count": 1225, 
+    "followers_count": 785, 
+    "total_tweets": 113, 
+    "user_id": 23076173, 
+    "screen_name": "tjandthemachine", 
+    "friends_count": 300, 
+    "buildings": {
+        "school": 64, 
+        "hotel": 8, 
+        "office": 10, 
+        "theatre": 6, 
+        "apartments": 57, 
+        "residential": 21, 
+        "museum": 2, 
+        "civic": 18, 
+        "commercial": 15, 
+        "library": 2, 
+        "industrial": 3, 
+        "church": 12, 
+        "retail": 12, 
+        "hospital": 2, 
+        "tent": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 40788.0, 
+                    "name": "Public School 3", 
+                    "osm_id": 249986048.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Casablanca Cocktail Lounge in Brooklyn, NY https://t.co/ZjIBxd2V7F", 
+            "id": "796942774557884416", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T05:08:58", 
+            "coordinates": [
+                -73.92904454, 
+                40.6825898
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 3"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Bed-Vyne Cocktail in Brooklyn, NY https://t.co/Hkyev25jyN", 
+            "id": "796924064602460161", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T03:54:37", 
+            "coordinates": [
+                -73.94068643, 
+                40.6828696
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 9681.0, 
+                    "name": "100 Atlantic", 
+                    "osm_id": 245132331.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 61919.0, 
+                    "name": "Public School 256", 
+                    "osm_id": 250313061.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 73749.0, 
+                    "name": "Long Island University Brooklyn Campus", 
+                    "osm_id": 250366069.0
+                }
+            ], 
+            "text": "#imwithher (@ P.S. 256 BENJAMIN BANNEKER in Brooklyn, NY) https://t.co/dmY5yFfxPN", 
+            "id": "795988314574688257", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-08T13:56:17", 
+            "coordinates": [
+                -73.95014639, 
+                40.69073131
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 256", 
+                    "Long Island University Brooklyn Campus"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 18761.0, 
+                    "name": "The Schemerhorn", 
+                    "osm_id": 248155302.0
+                }
+            ], 
+            "text": "I'm at @DoughBrooklyn in Brooklyn, NY https://t.co/vQVxZ1mztt", 
+            "id": "792861910597337088", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T22:53:04", 
+            "coordinates": [
+                -73.9573431, 
+                40.68919682
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "The Schemerhorn"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "but, murda she wrote (@ Lover's Rock in Brooklyn, NY) https://t.co/JrurAw23pG", 
+            "id": "792578476322742272", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T04:06:48", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 18761.0, 
+                    "name": "The Schemerhorn", 
+                    "osm_id": 248155302.0
+                }
+            ], 
+            "text": "I'm at The @BlackSwanBk in Brooklyn, NY https://t.co/elWte9kDpJ", 
+            "id": "792556155050557441", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T02:38:07", 
+            "coordinates": [
+                -73.95518615, 
+                40.68915478
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "The Schemerhorn"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory", 
+                    "osm_id": 278069550.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 103710.0, 
+                    "name": "Yeshiva Kehilath Yakov", 
+                    "osm_id": 279588435.0
+                }
+            ], 
+            "text": "I'm at Rosemont in Brooklyn, NY https://t.co/JhcBMK2fnE", 
+            "id": "792485715653300224", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-29T21:58:12", 
+            "coordinates": [
+                -73.94738537, 
+                40.70700098
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "I'm at @PillowCafe-Lounge in Brooklyn, NY https://t.co/JCsw1bGWXZ", 
+            "id": "792412277915938816", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-29T17:06:24", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 35470.0, 
+                    "name": "Urban Glass House", 
+                    "osm_id": 249664651.0
+                }
+            ], 
+            "text": "I'm at Angelika Film Center for Moonlight in New York, NY https://t.co/i8Ai2XNQRK", 
+            "id": "791071845684486144", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-26T00:20:00", 
+            "coordinates": [
+                -73.99727853, 
+                40.72573509
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 697.0, 
+                    "name": "AXA Equitable Center", 
+                    "osm_id": 137707119.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 760.0, 
+                    "name": "UBS Building", 
+                    "osm_id": 146028965.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 774.0, 
+                    "name": "Calyon Building", 
+                    "osm_id": 146028962.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 855.0, 
+                    "name": "Winter Garden Theatre", 
+                    "osm_id": 163502865.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 90249.0, 
+                    "name": "Franklin National Bank Building", 
+                    "osm_id": 265345339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }, 
+                {
+                    "type": "museum", 
+                    "id": 100954.0, 
+                    "name": "Museum of Modern Art", 
+                    "osm_id": 278346578.0
+                }
+            ], 
+            "text": "Green Bonds Americas Conference (at @Bloomberg in New York, NY) https://t.co/53dqNhLbRZ", 
+            "id": "790923122753015810", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-25T14:29:01", 
+            "coordinates": [
+                -73.96780795, 
+                40.7616126
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "AXA Equitable Center", 
+                    "UBS Building", 
+                    "Calyon Building"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "office": 2, 
+                "apartments": 3, 
+                "museum": 2, 
+                "commercial": 4, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 7545.0, 
+                    "name": "NYU CUSP", 
+                    "osm_id": 241846072.0
+                }
+            ], 
+            "text": "I'm at Brooklyn Blend in Brooklyn, NY https://t.co/vnXOLborN4", 
+            "id": "790643500018794496", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-24T19:57:54", 
+            "coordinates": [
+                -73.945689, 
+                40.692335
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "NYU CUSP"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 102772.0, 
+                    "name": "Public School 122", 
+                    "osm_id": 279574670.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 105619.0, 
+                    "name": "Brooklyn Latin School", 
+                    "osm_id": 279649737.0
+                }
+            ], 
+            "text": "I'm at Gnostic Tattoo in Brooklyn, NY https://t.co/uVoJF3js3d", 
+            "id": "789174550533509120", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-20T18:40:49", 
+            "coordinates": [
+                -73.92869436, 
+                40.70482319
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 122", 
+                    "Brooklyn Latin School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/GPGvwUf8xO", 
+            "id": "787481675248836608", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-16T02:33:56", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "tent", 
+                    "id": 1056.0, 
+                    "name": "Security", 
+                    "osm_id": 223269694.0
+                }
+            ], 
+            "text": "I'm at Fancy Nancy Brooklyn in Brooklyn, NY https://t.co/qS4IohmUBy", 
+            "id": "787463914472738816", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-16T01:23:22", 
+            "coordinates": [
+                -73.95526077, 
+                40.68959649
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "tent", 
+                "name": [
+                    "Security"
+                ]
+            }, 
+            "building_frequency": {
+                "tent": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99321.0, 
+                    "name": "Trinity Church", 
+                    "osm_id": 278039453.0
+                }
+            ], 
+            "text": "I'm at @TrophyBar in Brooklyn, NY https://t.co/B9dYcvaNup", 
+            "id": "787441209434333184", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-15T23:53:08", 
+            "coordinates": [
+                -73.95590544, 
+                40.7078076
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Trinity Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I'm at @WoodrowsNyc in New York, NY https://t.co/qG6CoxHXKd", 
+            "id": "787048345470664704", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-14T21:52:02", 
+            "coordinates": [
+                -74.00925486, 
+                40.71395329
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I", 
+                    "osm_id": 259686626.0
+                }
+            ], 
+            "text": "I'm at Atrio New York in New York, NY https://t.co/jQ0d3nGtzH", 
+            "id": "786608916985745408", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-13T16:45:54", 
+            "coordinates": [
+                -74.01568651, 
+                40.71502927
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Colgate Center I"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "I'm at The @RoxyHotelNyc in New York, NY https://t.co/hJGaUsQJXO", 
+            "id": "785965050670551044", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-11T22:07:25", 
+            "coordinates": [
+                -74.00487185, 
+                40.71933912
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/D0quUlbxlN", 
+            "id": "785679862665183232", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-11T03:14:11", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I", 
+                    "osm_id": 259686626.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98991.0, 
+                    "name": "Reade Court Condominium", 
+                    "osm_id": 277881282.0
+                }
+            ], 
+            "text": "I'm at @ChurchPublickNy in New York, NY https://t.co/wHgj4Zmib7", 
+            "id": "785613239174463489", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-10T22:49:26", 
+            "coordinates": [
+                -74.00740136, 
+                40.7154373
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Colgate Center I"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }
+            ], 
+            "text": "I'm at @ElVezNyc in New York, NY https://t.co/xEQF8T7uxa", 
+            "id": "784523503974420480", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-07T22:39:13", 
+            "coordinates": [
+                -74.01579648, 
+                40.71478476
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 18761.0, 
+                    "name": "The Schemerhorn", 
+                    "osm_id": 248155302.0
+                }
+            ], 
+            "text": "I'm at Swell Dive in Brooklyn, NY https://t.co/gMXmKl9unB", 
+            "id": "778789466198700032", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T02:54:12", 
+            "coordinates": [
+                -73.95512875, 
+                40.68938244
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "The Schemerhorn"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/UECCrOrccX", 
+            "id": "778754006537469952", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T00:33:18", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School", 
+                    "osm_id": 269211931.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98022.0, 
+                    "name": "The Musician's Building", 
+                    "osm_id": 269219579.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98070.0, 
+                    "name": "The Central Park Studios", 
+                    "osm_id": 269227008.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School", 
+                    "osm_id": 280850913.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126443.0, 
+                    "name": "Meadowlands View", 
+                    "osm_id": 371372580.0
+                }
+            ], 
+            "text": "I'm at LaGuardia Airport in East Elmhurst, NY https://t.co/HWquKqzIpt", 
+            "id": "778221049259393024", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-20T13:15:31", 
+            "coordinates": [
+                -73.87282875, 
+                40.77375522
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Fiorello H LaGuardia High School", 
+                    "Weehawken High School", 
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 4, 
+                "retail": 2, 
+                "hotel": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 73133.0, 
+                    "name": "Edward C Blum Public School (46)", 
+                    "osm_id": 250362000.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 73745.0, 
+                    "name": "Public School 67", 
+                    "osm_id": 250366651.0
+                }
+            ], 
+            "text": "I'm at Brooklyn Stoops in Brooklyn, NY https://t.co/UkgmBZoZlX", 
+            "id": "777285619173163008", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-17T23:18:27", 
+            "coordinates": [
+                -73.95284423, 
+                40.69482326
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Edward C Blum Public School (46)", 
+                    "Public School 67"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 36106.0, 
+                    "name": "Public School 3", 
+                    "osm_id": 249666267.0
+                }
+            ], 
+            "text": "I'm at Sticky's Finger Joint - @sfjnyc in New York, NY https://t.co/Y59397uhCp", 
+            "id": "777034002213593088", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-17T06:38:37", 
+            "coordinates": [
+                -73.99811268, 
+                40.73281984
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 3"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 57815.0, 
+                    "name": "St. Veronica's Church", 
+                    "osm_id": 250269735.0
+                }
+            ], 
+            "text": "I'm at 8th Street Winecellar NYC - @8thstwinecellar in New York, NY https://t.co/9sQu9NnD3d", 
+            "id": "777005949479510016", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-17T04:47:09", 
+            "coordinates": [
+                -73.99789257, 
+                40.73286199
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Veronica's Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "hanging with my boyfrand \ud83d\ude0a (@ Verlaine Bar &amp; Lounge - @verlainenyc in New York, NY) https://t.co/w4qqTqgHQa", 
+            "id": "776209381067202561", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-15T00:01:52", 
+            "coordinates": [
+                -73.98782663, 
+                40.71991756
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I'm at @WoodrowsNyc in New York, NY https://t.co/jbn7b1LIWq", 
+            "id": "776182409461174272", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-14T22:14:41", 
+            "coordinates": [
+                -74.00925486, 
+                40.71395329
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/JCeQAlpcH3", 
+            "id": "775488377143627776", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-13T00:16:51", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School", 
+                    "osm_id": 269211931.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 98085.0, 
+                    "name": "Second Church of Christ, Scientist", 
+                    "osm_id": 269227112.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School", 
+                    "osm_id": 280850913.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126443.0, 
+                    "name": "Meadowlands View", 
+                    "osm_id": 371372580.0
+                }
+            ], 
+            "text": "I'm at LaGuardia Airport in East Elmhurst, NY https://t.co/hpYXRBBVsN", 
+            "id": "773173616200540161", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-06T14:58:49", 
+            "coordinates": [
+                -73.87095097, 
+                40.77383619
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Fiorello H LaGuardia High School", 
+                    "Weehawken High School", 
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 4, 
+                "retail": 2, 
+                "hotel": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/Q1Cx49GmtB", 
+            "id": "771872105579315200", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-03T00:47:05", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99069.0, 
+                    "name": "7 World Trade Center", 
+                    "osm_id": 277890516.0
+                }
+            ], 
+            "text": "I'm at @BarleycornNyc in New York, NY https://t.co/2l2yAJZlZp", 
+            "id": "771109260776308738", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-31T22:15:48", 
+            "coordinates": [
+                -74.00896794, 
+                40.71324814
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "7 World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99069.0, 
+                    "name": "7 World Trade Center", 
+                    "osm_id": 277890516.0
+                }
+            ], 
+            "text": "I'm at @DarkHorse_ny in New York, NY https://t.co/ZFKtjgzsPf", 
+            "id": "770770072008658944", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-30T23:48:00", 
+            "coordinates": [
+                -74.00836541, 
+                40.71349326
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "7 World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 73655.0, 
+                    "name": "Humanities", 
+                    "osm_id": 250366068.0
+                }
+            ], 
+            "text": "patties &amp; rose in the park (@ Fort Greene Park - @nycparks in Brooklyn, NY) https://t.co/7YZsomyS8i", 
+            "id": "769691633701060608", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-28T00:22:40", 
+            "coordinates": [
+                -73.97486178, 
+                40.69170421
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Humanities"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "I'm at @PillowCafe-Lounge in Brooklyn, NY https://t.co/u4V67GMWR7", 
+            "id": "769636982989418496", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-27T20:45:30", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation", 
+                    "osm_id": 250490292.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments", 
+                    "osm_id": 351324339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "I'm at @PlungeRooftop Bar &amp; Lounge in New York, NY https://t.co/nbXc0aZBbh", 
+            "id": "768933554977996801", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-25T22:10:20", 
+            "coordinates": [
+                -74.00570278, 
+                40.73999273
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Marine View Apartments", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 17237.0, 
+                    "name": "P.S. 29", 
+                    "osm_id": 248145115.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 72854.0, 
+                    "name": "Bishop Loughlin Memorial High School", 
+                    "osm_id": 250361395.0
+                }
+            ], 
+            "text": "I'm at 56 Degrees in Brooklyn, NY https://t.co/53mjgAMbnj", 
+            "id": "768222559166984192", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-23T23:05:05", 
+            "coordinates": [
+                -73.95694832, 
+                40.68701008
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "P.S. 29", 
+                    "Bishop Loughlin Memorial High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory", 
+                    "osm_id": 278069550.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 103710.0, 
+                    "name": "Yeshiva Kehilath Yakov", 
+                    "osm_id": 279588435.0
+                }
+            ], 
+            "text": "checking out my 3rd favorite DJ (@ Rosemont in Brooklyn, NY) https://t.co/rW98hrfJ6R", 
+            "id": "767170591069761536", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-21T01:24:56", 
+            "coordinates": [
+                -73.94738537, 
+                40.70700098
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 56853.0, 
+                    "name": "Public School 15", 
+                    "osm_id": 250265372.0
+                }
+            ], 
+            "text": "I'm at @BrooklynBowl for Bowl Train in Brooklyn, NY https://t.co/DOHJqTtiYn", 
+            "id": "766490953934839809", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T04:24:18", 
+            "coordinates": [
+                -73.95754527, 
+                40.72191787
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 15"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99069.0, 
+                    "name": "7 World Trade Center", 
+                    "osm_id": 277890516.0
+                }
+            ], 
+            "text": "I'm at @BarleycornNyc in New York, NY https://t.co/KY7oGunZoP", 
+            "id": "765665294727704580", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-16T21:43:26", 
+            "coordinates": [
+                -74.00896794, 
+                40.71324814
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "7 World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "I'm at @PillowCafe-Lounge in Brooklyn, NY https://t.co/YkX3iT0t2v", 
+            "id": "764546991032569856", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-13T19:39:41", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/TMR8zHaB7m", 
+            "id": "763536743031242752", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-11T00:45:20", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 99163.0, 
+                    "name": "High School of Economics and Finance", 
+                    "osm_id": 278033590.0
+                }
+            ], 
+            "text": "I'm at @Godiva Chocolatier in New York, NY https://t.co/yYFn0zJfcO", 
+            "id": "762788903011115008", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-08T23:13:41", 
+            "coordinates": [
+                -74.00900237, 
+                40.70918268
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "High School of Economics and Finance"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "I'm at @Paradou in New York, NY https://t.co/39FxSxDoBE", 
+            "id": "762016364685037569", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-06T20:03:53", 
+            "coordinates": [
+                -74.00682752, 
+                40.73965042
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I'm at @WoodrowsNyc in New York, NY https://t.co/2qxtTVdVgj", 
+            "id": "761314530228051969", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-04T21:35:03", 
+            "coordinates": [
+                -74.00925486, 
+                40.71395329
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 10116.0, 
+                    "name": "H&R Block", 
+                    "osm_id": 245352088.0
+                }
+            ], 
+            "text": "I'm at Beauty &amp; Essex - @beautyandessex in New York, NY https://t.co/7jGRia4YF9", 
+            "id": "760639532266098688", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-03T00:52:51", 
+            "coordinates": [
+                -73.98708344, 
+                40.72036369
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "H&R Block"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I", 
+                    "osm_id": 259686626.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98991.0, 
+                    "name": "Reade Court Condominium", 
+                    "osm_id": 277881282.0
+                }
+            ], 
+            "text": "I'm at @ChurchPublickNy in New York, NY https://t.co/Z9bQljnVFF", 
+            "id": "760625910655614976", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-02T23:58:43", 
+            "coordinates": [
+                -74.00740136, 
+                40.7154373
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Colgate Center I"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "I'm at @PillowCafe-Lounge in Brooklyn, NY https://t.co/OzGBhX4XFc", 
+            "id": "759436693061722113", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-30T17:13:11", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "drinks with my sister !!! (@ Verlaine Bar &amp; Lounge - @verlainenyc in New York, NY) https://t.co/0dNlUoTXtj", 
+            "id": "756708413594341376", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-23T04:31:59", 
+            "coordinates": [
+                -73.98782663, 
+                40.71991756
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/lNLNsK6M23", 
+            "id": "753408355734065152", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-14T01:58:44", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 56853.0, 
+                    "name": "Public School 15", 
+                    "osm_id": 250265372.0
+                }
+            ], 
+            "text": "checking my favorite DJ (@ Kinfolk 94 in Brooklyn, NY) https://t.co/QsWanTcVRz", 
+            "id": "753387679845343232", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-14T00:36:34", 
+            "coordinates": [
+                -73.95840625, 
+                40.72167964
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 15"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School", 
+                    "osm_id": 269211931.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 98085.0, 
+                    "name": "Second Church of Christ, Scientist", 
+                    "osm_id": 269227112.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School", 
+                    "osm_id": 280850913.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126443.0, 
+                    "name": "Meadowlands View", 
+                    "osm_id": 371372580.0
+                }
+            ], 
+            "text": "I'm at LaGuardia Airport in East Elmhurst, NY https://t.co/e27kRA0yvD", 
+            "id": "752499633549639685", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-11T13:47:48", 
+            "coordinates": [
+                -73.87122, 
+                40.773839
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Fiorello H LaGuardia High School", 
+                    "Weehawken High School", 
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 4, 
+                "retail": 2, 
+                "hotel": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/1SS76Upjtp", 
+            "id": "752294644118061057", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-11T00:13:14", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "I'm at Verlaine Bar &amp; Lounge - @verlainenyc in New York, NY https://t.co/bnYbkpaT2t", 
+            "id": "751587395536089089", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-09T01:22:53", 
+            "coordinates": [
+                -73.98782663, 
+                40.71991756
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "h o m e. (at @PillowCafe-Lounge in Brooklyn, NY) https://t.co/w0MSGUVg4c", 
+            "id": "750806577129656320", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-06T21:40:11", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57699.0, 
+                    "name": "Public School 110", 
+                    "osm_id": 250269145.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I", 
+                    "osm_id": 259686626.0
+                }
+            ], 
+            "text": "I'm at San Loco in Brooklyn, NY https://t.co/j3bpoo0OhC", 
+            "id": "747276886196232192", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-27T03:54:28", 
+            "coordinates": [
+                -73.95858419, 
+                40.71525056
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 110"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "spinning jams with my favorite boy \ud83d\udc99\ud83d\udc9c\ud83d\udc9a\u2764\ufe0f\ud83d\udc9b #nycpride2016 (at @PillowCafe-Lounge in Brooklyn, NY) https://t.co/j2K0tSqcnm", 
+            "id": "747211097996931076", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-26T23:33:02", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 18761.0, 
+                    "name": "The Schemerhorn", 
+                    "osm_id": 248155302.0
+                }
+            ], 
+            "text": "I'm at The @BlackSwanBk in Brooklyn, NY https://t.co/K0JTYO7kRO", 
+            "id": "747124115593662466", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-26T17:47:24", 
+            "coordinates": [
+                -73.95518615, 
+                40.68915478
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "The Schemerhorn"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }
+            ], 
+            "text": "I'm at Turnmill Bar - @turnmillnyc in New York, NY https://t.co/OBS6Ws72C4", 
+            "id": "744673410438008832", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-19T23:29:11", 
+            "coordinates": [
+                -73.98376337, 
+                40.74237806
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline", 
+                    "osm_id": 264645872.0
+                }
+            ], 
+            "text": "I'm at @DosCaminos in New York, NY https://t.co/cj2UwEhIvV", 
+            "id": "744600377161617408", 
+            "favorite_count": 1, 
+            "created_at": "2016-06-19T18:38:58", 
+            "coordinates": [
+                -73.98503171, 
+                40.74235486
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Caroline"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "I'm at @PillowCafe-Lounge in Brooklyn, NY https://t.co/LOqAjOZB62", 
+            "id": "743580703015714816", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-16T23:07:09", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments", 
+                    "osm_id": 351324339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "I'm at @GramercyTheatre for Rebstar in New York, NY https://t.co/jhbqTqTReZ", 
+            "id": "743275824451883008", 
+            "favorite_count": 1, 
+            "created_at": "2016-06-16T02:55:40", 
+            "coordinates": [
+                -73.98508787, 
+                40.73977867
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Marine View Apartments", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/BYWdPAQ3wz", 
+            "id": "743239849847701504", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-16T00:32:43", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/XUoChqn48a", 
+            "id": "741776336151285760", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-11T23:37:14", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "I'm at @PillowCafe-Lounge in Brooklyn, NY https://t.co/emUaDOrRZc", 
+            "id": "741402266738020352", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-10T22:50:49", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Corner Grind in Brooklyn, NY https://t.co/Y8DZx5g7bC", 
+            "id": "739516990260424705", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-05T17:59:24", 
+            "coordinates": [
+                -73.95394632, 
+                40.6828797
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School", 
+                    "osm_id": 269211931.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 98085.0, 
+                    "name": "Second Church of Christ, Scientist", 
+                    "osm_id": 269227112.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School", 
+                    "osm_id": 280850913.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126443.0, 
+                    "name": "Meadowlands View", 
+                    "osm_id": 371372580.0
+                }
+            ], 
+            "text": "I'm at LaGuardia Airport in East Elmhurst, NY https://t.co/yWeEJ00aYX", 
+            "id": "739317081754206208", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-05T04:45:02", 
+            "coordinates": [
+                -73.87122, 
+                40.773839
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Fiorello H LaGuardia High School", 
+                    "Weehawken High School", 
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 4, 
+                "retail": 2, 
+                "hotel": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School", 
+                    "osm_id": 269211931.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 98085.0, 
+                    "name": "Second Church of Christ, Scientist", 
+                    "osm_id": 269227112.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School", 
+                    "osm_id": 280850913.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126443.0, 
+                    "name": "Meadowlands View", 
+                    "osm_id": 371372580.0
+                }
+            ], 
+            "text": "heading home for the day. for a very important 3rd birthday party\ud83d\ude01\ud83d\ude01\ud83d\ude0d (@ LaGuardia Airport in East Elmhurst, NY) https://t.co/15bIhfHwhJ", 
+            "id": "739108109222830080", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-04T14:54:39", 
+            "coordinates": [
+                -73.87122, 
+                40.773839
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Fiorello H LaGuardia High School", 
+                    "Weehawken High School", 
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 4, 
+                "retail": 2, 
+                "hotel": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "I'm at Bar Hugo - Rooftop in New York, NY https://t.co/wjBFhLdmPO", 
+            "id": "738948125424029696", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-04T04:18:56", 
+            "coordinates": [
+                -74.00877858, 
+                40.72634396
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "laps for breakfast \ud83d\udeb4\ud83c\udffe\ud83d\udeb4\ud83c\udffe\ud83d\udeb4\ud83c\udffe\ud83d\udeb4\ud83c\udffe (@ Prospect Park - @nycparks in Brooklyn, NY) https://t.co/pviEal5MCx", 
+            "id": "738718263014723584", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-03T13:05:33", 
+            "coordinates": [
+                -73.97094727, 
+                40.66390777
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I", 
+                    "osm_id": 259686626.0
+                }
+            ], 
+            "text": "I'm at Harry's Italian Pizza Bar in New York, NY https://t.co/KgOubJ45XN", 
+            "id": "738073569998057472", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-01T18:23:46", 
+            "coordinates": [
+                -74.01477508, 
+                40.7151523
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Colgate Center I"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/UpRb9UHtED", 
+            "id": "737835611898433546", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-01T02:38:12", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99069.0, 
+                    "name": "7 World Trade Center", 
+                    "osm_id": 277890516.0
+                }
+            ], 
+            "text": "I'm at @BarleycornNyc in New York, NY https://t.co/7B25rYGCLp", 
+            "id": "737811833072046080", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-01T01:03:43", 
+            "coordinates": [
+                -74.00896794, 
+                40.71324814
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "7 World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "I'm at @PillowCafe-Lounge in Brooklyn, NY https://t.co/f1qKzPn9QT", 
+            "id": "737740363914432512", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-31T20:19:43", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 17237.0, 
+                    "name": "P.S. 29", 
+                    "osm_id": 248145115.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 72854.0, 
+                    "name": "Bishop Loughlin Memorial High School", 
+                    "osm_id": 250361395.0
+                }
+            ], 
+            "text": "I'm at 56 Degrees in Brooklyn, NY https://t.co/uq9u9x7RVw", 
+            "id": "737060510382882817", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-29T23:18:14", 
+            "coordinates": [
+                -73.95694832, 
+                40.68701008
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "P.S. 29", 
+                    "Bishop Loughlin Memorial High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 472.0, 
+                    "name": "Public School 319", 
+                    "osm_id": -3719727.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 100034.0, 
+                    "name": "Joses House", 
+                    "osm_id": 278231644.0
+                }
+            ], 
+            "text": "I'm at @OurWickedLady in Nyc, NY https://t.co/jA2UjgOQyJ", 
+            "id": "736667030640820225", 
+            "favorite_count": 1, 
+            "created_at": "2016-05-28T21:14:41", 
+            "coordinates": [
+                -73.933259, 
+                40.70951
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 319"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "I'm at Verlaine Bar &amp; Lounge - @verlainenyc in New York, NY https://t.co/0rlYYHEC41", 
+            "id": "736016558644924417", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-27T02:09:56", 
+            "coordinates": [
+                -73.9878668, 
+                40.71999666
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I'm at @WoodrowsNyc in New York, NY https://t.co/BClU9rfbwO", 
+            "id": "735960321442086912", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-26T22:26:28", 
+            "coordinates": [
+                -74.00925486, 
+                40.71395329
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I'm at @Equinox Tribeca in New York, NY https://t.co/oPxaGtTj84", 
+            "id": "735514854832869376", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-25T16:56:21", 
+            "coordinates": [
+                -74.01004161, 
+                40.71420014
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "I'm at @PillowCafe-Lounge in Brooklyn, NY https://t.co/0nJrkoGaOV", 
+            "id": "734432018365308932", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-22T17:13:32", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99069.0, 
+                    "name": "7 World Trade Center", 
+                    "osm_id": 277890516.0
+                }
+            ], 
+            "text": "I'm at @DarkHorse_ny in New York, NY https://t.co/tsem535tub", 
+            "id": "733839697454239744", 
+            "favorite_count": 1, 
+            "created_at": "2016-05-21T01:59:52", 
+            "coordinates": [
+                -74.00836541, 
+                40.71349326
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "7 World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "I'm at @PillowCafe-Lounge in Brooklyn, NY https://t.co/gLUamdsLg8", 
+            "id": "731632190430302209", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-14T23:48:01", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 82918.0, 
+                    "name": "Brooklyn Music School", 
+                    "osm_id": 250979356.0
+                }
+            ], 
+            "text": "I'm at Pipsqueak Children's Shoppe in Brooklyn, NY https://t.co/WS4JhFOrIJ", 
+            "id": "731556047459127296", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-14T18:45:28", 
+            "coordinates": [
+                -73.95465234, 
+                40.68614361
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Brooklyn Music School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School", 
+                    "osm_id": 269211931.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 98085.0, 
+                    "name": "Second Church of Christ, Scientist", 
+                    "osm_id": 269227112.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School", 
+                    "osm_id": 280850913.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126443.0, 
+                    "name": "Meadowlands View", 
+                    "osm_id": 371372580.0
+                }
+            ], 
+            "text": "I'm at LaGuardia Airport in East Elmhurst, NY https://t.co/pEJ6m0E3bK", 
+            "id": "730727960139943938", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-12T11:54:56", 
+            "coordinates": [
+                -73.87122, 
+                40.773839
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Fiorello H LaGuardia High School", 
+                    "Weehawken High School", 
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 4, 
+                "retail": 2, 
+                "hotel": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "theatre", 
+                    "id": 93180.0, 
+                    "name": "Bernard B. Jacobs Theatre", 
+                    "osm_id": 266149298.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93221.0, 
+                    "name": "John Golden Theatre", 
+                    "osm_id": 266149325.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }
+            ], 
+            "text": "I'm at New York Marriott Marquis - @mhmarquisnyc in New York, NY https://t.co/0YAhzRXfWr", 
+            "id": "730536651487903744", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-11T23:14:45", 
+            "coordinates": [
+                -73.98579061, 
+                40.75854597
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Bernard B. Jacobs Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "John Golden Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "hospital", 
+                    "id": 78818.0, 
+                    "name": "New York Methodist Hospital - Main Campus", 
+                    "osm_id": 250431518.0
+                }
+            ], 
+            "text": "I'm at Brooklyn Botanic Garden in Brooklyn, NY https://t.co/FJLmquzk0P", 
+            "id": "730444045458264064", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-11T17:06:46", 
+            "coordinates": [
+                -73.96317959, 
+                40.66760246
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "hospital", 
+                "name": [
+                    "New York Methodist Hospital - Main Campus"
+                ]
+            }, 
+            "building_frequency": {
+                "hospital": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Lover's Rock in Brooklyn, NY https://t.co/RFlSeEGmpa", 
+            "id": "730220238642552833", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-11T02:17:26", 
+            "coordinates": [
+                -73.94377475, 
+                40.6831417
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 584.0, 
+                    "name": "\u5e1d\u570b\u5927\u5ec8", 
+                    "osm_id": 34633854.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe", 
+                    "osm_id": 396820651.0
+                }
+            ], 
+            "text": "I'm at Empire State Building - @empirestatebldg in New York, NY https://t.co/y8HQegRoOg", 
+            "id": "729092307992121345", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-07T23:35:26", 
+            "coordinates": [
+                -73.98571014, 
+                40.74852494
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Christa McAuliffe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 89310.0, 
+                    "name": "New Gotham", 
+                    "osm_id": 265312767.0
+                }
+            ], 
+            "text": "I'm at @GrayLineNewYork Visitor Center in New York, NY https://t.co/fFBQtWNEDz", 
+            "id": "728993488113676293", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-07T17:02:46", 
+            "coordinates": [
+                -73.98732733, 
+                40.76056603
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "New Gotham"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I'm at @WoodrowsNyc in New York, NY https://t.co/mi6pN5JAow", 
+            "id": "725825390103662592", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-28T23:13:52", 
+            "coordinates": [
+                -74.00925486, 
+                40.71395329
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I'm at @WoodrowsNyc in New York, NY https://t.co/lodcemgIYi", 
+            "id": "725446020461662208", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-27T22:06:24", 
+            "coordinates": [
+                -74.00925486, 
+                40.71395329
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "pre coachella happy hour (at @WoodrowsNyc in New York, NY) https://t.co/JVAFkHDJSO", 
+            "id": "722558792580341764", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-19T22:53:35", 
+            "coordinates": [
+                -74.00925486, 
+                40.71395329
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "I'm at Spreadhouse Coffee in New York, NY https://t.co/cGi3Ku6Yw8", 
+            "id": "722438881585557506", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-19T14:57:06", 
+            "coordinates": [
+                -73.98597292, 
+                40.71900053
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99069.0, 
+                    "name": "7 World Trade Center", 
+                    "osm_id": 277890516.0
+                }
+            ], 
+            "text": "coachella preparations :) (@ Affina Nails &amp; Spa in New York, NY) https://t.co/7x9np5bN1m", 
+            "id": "722144598001324032", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-18T19:27:43", 
+            "coordinates": [
+                -74.00895073, 
+                40.71373695
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "7 World Trade Center"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 102772.0, 
+                    "name": "Public School 122", 
+                    "osm_id": 279574670.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 105619.0, 
+                    "name": "Brooklyn Latin School", 
+                    "osm_id": 279649737.0
+                }
+            ], 
+            "text": "I'm at Gnostic Tattoo in Brooklyn, NY https://t.co/kVoINNhlqc", 
+            "id": "721782927357517824", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-17T19:30:34", 
+            "coordinates": [
+                -73.92869436, 
+                40.70482319
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 122", 
+                    "Brooklyn Latin School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "I'm at @PillowCafe-Lounge in Brooklyn, NY https://t.co/wlhD4d8rHa", 
+            "id": "721738033997987840", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-17T16:32:11", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "I'm at @PillowCafe-Lounge in Brooklyn, NY https://t.co/fLkXrzAxPo", 
+            "id": "719271623346536449", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-10T21:11:33", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 26242.0, 
+                    "name": "Atlantic Terminal Houses", 
+                    "osm_id": 248179087.0
+                }, 
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at Bedford Hall in Brooklyn, NY https://t.co/MhSaX0beuG", 
+            "id": "719239920620081152", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-10T19:05:34", 
+            "coordinates": [
+                -73.95394058, 
+                40.68322091
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 97987.0, 
+                    "name": "Fiorello H LaGuardia High School", 
+                    "osm_id": 269211931.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 98085.0, 
+                    "name": "Second Church of Christ, Scientist", 
+                    "osm_id": 269227112.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123605.0, 
+                    "name": "Weehawken High School", 
+                    "osm_id": 280850913.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126443.0, 
+                    "name": "Meadowlands View", 
+                    "osm_id": 371372580.0
+                }
+            ], 
+            "text": "I'm at LaGuardia Airport (LGA) in East Elmhurst, NY https://t.co/ghiNcS8Bd0", 
+            "id": "717701693455147009", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-06T13:13:12", 
+            "coordinates": [
+                -73.87122, 
+                40.773839
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Fiorello H LaGuardia High School", 
+                    "Weehawken High School", 
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 4, 
+                "retail": 2, 
+                "hotel": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 16217.0, 
+                    "name": "Junior High School 113", 
+                    "osm_id": 248141992.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 72968.0, 
+                    "name": "Our Lady Queen of All Saints School", 
+                    "osm_id": 250361579.0
+                }
+            ], 
+            "text": "dranks (@ C'mon Everybody in Brooklyn, NY) https://t.co/U9KdKQ6Uwp", 
+            "id": "716419356557721601", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-03T00:17:39", 
+            "coordinates": [
+                -73.95702294, 
+                40.68833653
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Junior High School 113", 
+                    "Our Lady Queen of All Saints School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "I'm at Verlaine Bar &amp; Lounge - @verlainenyc in New York, NY https://t.co/6DCV5YfUEq", 
+            "id": "715733387907055616", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-01T02:51:52", 
+            "coordinates": [
+                -73.9878668, 
+                40.71999666
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm", 
+                    "osm_id": 264656621.0
+                }, 
+                {
+                    "type": "library", 
+                    "id": 89209.0, 
+                    "name": "\u7d10\u7d04\u5716\u66f8\u9928", 
+                    "osm_id": 265302076.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92848.0, 
+                    "name": "Graybar Building", 
+                    "osm_id": 265947361.0
+                }
+            ], 
+            "text": "dj gigs :-) (at @Graybar in New York, NY) https://t.co/cSTNt10bDt", 
+            "id": "715697572057374720", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-01T00:29:32", 
+            "coordinates": [
+                -73.975948, 
+                40.752701
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Graybar Building"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "library": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I", 
+                    "osm_id": 259686626.0
+                }
+            ], 
+            "text": "I'm at @ChurchPublickNy in New York, NY https://t.co/tvEKB1OKOJ", 
+            "id": "714952666464579587", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-29T23:09:33", 
+            "coordinates": [
+                -74.00709271, 
+                40.71530576
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Colgate Center I"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA", 
+                    "osm_id": 248168055.0
+                }
+            ], 
+            "text": "I'm at @IKEAUsa in Brooklyn, NY https://t.co/ely9PhLcoP", 
+            "id": "714127100018630656", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-27T16:29:03", 
+            "coordinates": [
+                -74.01038647, 
+                40.67168754
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "IKEA"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 92813.0, 
+                    "name": "Gowanus Power Plant", 
+                    "osm_id": 265889766.0
+                }
+            ], 
+            "text": "bike racing season (@ Prospect Park - @nycparks in Brooklyn, NY) https://t.co/AzyKgkeeep", 
+            "id": "714051064513871872", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-27T11:26:54", 
+            "coordinates": [
+                -73.97094727, 
+                40.66390777
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Gowanus Power Plant"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "from bikes w my boy to drinks with my girls :-) (at @PillowCafe-Lounge in Brooklyn, NY) https://t.co/q0Uf2hJeD7", 
+            "id": "713866353313202180", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-26T23:12:56", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "good friday happy hour (at @WoodrowsNyc in New York, NY) https://t.co/WQaczbPTQl", 
+            "id": "713420813421125632", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-25T17:42:31", 
+            "coordinates": [
+                -74.00925486, 
+                40.71395329
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74061.0, 
+                    "name": "2 MetroTech Center", 
+                    "osm_id": 250369751.0
+                }
+            ], 
+            "text": "brunch w my boy :-) (at @PillowCafe-Lounge in Brooklyn, NY) https://t.co/sZumZ4D9b1", 
+            "id": "711246982019420160", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-19T17:44:29", 
+            "coordinates": [
+                -73.964655, 
+                40.693642
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }
+            ], 
+            "text": "I'm at @ElVezNyc in New York, NY https://t.co/xOirboYjoG", 
+            "id": "710946739231051776", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-18T21:51:26", 
+            "coordinates": [
+                -74.01583672, 
+                40.71459827
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "it's a holiday,  so.... shots! (at @WoodrowsNyc in New York, NY) https://t.co/2bc2JzKORi", 
+            "id": "710606980071755778", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-17T23:21:21", 
+            "coordinates": [
+                -74.00925486, 
+                40.71395329
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I", 
+                    "osm_id": 259686626.0
+                }
+            ], 
+            "text": "vinoooooo:-) (at @ChurchPublickNy in New York, NY) https://t.co/GvOG090ZX7", 
+            "id": "709872355175170049", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-15T22:42:12", 
+            "coordinates": [
+                -74.00709271, 
+                40.71530576
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Colgate Center I"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I'm at @WoodrowsNyc in New York, NY https://t.co/D1YUSQjGXe", 
+            "id": "709538789610430464", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-15T00:36:44", 
+            "coordinates": [
+                -74.00925486, 
+                40.71395329
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "18 Park"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

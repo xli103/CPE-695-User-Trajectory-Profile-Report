@@ -1,0 +1,1250 @@
+{
+    "total_favorite_count": 1131, 
+    "followers_count": 141, 
+    "total_tweets": 27, 
+    "user_id": 351233290, 
+    "screen_name": "orlando_urena", 
+    "friends_count": 154, 
+    "buildings": {
+        "school": 16, 
+        "synagogue": 2, 
+        "theatre": 2, 
+        "office": 9, 
+        "apartments": 22, 
+        "residential": 2, 
+        "university": 4, 
+        "commercial": 16, 
+        "library": 2, 
+        "dormitory": 2, 
+        "construction": 4, 
+        "roof": 2, 
+        "church": 11, 
+        "warehouse": 2, 
+        "tower": 2, 
+        "retail": 3, 
+        "hospital": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm", 
+                    "osm_id": 264656621.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }, 
+                {
+                    "type": "library", 
+                    "id": 89209.0, 
+                    "name": "\u7d10\u7d04\u5716\u66f8\u9928", 
+                    "osm_id": 265302076.0
+                }
+            ], 
+            "text": "JUST GOT THIS IN THE MAIL!! \u2615\ufe0f\ud83d\udce6\ud83d\udcec\n\ncatcloudcoffee Flagship Blend : THE ANSWER, All the way from\u2026 https://t.co/1nK45MFGf9", 
+            "id": "795720030709170177", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-07T20:10:13", 
+            "coordinates": [
+                -73.97742434, 
+                40.75266173
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Ohm", 
+                    "The Olivia"
+                ]
+            }, 
+            "building_frequency": {
+                "library": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57699.0, 
+                    "name": "Public School 110", 
+                    "osm_id": 250269145.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I", 
+                    "osm_id": 259686626.0
+                }
+            ], 
+            "text": "Nostalgic Window Light @sweatshop_nyc @ Sweatshop https://t.co/PU3Nuvrk34", 
+            "id": "794624235662557184", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-04T19:35:55", 
+            "coordinates": [
+                -73.95961032, 
+                40.71509338
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 110"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 10747.0, 
+                    "name": "Mercer Street Residence Hall", 
+                    "osm_id": 247842941.0
+                }
+            ], 
+            "text": "Starting the workweek @lacolombecoffee \u2615\ufe0f in #NoHo, #NYC . @ 400 Lafayette La Colombe https://t.co/Ulx1nZhCEF", 
+            "id": "790611191005458432", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-24T17:49:31", 
+            "coordinates": [
+                -73.99352219, 
+                40.72790708
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Mercer Street Residence Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 102772.0, 
+                    "name": "Public School 122", 
+                    "osm_id": 279574670.0
+                }
+            ], 
+            "text": "Beaker Espresso @istanbulftv #walterscoffeeroastery #walterscoffee #walterscoffeenyc @ Walter's\u2026 https://t.co/jAjOKuMGCR", 
+            "id": "785567787846471680", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-10T19:48:50", 
+            "coordinates": [
+                -73.92395, 
+                40.7046
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 122"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 57731.0, 
+                    "name": "St. Mary's Church", 
+                    "osm_id": 250268367.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98908.0, 
+                    "name": "Liberty Luxe", 
+                    "osm_id": 277880569.0
+                }
+            ], 
+            "text": "Red Barrel Pour Over devocionusa \ud83c\udde8\ud83c\uddf4#devocionfresh @ Devocion USA https://t.co/nNY4knVnHu", 
+            "id": "784111878557474816", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-06T19:23:34", 
+            "coordinates": [
+                -73.9645, 
+                40.7157399
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Liberty Luxe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36468.0, 
+                    "name": "Most Precious Blood Church", 
+                    "osm_id": 249847594.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 83618.0, 
+                    "name": "56 Leonard Street", 
+                    "osm_id": 261499928.0
+                }
+            ], 
+            "text": "Maple Sage Latte by @tobysbrooklyn during yesterday's nyccoffeefest villainstagram\u2026 https://t.co/6874NHOK9E", 
+            "id": "782647390050226176", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-02T18:24:13", 
+            "coordinates": [
+                -73.96375, 
+                40.71773
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "construction", 
+                "name": [
+                    "56 Leonard Street"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "university": 2, 
+                "church": 2, 
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36468.0, 
+                    "name": "Most Precious Blood Church", 
+                    "osm_id": 249847594.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 83618.0, 
+                    "name": "56 Leonard Street", 
+                    "osm_id": 261499928.0
+                }
+            ], 
+            "text": "varietycoffee serving up an amazing Pumpkin Spice Cold Brew that is to die for at the\u2026 https://t.co/NYtaj94pQ6", 
+            "id": "782310824849178624", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-01T20:06:49", 
+            "coordinates": [
+                -73.96375, 
+                40.71773
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "construction", 
+                "name": [
+                    "56 Leonard Street"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "university": 2, 
+                "church": 2, 
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36468.0, 
+                    "name": "Most Precious Blood Church", 
+                    "osm_id": 249847594.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 83618.0, 
+                    "name": "56 Leonard Street", 
+                    "osm_id": 261499928.0
+                }
+            ], 
+            "text": "Caffeinated Vibes earlier today at nyccoffeefest inside @villianinstagram\u2026 https://t.co/SnT78ntaTW", 
+            "id": "782283624959791104", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-01T18:18:44", 
+            "coordinates": [
+                -73.96375, 
+                40.71773
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "construction", 
+                "name": [
+                    "56 Leonard Street"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "university": 2, 
+                "church": 2, 
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 4775.0, 
+                    "name": "Public School K146 Brooklyn New School", 
+                    "osm_id": 241834635.0
+                }
+            ], 
+            "text": "Bouldering Session @BKBoulders with photojunky22 &amp; ciz_fin3st @ Brooklyn Boulders https://t.co/Z9Us5Sr7Bf", 
+            "id": "781941325612494848", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-30T19:38:34", 
+            "coordinates": [
+                -73.98404914, 
+                40.67973341
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School K146 Brooklyn New School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 520.0, 
+                    "name": "Intermediate School 71", 
+                    "osm_id": -3718633.0
+                }, 
+                {
+                    "type": "residential", 
+                    "id": 83549.0, 
+                    "name": "205 Water", 
+                    "osm_id": 256689564.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99276.0, 
+                    "name": "Broad Financial Center", 
+                    "osm_id": 278053473.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99327.0, 
+                    "name": "One Battery Park Plaza", 
+                    "osm_id": 278053532.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 126464.0, 
+                    "name": "St. Ann's Warehouse", 
+                    "osm_id": 373709849.0
+                }
+            ], 
+            "text": "\ud83c\uddf0\ud83c\uddea Kenyan, Kamwangi Coffee on National Coffee Day @HelloSupercrown . @ Supercrown Coffee Roasters https://t.co/Pbw4mfJOAz", 
+            "id": "781559122369970176", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T18:19:50", 
+            "coordinates": [
+                -73.9309082, 
+                40.7034912
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "Broad Financial Center", 
+                    "One Battery Park Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "school": 2, 
+                "commercial": 2, 
+                "office": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall", 
+                    "osm_id": 241846074.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building", 
+                    "osm_id": 241846109.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence", 
+                    "osm_id": 249979270.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology", 
+                    "osm_id": 250369747.0
+                }
+            ], 
+            "text": "\u0160\u00fcNd\u00c6y F\u00fcNd\u00c6y #BushwickArtCollective @ Bushwick, Brooklyn https://t.co/RLFk8AbJZj", 
+            "id": "780112520660987904", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-25T18:31:33", 
+            "coordinates": [
+                -73.92027413, 
+                40.69571377
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "New York City College of Technology - Namm Hall", 
+                    "New York City College of Technology - Adams Street Building", 
+                    "Bushwick Leaders' High School for Academic Excellence", 
+                    "New York City College of Technology"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 102772.0, 
+                    "name": "Public School 122", 
+                    "osm_id": 279574670.0
+                }
+            ], 
+            "text": "Coffee Chemistry \u2697 walterscoffee . #breakingbad  #walterscoffee #coffeeculture the_chemex\u2026 https://t.co/UKRbUfB2ZQ", 
+            "id": "779392689103966208", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-23T18:51:12", 
+            "coordinates": [
+                -73.92395, 
+                40.7046
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 122"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building", 
+                    "osm_id": 264768896.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House", 
+                    "osm_id": 264768948.0
+                }
+            ], 
+            "text": "Treated myself to some Colombia Manantiales del Frontino (Geisha) Top Shelf Coffee from\u2026 https://t.co/OIS9qhzPph", 
+            "id": "778666711281086468", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-21T18:46:25", 
+            "coordinates": [
+                -73.9837418, 
+                40.7411423
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "The Neue House"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building", 
+                    "osm_id": 264768896.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House", 
+                    "osm_id": 264768948.0
+                }
+            ], 
+            "text": "Cascara Antioxidant Shot by devocionusa at the @NYCoffeeFest . #DevocionFresh\u2026 https://t.co/S2EMDCu81x", 
+            "id": "777598008984608768", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-18T19:59:47", 
+            "coordinates": [
+                -73.9837418, 
+                40.7411423
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "The Neue House"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building", 
+                    "osm_id": 264768896.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House", 
+                    "osm_id": 264768948.0
+                }
+            ], 
+            "text": "Minions &amp; Coffee ? walterscoffee with a killer presentation at the @NYCoffeeFest .\u2026 https://t.co/eIn2RkwKoz", 
+            "id": "777561308522618880", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-18T17:33:56", 
+            "coordinates": [
+                -73.9837418, 
+                40.7411423
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "The Neue House"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building", 
+                    "osm_id": 264768896.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House", 
+                    "osm_id": 264768948.0
+                }
+            ], 
+            "text": "@tobysbrooklyn 's New Black &amp; White Cold Brew @NYCoffeeFest #NewYorkCoffeefestival #tobysestate\u2026 https://t.co/EJ5KnVK6TI", 
+            "id": "777164066259218432", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-17T15:15:27", 
+            "coordinates": [
+                -73.9837418, 
+                40.7411423
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "The Neue House"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building", 
+                    "osm_id": 264768896.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87188.0, 
+                    "name": "Madison Green Residential Plaza", 
+                    "osm_id": 264768942.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House", 
+                    "osm_id": 264768948.0
+                }
+            ], 
+            "text": "Where you can find me this weekend \ud83d\udc49\ud83c\udffd@NYCoffeeFest #newyorkcoffeefestival @ 69th Regiment Armory https://t.co/F6zMtnrf3Q", 
+            "id": "776824411634606080", 
+            "favorite_count": 4, 
+            "created_at": "2016-09-16T16:45:47", 
+            "coordinates": [
+                -73.9836, 
+                40.7411
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grand Chelsea", 
+                    "Madison Green Residential Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 41406.0, 
+                    "name": "First Presbyterian Church", 
+                    "osm_id": 250072646.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 86500.0, 
+                    "name": "St. George's Church", 
+                    "osm_id": 264752147.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 86542.0, 
+                    "name": "Rutherford Place", 
+                    "osm_id": 264752162.0
+                }
+            ], 
+            "text": "Old New York @sweetleaflic  #brookyln #nyccoffee #eastcoastcoffeeculture #coffeeculture @\u2026 https://t.co/plvLObssMY", 
+            "id": "732634721855909888", 
+            "favorite_count": 1, 
+            "created_at": "2016-05-17T18:11:44", 
+            "coordinates": [
+                -73.95538, 
+                40.73453
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "First Presbyterian Church", 
+                    "St. George's Church"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2, 
+                "church": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57505.0, 
+                    "name": "Intermediate School 131", 
+                    "osm_id": 250267995.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 57626.0, 
+                    "name": "Public School 42", 
+                    "osm_id": 250268236.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 57731.0, 
+                    "name": "St. Mary's Church", 
+                    "osm_id": 250268367.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98908.0, 
+                    "name": "Liberty Luxe", 
+                    "osm_id": 277880569.0
+                }, 
+                {
+                    "type": "hospital", 
+                    "id": 141994.0, 
+                    "name": "Wilzig Hospital", 
+                    "osm_id": 410622818.0
+                }
+            ], 
+            "text": "Who wants coffee ? Let's hang out, vibe, and talk. Comment below \ud83d\udc47\ud83c\udffc and let's meet ! devocionusa\u2026 https://t.co/X9329ko1Cp", 
+            "id": "731189738716188675", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-13T18:29:53", 
+            "coordinates": [
+                -73.964717, 
+                40.716064
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Intermediate School 131", 
+                    "Public School 42"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "apartments": 2, 
+                "hospital": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Enjoying my evening coffee ( Espresso Macchiato ) at @aromaespresso http://t.co/MOpRvjWxpF", 
+            "id": "549708025200902144", 
+            "favorite_count": 2, 
+            "created_at": "2014-12-29T23:26:20", 
+            "coordinates": [
+                -73.99843153, 
+                40.7262393
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93300.0, 
+                    "name": "Ambassador Theatre", 
+                    "osm_id": 266151908.0
+                }
+            ], 
+            "text": "Public life vs Private life. \n\n- Denzel Washington -", 
+            "id": "549683969508540417", 
+            "favorite_count": 1, 
+            "created_at": "2014-12-29T21:50:45", 
+            "coordinates": [
+                -73.98482768, 
+                40.76135893
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "One River Place", 
+                    "Atelier"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 599.0, 
+                    "name": "Morgan Stanley Building", 
+                    "osm_id": 42496284.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 761.0, 
+                    "name": "Exxon Building", 
+                    "osm_id": 146031971.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 817.0, 
+                    "name": "Manhattan Plaza Apartments II", 
+                    "osm_id": 159912559.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 1038.0, 
+                    "name": "650 Fifth Avenue", 
+                    "osm_id": 218348081.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 83554.0, 
+                    "name": "Platinum", 
+                    "osm_id": 258619237.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 89572.0, 
+                    "name": "Film Center", 
+                    "osm_id": 265320243.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93001.0, 
+                    "name": "Harper & Row Building", 
+                    "osm_id": 266010260.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 93025.0, 
+                    "name": "St. Luke's Church", 
+                    "osm_id": 266024854.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }, 
+                {
+                    "type": "roof", 
+                    "id": 126352.0, 
+                    "name": "Lukoil", 
+                    "osm_id": 351824068.0
+                }
+            ], 
+            "text": "Took a trip out to Montauk, \nNew York aka The End. In love with the beach culture here. Summer is\u2026 http://t.co/ldMhN9InEn", 
+            "id": "503578691197083648", 
+            "favorite_count": 0, 
+            "created_at": "2014-08-24T16:24:50", 
+            "coordinates": [
+                -73.79642754, 
+                40.75972989
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "Morgan Stanley Building", 
+                    "Exxon Building", 
+                    "650 Fifth Avenue", 
+                    "Harper & Row Building", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "office": 2, 
+                "apartments": 4, 
+                "commercial": 8, 
+                "roof": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }
+            ], 
+            "text": "Keeping it cool at the Lincoln Memorial in Washington DC with cincin16 \u270c\ufe0f @ Lincoln Memorial\u2026 http://t.co/eZjaR8PoKR", 
+            "id": "494514577384558592", 
+            "favorite_count": 0, 
+            "created_at": "2014-07-30T16:07:17", 
+            "coordinates": [
+                -73.97767115, 
+                40.7499002
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "tower", 
+                "name": [
+                    "Two Penn Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 41406.0, 
+                    "name": "First Presbyterian Church", 
+                    "osm_id": 250072646.0
+                }
+            ], 
+            "text": "NYC + World Cup. Let's go team USA! \ud83c\uddfa\ud83c\uddf8 @ 14th Street \u2013 Union Square (New York City Subway) http://t.co/AVKTSqtztR", 
+            "id": "480865694964543488", 
+            "favorite_count": 0, 
+            "created_at": "2014-06-23T00:11:30", 
+            "coordinates": [
+                -73.99027778, 
+                40.73472222
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "First Presbyterian Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "ONLY U : A blog dedicated to inspiration, creativity, and lifestyle.     Inspired by my own initials.\u2026 http://t.co/RyJhuguX2r", 
+            "id": "475321053967699968", 
+            "favorite_count": 0, 
+            "created_at": "2014-06-07T16:59:04", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 19052.0, 
+                    "name": "Avalon Bowery Place", 
+                    "osm_id": 248156488.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 28125.0, 
+                    "name": "Public School 63", 
+                    "osm_id": 248266465.0
+                }, 
+                {
+                    "type": "warehouse", 
+                    "id": 115139.0, 
+                    "name": "DEP", 
+                    "osm_id": 280122289.0
+                }
+            ], 
+            "text": "Fluorescent Architecture. #nyc #nyclifeguards #beach #summer @ Rockaway Beach 106 http://t.co/askewjyDtw", 
+            "id": "473855521548959744", 
+            "favorite_count": 0, 
+            "created_at": "2014-06-03T15:55:34", 
+            "coordinates": [
+                -73.87943352, 
+                40.72470706
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "warehouse", 
+                "name": [
+                    "DEP"
+                ]
+            }, 
+            "building_frequency": {
+                "warehouse": 2, 
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 41406.0, 
+                    "name": "First Presbyterian Church", 
+                    "osm_id": 250072646.0
+                }
+            ], 
+            "text": "Chocolate Friday \ud83d\ude0d cincin16 #chocolate #Naptime \ud83d\ude34 @ Max Brenner Chocolate http://t.co/aEKrLyMPTc", 
+            "id": "447138596555079681", 
+            "favorite_count": 0, 
+            "created_at": "2014-03-21T22:32:03", 
+            "coordinates": [
+                -73.99092378, 
+                40.73427976
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "First Presbyterian Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

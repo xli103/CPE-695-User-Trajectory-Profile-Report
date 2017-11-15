@@ -1,0 +1,1291 @@
+{
+    "total_favorite_count": 572, 
+    "total_tweets": 53, 
+    "screen_name": "stilltech_", 
+    "friends_count": 432, 
+    "followers_count": 7743, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.238, 
+                    34.057
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "24K. @ Downtown Los Angeles https://t.co/ttV56LDyUg", 
+                "created_at": "2016-11-12T19:24:50", 
+                "retweet_count": 0, 
+                "id": "797520547009548288", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98644, 
+                    40.75839
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 163474780.0, 
+                    "type": "yes", 
+                    "id": 859.0, 
+                    "name": "New York Marriott Marquis"
+                }, 
+                {
+                    "osm_id": 263194427.0, 
+                    "type": "yes", 
+                    "id": 83624.0, 
+                    "name": "420 West 42nd Street"
+                }, 
+                {
+                    "osm_id": 266033995.0, 
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School"
+                }, 
+                {
+                    "osm_id": 266034023.0, 
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower"
+                }, 
+                {
+                    "osm_id": 266034045.0, 
+                    "type": "yes", 
+                    "id": 93147.0, 
+                    "name": "InterContinental New York Times Square"
+                }, 
+                {
+                    "osm_id": 266149299.0, 
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre"
+                }, 
+                {
+                    "osm_id": 266149300.0, 
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre"
+                }, 
+                {
+                    "osm_id": 266149302.0, 
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149328.0, 
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a video @ Times Square, New York City https://t.co/uIT2W3zZxp", 
+                "created_at": "2016-10-17T06:46:37", 
+                "retweet_count": 0, 
+                "id": "787907653104087041", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98644, 
+                    40.75839
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 163474780.0, 
+                    "type": "yes", 
+                    "id": 859.0, 
+                    "name": "New York Marriott Marquis"
+                }, 
+                {
+                    "osm_id": 263194427.0, 
+                    "type": "yes", 
+                    "id": 83624.0, 
+                    "name": "420 West 42nd Street"
+                }, 
+                {
+                    "osm_id": 266033995.0, 
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School"
+                }, 
+                {
+                    "osm_id": 266034023.0, 
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower"
+                }, 
+                {
+                    "osm_id": 266034045.0, 
+                    "type": "yes", 
+                    "id": 93147.0, 
+                    "name": "InterContinental New York Times Square"
+                }, 
+                {
+                    "osm_id": 266149299.0, 
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre"
+                }, 
+                {
+                    "osm_id": 266149300.0, 
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre"
+                }, 
+                {
+                    "osm_id": 266149302.0, 
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149328.0, 
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "dont play. i do this shit. @ Times Square, New York City https://t.co/dPfrOJTqeI", 
+                "created_at": "2016-10-17T05:22:36", 
+                "retweet_count": 0, 
+                "id": "787886507579150336", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.6774577, 
+                    40.37137364
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "birthday bullshit all weekend thanks to @ARIANADREAMBIG. @ Battlecreek Canyon https://t.co/smKofg9vBY", 
+                "created_at": "2016-10-16T01:25:34", 
+                "retweet_count": 0, 
+                "id": "787464471031808001", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.6774577, 
+                    40.37137364
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "paintballing with friends and fam for the bday. #25 @ Battlecreek Canyon https://t.co/sH3TBDYlRb", 
+                "created_at": "2016-10-16T00:59:24", 
+                "retweet_count": 0, 
+                "id": "787457882799284224", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99936402, 
+                    40.72379528
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 249664475.0, 
+                    "type": "yes", 
+                    "id": 35365.0, 
+                    "name": "Holland Plaza Building"
+                }, 
+                {
+                    "osm_id": 249666506.0, 
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca"
+                }, 
+                {
+                    "osm_id": 403194879.0, 
+                    "type": "yes", 
+                    "id": 136132.0, 
+                    "name": "Monaco"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "damn this one hurt. #riptommy #iknewyoualwayshadajob \u270a @ SoHo https://t.co/t9KwLZT2H7", 
+                "created_at": "2016-10-12T23:46:54", 
+                "retweet_count": 1, 
+                "id": "786352475259465728", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95, 
+                    40.65
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "HBD to my dawg. @roshon ; We torchin the city when I touchdown in LA. #LibraGang \u264e @ Brooklyn,\u2026 https://t.co/t1IjBcRTMw", 
+                "created_at": "2016-10-06T22:13:58", 
+                "retweet_count": 5, 
+                "id": "784154759188013056", 
+                "favorite_count": 12
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00441345, 
+                    40.72535535
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110661.0, 
+                    "type": "yes", 
+                    "id": 553.0, 
+                    "name": "South Garage"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 249664631.0, 
+                    "type": "yes", 
+                    "id": 35451.0, 
+                    "name": "Trump SoHo"
+                }, 
+                {
+                    "osm_id": 362642225.0, 
+                    "type": "house", 
+                    "id": 126382.0, 
+                    "name": "Battello"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ SoHo Square https://t.co/VjsVC62yYU", 
+                "created_at": "2016-09-26T16:50:01", 
+                "retweet_count": 0, 
+                "id": "780449355840958465", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.21849814, 
+                    41.72098692
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Die In It. @ Eastern Connecticut State University https://t.co/IznK7nOyyM", 
+                "created_at": "2016-09-25T01:26:38", 
+                "retweet_count": 2, 
+                "id": "779854593253453824", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00972222, 
+                    40.74722222
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 264627647.0, 
+                    "type": "yes", 
+                    "id": 84420.0, 
+                    "name": "Pier 61"
+                }, 
+                {
+                    "osm_id": 400535611.0, 
+                    "type": "yes", 
+                    "id": 131032.0, 
+                    "name": "Monroe Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "birthday shawty. @ARIANADREAMBIG #libraseason my shit is up next oct. 14; where my libras at? @\u2026 https://t.co/SGV1qSb6Xp", 
+                "created_at": "2016-09-24T08:52:53", 
+                "retweet_count": 3, 
+                "id": "779604506958934016", 
+                "favorite_count": 6
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99823141, 
+                    40.74062749
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 250490358.0, 
+                    "type": "yes", 
+                    "id": 82189.0, 
+                    "name": "The Standard"
+                }, 
+                {
+                    "osm_id": 264624913.0, 
+                    "type": "apartments", 
+                    "id": 84147.0, 
+                    "name": "The Thomas Eddy"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 311665216.0, 
+                    "type": "office", 
+                    "id": 126069.0, 
+                    "name": "Marine 1"
+                }, 
+                {
+                    "osm_id": 351317831.0, 
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "my bestfriends birthday. @ARIANADREAMBIG #23on23 #libragang @ Cafeteria Restaurant https://t.co/lw92Y733zM", 
+                "created_at": "2016-09-24T05:32:03", 
+                "retweet_count": 0, 
+                "id": "779553964677173248", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99289351, 
+                    40.75051355
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Aniston on Wednesday. #wcw @ Madison Square Garden https://t.co/buSb9ZKJx7", 
+                "created_at": "2016-09-21T17:48:44", 
+                "retweet_count": 0, 
+                "id": "778652193305993218", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01611111, 
+                    40.8975
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "In 10 min. #RSS2 will be available on datpiff.hnhh.soundcloud. #MixtapeInk @ Teaneck, New Jersey https://t.co/4drRChswgI", 
+                "created_at": "2016-09-20T18:50:13", 
+                "retweet_count": 1, 
+                "id": "778305280551432192", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9675, 
+                    40.7779
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#rocketshipshawty \ud83d\ude80\ud83d\ude80 #RSS2 : Dropping at 3pm EST. @ Manhattan, New York https://t.co/vZ099DxgEU", 
+                "created_at": "2016-09-20T17:46:34", 
+                "retweet_count": 3, 
+                "id": "778289260478668800", 
+                "favorite_count": 7
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.1629, 
+                    40.9155
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "flashbackfriday. Somewhere in London. DONT ASK. @ Paterson, New Jersey https://t.co/lF2V3qpRJM", 
+                "created_at": "2016-09-16T16:12:19", 
+                "retweet_count": 0, 
+                "id": "776815993003790340", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.1629, 
+                    40.9155
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "mondaymood. #blackrose @ Paterson, New Jersey https://t.co/fl4J7WcaAb", 
+                "created_at": "2016-09-05T16:08:56", 
+                "retweet_count": 2, 
+                "id": "772828872672817152", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.34, 
+                    34.12
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "someone sent me this video and it gave me chills. sold out show in Paris a few years back.\u2026 https://t.co/5Up9fBh2pu", 
+                "created_at": "2016-08-25T20:36:25", 
+                "retweet_count": 1, 
+                "id": "768909920183918593", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.34, 
+                    34.12
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy 38th Birthday to the G.O.A.T. @kobebryant @ Hollywood Hills https://t.co/Ql91Zl761Z", 
+                "created_at": "2016-08-23T13:15:12", 
+                "retweet_count": 2, 
+                "id": "768074111054712832", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.25076547, 
+                    34.04634507
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "posting old shit. because I can. \ud83d\ude09 @ Downtown Los Angeles https://t.co/zSuj9Qv9SL", 
+                "created_at": "2016-07-19T21:03:38", 
+                "retweet_count": 0, 
+                "id": "755508417687609344", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.37828456, 
+                    34.0885711
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I think Ink back on his mixtape shxt. All these recent releases are super \ud83c\udf0a\ud83c\udf0a. #GoldenEye on\u2026 https://t.co/buXN4f0u2p", 
+                "created_at": "2016-07-18T20:44:21", 
+                "retweet_count": 2, 
+                "id": "755141179985973248", 
+                "favorite_count": 8
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3509, 
+                    34.12006
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "snapchat : iamdjtech @ Hollywood Hills West https://t.co/O5YJtIg7BS", 
+                "created_at": "2016-07-12T01:19:31", 
+                "retweet_count": 0, 
+                "id": "752673709723312128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.243, 
+                    34.0522
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "proud of the brodie. the definition of not givin' a fuck and gettin ya own. solid project right\u2026 https://t.co/z26Zu21Jzq", 
+                "created_at": "2016-07-08T04:39:30", 
+                "retweet_count": 1, 
+                "id": "751274485496422400", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.39944444, 
+                    34.07305556
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#RSS2 OTW. @ Beverly Hills, California https://t.co/0b7DYe8Bef", 
+                "created_at": "2016-07-05T19:57:57", 
+                "retweet_count": 2, 
+                "id": "750418459876397056", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.34186, 
+                    33.9583
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "FAMOUS. #KANYEWEST @ The Forum https://t.co/0x5SQ1vJQq", 
+                "created_at": "2016-06-25T03:41:52", 
+                "retweet_count": 1, 
+                "id": "746548941424992256", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.26604059, 
+                    34.04442277
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Starting this BET weekend right. ill be here Saturday. LA come show out. #betawards2016 @ L.A. LIVE https://t.co/gkGpZgJa7P", 
+                "created_at": "2016-06-23T19:13:25", 
+                "retweet_count": 1, 
+                "id": "746058598397009920", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.779, 
+                    34.0304
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "twentytwelve. @ Malibu, California https://t.co/DtK1N2liOC", 
+                "created_at": "2016-06-23T10:41:14", 
+                "retweet_count": 1, 
+                "id": "745929702041337857", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.243, 
+                    34.0522
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I love to see people succeed. The homies been killin since they stepped foot in this game.\u2026 https://t.co/CjDj5ya4EB", 
+                "created_at": "2016-06-22T19:50:15", 
+                "retweet_count": 1, 
+                "id": "745705478206824448", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.34, 
+                    34.12
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "missin my partner in crime. \ud83d\udc7b @arianadreambig @ Hollywood Hills https://t.co/1v68uhHvro", 
+                "created_at": "2016-06-05T20:46:54", 
+                "retweet_count": 2, 
+                "id": "739559142654771201", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.158494, 
+                    37.423495
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "bay area. im here today. pull up. @ Stanford University https://t.co/fQSlUsxJ31", 
+                "created_at": "2016-05-21T19:41:35", 
+                "retweet_count": 0, 
+                "id": "734106884806836224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.389544, 
+                    37.615608
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2708 @ San Francisco International Airport (SFO) https://t.co/68fOGMcN1s", 
+                "created_at": "2016-05-21T14:51:22", 
+                "retweet_count": 0, 
+                "id": "734033849403899907", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.87229094, 
+                    40.77526101
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3698871.0, 
+                    "type": "yes", 
+                    "id": 459.0, 
+                    "name": "The Loeb Boathouse"
+                }, 
+                {
+                    "osm_id": 193611211.0, 
+                    "type": "yes", 
+                    "id": 951.0, 
+                    "name": "Equinix NY4 Data Center"
+                }, 
+                {
+                    "osm_id": 241826159.0, 
+                    "type": "yes", 
+                    "id": 3535.0, 
+                    "name": "Kaufman Music Center"
+                }, 
+                {
+                    "osm_id": 266898917.0, 
+                    "type": "yes", 
+                    "id": 95975.0, 
+                    "name": "Permanent Mission of the Republic of the Union of Myanmar to the United Nations"
+                }, 
+                {
+                    "osm_id": 266899004.0, 
+                    "type": "yes", 
+                    "id": 96039.0, 
+                    "name": "Permanent Mission of Mongolia to the United Nations"
+                }, 
+                {
+                    "osm_id": 266927303.0, 
+                    "type": "church", 
+                    "id": 97687.0, 
+                    "name": "Church of All Souls"
+                }, 
+                {
+                    "osm_id": 269224892.0, 
+                    "type": "apartments", 
+                    "id": 98057.0, 
+                    "name": "The Copely"
+                }, 
+                {
+                    "osm_id": 269224896.0, 
+                    "type": "apartments", 
+                    "id": 98140.0, 
+                    "name": "The Park Millennium"
+                }, 
+                {
+                    "osm_id": 269233311.0, 
+                    "type": "yes", 
+                    "id": 98343.0, 
+                    "name": "150 Amsterdam Avenue"
+                }, 
+                {
+                    "osm_id": 281114242.0, 
+                    "type": "yes", 
+                    "id": 123613.0, 
+                    "name": "Macy's Secaucus Distribution Center"
+                }, 
+                {
+                    "osm_id": 366521782.0, 
+                    "type": "retail", 
+                    "id": 126397.0, 
+                    "name": "Columbia Park Theaters"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "next saturday i'll be performing live @stanford x @jeremih @metroboomin #blackfest @ LaGuardia\u2026 https://t.co/7VQ1mMs42z", 
+                "created_at": "2016-05-14T19:07:44", 
+                "retweet_count": 2, 
+                "id": "731561654555566080", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.8667, 
+                    40.85
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "what's your Snapchat? trying to follow some new interesting people. - iamdjtech @ Bronx, New York https://t.co/TesCVCMEbD", 
+                "created_at": "2016-05-05T14:38:55", 
+                "retweet_count": 2, 
+                "id": "728232512032485376", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -104.673738, 
+                    39.855096
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "support the homies and checkout this game they created. shit is really dope. @complexcarter &amp;\u2026 https://t.co/68nA1wfkdP", 
+                "created_at": "2016-05-03T17:51:09", 
+                "retweet_count": 2, 
+                "id": "727556113571311616", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.35241356, 
+                    34.19634893
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "i never check a bag. can't trust em' \ud83d\ude24 | snapchat : iamdjtech @ Burbank Bob Hope Airport (BUR) https://t.co/z1ijIwMfH6", 
+                "created_at": "2016-05-03T13:52:10", 
+                "retweet_count": 1, 
+                "id": "727495970146148352", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3975983, 
+                    33.9442368
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "definitely one of my favorite videos. &amp; yes that's a real lion. \ud83d\ude22 | @Kid_Ink - \"bank\" video out\u2026 https://t.co/UgnFD1Qh5V", 
+                "created_at": "2016-05-02T10:26:03", 
+                "retweet_count": 1, 
+                "id": "727081713608708096", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3291397, 
+                    34.0970192
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@arianadreambig (snapchat) - iamdjtech : happy birthday killa @kat_pasion @ Le Jardin https://t.co/KaoRdUBTYU", 
+                "created_at": "2016-04-15T22:28:35", 
+                "retweet_count": 0, 
+                "id": "721102948730671105", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.26714999, 
+                    34.04333238
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "kanyes happy. im  happy. life is good. #thankyoukobe \ud83d\udc10 @ Staples Center https://t.co/vGusr2tjNg", 
+                "created_at": "2016-04-14T06:44:35", 
+                "retweet_count": 2, 
+                "id": "720502996845662208", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.26476244, 
+                    34.05011134
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "closer look at @thaalumni spring bomber. @ Warner Bros. Studios https://t.co/7xFZyloUub", 
+                "created_at": "2016-03-31T20:53:39", 
+                "retweet_count": 3, 
+                "id": "715643242549633024", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.335839, 
+                    34.1017
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a video @ Project Club LA https://t.co/tVCTWhUmTW", 
+                "created_at": "2016-02-28T10:10:39", 
+                "retweet_count": 0, 
+                "id": "703885015117991936", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.2540283, 
+                    34.0439682
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@suspendmag x @whatthehellz #grammyweek @arianadreambig @ Globe Theatre https://t.co/SROuIwGLq7", 
+                "created_at": "2016-02-13T08:42:28", 
+                "retweet_count": 1, 
+                "id": "698427005616848896", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97585645, 
+                    40.68306273
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250992428.0, 
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "my view from my first hockey game. courtesy of @keegandcarter : \ud83d\ude4f #courtsideclub @ Barclays Center https://t.co/SEpgd0DSvP", 
+                "created_at": "2016-01-13T06:16:30", 
+                "retweet_count": 0, 
+                "id": "687156245959172096", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.155123, 
+                    40.935186
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#SummerInTheWinter out now. this been my favorite record for a couple of months. #goodidea @ City\u2026 https://t.co/Ekkb7w8gkh", 
+                "created_at": "2015-12-28T22:47:28", 
+                "retweet_count": 0, 
+                "id": "681607425590439937", 
+                "favorite_count": 7
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.25212471, 
+                    34.04476003
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a video @ DTLA https://t.co/RzmeHc4KrB", 
+                "created_at": "2015-12-21T07:55:04", 
+                "retweet_count": 1, 
+                "id": "678846128935292928", 
+                "favorite_count": 6
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.2502899, 
+                    34.0543137
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Takashi Murakami. @ The Broad https://t.co/Smxqlyv7xw", 
+                "created_at": "2015-11-20T03:05:08", 
+                "retweet_count": 3, 
+                "id": "667539143988113408", 
+                "favorite_count": 7
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.13333, 
+                    52.6333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thank You God, for allowing me to see another year. #24 #YoungKobe @ Leicester, United Kingdom https://t.co/eIavVBsyJO", 
+                "created_at": "2015-10-14T21:57:24", 
+                "retweet_count": 0, 
+                "id": "654415735154999296", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.65792763, 
+                    30.32007668
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "wednesday. @arianadreambig @ Ruth's Chris Steak House https://t.co/JO3byfftvh", 
+                "created_at": "2015-09-02T22:40:54", 
+                "retweet_count": 2, 
+                "id": "639206391970963456", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.77888889, 
+                    40.63972222
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ John F. Kennedy International Airport https://t.co/q5N0mFQGKC", 
+                "created_at": "2015-08-26T11:16:39", 
+                "retweet_count": 3, 
+                "id": "636497481258377216", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.63372173, 
+                    41.87981122
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#FreeBiggChuck @ Chicago Harbour https://t.co/UZIfrb421U", 
+                "created_at": "2015-08-14T09:14:39", 
+                "retweet_count": 4, 
+                "id": "632118124389773312", 
+                "favorite_count": 8
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.78791914, 
+                    41.70231583
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Follow me on Snapchat for exclusive shxt. - iamdjtech - #HellOfANite @ Downtown Chicago https://t.co/gH2BoCw7SJ", 
+                "created_at": "2015-08-14T01:18:08", 
+                "retweet_count": 2, 
+                "id": "631998206210084865", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.19980386, 
+                    40.91168105
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Gelotti's https://t.co/2Kn8illdo8", 
+                "created_at": "2015-07-19T22:19:28", 
+                "retweet_count": 3, 
+                "id": "622893546039824384", 
+                "favorite_count": 6
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.1629, 
+                    40.9155
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "my nigga. its waaaay too hot. @ Paterson, New Jersey https://t.co/vMmyJnIlAj", 
+                "created_at": "2015-07-19T20:31:29", 
+                "retweet_count": 1, 
+                "id": "622866369370030080", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.07615772, 
+                    40.9176974
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Garden State Plaza https://t.co/kOgyvMsUcV", 
+                "created_at": "2015-07-16T23:44:49", 
+                "retweet_count": 1, 
+                "id": "621827861784170496", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.35844166, 
+                    34.07217488
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "jersey ninjas. @complexcarter @ The Grove https://t.co/mM2WY1tSGA", 
+                "created_at": "2015-07-15T01:16:50", 
+                "retweet_count": 2, 
+                "id": "621126242142711808", 
+                "favorite_count": 3
+            }
+        }
+    ]
+}

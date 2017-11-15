@@ -1,0 +1,301 @@
+{
+    "total_favorite_count": 23646, 
+    "total_tweets": 11, 
+    "screen_name": "ohheyyitsangel", 
+    "friends_count": 740, 
+    "followers_count": 677, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.19314932, 
+                    42.59537877
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "the best girls come from the GR845  \ud83d\ude1c @ SUNY Cortland https://t.co/setv1kRapt", 
+                "created_at": "2016-11-06T01:43:40", 
+                "retweet_count": 0, 
+                "id": "795079167914242048", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.19278777, 
+                    42.59325981
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "livin' on that calios diet \ud83c\udf55 @ Smith Tower https://t.co/9BfLFcR1Co", 
+                "created_at": "2016-10-23T22:26:00", 
+                "retweet_count": 0, 
+                "id": "790318381094297600", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9923478, 
+                    40.7506734
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 264667030.0, 
+                    "type": "yes", 
+                    "id": 86092.0, 
+                    "name": "James Farley Post Office"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "tb to the day i say my champagne papi \ud83d\ude4f\ud83c\udffe @ Drake &amp; Future Summer\u2026 https://t.co/MKN0f5ukcc", 
+                "created_at": "2016-10-12T22:42:32", 
+                "retweet_count": 0, 
+                "id": "786336278245552129", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.19289362, 
+                    42.59311592
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "u call her Stephanie, i call her Genevieveeeee @ Cortland State\u2026 https://t.co/BsAO550Cgj", 
+                "created_at": "2016-09-30T21:29:23", 
+                "retweet_count": 0, 
+                "id": "781969212122202112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9923478, 
+                    40.7506734
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 264667030.0, 
+                    "type": "yes", 
+                    "id": 86092.0, 
+                    "name": "James Farley Post Office"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "it's all about us right now, girl where u goin? @ Drake &amp; Future\u2026 https://t.co/hbuBAawyD6", 
+                "created_at": "2016-08-06T22:29:20", 
+                "retweet_count": 0, 
+                "id": "762052966794797056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9923478, 
+                    40.7506734
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 264667030.0, 
+                    "type": "yes", 
+                    "id": 86092.0, 
+                    "name": "James Farley Post Office"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "so trust me we'll be out here lookinn for revengeeee @ Drake &amp;\u2026 https://t.co/h5mGyi4AjB", 
+                "created_at": "2016-08-04T23:31:32", 
+                "retweet_count": 0, 
+                "id": "761343845070204929", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96123555, 
+                    41.41600828
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "only pic we have together that we aren't both wasted \ud83d\udc83\ud83c\udffd @ Cold\u2026 https://t.co/zuvntD7V1k", 
+                "created_at": "2016-06-14T19:35:56", 
+                "retweet_count": 0, 
+                "id": "742802774228885504", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9293307, 
+                    41.7024413
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tower Tuesday's have become a national holiday for us\u2026 https://t.co/QPF5oT9ssb", 
+                "created_at": "2016-06-08T21:15:19", 
+                "retweet_count": 0, 
+                "id": "740653455832928256", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9293307, 
+                    41.7024413
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "mixing vodka and emotions @ Union Tavern Pok https://t.co/7UAA2cK57J", 
+                "created_at": "2016-05-18T21:39:01", 
+                "retweet_count": 0, 
+                "id": "733049277560295425", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95444444, 
+                    41.41888889
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Cold Spring, New York https://t.co/Se5gDg5ECa", 
+                "created_at": "2016-03-21T23:38:23", 
+                "retweet_count": 0, 
+                "id": "712060821547982848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92649339, 
+                    41.70135799
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "we don't want no devils in the house, God (yes, Lord) @ Thirty 3\u2026 https://t.co/i4lkbkO0QR", 
+                "created_at": "2016-03-06T23:43:47", 
+                "retweet_count": 0, 
+                "id": "706626360760999936", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

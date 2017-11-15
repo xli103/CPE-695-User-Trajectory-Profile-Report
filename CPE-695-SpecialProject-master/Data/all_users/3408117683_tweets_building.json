@@ -1,0 +1,1164 @@
+{
+    "total_favorite_count": 616, 
+    "total_tweets": 23, 
+    "screen_name": "boreloop", 
+    "friends_count": 939, 
+    "followers_count": 91, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96574877, 
+                    40.63755759
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Remember that Democracy is the worst form of government except for all others. #vote #Ivoted\u2026 https://t.co/5u62IsHEBA", 
+                "created_at": "2016-11-08T12:00:34", 
+                "retweet_count": 0, 
+                "id": "795959191441707008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.994508, 
+                    40.763186
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 265357847.0, 
+                    "type": "yes", 
+                    "id": 90802.0, 
+                    "name": "P.D. O'Hurley's"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Happy Halloween! Have a tired cosplayer. #HappyHalloween #Halloween #Halloweekend #Morpheus\u2026 https://t.co/mLq1nITcNW", 
+                "created_at": "2016-11-01T02:46:45", 
+                "retweet_count": 0, 
+                "id": "793283107063472128", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "More from #NYCC (I swear I'll stop after #Halloween). Ran into this cute #cruelladevil outside\u2026 https://t.co/v1u1b8KQuj", 
+                "created_at": "2016-10-25T02:02:21", 
+                "retweet_count": 0, 
+                "id": "790735218424614912", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "More NYCC pics. That time I met @yayahan. #NYCC #ScarletWitch #Marvel #MarvelComics #CaptainCold\u2026 https://t.co/QKCk9B0V1b", 
+                "created_at": "2016-10-17T05:41:13", 
+                "retweet_count": 0, 
+                "id": "787891191580950532", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ran into #CassieHack from #HackSlash. I don't watch it put cosplays like this might convince me.\u2026 https://t.co/aFAinvonpm", 
+                "created_at": "2016-10-13T00:14:21", 
+                "retweet_count": 0, 
+                "id": "786359381554188289", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Found a pretty cool #roadhog on the show floor. #NYCC #Overwatch #cosplay #Blizzard #NYC @ NYC\u2026 https://t.co/aK5hF7YfDV", 
+                "created_at": "2016-10-12T23:30:30", 
+                "retweet_count": 0, 
+                "id": "786348347309170688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0011794, 
+                    40.75759435
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ran into quite the Black Canary at #NYCC, credit to @sboogaloo for the cosplay. #cosplay #Marvel\u2026 https://t.co/9xz1g3FASY", 
+                "created_at": "2016-10-11T03:07:59", 
+                "retweet_count": 0, 
+                "id": "785678305315938304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00228181, 
+                    40.7573004
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When the @agentsofshield cast decides to walk the floor. #Marvel #NYCC #agentsofshield #nickfury\u2026 https://t.co/ROwxy4oIkL", 
+                "created_at": "2016-10-11T01:21:15", 
+                "retweet_count": 0, 
+                "id": "785651443638366208", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9989066, 
+                    40.755297
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's because I'm cool. #CaptainCold #NYCC #TheFlash #Flash #DCcomics #DC @ New York Comic Con https://t.co/vA8VmVgsIT", 
+                "created_at": "2016-10-09T01:46:01", 
+                "retweet_count": 0, 
+                "id": "784932900806549504", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9932199, 
+                    40.7525199
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264656621.0, 
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm"
+                }, 
+                {
+                    "osm_id": 265258287.0, 
+                    "type": "yes", 
+                    "id": 88209.0, 
+                    "name": "The New Yorker"
+                }, 
+                {
+                    "osm_id": 265258294.0, 
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia"
+                }, 
+                {
+                    "osm_id": 288878360.0, 
+                    "type": "yes", 
+                    "id": 125733.0, 
+                    "name": "Westyard Distribution Center"
+                }, 
+                {
+                    "osm_id": 303603808.0, 
+                    "type": "yes", 
+                    "id": 126049.0, 
+                    "name": "10 Hudson Yards"
+                }, 
+                {
+                    "osm_id": 413978507.0, 
+                    "type": "yes", 
+                    "id": 146511.0, 
+                    "name": "YMCA"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CaptainCold teams up with #Zoom to take down the #Flash. Pretty sure this happened in season 2.\u2026 https://t.co/QYDF9dPnR8", 
+                "created_at": "2016-10-09T01:42:21", 
+                "retweet_count": 0, 
+                "id": "784931977371811848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9923478, 
+                    40.7506734
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 264667030.0, 
+                    "type": "yes", 
+                    "id": 86092.0, 
+                    "name": "James Farley Post Office"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Oh My God, It's Jason Bourne #nycc #MGSTheater #MattDamon #thegreatwall @ Madison Square Garden https://t.co/bSg8XNg6eu", 
+                "created_at": "2016-10-08T17:44:18", 
+                "retweet_count": 0, 
+                "id": "784811671378333696", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.974718, 
+                    40.68637
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 245221036.0, 
+                    "type": "yes", 
+                    "id": 9877.0, 
+                    "name": "Los Paisanos"
+                }, 
+                {
+                    "osm_id": 250979163.0, 
+                    "type": "yes", 
+                    "id": 82903.0, 
+                    "name": "Brooklyn Academy of Music"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This is the size of a regular ice cream at #scoopsandsweets and it only costs $4.50. Fucking\u2026 https://t.co/43LLKbbxaC", 
+                "created_at": "2016-09-24T02:07:33", 
+                "retweet_count": 0, 
+                "id": "779502499757776897", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95767056, 
+                    40.71467017
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3359447.0, 
+                    "type": "yes", 
+                    "id": 117.0, 
+                    "name": "Louis J. Lefkowitz State Office Building"
+                }, 
+                {
+                    "osm_id": -3363386.0, 
+                    "type": "yes", 
+                    "id": 291.0, 
+                    "name": "Amalgamated Dwellings"
+                }, 
+                {
+                    "osm_id": -3696430.0, 
+                    "type": "yes", 
+                    "id": 460.0, 
+                    "name": "New York State Supreme Court"
+                }, 
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 241823871.0, 
+                    "type": "industrial", 
+                    "id": 2821.0, 
+                    "name": "Domino Sugar Refinery"
+                }, 
+                {
+                    "osm_id": 249848313.0, 
+                    "type": "church", 
+                    "id": 36636.0, 
+                    "name": "Church of the Transfiguration"
+                }, 
+                {
+                    "osm_id": 250267911.0, 
+                    "type": "yes", 
+                    "id": 57532.0, 
+                    "name": "Museum at Eldridge Street"
+                }, 
+                {
+                    "osm_id": 250269529.0, 
+                    "type": "yes", 
+                    "id": 57721.0, 
+                    "name": "United States Court of International Trade"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 259759697.0, 
+                    "type": "yes", 
+                    "id": 83579.0, 
+                    "name": "70 Greene Street"
+                }, 
+                {
+                    "osm_id": 259759698.0, 
+                    "type": "yes", 
+                    "id": 83581.0, 
+                    "name": "77 Hudson Street"
+                }, 
+                {
+                    "osm_id": 277890473.0, 
+                    "type": "yes", 
+                    "id": 99030.0, 
+                    "name": "Corner Gourmet 2"
+                }, 
+                {
+                    "osm_id": 277890497.0, 
+                    "type": "yes", 
+                    "id": 99051.0, 
+                    "name": "Lilly O'Briens"
+                }, 
+                {
+                    "osm_id": 277890500.0, 
+                    "type": "yes", 
+                    "id": 99055.0, 
+                    "name": "Pure Green Cleaners"
+                }, 
+                {
+                    "osm_id": 277890515.0, 
+                    "type": "yes", 
+                    "id": 99068.0, 
+                    "name": "125 Barclay Street"
+                }, 
+                {
+                    "osm_id": 277904748.0, 
+                    "type": "yes", 
+                    "id": 99101.0, 
+                    "name": "Raccoon Lodge"
+                }, 
+                {
+                    "osm_id": 278093222.0, 
+                    "type": "yes", 
+                    "id": 99700.0, 
+                    "name": "Ted Weiss Federal Building"
+                }, 
+                {
+                    "osm_id": 278241635.0, 
+                    "type": "yes", 
+                    "id": 99997.0, 
+                    "name": "Confucius Plaza"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "alexandrawarrick on the Williamsburg coast; blue edition. #Williamsburg #NYC #Brooklyn #vscocam\u2026 https://t.co/fA9HkUtKLx", 
+                "created_at": "2016-08-14T20:40:53", 
+                "retweet_count": 0, 
+                "id": "764924778733973504", 
+                "favorite_count": 19
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95767056, 
+                    40.71467017
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3359447.0, 
+                    "type": "yes", 
+                    "id": 117.0, 
+                    "name": "Louis J. Lefkowitz State Office Building"
+                }, 
+                {
+                    "osm_id": -3363386.0, 
+                    "type": "yes", 
+                    "id": 291.0, 
+                    "name": "Amalgamated Dwellings"
+                }, 
+                {
+                    "osm_id": -3696430.0, 
+                    "type": "yes", 
+                    "id": 460.0, 
+                    "name": "New York State Supreme Court"
+                }, 
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 241823871.0, 
+                    "type": "industrial", 
+                    "id": 2821.0, 
+                    "name": "Domino Sugar Refinery"
+                }, 
+                {
+                    "osm_id": 249848313.0, 
+                    "type": "church", 
+                    "id": 36636.0, 
+                    "name": "Church of the Transfiguration"
+                }, 
+                {
+                    "osm_id": 250267911.0, 
+                    "type": "yes", 
+                    "id": 57532.0, 
+                    "name": "Museum at Eldridge Street"
+                }, 
+                {
+                    "osm_id": 250269529.0, 
+                    "type": "yes", 
+                    "id": 57721.0, 
+                    "name": "United States Court of International Trade"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 259759697.0, 
+                    "type": "yes", 
+                    "id": 83579.0, 
+                    "name": "70 Greene Street"
+                }, 
+                {
+                    "osm_id": 259759698.0, 
+                    "type": "yes", 
+                    "id": 83581.0, 
+                    "name": "77 Hudson Street"
+                }, 
+                {
+                    "osm_id": 277890473.0, 
+                    "type": "yes", 
+                    "id": 99030.0, 
+                    "name": "Corner Gourmet 2"
+                }, 
+                {
+                    "osm_id": 277890497.0, 
+                    "type": "yes", 
+                    "id": 99051.0, 
+                    "name": "Lilly O'Briens"
+                }, 
+                {
+                    "osm_id": 277890500.0, 
+                    "type": "yes", 
+                    "id": 99055.0, 
+                    "name": "Pure Green Cleaners"
+                }, 
+                {
+                    "osm_id": 277890515.0, 
+                    "type": "yes", 
+                    "id": 99068.0, 
+                    "name": "125 Barclay Street"
+                }, 
+                {
+                    "osm_id": 277904748.0, 
+                    "type": "yes", 
+                    "id": 99101.0, 
+                    "name": "Raccoon Lodge"
+                }, 
+                {
+                    "osm_id": 278093222.0, 
+                    "type": "yes", 
+                    "id": 99700.0, 
+                    "name": "Ted Weiss Federal Building"
+                }, 
+                {
+                    "osm_id": 278241635.0, 
+                    "type": "yes", 
+                    "id": 99997.0, 
+                    "name": "Confucius Plaza"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My vain attempt to make NY smokestacks look like they're from Cuba. Thanks to alexandrawarrick\u2026 https://t.co/iwzJ54hdSM", 
+                "created_at": "2016-08-14T17:30:29", 
+                "retweet_count": 0, 
+                "id": "764876864057905152", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.16136098, 
+                    32.70686186
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This Rey was amazing, does anybody know who she is? #Reycosplay #cosplay #sdcc2016 #SDCC\u2026 https://t.co/N7jgqJI1rw", 
+                "created_at": "2016-07-28T05:13:30", 
+                "retweet_count": 0, 
+                "id": "758530799419490304", 
+                "favorite_count": 7
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.16136098, 
+                    32.70686186
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First of many pics from my first #SDCC. So glad I got to bring my #Daredevil there, and even\u2026 https://t.co/9ZeKCmm5nm", 
+                "created_at": "2016-07-27T02:09:25", 
+                "retweet_count": 0, 
+                "id": "758122089123553280", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9969864, 
+                    40.7258911
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 249664651.0, 
+                    "type": "apartments", 
+                    "id": 35470.0, 
+                    "name": "Urban Glass House"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When you refuse to let your dreams be dreams. #Allmymovies #NYC #AngelikaFilmCenter #shialabeouf\u2026 https://t.co/qVXNEQwvgb", 
+                "created_at": "2015-11-13T03:12:34", 
+                "retweet_count": 0, 
+                "id": "665004296832983040", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.992576, 
+                    40.68918984
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 32965412.0, 
+                    "type": "yes", 
+                    "id": 579.0, 
+                    "name": "Statue of Liberty"
+                }, 
+                {
+                    "osm_id": 278396518.0, 
+                    "type": "yes", 
+                    "id": 101701.0, 
+                    "name": "Ligget Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just because I'm busy af doesn't mean I can't enjoy myself occasionally. #bareburger #Brooklyn\u2026 https://t.co/1morO7eLLr", 
+                "created_at": "2015-11-06T23:31:31", 
+                "retweet_count": 0, 
+                "id": "662774341206151168", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9940033, 
+                    40.7670021
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 193611193.0, 
+                    "type": "yes", 
+                    "id": 960.0, 
+                    "name": "ArrowPac"
+                }, 
+                {
+                    "osm_id": 193611223.0, 
+                    "type": "yes", 
+                    "id": 992.0, 
+                    "name": "Twin Med"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hyped beyond words. Had an amazing time @thedailyshow with @Trevornoah #TheDailyShow #NYC #Live @ The\u2026 https://t.co/NfUqIWtDZY", 
+                "created_at": "2015-10-23T00:33:50", 
+                "retweet_count": 0, 
+                "id": "657354207872360449", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00118993, 
+                    40.75759585
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "One of the better #Silk cosplays I saw. Would love to know who she actually is so I can properly give\u2026 https://t.co/1gvxYtKOnw", 
+                "created_at": "2015-10-16T01:05:18", 
+                "retweet_count": 0, 
+                "id": "654825409683529728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96459819, 
+                    40.65393945
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 249604397.0, 
+                    "type": "yes", 
+                    "id": 29580.0, 
+                    "name": "Comfort Inn"
+                }, 
+                {
+                    "osm_id": 249604545.0, 
+                    "type": "manufacture", 
+                    "id": 29647.0, 
+                    "name": "Window Fix"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pale Red Dot #SuperBloodMoon #nofilter #shittycamera #Brooklyn #CarlSagan @ Prospect Park, New York, Ny https://t.co/GeFylGhhgi", 
+                "created_at": "2015-09-28T03:04:06", 
+                "retweet_count": 0, 
+                "id": "648332323633668097", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99060588, 
+                    40.73560452
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 27081539.0, 
+                    "type": "yes", 
+                    "id": 552.0, 
+                    "name": "Hoboken Bus Terminal"
+                }, 
+                {
+                    "osm_id": 247862297.0, 
+                    "type": "yes", 
+                    "id": 11524.0, 
+                    "name": "The New School University Center"
+                }, 
+                {
+                    "osm_id": 248773777.0, 
+                    "type": "yes", 
+                    "id": 29043.0, 
+                    "name": "Springler Building"
+                }, 
+                {
+                    "osm_id": 250072971.0, 
+                    "type": "yes", 
+                    "id": 41511.0, 
+                    "name": "Butterfield House"
+                }, 
+                {
+                    "osm_id": 250072761.0, 
+                    "type": "yes", 
+                    "id": 41562.0, 
+                    "name": "The New School"
+                }, 
+                {
+                    "osm_id": 250474273.0, 
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41"
+                }, 
+                {
+                    "osm_id": 250489910.0, 
+                    "type": "yes", 
+                    "id": 81790.0, 
+                    "name": "The Spotted Pig"
+                }, 
+                {
+                    "osm_id": 377078046.0, 
+                    "type": "university", 
+                    "id": 126562.0, 
+                    "name": "The New School University Center"
+                }, 
+                {
+                    "osm_id": 377077898.0, 
+                    "type": "university", 
+                    "id": 126566.0, 
+                    "name": "The New School University Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Daredevil photoshoot preview #nofilter  #yesIseethetag #dgaf #photogfriends #Daredevil #Marvel\u2026 https://t.co/owJZFnP0LW", 
+                "created_at": "2015-09-05T03:54:58", 
+                "retweet_count": 0, 
+                "id": "640010205347102720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99278645, 
+                    40.75052792
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Watching #TL take #TIP from behind. #LCS #LeagueOfLegends #TLWIN #MadisonSquareGarden #NYC #nofilter\u2026 https://t.co/nhpiJ3PqSP", 
+                "created_at": "2015-08-23T04:57:25", 
+                "retweet_count": 0, 
+                "id": "635314881160474624", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "total_favorite_count": 39, 
+    "followers_count": 1315, 
+    "total_tweets": 4, 
+    "user_id": 28904352, 
+    "screen_name": "PreciousLittle", 
+    "friends_count": 524, 
+    "buildings": {
+        "church": 2, 
+        "office": 4, 
+        "apartments": 12
+    }, 
+    "features": [
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory", 
+                    "osm_id": 278069550.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "This is my first time back in New York since my family first immigrated to the United States as\u2026 https://t.co/gLWLUDocXr", 
+            "id": "781669644482392064", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-30T01:39:00", 
+            "coordinates": [
+                -73.99815201, 
+                40.70703413
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation", 
+                    "osm_id": 250490292.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84147.0, 
+                    "name": "The Thomas Eddy", 
+                    "osm_id": 264624913.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 86877.0, 
+                    "name": "Manhattan Promenade", 
+                    "osm_id": 264761242.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87159.0, 
+                    "name": "One Madison", 
+                    "osm_id": 264768910.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "Happy national coffee day! \u2615\ufe0f\ud83d\udc95\ud83d\udc8b #coffee #newyork #friendship #nationalcoffeeday #selfie @ Penn\u2026 https://t.co/odnz8lbyMd", 
+            "id": "781581655488233472", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-29T19:49:22", 
+            "coordinates": [
+                -73.66943954, 
+                40.7404437
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Thomas Eddy", 
+                    "Manhattan Promenade", 
+                    "One Madison", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation", 
+                    "osm_id": 250490292.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84147.0, 
+                    "name": "The Thomas Eddy", 
+                    "osm_id": 264624913.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 86877.0, 
+                    "name": "Manhattan Promenade", 
+                    "osm_id": 264761242.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87159.0, 
+                    "name": "One Madison", 
+                    "osm_id": 264768910.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "Happy national coffee day! \u2615\ufe0f\u270c\ud83c\udffb\ufe0f\ud83d\udc95 #coffee #bffs #nationalcoffeeday #actress #designer #smile @\u2026 https://t.co/UAmPQFbhmf", 
+            "id": "781572401255546884", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T19:12:36", 
+            "coordinates": [
+                -73.66943954, 
+                40.7404437
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Thomas Eddy", 
+                    "Manhattan Promenade", 
+                    "One Madison", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation", 
+                    "osm_id": 250490292.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "My first alcoholic beverage in New York w/ rosina_mae \ud83c\udf79\ud83c\udf7e\ud83c\udf78! #bffs #cocktails #NewYork #drinks\u2026 https://t.co/pPbeUDrknq", 
+            "id": "780956872438415364", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T02:26:42", 
+            "coordinates": [
+                -74.006944, 
+                40.740278
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "Department of Sanitation"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

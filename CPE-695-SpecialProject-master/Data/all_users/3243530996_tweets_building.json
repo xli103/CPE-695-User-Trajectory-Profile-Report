@@ -1,0 +1,490 @@
+{
+    "total_favorite_count": 11710, 
+    "total_tweets": 8, 
+    "screen_name": "natateaaa", 
+    "friends_count": 304, 
+    "followers_count": 342, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0055108, 
+                    40.7177971
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250052732.0, 
+                    "type": "yes", 
+                    "id": 41361.0, 
+                    "name": "60 Hudson Street"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }, 
+                {
+                    "osm_id": 261499928.0, 
+                    "type": "construction", 
+                    "id": 83618.0, 
+                    "name": "56 Leonard Street"
+                }, 
+                {
+                    "osm_id": 311152348.0, 
+                    "type": "yes", 
+                    "id": 126072.0, 
+                    "name": "Independence Plaza III"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "does nyc have four hands now? two on broome &amp; mott and two on church &amp; leonard??? \ud83d\udc50\ud83c\udffb\ud83d\udc50\ud83c\udffb @ Two\u2026 https://t.co/fFV7izbCw5", 
+                "created_at": "2016-10-12T23:56:02", 
+                "retweet_count": 0, 
+                "id": "786354772785795072", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0055108, 
+                    40.7177971
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250052732.0, 
+                    "type": "yes", 
+                    "id": 41361.0, 
+                    "name": "60 Hudson Street"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }, 
+                {
+                    "osm_id": 261499928.0, 
+                    "type": "construction", 
+                    "id": 83618.0, 
+                    "name": "56 Leonard Street"
+                }, 
+                {
+                    "osm_id": 311152348.0, 
+                    "type": "yes", 
+                    "id": 126072.0, 
+                    "name": "Independence Plaza III"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "my brunch bby waitin on his cold brew \u2615\ufe0f @ Two Hands Restaurant &amp; Bar https://t.co/YycGzQZGKT", 
+                "created_at": "2016-10-11T23:21:45", 
+                "retweet_count": 0, 
+                "id": "785983758604263424", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0085763, 
+                    40.7395067
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27151977.0, 
+                    "type": "yes", 
+                    "id": 573.0, 
+                    "name": "W Hotel"
+                }, 
+                {
+                    "osm_id": 288749896.0, 
+                    "type": "yes", 
+                    "id": 125721.0, 
+                    "name": "Whitney Museum of American Art"
+                }, 
+                {
+                    "osm_id": 351317831.0, 
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments"
+                }, 
+                {
+                    "osm_id": 351324370.0, 
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North"
+                }, 
+                {
+                    "osm_id": 396113960.0, 
+                    "type": "yes", 
+                    "id": 127163.0, 
+                    "name": "Supremo"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@whitneymuseum \ud83d\udc99 @ Whitney Museum of American Art https://t.co/vsCQUehmId", 
+                "created_at": "2016-10-11T00:21:57", 
+                "retweet_count": 0, 
+                "id": "785636522083037185", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9713404, 
+                    40.76455173
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 50603780.0, 
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid"
+                }, 
+                {
+                    "osm_id": 193611194.0, 
+                    "type": "yes", 
+                    "id": 939.0, 
+                    "name": "Command Web Offset, Inc."
+                }, 
+                {
+                    "osm_id": 193611197.0, 
+                    "type": "yes", 
+                    "id": 941.0, 
+                    "name": "Goya"
+                }, 
+                {
+                    "osm_id": 193611220.0, 
+                    "type": "yes", 
+                    "id": 961.0, 
+                    "name": "ProLogis"
+                }, 
+                {
+                    "osm_id": 259888103.0, 
+                    "type": "yes", 
+                    "id": 83591.0, 
+                    "name": "250 West 55th Street"
+                }, 
+                {
+                    "osm_id": 259888102.0, 
+                    "type": "yes", 
+                    "id": 83609.0, 
+                    "name": "1717 Broadway"
+                }, 
+                {
+                    "osm_id": 265147728.0, 
+                    "type": "yes", 
+                    "id": 87524.0, 
+                    "name": "Plaza Hotel"
+                }, 
+                {
+                    "osm_id": 265147726.0, 
+                    "type": "yes", 
+                    "id": 87527.0, 
+                    "name": "Park Lane Hotel"
+                }, 
+                {
+                    "osm_id": 265147968.0, 
+                    "type": "apartments", 
+                    "id": 87564.0, 
+                    "name": "58 W 58"
+                }, 
+                {
+                    "osm_id": 265148531.0, 
+                    "type": "hotel", 
+                    "id": 87696.0, 
+                    "name": "Le Parker M\u00e9ridien"
+                }, 
+                {
+                    "osm_id": 265151157.0, 
+                    "type": "yes", 
+                    "id": 87762.0, 
+                    "name": "Park Central Hotel"
+                }, 
+                {
+                    "osm_id": 265151966.0, 
+                    "type": "yes", 
+                    "id": 87811.0, 
+                    "name": "The Metro"
+                }, 
+                {
+                    "osm_id": 265318779.0, 
+                    "type": "yes", 
+                    "id": 89402.0, 
+                    "name": "Manhattan Jeep Chrysler Dodge Ram"
+                }, 
+                {
+                    "osm_id": 265318744.0, 
+                    "type": "yes", 
+                    "id": 89417.0, 
+                    "name": "American Red Cross Greater New York Chaper"
+                }, 
+                {
+                    "osm_id": 265318790.0, 
+                    "type": "yes", 
+                    "id": 89420.0, 
+                    "name": "Skyline Hotel"
+                }, 
+                {
+                    "osm_id": 265325191.0, 
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower"
+                }, 
+                {
+                    "osm_id": 265329550.0, 
+                    "type": "yes", 
+                    "id": 90154.0, 
+                    "name": "St. Benedict the Moor's Church"
+                }, 
+                {
+                    "osm_id": 265345372.0, 
+                    "type": "yes", 
+                    "id": 90285.0, 
+                    "name": "The Harmonie Club"
+                }, 
+                {
+                    "osm_id": 265357846.0, 
+                    "type": "yes", 
+                    "id": 90797.0, 
+                    "name": "Intrepid Museum"
+                }, 
+                {
+                    "osm_id": 266155268.0, 
+                    "type": "yes", 
+                    "id": 93290.0, 
+                    "name": "The Marc"
+                }, 
+                {
+                    "osm_id": 267035000.0, 
+                    "type": "yes", 
+                    "id": 97888.0, 
+                    "name": "Viceroy"
+                }, 
+                {
+                    "osm_id": 278400860.0, 
+                    "type": "yes", 
+                    "id": 101728.0, 
+                    "name": "Port Authority of New York and New Jersey"
+                }, 
+                {
+                    "osm_id": 282863156.0, 
+                    "type": "apartments", 
+                    "id": 125589.0, 
+                    "name": "La Premier"
+                }, 
+                {
+                    "osm_id": 282860708.0, 
+                    "type": "yes", 
+                    "id": 125616.0, 
+                    "name": "Hilton Garden Inn"
+                }, 
+                {
+                    "osm_id": 371377293.0, 
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"natalie what do you even do in new york\"\n\"go into stores I can't afford to take photos\" @ Barney's https://t.co/ejxCM25WzD", 
+                "created_at": "2016-10-09T22:43:38", 
+                "retweet_count": 0, 
+                "id": "785249391871336448", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.000833, 
+                    40.723056
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27111279.0, 
+                    "type": "yes", 
+                    "id": 565.0, 
+                    "name": "B.J.'s"
+                }, 
+                {
+                    "osm_id": 27111280.0, 
+                    "type": "yes", 
+                    "id": 567.0, 
+                    "name": "Shoprite"
+                }, 
+                {
+                    "osm_id": 249664475.0, 
+                    "type": "yes", 
+                    "id": 35365.0, 
+                    "name": "Holland Plaza Building"
+                }, 
+                {
+                    "osm_id": 249664476.0, 
+                    "type": "yes", 
+                    "id": 35383.0, 
+                    "name": "100 6th Ave"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I have no idea what to caption this so I'm just gonna say that I love @e_hazey and nyc but I'm\u2026 https://t.co/4QKAZkzwOt", 
+                "created_at": "2016-10-09T00:31:01", 
+                "retweet_count": 0, 
+                "id": "784914024773189632", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0085763, 
+                    40.7395067
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27151977.0, 
+                    "type": "yes", 
+                    "id": 573.0, 
+                    "name": "W Hotel"
+                }, 
+                {
+                    "osm_id": 288749896.0, 
+                    "type": "yes", 
+                    "id": 125721.0, 
+                    "name": "Whitney Museum of American Art"
+                }, 
+                {
+                    "osm_id": 351317831.0, 
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments"
+                }, 
+                {
+                    "osm_id": 351324370.0, 
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North"
+                }, 
+                {
+                    "osm_id": 396113960.0, 
+                    "type": "yes", 
+                    "id": 127163.0, 
+                    "name": "Supremo"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "she can't be what you need if she's seventeeeeeen\ud83c\udf88\ud83c\udf89\ud83c\udf70 @ Whitney Museum of American Art https://t.co/v0FEyGV9Mb", 
+                "created_at": "2016-10-06T00:23:12", 
+                "retweet_count": 0, 
+                "id": "783824895566163968", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.78309437, 
+                    40.64997819
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "joined the airplane business, it's really takin off and reachin new heights! \u2708\ufe0f @ JFK Terminal 7 https://t.co/zIXV9FbvTj", 
+                "created_at": "2016-10-01T00:51:33", 
+                "retweet_count": 0, 
+                "id": "782020089520332800", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.3524, 
+                    41.1387
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "looking for the lobster rolls #GardenOfNaadam \ud83c\udf7e\ud83c\udf3a\ud83c\udf3f @ Westport, Connecticut https://t.co/oAu9qRyKBY", 
+                "created_at": "2016-07-16T00:04:27", 
+                "retweet_count": 0, 
+                "id": "754104372275978240", 
+                "favorite_count": 1
+            }
+        }
+    ]
+}

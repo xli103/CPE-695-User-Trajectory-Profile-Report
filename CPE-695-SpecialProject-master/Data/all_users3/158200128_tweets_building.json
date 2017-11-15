@@ -1,0 +1,3480 @@
+{
+    "total_favorite_count": 1955, 
+    "followers_count": 1849, 
+    "total_tweets": 95, 
+    "user_id": 158200128, 
+    "screen_name": "MrRoyalGlam", 
+    "friends_count": 1303, 
+    "buildings": {
+        "school": 16, 
+        "theatre": 2, 
+        "office": 6, 
+        "apartments": 101, 
+        "residential": 2, 
+        "civic": 2, 
+        "commercial": 35, 
+        "supermarket": 6, 
+        "church": 7, 
+        "ship": 6, 
+        "retail": 10
+    }, 
+    "features": [
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "This is Gods doing and it's all amusing....ain't no shook hands in Brook-lyn\nArmy fatigue bring\u2026 https://t.co/s5VL2RQD94", 
+            "id": "796668066717433856", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T10:57:23", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "I feel like i just got sentenced to a four year bid and After watching the documentary #13th I\u2026 https://t.co/FRPfgEJMbu", 
+            "id": "796350910502993920", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T13:57:07", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Successful lives are days full of making a series of right decisions and building great habits.\u2026 https://t.co/8mlSnydusi", 
+            "id": "795624914661281793", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-07T13:52:16", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "The funny part about this pic our dean and ADP left us  alone for 1minute and 43 seconds.  I\u2026 https://t.co/0IJO2J51e9", 
+            "id": "793476833392066560", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-01T15:36:33", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "Congrats to artisthbtl #TBA out now  and thanks you to the whole #HighBridgeTheLabel for the\u2026 https://t.co/yPO6N6j2Mp", 
+            "id": "791991390439936000", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-28T13:13:56", 
+            "coordinates": [
+                -73.9853394, 
+                40.7546216
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 2.0, 
+                    "name": "The Dakota", 
+                    "osm_id": -1341944.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98419.0, 
+                    "name": "The Bancroft", 
+                    "osm_id": 269247827.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "\"There are thousands of ways to achieve success on life but only a few ways to maintain it\"\u2026 https://t.co/X692l2Er6K", 
+            "id": "791288310723338240", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-26T14:40:09", 
+            "coordinates": [
+                -73.9528, 
+                40.77675
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Dakota", 
+                    "Lincoln Guild", 
+                    "The Bancroft"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "\"we hustle out of a sense of hopelessness, sort of a desperation\u2070Through that desperation, we\u2026 https://t.co/cXBLEGWzdP", 
+            "id": "790925577771507712", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-25T14:38:47", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 2.0, 
+                    "name": "The Dakota", 
+                    "osm_id": -1341944.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98419.0, 
+                    "name": "The Bancroft", 
+                    "osm_id": 269247827.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "Type of time I'm on #TheBougieBrunch thank you so much @ciroc @ Lee Chi https://t.co/FmSZgTP5Ju", 
+            "id": "790319165110362112", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-23T22:29:07", 
+            "coordinates": [
+                -73.9528, 
+                40.77675
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Dakota", 
+                    "Lincoln Guild", 
+                    "The Bancroft"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 2.0, 
+                    "name": "The Dakota", 
+                    "osm_id": -1341944.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98419.0, 
+                    "name": "The Bancroft", 
+                    "osm_id": 269247827.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "Bougie is the brother that wears the crown. \nOWNER JUST LET ME KNOW. FREE MIMOMAS ON HIM UNTIL\u2026 https://t.co/781vWNCyzl", 
+            "id": "790244967209918464", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-23T17:34:16", 
+            "coordinates": [
+                -73.9528, 
+                40.77675
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Dakota", 
+                    "Lincoln Guild", 
+                    "The Bancroft"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86071.0, 
+                    "name": "Public School 33", 
+                    "osm_id": 264667014.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 86325.0, 
+                    "name": "Church of Saint Francis of Assisi", 
+                    "osm_id": 264685193.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe", 
+                    "osm_id": 396820651.0
+                }
+            ], 
+            "text": "The day is upon us! Time to get bougie on em! #TheBougieBrunch  is TOMORROW  for location and to\u2026 https://t.co/sVfrI9xlqo", 
+            "id": "789982591667544064", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-23T00:11:41", 
+            "coordinates": [
+                -73.98711999, 
+                40.74865523
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 33", 
+                    "Christa McAuliffe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Ladies &amp; Gentlemen....all y'all grandmothers would be proud of me right now....Smokey Robinson\u2026 https://t.co/Yaft9qPyMC", 
+            "id": "789487881287004160", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-21T15:25:53", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "A big happy birthday to @revolttv &amp; @iamdiddy from the @breakfastclubam hope y'all see what I\u2026 https://t.co/RATZJ9vUge", 
+            "id": "789460020287111168", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-21T13:35:10", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Moral of the story you can't trust a man that can't choose his\u2026 https://t.co/wcbuUNMICP", 
+            "id": "788756925383081984", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T15:01:20", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Two Brooklyn Brothers.... My whole life I've been saying #GodIsGood .....I was wrong. I met\u2026 https://t.co/WOubREjtCW", 
+            "id": "786566678272438272", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-13T13:58:04", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 389.0, 
+                    "name": "The Buchanan", 
+                    "osm_id": -3572457.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 617.0, 
+                    "name": "Helmsley Building", 
+                    "osm_id": 73850655.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 749.0, 
+                    "name": "245 Park Avenue", 
+                    "osm_id": 144932295.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 29194.0, 
+                    "name": "750 Third Avenue", 
+                    "osm_id": 249041800.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 29210.0, 
+                    "name": "485 Lexington Avenue", 
+                    "osm_id": 249041801.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 88748.0, 
+                    "name": "McDonald's", 
+                    "osm_id": 265282493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 89255.0, 
+                    "name": "1065 Avenue of the Americas", 
+                    "osm_id": 265302121.0
+                }, 
+                {
+                    "type": "residential", 
+                    "id": 91837.0, 
+                    "name": "The Alexander", 
+                    "osm_id": 265490450.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93564.0, 
+                    "name": "Salmon Tower", 
+                    "osm_id": 266170819.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 129286.0, 
+                    "name": "The Shops & Restaurants at Hudson Yards", 
+                    "osm_id": 398440363.0
+                }
+            ], 
+            "text": "From acesnewyork Stripclub straight to the @breakfastclubam... had to pop out for my Zoe\u2026 https://t.co/cgyOIahueP", 
+            "id": "786506570851024896", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-13T09:59:13", 
+            "coordinates": [
+                -73.93018113, 
+                40.75419537
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Helmsley Building", 
+                    "245 Park Avenue", 
+                    "750 Third Avenue", 
+                    "485 Lexington Avenue", 
+                    "1065 Avenue of the Americas", 
+                    "Salmon Tower", 
+                    "The Shops & Restaurants at Hudson Yards"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "retail": 2, 
+                "commercial": 8, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Shoutouts to @kevinhart4real stopped by the breakfastclub I got a chance to produce his promos\u2026 https://t.co/uES064qCSM", 
+            "id": "786230315916333057", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-12T15:41:29", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Happy birthday to my #ZoeBro @zoeydollaz  turn up soon you touch down. Wish you wealth health,\u2026 https://t.co/oOtLaQdNSH", 
+            "id": "786182454923104260", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T12:31:18", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Happy birthday to a real one @zoeydollaz wish you many more wealth and health bro turn up once\u2026 https://t.co/of9PNLU5lf", 
+            "id": "786167748338524161", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T11:32:52", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "If you haven't rsvp'd....the link is in my bio for a very short amount of\u2026 https://t.co/eRveTiSFBC", 
+            "id": "785203844301086720", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-09T19:42:39", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "Running thru my streets with @BobbyV  lol  we was hittin everywhere In and out like a crossover!\u2026 https://t.co/U43zzjVyGO", 
+            "id": "784888645656412160", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-08T22:50:10", 
+            "coordinates": [
+                -73.9853394, 
+                40.7546216
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Deut. 31 v 6 Be strong and courageous. Do not be afraid or terrified because of them, for the\u2026 https://t.co/ZFJNnJb52c", 
+            "id": "784043514933944324", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T14:51:55", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Heartbreaking to hear the news  but a category 4 hurricane anywhere is no Joke but this news\u2026 https://t.co/SIB8CdFp8p", 
+            "id": "783309855234879488", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-04T14:16:37", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 16837.0, 
+                    "name": "The Aston", 
+                    "osm_id": 248143758.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 84993.0, 
+                    "name": "London Towne House", 
+                    "osm_id": 264643867.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87467.0, 
+                    "name": "Marble Collegiate Church", 
+                    "osm_id": 265042551.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125726.0, 
+                    "name": "505W19", 
+                    "osm_id": 288767467.0
+                }
+            ], 
+            "text": "Besides a calm Happy birthday breecooksey ...do I really need a caption? #WelcomeToMyCity\u2026 https://t.co/31S2enrIBe", 
+            "id": "782690713049894912", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-02T21:16:22", 
+            "coordinates": [
+                -73.9838257, 
+                40.745491
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Aston", 
+                    "London Towne House", 
+                    "505W19"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Words I'm ending this year on....Can't Stop Won't Stop, Never Stop, Never Settle....4th\u2026 https://t.co/iEzH7oZR5f", 
+            "id": "782292071046676480", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-01T18:52:18", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Bless God....Productive first three quarters on top Of #TheBreakfastClub everyday in the studio\u2026 https://t.co/WMEUAExtTj", 
+            "id": "782288713896366080", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-01T18:38:58", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "I feel like I'm going to remember writing this one years from now.... Congrats to some real ones\u2026 https://t.co/7ziVvsW22X", 
+            "id": "781970695949541380", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-30T21:35:16", 
+            "coordinates": [
+                -73.9853394, 
+                40.7546216
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Proof that hardwork pays off... dope interview @daveeast today on #TheBreakfastClub Congrats Cro\u2026 https://t.co/DdG2igC9SF", 
+            "id": "781560743300849664", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T18:26:16", 
+            "coordinates": [
+                -74.00499, 
+                40.72008
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "#MOOD my spec @peace_nahla can't do no wrong and lil miss turn up with the verse &amp; Adlibs is too\u2026 https://t.co/VNvWoqQzJX", 
+            "id": "779722116799365121", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-24T16:40:13", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98013.0, 
+                    "name": "The Park Ten", 
+                    "osm_id": 269219553.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98028.0, 
+                    "name": "Liberty Lofts", 
+                    "osm_id": 269212825.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "I got a chance to attend the screening of #TheBirthOfANation Movie never have there been a time\u2026 https://t.co/j3aVJ2FAjO", 
+            "id": "778969635249090560", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T14:50:08", 
+            "coordinates": [
+                -73.97241681, 
+                40.7724876
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Park Ten", 
+                    "The Grand Tier", 
+                    "Liberty Lofts", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "When @wartonberg played this track for me and ralphieblackmon in the studio with\u2026 https://t.co/P4yyWxgIDf", 
+            "id": "776216806465888257", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-15T00:31:22", 
+            "coordinates": [
+                -73.9863699, 
+                40.75476497
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 10023.0, 
+                    "name": "Sensory Kids", 
+                    "osm_id": 245352073.0
+                }
+            ], 
+            "text": "#WaitAMinute @phresher_dgygz GOT A RECORD #PayAttention  #EnergyOnElite  .... SOON GO NATIONAL\u2026 https://t.co/QvmdWCaqu7", 
+            "id": "776058105109020673", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-14T14:00:45", 
+            "coordinates": [
+                -74.004631, 
+                40.720875
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Sensory Kids"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 10023.0, 
+                    "name": "Sensory Kids", 
+                    "osm_id": 245352073.0
+                }
+            ], 
+            "text": "@iampvnch  BIRTHDAY WAS AN #OOOUUUVVIE \ud83d\udd25\ud83d\udd25\ud83d\udd25 THE BIGGEST ARTISTS UP RIGHT NOW CAME OUT SHOWED LOVE\u2026 https://t.co/r7yk7ygE6Z", 
+            "id": "776056623538274304", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-14T13:54:52", 
+            "coordinates": [
+                -74.004631, 
+                40.720875
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Sensory Kids"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 10023.0, 
+                    "name": "Sensory Kids", 
+                    "osm_id": 245352073.0
+                }
+            ], 
+            "text": "@iampvnch BIRTHDAY WAS AN #OOOUUUVIEE  \ud83d\udd25\ud83d\udd25\ud83d\udd25 THE BIGGEST ARTISTS FROM MY CITY CAME OUT TO SHOW\u2026 https://t.co/rbyKilAj1a", 
+            "id": "776046645247082496", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-14T13:15:13", 
+            "coordinates": [
+                -74.004631, 
+                40.720875
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Sensory Kids"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 10023.0, 
+                    "name": "Sensory Kids", 
+                    "osm_id": 245352073.0
+                }
+            ], 
+            "text": "@iampvnch BIRTHDAY WAS AN #OOOUUUVIEEE \ud83d\udd25\ud83d\udd25\ud83d\udd25 THE BIGGEST ARTISTS FROM MY CITY CAME OUT TO SHOW\u2026 https://t.co/ZSrFDcRwWY", 
+            "id": "776039820741181441", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-14T12:48:06", 
+            "coordinates": [
+                -74.004631, 
+                40.720875
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Sensory Kids"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "Facto! \ud83d\ude02 @ Sean Combs Enterprises https://t.co/oaGj0ALqWy", 
+            "id": "775747868623826945", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-13T17:27:59", 
+            "coordinates": [
+                -73.9863699, 
+                40.75476497
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 10023.0, 
+                    "name": "Sensory Kids", 
+                    "osm_id": 245352073.0
+                }
+            ], 
+            "text": "Everything we living now we dreamed it...#ItsOurTurnNow #LetsGetIt #RevoltTV #CirocBoys\u2026 https://t.co/YEzUrXDP7L", 
+            "id": "775326860909641728", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-12T13:35:03", 
+            "coordinates": [
+                -74.00476, 
+                40.72095
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Sensory Kids"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 10023.0, 
+                    "name": "Sensory Kids", 
+                    "osm_id": 245352073.0
+                }
+            ], 
+            "text": "I'm in the field with my Haitians!!!! @lajanslim #Zoes \ud83c\udded\ud83c\uddf9\ud83c\udded\ud83c\uddf9\ud83c\udded\ud83c\uddf9\ud83c\udded\ud83c\uddf9 #RevoltTV @ HAUS https://t.co/Kh6Z43xU1s", 
+            "id": "773919146870468609", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-08T16:21:17", 
+            "coordinates": [
+                -74.00476, 
+                40.72095
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Sensory Kids"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Lol why didn't i at least turn my head lol #BadBoy4Life #BadBoyReunionTour @ Madison Square Garden https://t.co/jAbr1z5Klg", 
+            "id": "773659763808886784", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-07T23:10:36", 
+            "coordinates": [
+                -73.99289351, 
+                40.75051355
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "\"&amp; if you wasn't here Bwoy...its US over YOU...\" #BadBoyReunionTour @ Madison Square Garden https://t.co/hvWAMoy2Xq", 
+            "id": "773545041918918656", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-07T15:34:44", 
+            "coordinates": [
+                -73.99289351, 
+                40.75051355
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "Let me give u some cloth talk ... THEY\ud83d\udeb7 want u to stay on stage with @djkhaled ...so\u2026 https://t.co/DDpK0EkEud", 
+            "id": "771409920084279297", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-01T18:10:31", 
+            "coordinates": [
+                -73.99592075, 
+                40.76474988
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "ship", 
+                "name": [
+                    "USS Intrepid"
+                ]
+            }, 
+            "building_frequency": {
+                "ship": 2, 
+                "supermarket": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "Let me give u some cloth talk ... THEY\ud83d\udeb7 want u to stay on stage with @djkhaled ...so\u2026 https://t.co/boFcz8ktsg", 
+            "id": "771403543790120961", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-01T17:45:11", 
+            "coordinates": [
+                -73.99592075, 
+                40.76474988
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "ship", 
+                "name": [
+                    "USS Intrepid"
+                ]
+            }, 
+            "building_frequency": {
+                "ship": 2, 
+                "supermarket": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 584.0, 
+                    "name": "\u5e1d\u570b\u5927\u5ec8", 
+                    "osm_id": 34633854.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 851.0, 
+                    "name": "The Magellan", 
+                    "osm_id": 159886327.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 86071.0, 
+                    "name": "Public School 33", 
+                    "osm_id": 264667014.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 86197.0, 
+                    "name": "Church of St. John the Baptist", 
+                    "osm_id": 264678414.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 86325.0, 
+                    "name": "Church of Saint Francis of Assisi", 
+                    "osm_id": 264685193.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe", 
+                    "osm_id": 396820651.0
+                }
+            ], 
+            "text": "The Summer is not over yet, we still have 2 more dope ass bbq's to go. First is this Sat we are\u2026 https://t.co/x2W1rnTVmc", 
+            "id": "771134509144281092", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-31T23:56:08", 
+            "coordinates": [
+                -73.98577249, 
+                40.7488343
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 33", 
+                    "Christa McAuliffe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 3, 
+                "church": 3, 
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I used to hear arbernard say this for years, It only hit me 3 years ago and I'm facing it now\u2026 https://t.co/pxbjoYwBKR", 
+            "id": "770666119011196928", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-30T16:54:55", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "\"People always asking me the key...\" #CirocMango #WhyNot #CirocGotTheKeys #TheKeys #TheKeys\u2026 https://t.co/jwLdE51hg5", 
+            "id": "769585129685676032", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-27T17:19:27", 
+            "coordinates": [
+                -73.98615506, 
+                40.75465289
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Keep the lights on....&amp; we gonna be alright \ud83d\udca1#LoyaltyOverRoyalty #RoyaltyOverNormalcy\u2026 https://t.co/mMpG9U8kCJ", 
+            "id": "769161742173736960", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-26T13:17:04", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "So I...\"Jerrod\" Got a chance to sit down with the Beautiful @maggiecarrie She's dope, real down\u2026 https://t.co/wKZ7t0F3CW", 
+            "id": "768866094069133312", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-25T17:42:16", 
+            "coordinates": [
+                -73.9853394, 
+                40.7546216
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90009.0, 
+                    "name": "Stella Tower", 
+                    "osm_id": 265325191.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 90161.0, 
+                    "name": "Public School 58", 
+                    "osm_id": 265329549.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "Because the 5 letters on your vodka should spell out @ciroc anything else is uncivilized. We\u2026 https://t.co/UtwPhQTrYw", 
+            "id": "766632595924873216", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-19T13:47:08", 
+            "coordinates": [
+                -73.98222027, 
+                40.76444351
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "ship", 
+                "name": [
+                    "USS Intrepid"
+                ]
+            }, 
+            "building_frequency": {
+                "ship": 2, 
+                "school": 2, 
+                "supermarket": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Currently in the studio shooting @breakfastclubam this my #MOOD you should tune in....only on\u2026 https://t.co/oxCbZGigxv", 
+            "id": "765496815315812352", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-16T10:33:57", 
+            "coordinates": [
+                -74.00527523, 
+                40.72009155
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Got a chance to attend the Private Screening of Survivor's Remorse the energy in here is\u2026 https://t.co/oRsgivH8j1", 
+            "id": "764618172318318592", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-14T00:22:32", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Registration Packages Are Available \n\nRegister for #RMC2016 now!! Use my promo code for 10% off\u2026 https://t.co/RZDRGbtZck", 
+            "id": "764063696083714048", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-12T11:39:15", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "To @djenvy &amp; lovely wife gia_casey Congrats on Baby #Brooklyn from @revolttv! #BlessUp lol\u2026 https://t.co/u2JDqun1PI", 
+            "id": "763684716981649408", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-11T10:33:19", 
+            "coordinates": [
+                -74.00527523, 
+                40.72009155
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Hey YeezyYeezy tell the people how excited you are about hitting #500Episodes on @revolttv\u2026 https://t.co/VbYRHqkoJv", 
+            "id": "761305996451020800", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-04T21:01:08", 
+            "coordinates": [
+                -74.00527523, 
+                40.72009155
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Top 5. Top 5. Top 5....HUNNID!! Meet the @revolttv people that brings the @breakfastclubam to\u2026 https://t.co/JzTqJQgAPH", 
+            "id": "761201659385184260", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-04T14:06:32", 
+            "coordinates": [
+                -74.00527523, 
+                40.72009155
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "It's a celebration this morning... Yes we know &amp; You're right @breakfastclubam has over 5K\u2026 https://t.co/d5yIsM2zkL", 
+            "id": "761179277983375360", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-04T12:37:36", 
+            "coordinates": [
+                -74.00527523, 
+                40.72009155
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 88748.0, 
+                    "name": "McDonald's", 
+                    "osm_id": 265282493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 129286.0, 
+                    "name": "The Shops & Restaurants at Hudson Yards", 
+                    "osm_id": 398440363.0
+                }
+            ], 
+            "text": "I sat down with @rowdyrebelgs9 Father for @revolttv as we posted this questions were uncovered\u2026 https://t.co/U1U3Pt5rnO", 
+            "id": "760826256321568769", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-03T13:14:49", 
+            "coordinates": [
+                -73.98635535, 
+                40.75418397
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "McDonald's"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 2.0, 
+                    "name": "The Dakota", 
+                    "osm_id": -1341944.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98419.0, 
+                    "name": "The Bancroft", 
+                    "osm_id": 269247827.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "My brother thank You m.gino.hasani big bro never let me feel like I'm away from Fam with these\u2026 https://t.co/h15Qsbip3U", 
+            "id": "759885313892315136", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-31T22:55:51", 
+            "coordinates": [
+                -73.9528, 
+                40.77675
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Dakota", 
+                    "Lincoln Guild", 
+                    "The Bancroft"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99401.0, 
+                    "name": "Whitehall Building Annex", 
+                    "osm_id": 278067738.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 103563.0, 
+                    "name": "Yeshiva Ateres Tzvi", 
+                    "osm_id": 279587301.0
+                }
+            ], 
+            "text": "Sunday story for y'all... I went to @Originaldoz to support my brother @black3xcellence &amp;\u2026 https://t.co/I6dm5k608J", 
+            "id": "759789706691407872", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-31T16:35:56", 
+            "coordinates": [
+                -73.927559, 
+                40.705399
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Yeshiva Ateres Tzvi"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "We @revolttv version of the Clipse....with today being @c3hreepo last day at work and in NYC I\u2026 https://t.co/YEKFJIaWfw", 
+            "id": "759266514604285952", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-30T05:56:58", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83601.0, 
+                    "name": "MGM Building", 
+                    "osm_id": 260257168.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83610.0, 
+                    "name": "810 Seventh Avenue", 
+                    "osm_id": 259752482.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87686.0, 
+                    "name": "Burlington House", 
+                    "osm_id": 265150596.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90187.0, 
+                    "name": "Longacre House", 
+                    "osm_id": 265331324.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 90328.0, 
+                    "name": "600 Madison Avenue", 
+                    "osm_id": 265345392.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 93314.0, 
+                    "name": "Times Square Church", 
+                    "osm_id": 266155269.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 101007.0, 
+                    "name": "Tower 53", 
+                    "osm_id": 278346587.0
+                }
+            ], 
+            "text": "Last Night Was #ICONIC I attended @djkhaled Album Release/ Listening Party the ENTIRE city came\u2026 https://t.co/au9IdiOtV0", 
+            "id": "759010873390227456", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-29T13:01:08", 
+            "coordinates": [
+                -73.97184695, 
+                40.76279523
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "MGM Building", 
+                    "810 Seventh Avenue", 
+                    "Burlington House", 
+                    "600 Madison Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 5, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "Let the conversations begins...#AndTheWinnerIs #DontDebateMe #Tough #RapMadness @ Revolt TV https://t.co/POoWkAtLvi", 
+            "id": "757686734213750785", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-25T21:19:29", 
+            "coordinates": [
+                -73.9853394, 
+                40.7546216
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Everyone follow \n@QANUPES For Your Ticket With Custom Wrist Band #QAYachtCruise2016\nThis year's\u2026 https://t.co/1rZ05EqWdp", 
+            "id": "756173649456013312", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-21T17:07:01", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Doing my part and supporting #BlackOwnedBusinesses if you need a job read below shoutouts to\u2026 https://t.co/yvYl6BDOsj", 
+            "id": "756073428470333440", 
+            "favorite_count": 3, 
+            "created_at": "2016-07-21T10:28:47", 
+            "coordinates": [
+                -74.00527523, 
+                40.72009155
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "@cthagod #DonkeyOfTheDay just bugged me out and this quote came to mind....added a little 2016\u2026 https://t.co/PjD5a5Gbzc", 
+            "id": "752480221966794752", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-11T12:30:39", 
+            "coordinates": [
+                -74.00527523, 
+                40.72009155
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I joined the journey to #KnowMyself even better shoutouts to my new #PersonalTrainer\u2026 https://t.co/IyPgGWryaH", 
+            "id": "752469694091845632", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-11T11:48:49", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99376.0, 
+                    "name": "1 Whitehall Street", 
+                    "osm_id": 278053579.0
+                }
+            ], 
+            "text": "I perform like Josh Norman, I ain't normal, nigga #TheLifeOfDeeno #KeepKingin #IGotTheKeys\u2026 https://t.co/9Pn6GwzD3P", 
+            "id": "747797824759283712", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-28T14:24:29", 
+            "coordinates": [
+                -74.01256604, 
+                40.7038699
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "1 Whitehall Street"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "Up early every morning but this morning different #IJustCaughtAVibe We gon Catch Vibes All\u2026 https://t.co/HpzFgJw5Bu", 
+            "id": "745931935680172032", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-23T10:50:06", 
+            "coordinates": [
+                -73.98615506, 
+                40.75465289
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 2.0, 
+                    "name": "The Dakota", 
+                    "osm_id": -1341944.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98419.0, 
+                    "name": "The Bancroft", 
+                    "osm_id": 269247827.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "#TeamLOVE #TheLifeOfDeeno thank you all @ Lee Chi https://t.co/YCsFtCEpMa", 
+            "id": "744626756808744960", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-19T20:23:47", 
+            "coordinates": [
+                -73.9528, 
+                40.77675
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Dakota", 
+                    "Lincoln Guild", 
+                    "The Bancroft"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 2.0, 
+                    "name": "The Dakota", 
+                    "osm_id": -1341944.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98419.0, 
+                    "name": "The Bancroft", 
+                    "osm_id": 269247827.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "Pics and videos are up from #TheLifeOfDeeno my Birthday Celebration Exclusively thelifeofdeeno\u2026 https://t.co/lRhepOL2el", 
+            "id": "744613102545702912", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-19T19:29:32", 
+            "coordinates": [
+                -73.9528, 
+                40.77675
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Dakota", 
+                    "Lincoln Guild", 
+                    "The Bancroft"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }
+            ], 
+            "text": "#AboutLastNight #HappyBirthdayToMe \n#TheLifeOfDeeno #Part2 @mrroyalglam #CrewLoveApproved\u2026 https://t.co/Rg2zKmk284", 
+            "id": "744254989602795520", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-18T19:46:31", 
+            "coordinates": [
+                -73.99285, 
+                40.74115
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grand Chelsea"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 2.0, 
+                    "name": "The Dakota", 
+                    "osm_id": -1341944.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98419.0, 
+                    "name": "The Bancroft", 
+                    "osm_id": 269247827.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "#AboutLastNight A King Was Born. AND A RESTUARANT CLOSED THEIR DOORS TO CELEBRATE ME \n\n@iamdiddy\u2026 https://t.co/4BGDWlDcbk", 
+            "id": "744226589039288324", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-18T17:53:40", 
+            "coordinates": [
+                -73.9528, 
+                40.77675
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Dakota", 
+                    "Lincoln Guild", 
+                    "The Bancroft"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Happy birthday PAC... \n\nPeople wonder why I'm so passionate  and go hard about my life and\u2026 https://t.co/lM7EbI70y5", 
+            "id": "743424080628563968", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-16T12:44:47", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Great birthday present from @xxl to the cro @daveeast it's not by accident you at the top of\u2026 https://t.co/oinifISFUp", 
+            "id": "742375640494641152", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-13T15:18:40", 
+            "coordinates": [
+                -74.00527523, 
+                40.72009155
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway", 
+                    "osm_id": 163629929.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 853.0, 
+                    "name": "280 Park Avenue", 
+                    "osm_id": 161151013.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 858.0, 
+                    "name": "1155 Avenue of the Americas", 
+                    "osm_id": 163631696.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92996.0, 
+                    "name": "575 Fifth Avenue", 
+                    "osm_id": 266010434.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93098.0, 
+                    "name": "New Victory Theater", 
+                    "osm_id": 266034047.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square", 
+                    "osm_id": 266034080.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square", 
+                    "osm_id": 266143341.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 121153.0, 
+                    "name": "Intermediate School 204", 
+                    "osm_id": 280616731.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126047.0, 
+                    "name": "Three Ten", 
+                    "osm_id": 303455693.0
+                }
+            ], 
+            "text": "Royalty Over Normalcy #GodIsGod #SheIsNot #GodIsGood #IamNot shouts to the Queen B beyonce\u2026 https://t.co/W1GilSmJVa", 
+            "id": "740881412774072320", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-09T12:21:08", 
+            "coordinates": [
+                -73.84848022, 
+                40.75649261
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "1500 Broadway", 
+                    "280 Park Avenue", 
+                    "575 Fifth Avenue", 
+                    "3 Times Square", 
+                    "11 Times Square"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "commercial": 6, 
+                "theatre": 2, 
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "Loyalty is hard to find, trust is easy to lose and actions speak louder than words. Judge me by\u2026 https://t.co/ivM5bzcWGc", 
+            "id": "740679496634863616", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-08T22:58:47", 
+            "coordinates": [
+                -73.9863699, 
+                40.75476497
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "Woke up on WORLDSTAR\ud83d\ude02Shoutouts to the phone calls, texts and emails puttin me on! look out for\u2026 https://t.co/RxCx9nBh1a", 
+            "id": "739910787536461824", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-06T20:04:13", 
+            "coordinates": [
+                -73.98615506, 
+                40.75465289
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "I won't change tho I just know now who to guard my heart up against moving forward.\u2026 https://t.co/3sUrtBBTOd", 
+            "id": "739792693660913668", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-06T12:14:57", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "Days like this makes it worth it. Although jam packed I was fortunate enough to meet\u2026 https://t.co/Nx0VcDgLrQ", 
+            "id": "737779559081365505", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-31T22:55:28", 
+            "coordinates": [
+                -73.98615506, 
+                40.75465289
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "\"Released video of shooting last night by the NYPD during T.I. concert at Irving plaza...\"\u2026 https://t.co/5W2BdH0Tv8", 
+            "id": "735965490590437378", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-26T22:47:01", 
+            "coordinates": [
+                -73.9853394, 
+                40.7546216
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "#BeSafeTho @ Combs Enterprise https://t.co/bmPvBNgCe1", 
+            "id": "735666041704087552", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-26T02:57:07", 
+            "coordinates": [
+                -73.98615506, 
+                40.75465289
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "\u203c\ufe0fIt's LIT\u203c\ufe0fCongratulations to @JDior_ and @therealwebstar on there new TV show there looking\u2026 https://t.co/AAm0jphlIm", 
+            "id": "735602280867729408", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-25T22:43:45", 
+            "coordinates": [
+                -73.9853394, 
+                40.7546216
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "-Are you connecting?\n-I feel like I can make a difference... \n-I feel like I can make things\u2026 https://t.co/aUxuxG2BBs", 
+            "id": "735094406110269440", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-24T13:05:38", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }
+            ], 
+            "text": "Look how far we've come Boss @christylezz #Salute to my guyzuh Dopest Host Outside! Went from\u2026 https://t.co/nTGCGdzGuo", 
+            "id": "734767298947469312", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-23T15:25:50", 
+            "coordinates": [
+                -73.9923041, 
+                40.7411563
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grand Chelsea"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }
+            ], 
+            "text": "Don't forget to come out today Sunday and help us launch LIV Bermuda 16! This collective of\u2026 https://t.co/0g6mGkrWwO", 
+            "id": "734436852774674434", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-22T17:32:45", 
+            "coordinates": [
+                -73.9923041, 
+                40.7411563
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grand Chelsea"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "The night hit #TheNextLevel when @iamdiddy &amp; @jamescruz1 told @nickstormciroc tdot25\u2026 https://t.co/Yf1ntVl8Xy", 
+            "id": "734076002314387456", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-21T17:38:52", 
+            "coordinates": [
+                -73.97623105, 
+                40.68304149
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "Big Shoutout to my Zoe @zoeydollaz I got a chance to bring him into @revolttv for #RevoltLive\u2026 https://t.co/mpfBmHez65", 
+            "id": "733638614517751808", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-20T12:40:50", 
+            "coordinates": [
+                -73.98615506, 
+                40.75465289
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Thank you God for another day to it... #ThoughtForTheDay What will people that know you say\u2026 https://t.co/LyfJ5bknTx", 
+            "id": "732158676367216641", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-16T10:40:05", 
+            "coordinates": [
+                -74.00527523, 
+                40.72009155
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "Whole lotta lovin whole lotta bleuroyal  GET YOUR TICKETS  IN MY BIO its #UnapologeticNYC may\u2026 https://t.co/B6jfGuvoVZ", 
+            "id": "730867711937515522", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-12T21:10:16", 
+            "coordinates": [
+                -73.99592075, 
+                40.76474988
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "ship", 
+                "name": [
+                    "USS Intrepid"
+                ]
+            }, 
+            "building_frequency": {
+                "ship": 2, 
+                "supermarket": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "This is what happened last year when I was just INVITED to #Unapologetic THIS YEAR @rico_paysos\u2026 https://t.co/WY0LjuX9FC", 
+            "id": "730394942762328070", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-11T13:51:39", 
+            "coordinates": [
+                -73.99592075, 
+                40.76474988
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "ship", 
+                "name": [
+                    "USS Intrepid"
+                ]
+            }, 
+            "building_frequency": {
+                "ship": 2, 
+                "supermarket": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88531.0, 
+                    "name": "Townsend", 
+                    "osm_id": 265272969.0
+                }
+            ], 
+            "text": "Proud of this one....@revolttv X @RayDay5 @ Sean Combs Enterprises https://t.co/cwTUIPNhqp", 
+            "id": "728587154738253825", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-06T14:08:08", 
+            "coordinates": [
+                -73.9863699, 
+                40.75476497
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Townsend"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation", 
+                    "osm_id": 250490292.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 82355.0, 
+                    "name": "Church of Our Lady of Guadalupe and St. Bernard", 
+                    "osm_id": 250490950.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments", 
+                    "osm_id": 351324339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "Shoutouts to @jaemurphy reaching new heights and flexing in my city l, proud of you but wassup\u2026 https://t.co/IA3MBvJ7gX", 
+            "id": "728311116930023424", 
+            "favorite_count": 3, 
+            "created_at": "2016-05-05T19:51:16", 
+            "coordinates": [
+                -73.99127, 
+                40.74004
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Marine View Apartments", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3, 
+                "office": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Today is a special day on the @breakfastclubam tune into @revolttv and catch the RE-AIR of Rev.\u2026 https://t.co/enthM9a6uG", 
+            "id": "728252125134749696", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-05T15:56:51", 
+            "coordinates": [
+                -74.00527523, 
+                40.72009155
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Keep Calm y'all . @cthagod is safe but #BackAtItAgain pandering the light skinned community with\u2026 https://t.co/fQO1yoWO9G", 
+            "id": "725387647061995520", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-27T18:14:26", 
+            "coordinates": [
+                -74.0049042, 
+                40.71993537
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Shoutouts to @starringlorel up early with the @breakfastclubam &amp; @revolttv  Tune In we got\u2026 https://t.co/w1p4tCJbFS", 
+            "id": "725279567993311232", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-27T11:04:58", 
+            "coordinates": [
+                -74.0049042, 
+                40.71993537
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 58196.0, 
+                    "name": "Our Lady of Good Counsel School", 
+                    "osm_id": 250302849.0
+                }
+            ], 
+            "text": "I'm so proud of these two right here. I'm even more happy that I'm no longer a #Neo Shoutouts to\u2026 https://t.co/z0dYbm4fcW", 
+            "id": "723511264471834625", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-22T13:58:22", 
+            "coordinates": [
+                -73.7750444, 
+                40.68747414
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Our Lady of Good Counsel School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }
+            ], 
+            "text": "Good morning Follow me right now if you want to SEE what happened on the breakfast club @ Power\u2026 https://t.co/Bfc9DRVkMa", 
+            "id": "723487928526221312", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-22T12:25:38", 
+            "coordinates": [
+                -74.0049042, 
+                40.71993537
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grove Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

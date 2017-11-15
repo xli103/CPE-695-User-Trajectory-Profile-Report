@@ -1,0 +1,122 @@
+{
+    "total_favorite_count": 2104, 
+    "followers_count": 596, 
+    "total_tweets": 2, 
+    "user_id": 191711790, 
+    "screen_name": "lastdodd", 
+    "friends_count": 2091, 
+    "buildings": {
+        "commercial": 4, 
+        "theatre": 4, 
+        "apartments": 4
+    }, 
+    "features": [
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93316.0, 
+                    "name": "Cort Theatre", 
+                    "osm_id": 266170541.0
+                }
+            ], 
+            "text": "#SaturdayNightLive \n#SNL @ Saturday Night Live Studio https://t.co/MY9QnVvlhr", 
+            "id": "797018892350722048", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T10:11:26", 
+            "coordinates": [
+                -73.97990661, 
+                40.75925158
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre", 
+                    "Lunt-Fontanne Theatre", 
+                    "Cort Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "theatre": 4, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "@corasonthegreat When You Customize Your Own\u2026 https://t.co/PGs1H7zXfP", 
+            "id": "786333450659831808", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T22:31:18", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

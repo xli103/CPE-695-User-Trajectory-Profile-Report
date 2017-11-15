@@ -1,0 +1,4041 @@
+{
+    "total_favorite_count": 489, 
+    "total_tweets": 147, 
+    "screen_name": "GregBaxtrom", 
+    "friends_count": 454, 
+    "followers_count": 516, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.99515665, 
+                    38.88065636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Road Trip! We will be in #DC Monday night only cooking with @AaronMSilverman, very excited!!! @\u2026 https://t.co/is3VyGczIL", 
+                "created_at": "2016-11-11T22:19:06", 
+                "retweet_count": 0, 
+                "id": "797202016519016448", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Turn that frown upside down with some cozy Spiked Mulled Cider! \ud83d\ude1f#olmsteding  #imwithher @ Olmsted https://t.co/PzagJsszwp", 
+                "created_at": "2016-11-09T22:30:28", 
+                "retweet_count": 0, 
+                "id": "796480101227655172", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9675, 
+                    40.7779
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A quick look into the last #QuestLovesFoodSalon featuring @gregbaxtrom @enriqueolvera\u2026 https://t.co/GIco89YjWy", 
+                "created_at": "2016-11-09T19:08:26", 
+                "retweet_count": 0, 
+                "id": "796429257190866948", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fig fruit leather for the new lamb dish.  I get why people think I look like the guy from\u2026 https://t.co/fXpi9oggiq", 
+                "created_at": "2016-11-08T23:30:07", 
+                "retweet_count": 0, 
+                "id": "796132723895189509", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98444444, 
+                    40.685
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241844600.0, 
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies"
+                }, 
+                {
+                    "osm_id": 241844802.0, 
+                    "type": "yes", 
+                    "id": 7065.0, 
+                    "name": "Dear Fieldbinder"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#imwithher @ Boerum Hill https://t.co/GX6ECCchXg", 
+                "created_at": "2016-11-08T17:28:41", 
+                "retweet_count": 0, 
+                "id": "796041764784271360", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Okay guys. When standing in line to vote in tomorrow's election. Vote for us too!   We are up\u2026 https://t.co/9v7OrYSC1s", 
+                "created_at": "2016-11-07T22:40:03", 
+                "retweet_count": 1, 
+                "id": "795757734562041856", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.99515665, 
+                    38.88065636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "So this is happening!!!!  #Repost @AaronMSilverman Kale Crab Rangoon. Yea that's right. Kale\u2026 https://t.co/hd2um0xMnu", 
+                "created_at": "2016-11-07T17:59:28", 
+                "retweet_count": 0, 
+                "id": "795687124418920449", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Adam Platt just reviewed us for New York Mag! \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f#olmsteding @ Olmsted https://t.co/pVGO4M366Q", 
+                "created_at": "2016-11-07T16:40:02", 
+                "retweet_count": 1, 
+                "id": "795667134789599233", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lamb Porchetta now on the menu!  #coffee #fennel #figs #olmsteding @ Olmsted https://t.co/RQJxhHXgsH", 
+                "created_at": "2016-11-06T22:36:25", 
+                "retweet_count": 0, 
+                "id": "795394434795966464", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Chawanmushi 3.0  roasted Maitake Mushrooms \ud83c\udf44, Smoked Trout Roe, Grated Bottarga.\u2026 https://t.co/C19pxPaXZs", 
+                "created_at": "2016-11-06T16:36:20", 
+                "retweet_count": 0, 
+                "id": "795303815083859968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf36\ud83d\ude21This one has been in the works for a while.  Aji Dulce \"Tabasco\" Hot Sauce.  \ud83c\udf36\ud83d\ude21@elisesp for\u2026 https://t.co/0jZwirIppP", 
+                "created_at": "2016-11-05T21:45:16", 
+                "retweet_count": 0, 
+                "id": "795019176054288384", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udc4bLast week for grilled pork collar covered in melted reading raclette. Topped with guindilla\u2026 https://t.co/3csjX4WAiu", 
+                "created_at": "2016-11-03T16:48:07", 
+                "retweet_count": 0, 
+                "id": "794219616532889600", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.990257, 
+                    40.736693
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3365138.0, 
+                    "type": "yes", 
+                    "id": 342.0, 
+                    "name": "Westbeth Artists Community"
+                }, 
+                {
+                    "osm_id": 248773775.0, 
+                    "type": "yes", 
+                    "id": 29030.0, 
+                    "name": "SGI-USA New York Culture Centre"
+                }, 
+                {
+                    "osm_id": 250471890.0, 
+                    "type": "yes", 
+                    "id": 81012.0, 
+                    "name": "The New School Arnold Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Looks so comfy. @ Union Square Greenmarket https://t.co/P0uQlB4fXq", 
+                "created_at": "2016-11-02T15:56:34", 
+                "retweet_count": 0, 
+                "id": "793844257257848832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Our fro-yo made eater_ny list.  @olmsteding. @ Olmsted https://t.co/Ak7o1fdLDh", 
+                "created_at": "2016-10-30T19:13:42", 
+                "retweet_count": 0, 
+                "id": "792806703548989440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Some pretty kind words from @kludt at eater_ny #olmsteding @ Olmsted https://t.co/FXQO1hguSi", 
+                "created_at": "2016-10-30T01:08:39", 
+                "retweet_count": 0, 
+                "id": "792533642404913154", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Staff training includes s'mores. #olmsteding @ Olmsted https://t.co/um9AiCrPAm", 
+                "created_at": "2016-10-29T21:12:28", 
+                "retweet_count": 0, 
+                "id": "792474203610091520", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Max our GM.  He gets shit done.  #olmsteding max.katzenberg @ Olmsted https://t.co/txTWxvfl9t", 
+                "created_at": "2016-10-29T19:28:11", 
+                "retweet_count": 0, 
+                "id": "792447962626547712", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Enjoying some hot cocoa in the garden #nationalchocolateday #superdorkmug #olmsteding \ud83d\udcf8 by\u2026 https://t.co/LUHthc55ui", 
+                "created_at": "2016-10-28T17:31:02", 
+                "retweet_count": 0, 
+                "id": "792056092645818370", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "That time when @questlove photo-bombed @chefmikeanthony, @junsoo_bae and @gregbaxtrom. #fbf\u2026 https://t.co/afIeOz4LxS", 
+                "created_at": "2016-10-28T15:24:50", 
+                "retweet_count": 1, 
+                "id": "792024332608208896", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ian you crazy bastard!!!  Sweet potatoes \ud83c\udf60 growing in our living wall #olmsteding @ Olmsted https://t.co/HNaKGQ3J9k", 
+                "created_at": "2016-10-27T21:24:08", 
+                "retweet_count": 0, 
+                "id": "791752365066117121", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Repost questlovesfood with repostapp\n\u30fb\u30fb\u30fb\nBig fan of this dish from @gregbaxtrom, the proprietor\u2026 https://t.co/SCpySYO3L6", 
+                "created_at": "2016-10-27T17:28:46", 
+                "retweet_count": 0, 
+                "id": "791693130995208192", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hot chocolate at Olmsted. #olmsteding #stanleythermos #hotchocolate @ Olmsted https://t.co/6DikGoymFG", 
+                "created_at": "2016-10-26T20:15:49", 
+                "retweet_count": 0, 
+                "id": "791372785889185792", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Amazing price and crazy delicious \ud83d\ude0b. Get to rucola for the white truffle pasta mane by\u2026 https://t.co/LbV5p4Qfs0", 
+                "created_at": "2016-10-24T20:22:34", 
+                "retweet_count": 0, 
+                "id": "790649708150657025", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Side-rides for days. #olmsteding @ Olmsted https://t.co/CiABoKWozS", 
+                "created_at": "2016-10-23T02:34:13", 
+                "retweet_count": 0, 
+                "id": "790018459392368640", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dried marshmallow pieces for Swiss-Miss style hot chocolate.  #olmsteding #mrautumnman @ Olmsted https://t.co/s3O46qhh5Y", 
+                "created_at": "2016-10-22T20:58:34", 
+                "retweet_count": 0, 
+                "id": "789933993139503105", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Delicata Vase.  Mace custard set inside.  Sliced pear, crispy speck and fried sage.  #olmsteding\u2026 https://t.co/6dJ79puezw", 
+                "created_at": "2016-10-22T18:33:22", 
+                "retweet_count": 0, 
+                "id": "789897452732186624", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thanks!!! \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f questlovesfood  We are 2.0ing the garden as we speak to keep it cozy for cold\u2026 https://t.co/X4UGGc7k3N", 
+                "created_at": "2016-10-20T20:44:44", 
+                "retweet_count": 0, 
+                "id": "789205733912883200", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The team tasting the first round of s'mores. #olmsteding #smores #prospectpark #prospectheights\u2026 https://t.co/I9D1BHBvVi", 
+                "created_at": "2016-10-20T16:02:28", 
+                "retweet_count": 0, 
+                "id": "789134698538799105", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Testing out a new dessert tonight for the fall program. Carmel Apple Doughnuts \ud83c\udf4e \ud83c\udf69 #olmsteding @\u2026 https://t.co/DclTtg2RAr", 
+                "created_at": "2016-10-19T20:54:03", 
+                "retweet_count": 0, 
+                "id": "788845689488957441", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.99515665, 
+                    38.88065636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "D.C.  You were fun!  The food is delicious and the tourist stuff is actually beautiful. \ud83c\udfdbthank\u2026 https://t.co/ogTdn9GTFL", 
+                "created_at": "2016-10-18T14:48:27", 
+                "retweet_count": 0, 
+                "id": "788391298050904064", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude22\ud83c\udf45Sadly tomato season is coming to an end. Saying by to this guy next week. \ud83d\udc4b Heirloom Tomato\u2026 https://t.co/JMdpRBAcxP", 
+                "created_at": "2016-10-17T15:40:36", 
+                "retweet_count": 0, 
+                "id": "788042032598093824", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We have cozy blankets now \ud83e\udd17 #olmsteding @ Olmsted https://t.co/iMxK2w2seX", 
+                "created_at": "2016-10-15T02:06:17", 
+                "retweet_count": 0, 
+                "id": "787112327141261312", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When I can't find my old recipe notes I just so straight to the source.  #braisedredcabbage\u2026 https://t.co/G8whGxHCVO", 
+                "created_at": "2016-10-14T17:24:31", 
+                "retweet_count": 0, 
+                "id": "786981022802010112", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Now accepting back of house CVs. Contact me greg@olmstednyc.com #olmsteding @ Olmsted https://t.co/SGWOvt2rcQ", 
+                "created_at": "2016-10-13T17:28:43", 
+                "retweet_count": 0, 
+                "id": "786619689086615552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We sexy now \ud83d\udc81\u200d\u2642\ufe0f thanks @zagat @kellydobkin #olmsteding @ Olmsted https://t.co/fDehFSPj14", 
+                "created_at": "2016-10-13T16:52:22", 
+                "retweet_count": 0, 
+                "id": "786610542219816960", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@timeoutnewyork ...Get ready to flood your feed with #foodporn. Pick up a free copy today and\u2026 https://t.co/0HFDNJAzPR", 
+                "created_at": "2016-10-12T17:37:48", 
+                "retweet_count": 0, 
+                "id": "786259589411049472", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Delicata Vase \ud83c\udf3b#olmsteding @ Olmsted https://t.co/8jDoKaOiNE", 
+                "created_at": "2016-10-10T20:55:49", 
+                "retweet_count": 0, 
+                "id": "785584647132549121", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98444444, 
+                    40.685
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241844600.0, 
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies"
+                }, 
+                {
+                    "osm_id": 241844802.0, 
+                    "type": "yes", 
+                    "id": 7065.0, 
+                    "name": "Dear Fieldbinder"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tea at home \ud83c\udfe1 #howdoidothis #olmsteding @ Boerum Hill https://t.co/rCn2M9fbT8", 
+                "created_at": "2016-10-10T15:27:12", 
+                "retweet_count": 0, 
+                "id": "785501946149015552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tortillas are coming.... #olmsteding #rulestherearenorules @ Olmsted https://t.co/RIZoSrtFSn", 
+                "created_at": "2016-10-08T00:36:11", 
+                "retweet_count": 0, 
+                "id": "784552939465633793", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Amazing!!!!  Thanks @timeoutnewyork \n\nWe\u2019re working on our list of the 100 best dishes of year!\u2026 https://t.co/7nps266Vt7", 
+                "created_at": "2016-10-07T21:32:01", 
+                "retweet_count": 0, 
+                "id": "784506593597685760", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Jenny working the drive through window @olmstednyc #sliders #firstbuyout #wedding @ Olmsted https://t.co/0wyPzzMaJa", 
+                "created_at": "2016-10-07T01:03:00", 
+                "retweet_count": 0, 
+                "id": "784197300210044928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Identity crisis is real. Tempura fried scallops, shaved matsutake, pickled young ginger, table\u2026 https://t.co/X69Z3Zwj1m", 
+                "created_at": "2016-10-06T02:20:02", 
+                "retweet_count": 0, 
+                "id": "783854296144150532", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kale Crab Rangoon is happing.  #olmsteding @ Olmsted https://t.co/OeVrfBEpsI", 
+                "created_at": "2016-10-04T22:20:58", 
+                "retweet_count": 0, 
+                "id": "783431747413442564", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\uddfb\ud83c\uddf3 Vietnamese \ud83d\udc19 Squid Salad.  #nosalademoji #olmsteding @ Olmsted https://t.co/hsdaSBwoMq", 
+                "created_at": "2016-10-02T22:46:20", 
+                "retweet_count": 0, 
+                "id": "782713355937124352", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.6514196, 
+                    41.886622
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Shit a_brochu that was some insanely tasty food. Thank you so much for the hospitality @Gachatz\u2026 https://t.co/hdBNvYNqkT", 
+                "created_at": "2016-10-02T17:01:56", 
+                "retweet_count": 1, 
+                "id": "782626681609711617", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.66259, 
+                    41.9142418
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dinner \ud83c\udf74 in a grocery store.  \ud83d\udc4c @tastetalks @ Local Foods Grocer &amp; Distributor https://t.co/ort9cBhfCK", 
+                "created_at": "2016-10-02T01:47:31", 
+                "retweet_count": 0, 
+                "id": "782396561137467392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.6844, 
+                    41.8369
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Umm. David.  Whatcha lookin at?!?!   #creepy @tastetalks @dtposey @ Chicago, Illinois https://t.co/DH1R8OfVqv", 
+                "created_at": "2016-10-01T16:45:47", 
+                "retweet_count": 0, 
+                "id": "782260230512111616", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.6844, 
+                    41.8369
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2708\ufe0f On the flight to Chicago found this!  In-flight Magazine @united #chicago #home @ Chicago,\u2026 https://t.co/ehfF028BNL", 
+                "created_at": "2016-10-01T15:41:56", 
+                "retweet_count": 1, 
+                "id": "782244163152740353", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hobo can test #1. S'mores will be a thing @olmstednyc #olmsteding #smores #garden @ Olmsted https://t.co/7neCZemGT8", 
+                "created_at": "2016-09-30T19:48:24", 
+                "retweet_count": 0, 
+                "id": "781943801208311808", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This is happening at Olmsted!!! Scotched Fig.  #ducksausage #olmsteding @ Olmsted https://t.co/v5irqRElV6", 
+                "created_at": "2016-09-30T18:55:58", 
+                "retweet_count": 0, 
+                "id": "781930606322147328", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Get your vitamins! Kale cocktail.  Kinda healthy.  Mostly tasty.  #olmsteding @ Olmsted https://t.co/ZREyNg3tQF", 
+                "created_at": "2016-09-29T19:07:59", 
+                "retweet_count": 0, 
+                "id": "781571239500472320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98444444, 
+                    40.685
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241844600.0, 
+                    "type": "school", 
+                    "id": 7013.0, 
+                    "name": "School For International Studies"
+                }, 
+                {
+                    "osm_id": 241844802.0, 
+                    "type": "yes", 
+                    "id": 7065.0, 
+                    "name": "Dear Fieldbinder"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Me most nights but with Duck Rillette and watching Futurama. @ Boerum Hill https://t.co/3KKFm1L2Mu", 
+                "created_at": "2016-09-28T04:38:17", 
+                "retweet_count": 1, 
+                "id": "780989987865190400", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can't wait for this!!!! We're teaming up with @elskerestaurant and @olmstednyc this Saturday for\u2026 https://t.co/PVrYq86HR1", 
+                "created_at": "2016-09-27T20:03:09", 
+                "retweet_count": 0, 
+                "id": "780860350489133057", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "New Scallop tonight!  Greek\"ish\" Flavors. @ Olmsted https://t.co/QCa6XJl8SG", 
+                "created_at": "2016-09-23T23:37:43", 
+                "retweet_count": 0, 
+                "id": "779464794499940352", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.8, 
+                    32.7833
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Snack game getting stronger.  @wheatthins #snacks @ Dallas, Texas https://t.co/3RYIPTKRcW", 
+                "created_at": "2016-09-23T03:18:03", 
+                "retweet_count": 0, 
+                "id": "779157856566247424", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.8, 
+                    32.7833
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The snack game is strong after this event.  Grilled King Crab and Wagyu #olmsteding @ Dallas, Texas https://t.co/mpHqpuVu2k", 
+                "created_at": "2016-09-23T02:15:01", 
+                "retweet_count": 0, 
+                "id": "779141992710303748", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.8, 
+                    32.7833
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Matt doing his thing. #leaning #mentor @ Dallas, Texas https://t.co/RKgXnJAPtD", 
+                "created_at": "2016-09-23T01:50:19", 
+                "retweet_count": 0, 
+                "id": "779135777473236992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.8, 
+                    32.7833
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Honored to be apart of this! #olmsteding. #mentor @ Dallas, Texas https://t.co/JGoGRGJeBU", 
+                "created_at": "2016-09-22T21:36:24", 
+                "retweet_count": 0, 
+                "id": "779071875649593345", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Crazy to think it was only a few months ago my father, Ian and I started building this place.\u2026 https://t.co/5oUjo9onzp", 
+                "created_at": "2016-09-21T16:28:49", 
+                "retweet_count": 0, 
+                "id": "778632081312194563", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ian working in his tool shed! \ud83d\udd28 #olmsteding @ Olmsted https://t.co/E7498HWZOq", 
+                "created_at": "2016-09-20T19:48:01", 
+                "retweet_count": 0, 
+                "id": "778319825479274497", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95, 
+                    40.65
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you tell what a person is like by what's in their fridge? #duckconfit #champagne #hotsauce\u2026 https://t.co/HqaC1sB1NL", 
+                "created_at": "2016-09-20T15:27:50", 
+                "retweet_count": 0, 
+                "id": "778254348581298176", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This is going down for family-meal!!! \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55   In 10 minutes it was all gone!   Thanks\u2026 https://t.co/ZgPC0hrgX7", 
+                "created_at": "2016-09-19T20:17:50", 
+                "retweet_count": 0, 
+                "id": "777964943006195713", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Repost @olmstednyc with repostapp\n\u30fb\u30fb\u30fb\nHey Neighbor \ud83d\ude09\n#openingmondays\n#walkinsonly\u2026 https://t.co/UN3IfhfGed", 
+                "created_at": "2016-09-19T19:14:15", 
+                "retweet_count": 0, 
+                "id": "777948939286962176", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Peppers drying for the winter \ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83d\udc81\ud83c\udf36\ud83c\udf36\ud83c\udf36\ud83c\udf36 #olmsteding @ Olmsted https://t.co/eNCDkHMcp6", 
+                "created_at": "2016-09-01T19:20:37", 
+                "retweet_count": 0, 
+                "id": "771427560790065152", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Repost infatuation_nyc with repostapp @infatuation \u30fb\u30fb\u30fb\n@olmstednyc is some of the most\u2026 https://t.co/AFHID1jxBS", 
+                "created_at": "2016-08-30T18:49:16", 
+                "retweet_count": 0, 
+                "id": "770694896214827008", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf45 take \ud83d\udcfd 3. #thirdtimesacharm #tomatoes #howisummer #olmsteding @ Olmsted https://t.co/Gi6MGBcX26", 
+                "created_at": "2016-08-29T23:28:11", 
+                "retweet_count": 0, 
+                "id": "770402700886507520", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gary's eggs on Pain per Peux On @santimetre105 #garyisagirl #olmsteding @ Olmsted https://t.co/NIOXIvVDu1", 
+                "created_at": "2016-08-29T16:01:10", 
+                "retweet_count": 1, 
+                "id": "770290202837417984", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We are looking for 2 strong cooks to join our team.  Email me at Greg@olmstednyc.com #olmsteding\u2026 https://t.co/wKYjp2o2Ey", 
+                "created_at": "2016-08-25T19:57:54", 
+                "retweet_count": 0, 
+                "id": "768900226409259008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We have a pretty dish pit! \ud83d\ude0d #olmsteding #dishpit @ Olmsted https://t.co/Ah70FDOBtg", 
+                "created_at": "2016-08-25T02:56:33", 
+                "retweet_count": 0, 
+                "id": "768643197081968644", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Chawanmushi now with Grilled Fennel, Crispy Baby Artichokes, Burgundy Truffles.\ud83d\udcf8 @evansungnyc\u2026 https://t.co/mo6j4pP4EA", 
+                "created_at": "2016-08-20T20:37:10", 
+                "retweet_count": 1, 
+                "id": "767098171994546177", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude0dColin came to @olmstednyc \ud83d\ude0d #helikedthechawanmushi @ Olmsted https://t.co/GMpmwQmgFb", 
+                "created_at": "2016-08-15T18:46:12", 
+                "retweet_count": 0, 
+                "id": "765258306411696128", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Duck 2X.  Bring back duck ballotine.  \ud83d\udc25 @ Olmsted https://t.co/lDOGaY1Bl9", 
+                "created_at": "2016-08-14T00:28:24", 
+                "retweet_count": 0, 
+                "id": "764619646347669504", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We are so worldly here at Olmsted.\ud83d\ude44 Gobi Pakora Cauliflower. #sweet #spicy #olmsteding @ Olmsted https://t.co/zncLd83aLh", 
+                "created_at": "2016-08-12T19:29:21", 
+                "retweet_count": 0, 
+                "id": "764182002560040961", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We are looking for 1 strong passionate cook to join our team. #olmsteding @ Olmsted https://t.co/pItDeZe9mG", 
+                "created_at": "2016-08-11T17:54:49", 
+                "retweet_count": 0, 
+                "id": "763795823004114944", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sick of the last tomato already.  Let's try this one. @ Olmsted https://t.co/jQG2D0pTyR", 
+                "created_at": "2016-08-10T21:54:52", 
+                "retweet_count": 0, 
+                "id": "763493845514485760", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Free Ranged Quail!!!! #olmsteding @ Olmsted https://t.co/59fkasgRVx", 
+                "created_at": "2016-08-08T21:31:29", 
+                "retweet_count": 0, 
+                "id": "762763184180699136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf53Strawberries are out.  Peaches are in. \ud83c\udf7e\ud83c\udf51Peach Blini Sorbet. #olmsteding \ud83d\udcf8 @evansungnyc @ Olmsted https://t.co/f2vEe5Gxp9", 
+                "created_at": "2016-08-06T14:56:47", 
+                "retweet_count": 1, 
+                "id": "761939078841532416", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tomato salad olmstednyc take one \ud83c\udfa5.  #tomatoes #basil #olmsteding @ Olmsted https://t.co/QqXZykgAG5", 
+                "created_at": "2016-08-05T19:22:32", 
+                "retweet_count": 0, 
+                "id": "761643571489411072", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "What the hell are we going to do with tomatoes this year?!?! \ud83c\udf45\ud83d\ude2c\ud83c\udf45\ud83d\ude2c\ud83c\udf45\ud83d\ude2c @ Olmsted https://t.co/B7b4Jj281W", 
+                "created_at": "2016-08-02T17:54:25", 
+                "retweet_count": 1, 
+                "id": "760534230917079040", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Turning the cucumber swag from the @munchies @vice garden into tasty cocktails by mikebohnmusic\u2026 https://t.co/0k7FrLYs0h", 
+                "created_at": "2016-07-30T20:59:48", 
+                "retweet_count": 0, 
+                "id": "759493721347985408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9906, 
+                    40.73625371
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3365138.0, 
+                    "type": "yes", 
+                    "id": 342.0, 
+                    "name": "Westbeth Artists Community"
+                }, 
+                {
+                    "osm_id": 248773773.0, 
+                    "type": "yes", 
+                    "id": 29033.0, 
+                    "name": "15 East"
+                }, 
+                {
+                    "osm_id": 250474274.0, 
+                    "type": "church", 
+                    "id": 81337.0, 
+                    "name": "Saint John's Church"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Farmer's market fun with @ian_rothman and @evansungnyc #summer #corn #cornyjokes @ Union Square\u2026 https://t.co/R5z4WqkkAC", 
+                "created_at": "2016-07-27T16:27:31", 
+                "retweet_count": 1, 
+                "id": "758338034874081281", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9906, 
+                    40.73625371
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3365138.0, 
+                    "type": "yes", 
+                    "id": 342.0, 
+                    "name": "Westbeth Artists Community"
+                }, 
+                {
+                    "osm_id": 248773773.0, 
+                    "type": "yes", 
+                    "id": 29033.0, 
+                    "name": "15 East"
+                }, 
+                {
+                    "osm_id": 250474274.0, 
+                    "type": "church", 
+                    "id": 81337.0, 
+                    "name": "Saint John's Church"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Farmer market fun with @ian_rothman @evansungnyc #cornyjokes #corn #summer @ Union Square\u2026 https://t.co/ZfZeOdnBFQ", 
+                "created_at": "2016-07-27T16:23:59", 
+                "retweet_count": 0, 
+                "id": "758337145266434052", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "How Quaint.  max.katzenberg our GM tending to the garden.  #olmsteding @ Olmsted https://t.co/dpfUgkRR0w", 
+                "created_at": "2016-07-24T18:43:01", 
+                "retweet_count": 0, 
+                "id": "757284970943635457", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf52Cherry candies\ud83c\udf52\u2714\ufe0f #olmsteding @ Olmsted https://t.co/xVE3mRiDJx", 
+                "created_at": "2016-07-23T16:46:04", 
+                "retweet_count": 0, 
+                "id": "756893150434689024", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gary got out!!!  #freerange @ Olmsted https://t.co/h1qyARWgzF", 
+                "created_at": "2016-07-14T21:40:57", 
+                "retweet_count": 0, 
+                "id": "753705869771169792", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When we can't think of something creative and new we go old-school.           Courgettes Farcies\u2026 https://t.co/SE03QevtqU", 
+                "created_at": "2016-07-13T20:34:52", 
+                "retweet_count": 0, 
+                "id": "753326852467482624", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We are approved!!!  Cocktails by mikebohnmusic start tomorrow at Olmsted.  \ud83c\udf78\ud83d\udc4a\ud83c\udf79 #olmsteding @\u2026 https://t.co/2Od7LYWSFa", 
+                "created_at": "2016-07-12T00:20:46", 
+                "retweet_count": 0, 
+                "id": "752658927544852480", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Channeling my early Alinea days.  #livinginthepast #dontfixwhatsnotbroken #ratatouille @ Olmsted https://t.co/8gDGY8nfyr", 
+                "created_at": "2016-07-09T20:24:25", 
+                "retweet_count": 0, 
+                "id": "751874672527048704", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We started with 2 kinds of white plates....now this!!! #handwashonly #olmsteding @ Olmsted https://t.co/UNvmwhyUnL", 
+                "created_at": "2016-07-09T16:21:06", 
+                "retweet_count": 0, 
+                "id": "751813438259814400", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We turned our crappy salamander into a pizza oven.  A la minute Peata. #repurposed #reused\u2026 https://t.co/6sbMA6pJqw", 
+                "created_at": "2016-07-07T23:37:01", 
+                "retweet_count": 0, 
+                "id": "751198363761213440", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thanks for the swag guys danielasotoinnes @chefdburns    Finally found time to play with both!!!\u2026 https://t.co/QmIxEZBNCX", 
+                "created_at": "2016-07-07T18:15:33", 
+                "retweet_count": 0, 
+                "id": "751117466793836544", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96884, 
+                    40.6771699
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248164200.0, 
+                    "type": "school", 
+                    "id": 20752.0, 
+                    "name": "Helen Owen Carey Child Development Center"
+                }, 
+                {
+                    "osm_id": 250014564.0, 
+                    "type": "yes", 
+                    "id": 41053.0, 
+                    "name": "Kiku"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Showing chef where I keep the Alinea Cookbook. Always close by!  #mentor #olmsteding @ Olmsted https://t.co/crQveB71H8", 
+                "created_at": "2016-07-05T18:05:52", 
+                "retweet_count": 0, 
+                "id": "750390251261165568", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97199059, 
+                    40.6628093
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250426945.0, 
+                    "type": "yes", 
+                    "id": 77725.0, 
+                    "name": "Park Slope Armory"
+                }, 
+                {
+                    "osm_id": 362877634.0, 
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Me laughing while dads working work hard... \ud83d\ude44 #brooklyn #dad #olmstednyc #prospectpark\u2026 https://t.co/5ach8kneDm", 
+                "created_at": "2016-03-25T17:53:39", 
+                "retweet_count": 0, 
+                "id": "713423617908989956", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95, 
+                    40.65
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Are those guys playing Jumanji or something\"? Dad. #brooklyn @ Brooklyn, New York https://t.co/tWAuW7cctC", 
+                "created_at": "2016-03-25T00:22:28", 
+                "retweet_count": 1, 
+                "id": "713159076193157122", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96944444, 
+                    40.67777778
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241846016.0, 
+                    "type": "yes", 
+                    "id": 7513.0, 
+                    "name": "Hess"
+                }, 
+                {
+                    "osm_id": 278372029.0, 
+                    "type": "school", 
+                    "id": 101130.0, 
+                    "name": "Public School 27"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When the Combi doesn't fit and your dad can take down the door and its frame. #olmstednyc\u2026 https://t.co/Z4Iv5yhHbb", 
+                "created_at": "2016-03-23T17:40:32", 
+                "retweet_count": 0, 
+                "id": "712695539855409154", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97199059, 
+                    40.6628093
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250426945.0, 
+                    "type": "yes", 
+                    "id": 77725.0, 
+                    "name": "Park Slope Armory"
+                }, 
+                {
+                    "osm_id": 362877634.0, 
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thanks @brooklynmag for including us!  #olmstednyc #prospectpark #prospectheights @ Prospect Park https://t.co/5aPUiaOwrJ", 
+                "created_at": "2016-03-22T18:37:22", 
+                "retweet_count": 0, 
+                "id": "712347454633590784", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97199059, 
+                    40.6628093
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250426945.0, 
+                    "type": "yes", 
+                    "id": 77725.0, 
+                    "name": "Park Slope Armory"
+                }, 
+                {
+                    "osm_id": 362877634.0, 
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Work smart not hard.   #olmstednyc #prospectpark #prospectheights @ian_rothman @ Prospect Park https://t.co/I9MnWD5TaH", 
+                "created_at": "2016-03-22T16:55:48", 
+                "retweet_count": 0, 
+                "id": "712321893014085633", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97199059, 
+                    40.6628093
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250426945.0, 
+                    "type": "yes", 
+                    "id": 77725.0, 
+                    "name": "Park Slope Armory"
+                }, 
+                {
+                    "osm_id": 362877634.0, 
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Looking for ideas.  #olmstednyc #prospectpark #prospectheights #findingmyinstagramvoice @\u2026 https://t.co/nN4boJfzCb", 
+                "created_at": "2016-03-20T22:45:22", 
+                "retweet_count": 0, 
+                "id": "711685089378377728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96944444, 
+                    40.67777778
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241846016.0, 
+                    "type": "yes", 
+                    "id": 7513.0, 
+                    "name": "Hess"
+                }, 
+                {
+                    "osm_id": 278372029.0, 
+                    "type": "school", 
+                    "id": 101130.0, 
+                    "name": "Public School 27"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When dad agrees the kitchen basement needs a paint job.  #olmstednyc #father #dad #diy @\u2026 https://t.co/JWaOoa3mqx", 
+                "created_at": "2016-03-20T16:42:25", 
+                "retweet_count": 0, 
+                "id": "711593752368947201", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97199059, 
+                    40.6628093
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250426945.0, 
+                    "type": "yes", 
+                    "id": 77725.0, 
+                    "name": "Park Slope Armory"
+                }, 
+                {
+                    "osm_id": 362877634.0, 
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When your Dad is a total badass and can just make something to hide all the plumbing and\u2026 https://t.co/tdVlX5qHJ7", 
+                "created_at": "2016-03-19T22:37:46", 
+                "retweet_count": 0, 
+                "id": "711320787710509056", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97199059, 
+                    40.6628093
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250426945.0, 
+                    "type": "yes", 
+                    "id": 77725.0, 
+                    "name": "Park Slope Armory"
+                }, 
+                {
+                    "osm_id": 362877634.0, 
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ian Rothman kicking ass and taking names. #olmstednycgarden #olmstednyc #prospectpark\u2026 https://t.co/7Jl1QzfpDg", 
+                "created_at": "2016-03-17T23:02:48", 
+                "retweet_count": 0, 
+                "id": "710602313166168064", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97199059, 
+                    40.6628093
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250426945.0, 
+                    "type": "yes", 
+                    "id": 77725.0, 
+                    "name": "Park Slope Armory"
+                }, 
+                {
+                    "osm_id": 362877634.0, 
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ian and dad talking landscaping.  #olmstednyc #prospectpark #prospectheights @ Prospect Park https://t.co/hY3NgLaBoP", 
+                "created_at": "2016-03-17T16:43:17", 
+                "retweet_count": 0, 
+                "id": "710506803642179585", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97199059, 
+                    40.6628093
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250426945.0, 
+                    "type": "yes", 
+                    "id": 77725.0, 
+                    "name": "Park Slope Armory"
+                }, 
+                {
+                    "osm_id": 362877634.0, 
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We made it on #florencefabricant looking ahead list!  #olmstednyc #prospectpark #prospectheights\u2026 https://t.co/aBGQ6CsvVS", 
+                "created_at": "2016-03-16T17:31:38", 
+                "retweet_count": 1, 
+                "id": "710156582831661056", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97199059, 
+                    40.6628093
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250426945.0, 
+                    "type": "yes", 
+                    "id": 77725.0, 
+                    "name": "Park Slope Armory"
+                }, 
+                {
+                    "osm_id": 362877634.0, 
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We are now looking to hire our staff over the coming weeks.  If interested please email me.\u2026 https://t.co/8YT2mVe69e", 
+                "created_at": "2016-03-15T18:57:15", 
+                "retweet_count": 0, 
+                "id": "709815741273534464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97199059, 
+                    40.6628093
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 250426945.0, 
+                    "type": "yes", 
+                    "id": 77725.0, 
+                    "name": "Park Slope Armory"
+                }, 
+                {
+                    "osm_id": 362877634.0, 
+                    "type": "industrial", 
+                    "id": 126393.0, 
+                    "name": "Gowanus Power Plant"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Treat it like it's yours and someday it will be\" @jonathanbenno @ Prospect Park https://t.co/hK2SQNe6MQ", 
+                "created_at": "2016-03-15T12:01:44", 
+                "retweet_count": 0, 
+                "id": "709711175425138689", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97962, 
+                    40.66154
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 249634654.0, 
+                    "type": "yes", 
+                    "id": 34015.0, 
+                    "name": "Pavillion Theater"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Evening plans.  #notfood @ The Pavilion 9 Brooklyn Cineplex https://t.co/czb22Dol8x", 
+                "created_at": "2016-03-08T00:33:42", 
+                "retweet_count": 0, 
+                "id": "707001311036903424", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39251, 
+                    37.77973
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dreamt last night about this beet course at Saison last summer. @saison johnnyadaoortiz\u2026 https://t.co/igIkbGyhxu", 
+                "created_at": "2016-02-13T14:40:14", 
+                "retweet_count": 0, 
+                "id": "698517039586136064", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9822311, 
+                    40.6796455
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241834635.0, 
+                    "type": "school", 
+                    "id": 4775.0, 
+                    "name": "Public School K146 Brooklyn New School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Jack Black is my teacher.  Not really.  jackblack42. #istillstrugglewithdaytripper #thebeatles\u2026 https://t.co/CHGeIAqs0B", 
+                "created_at": "2016-02-11T19:48:34", 
+                "retweet_count": 1, 
+                "id": "697869858369880066", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00844, 
+                    40.65029
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Way to crush a meal gregorybarr.  Can't remember the last time I had en papillote table-side. @\u2026 https://t.co/ltYiyU6dyc", 
+                "created_at": "2016-02-11T03:15:04", 
+                "retweet_count": 0, 
+                "id": "697619837137350657", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99055556, 
+                    40.73555556
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 27081539.0, 
+                    "type": "yes", 
+                    "id": 552.0, 
+                    "name": "Hoboken Bus Terminal"
+                }, 
+                {
+                    "osm_id": 247862299.0, 
+                    "type": "yes", 
+                    "id": 11499.0, 
+                    "name": "Joe Coffee"
+                }, 
+                {
+                    "osm_id": 247862297.0, 
+                    "type": "yes", 
+                    "id": 11524.0, 
+                    "name": "The New School University Center"
+                }, 
+                {
+                    "osm_id": 248773777.0, 
+                    "type": "yes", 
+                    "id": 29043.0, 
+                    "name": "Springler Building"
+                }, 
+                {
+                    "osm_id": 250072971.0, 
+                    "type": "yes", 
+                    "id": 41511.0, 
+                    "name": "Butterfield House"
+                }, 
+                {
+                    "osm_id": 250072761.0, 
+                    "type": "yes", 
+                    "id": 41562.0, 
+                    "name": "The New School"
+                }, 
+                {
+                    "osm_id": 250474273.0, 
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41"
+                }, 
+                {
+                    "osm_id": 377078046.0, 
+                    "type": "university", 
+                    "id": 126562.0, 
+                    "name": "The New School University Center"
+                }, 
+                {
+                    "osm_id": 377077898.0, 
+                    "type": "university", 
+                    "id": 126566.0, 
+                    "name": "The New School University Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Corey Chow crushing the fry station with cheese burger spring-rolls and empanadas!   #superbowl\u2026 https://t.co/ZrD7IJOa0T", 
+                "created_at": "2016-02-08T00:43:29", 
+                "retweet_count": 2, 
+                "id": "696494522419781633", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.6844, 
+                    41.8369
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Me in my element.  #futurama #fry #cheezits #family #nephews #captianamerica #home @ Chicago, Illinois https://t.co/s0aurL1nMH", 
+                "created_at": "2015-10-31T23:13:54", 
+                "retweet_count": 0, 
+                "id": "660595582944301057", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.18613413, 
+                    40.96290805
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\udc40\ud83d\ude31\ud83c\udf5e#findingmyinstagramvoice #icecream #icecreamsandwich #laborday @ East Hampton, Long Island https://t.co/kdLcPraOvX", 
+                "created_at": "2015-09-07T19:13:03", 
+                "retweet_count": 0, 
+                "id": "640966023815036928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99928759, 
+                    40.73352265
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thank you so much chef sung.shim for a great meal @netanyc what a great year for you!!!! @ Neta https://t.co/wt0a40oEnB", 
+                "created_at": "2015-08-18T02:58:47", 
+                "retweet_count": 1, 
+                "id": "633473085946101760", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.1989, 
+                    40.957
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Si Se Puede! Yes we Flan! \n#findingmyinstagramvoice @ East Hampton, New York https://t.co/uJDSnn3V4L", 
+                "created_at": "2015-08-15T17:41:16", 
+                "retweet_count": 0, 
+                "id": "632608004131692544", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.18613413, 
+                    40.96290805
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The many layers of croissants. \u2615\ufe0f @ East Hampton, Long Island https://t.co/4bu1nsoSeu", 
+                "created_at": "2015-08-12T15:23:32", 
+                "retweet_count": 0, 
+                "id": "631486178827612160", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.18613413, 
+                    40.96290805
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2600\ufe0fSimple Summer Squash.\u2600\ufe0f @ East Hampton, Long Island https://t.co/oAE9UoFO4i", 
+                "created_at": "2015-08-11T20:18:23", 
+                "retweet_count": 0, 
+                "id": "631197995283914757", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0053101, 
+                    40.7312508
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 317884686.0, 
+                    "type": "yes", 
+                    "id": 126126.0, 
+                    "name": "Hudson County Community College - Building B"
+                }, 
+                {
+                    "osm_id": 317884687.0, 
+                    "type": "yes", 
+                    "id": 126128.0, 
+                    "name": "Hudson County Community College - Building C"
+                }, 
+                {
+                    "osm_id": 366526237.0, 
+                    "type": "retail", 
+                    "id": 126401.0, 
+                    "name": "Burger King"
+                }, 
+                {
+                    "osm_id": 366535521.0, 
+                    "type": "retail", 
+                    "id": 126413.0, 
+                    "name": "Sanai's"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #colinquinn show was super funny! @ Cherry Lane Theatre https://t.co/KUt5fmfOxo", 
+                "created_at": "2015-07-13T00:12:52", 
+                "retweet_count": 0, 
+                "id": "620385366537818114", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.1989, 
+                    40.957
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A long way from settling for a box of #cheezits \ud83d\ude2c @ East Hampton, New York https://t.co/p2F68lO3mZ", 
+                "created_at": "2015-07-11T01:00:44", 
+                "retweet_count": 0, 
+                "id": "619672638735171584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40361979, 
+                    37.79726252
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Enjoying a really tasty lunch cotogna_sf @ Cotogna https://t.co/9svKzRs3sd", 
+                "created_at": "2015-06-23T20:10:17", 
+                "retweet_count": 0, 
+                "id": "613438950171111424", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.2688599, 
+                    37.8795891
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Really excited about this one #chezpanisse #sanfrancisco @alicewaters @ Chez Panisse https://t.co/tMre3W8GKI", 
+                "created_at": "2015-06-23T03:58:11", 
+                "retweet_count": 0, 
+                "id": "613194314928275458", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.1415176, 
+                    39.9611206
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "New must go to in Philly! Thanks @kubanoff @samesamephilly with @judynitessier @ian_rothman\u2026 https://t.co/NN8dvO8lIv", 
+                "created_at": "2015-06-17T23:07:49", 
+                "retweet_count": 1, 
+                "id": "611309300858941440", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32900815, 
+                    60.38949567
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Francis_Lam @dannybowien @chrisyingz you found it!", 
+                "created_at": "2013-08-30T11:41:26", 
+                "retweet_count": 0, 
+                "id": "373410126235181056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.3290257, 
+                    60.38950481
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Francis_Lam @MADSymposium awesome!  Lets try to make plans.", 
+                "created_at": "2013-08-23T19:27:24", 
+                "retweet_count": 0, 
+                "id": "370990675770486784", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32903589, 
+                    60.38949937
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@CleetTweet great to hear!  Yes let's", 
+                "created_at": "2013-08-23T17:18:58", 
+                "retweet_count": 0, 
+                "id": "370958356661682176", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32902705, 
+                    60.38950344
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@CleetTweet how's it going?", 
+                "created_at": "2013-08-23T16:51:46", 
+                "retweet_count": 0, 
+                "id": "370951507682029568", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32902597, 
+                    60.38950354
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@CleetTweet I'm in Bergen Norway helping a buddy get his place started.", 
+                "created_at": "2013-08-23T16:37:57", 
+                "retweet_count": 0, 
+                "id": "370948033686814720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.3290241, 
+                    60.38950343
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@cityprovisions @CleetTweet  in honor of my time with you.  Latkes 2.0.  Crab, radish, cucumber, t-gon, and gribiche http://t.co/NeVElg4CdE", 
+                "created_at": "2013-08-23T16:29:32", 
+                "retweet_count": 0, 
+                "id": "370945914216923136", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32903487, 
+                    60.38950046
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Francis_Lam are you @MADSymposium ?  I'm going Sunday and Monday!", 
+                "created_at": "2013-08-23T15:53:51", 
+                "retweet_count": 0, 
+                "id": "370936936233725952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32897831, 
+                    60.38953985
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@dtposey @GregBaxtrom your the best brother!", 
+                "created_at": "2013-08-22T22:34:34", 
+                "retweet_count": 0, 
+                "id": "370675390437937152", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32901722, 
+                    60.38951367
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@davidkinch @dtposey @AubergineCarmel @BarTartine @saisonsf  dang David!! Sounds great.  I heard your coming to the dinner in sept!?", 
+                "created_at": "2013-08-22T22:04:14", 
+                "retweet_count": 0, 
+                "id": "370667755793821696", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32902779, 
+                    60.38951092
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@FarmFisherman I try to stay on top of things chef!!!!  All is great.  How about yourself?!", 
+                "created_at": "2013-08-08T22:47:13", 
+                "retweet_count": 0, 
+                "id": "365605142160093184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32934322, 
+                    60.38912136
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@chefmikeanthony thanks.  We really are!  It's a great group of guys.  You and your wife should pay us a visit!!", 
+                "created_at": "2013-07-31T14:25:29", 
+                "retweet_count": 0, 
+                "id": "362579774176104450", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32942499, 
+                    60.38906223
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@chefmikeanthony the restaurant I'm at is called #Lysverket. Currently 4 ex per se guys in the kitchen.  One being the chef @Spiseplikt", 
+                "created_at": "2013-07-31T14:15:40", 
+                "retweet_count": 0, 
+                "id": "362577304158879744", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32944251, 
+                    60.38905534
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@chefmikeanthony oh man those look awesome!", 
+                "created_at": "2013-07-31T14:05:38", 
+                "retweet_count": 0, 
+                "id": "362574778541940738", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32906693, 
+                    60.38928949
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@chefmikeanthony we go hunting for periwinkles, bay scallops, cockles,  and small abalone every week here in Bergen! http://t.co/x6g1fOnWrp", 
+                "created_at": "2013-07-31T13:35:02", 
+                "retweet_count": 0, 
+                "id": "362567077153890304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.35814916, 
+                    60.36779149
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Dang!   They lost. http://t.co/IzPcq1NNvO", 
+                "created_at": "2013-07-28T18:00:55", 
+                "retweet_count": 0, 
+                "id": "361546827713085440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32007665, 
+                    60.39390757
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@AndrewOKnowlton any plans to come to Bergen?", 
+                "created_at": "2013-07-28T12:59:38", 
+                "retweet_count": 0, 
+                "id": "361471006398885890", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.33274909, 
+                    60.26763582
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Starfish wave http://t.co/njTHrfW8zZ", 
+                "created_at": "2013-07-22T18:11:09", 
+                "retweet_count": 1, 
+                "id": "359375074568060928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.34217396, 
+                    60.37878342
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@GregBaxtrom: 4 ex per Se alum  #Lysverket @ekaimeh  @dbreeden8 @geraldsanjose @chef_timothy @Chef_Keller @Gachatz http://t.co/hbaHr8mpbY", 
+                "created_at": "2013-07-21T20:20:20", 
+                "retweet_count": 3, 
+                "id": "359045198065590272", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.34216883, 
+                    60.37870567
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "4 per Se alum in norway #Lysverket  restaurant. @ekaimeh  @dbreeden8 @geraldsanjose @chef_timothy @Chef_Keller @Gachatz", 
+                "created_at": "2013-07-21T20:09:14", 
+                "retweet_count": 0, 
+                "id": "359042402226814976", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32949299, 
+                    60.38900727
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Norwegian blue lobster turn super red! @Spiseplikt #Lysverket restaurant http://t.co/oMSkUzGBpB", 
+                "created_at": "2013-07-20T15:59:47", 
+                "retweet_count": 0, 
+                "id": "358617240138035203", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32923339, 
+                    60.38912434
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Francis_Lam - per our recent conversation.  Shamwow in Bergen, Norway! http://t.co/GOQhy7SH3Z", 
+                "created_at": "2013-07-17T16:09:25", 
+                "retweet_count": 0, 
+                "id": "357532499531935745", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32905531, 
+                    60.38947364
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@RiggdRight whale meat http://t.co/lD7i4Y7KcC", 
+                "created_at": "2013-07-16T15:00:33", 
+                "retweet_count": 0, 
+                "id": "357152782400253952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32900462, 
+                    60.38951453
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hey @ChefJohnShields !  Check out it out. Eating snails we caught on the west cost of norway. http://t.co/ExnSUZyAaJ", 
+                "created_at": "2013-07-16T14:59:32", 
+                "retweet_count": 0, 
+                "id": "357152523754278912", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32902644, 
+                    60.38948831
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@rosiosnchz, cant wait til sept!! @Spiseplikt+@GregBaxtrom just picked and sent these Norwegian abalone to Noma http://t.co/ZlyQW0hZR8", 
+                "created_at": "2013-07-16T14:56:56", 
+                "retweet_count": 1, 
+                "id": "357151871749738496", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.32900653, 
+                    60.38951223
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Chef @DanBarber, @Spiseplikt and @GregBaxtrom are on an amazing farm in norway!  Makes us miss stone barns. http://t.co/gnNKI6zMVE", 
+                "created_at": "2013-07-16T14:51:10", 
+                "retweet_count": 0, 
+                "id": "357150420134678528", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.34217683, 
+                    60.37878244
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@RiggdRight wolf fish.  @Spiseplikt http://t.co/3xTsgb7XGP", 
+                "created_at": "2013-07-15T21:46:18", 
+                "retweet_count": 1, 
+                "id": "356892505003917312", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,1578 @@
+{
+    "total_favorite_count": 2104, 
+    "total_tweets": 80, 
+    "screen_name": "lastdodd", 
+    "friends_count": 2091, 
+    "followers_count": 596, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Baltimore, Maryland https://t.co/owO1MAJsnM", 
+                "created_at": "2016-11-14T06:34:24", 
+                "retweet_count": 0, 
+                "id": "798051436097478656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Baltimore, Maryland https://t.co/JkrqRp4HCf", 
+                "created_at": "2016-11-13T19:20:36", 
+                "retweet_count": 0, 
+                "id": "797881868913876992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Baltimore, Maryland https://t.co/yvWLGZ3WP1", 
+                "created_at": "2016-11-13T19:16:44", 
+                "retweet_count": 0, 
+                "id": "797880897588568065", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59191982, 
+                    39.26950669
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#styleapproved\u2714\ufe0f @ Locust Point, Baltimore https://t.co/MN8ce3dxDg", 
+                "created_at": "2016-11-13T02:29:51", 
+                "retweet_count": 0, 
+                "id": "797627508774539265", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59191982, 
+                    39.26950669
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#styleapproved\u2714\ufe0f @ Locust Point, Baltimore https://t.co/RILPntD6jV", 
+                "created_at": "2016-11-13T01:37:47", 
+                "retweet_count": 0, 
+                "id": "797614403696869378", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#styleapproved\u2714\ufe0f @ Baltimore, Maryland https://t.co/hexqDwiIzS", 
+                "created_at": "2016-11-13T01:27:02", 
+                "retweet_count": 0, 
+                "id": "797611699759104000", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#lmao\ud83d\ude02\ud83d\ude02\ud83d\ude02 @ Baltimore, Maryland https://t.co/xPeu0CxNtY", 
+                "created_at": "2016-11-13T01:23:31", 
+                "retweet_count": 0, 
+                "id": "797610811527200768", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Baltimore, Maryland https://t.co/zOyybFPy0T", 
+                "created_at": "2016-11-12T23:50:25", 
+                "retweet_count": 0, 
+                "id": "797587382098857984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Baltimore, Maryland https://t.co/0TXiia2SIG", 
+                "created_at": "2016-11-12T16:59:30", 
+                "retweet_count": 0, 
+                "id": "797483972779503616", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.35352, 
+                    39.53942
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#ServiceWithASong.... @ Shop Rite https://t.co/Mw2wMhZTji", 
+                "created_at": "2016-11-12T14:19:26", 
+                "retweet_count": 0, 
+                "id": "797443693070479360", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Baltimore, Maryland https://t.co/AIaOtTsJYo", 
+                "created_at": "2016-11-11T22:45:34", 
+                "retweet_count": 0, 
+                "id": "797208676402610176", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97990661, 
+                    40.75925158
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 42496314.0, 
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building"
+                }, 
+                {
+                    "osm_id": 145341302.0, 
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza"
+                }, 
+                {
+                    "osm_id": 159912554.0, 
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I"
+                }, 
+                {
+                    "osm_id": 243088863.0, 
+                    "type": "yes", 
+                    "id": 9403.0, 
+                    "name": "One MiMA Tower"
+                }, 
+                {
+                    "osm_id": 258619240.0, 
+                    "type": "yes", 
+                    "id": 83555.0, 
+                    "name": "TKTS"
+                }, 
+                {
+                    "osm_id": 265300047.0, 
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments"
+                }, 
+                {
+                    "osm_id": 265320169.0, 
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149327.0, 
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre"
+                }, 
+                {
+                    "osm_id": 266170541.0, 
+                    "type": "theatre", 
+                    "id": 93316.0, 
+                    "name": "Cort Theatre"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }, 
+                {
+                    "osm_id": 279400689.0, 
+                    "type": "yes", 
+                    "id": 102067.0, 
+                    "name": "The Shops at Lincoln Harbor"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#SaturdayNightLive \n#SNL @ Saturday Night Live Studio https://t.co/MY9QnVvlhr", 
+                "created_at": "2016-11-11T10:11:26", 
+                "retweet_count": 0, 
+                "id": "797018892350722048", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.5988, 
+                    39.2951
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Paul Laurence Dunbar High School (Baltimore, Maryland) https://t.co/sH7ByN8vnq", 
+                "created_at": "2016-11-10T22:47:37", 
+                "retweet_count": 0, 
+                "id": "796846806160343040", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.02708, 
+                    38.89461
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a video @ Trump International Hotel Washington, D.C. https://t.co/lidJvXtmPR", 
+                "created_at": "2016-11-09T13:53:31", 
+                "retweet_count": 0, 
+                "id": "796350006131392513", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a video @ Baltimore, Maryland https://t.co/ujz9Bt1pe1", 
+                "created_at": "2016-11-09T13:42:28", 
+                "retweet_count": 0, 
+                "id": "796347223923630081", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#PaytonSwagger\n#sleepingbeauty @ Baltimore, Maryland https://t.co/5WkhfPmr6k", 
+                "created_at": "2016-11-06T11:23:41", 
+                "retweet_count": 0, 
+                "id": "795225134130987008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Baltimore, Maryland https://t.co/ENYZjX6RGs", 
+                "created_at": "2016-11-03T02:46:03", 
+                "retweet_count": 0, 
+                "id": "794007706726236160", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Baltimore, Maryland https://t.co/xNAav72MpE", 
+                "created_at": "2016-11-03T02:42:55", 
+                "retweet_count": 0, 
+                "id": "794006918364823553", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#chanel @ Baltimore, Maryland https://t.co/i00Zqm4kRc", 
+                "created_at": "2016-11-02T07:14:41", 
+                "retweet_count": 0, 
+                "id": "793712919951400960", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.5924, 
+                    39.2974
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Johns Hopkins Hospital https://t.co/0qgQXt6VzQ", 
+                "created_at": "2016-11-01T14:58:16", 
+                "retweet_count": 0, 
+                "id": "793467195825291265", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59353, 
+                    39.29284
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Good Afternoon and Good Evening.....\n#Message...... @ IGLESIA PENTECOSTAL EL JORDAN INC https://t.co/DxrmAYAdRu", 
+                "created_at": "2016-10-25T19:52:23", 
+                "retweet_count": 0, 
+                "id": "791004500211400704", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.60532176, 
+                    39.29716766
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Oldtown Fire Station Super Medic 7 https://t.co/ImEh9sTnpO", 
+                "created_at": "2016-10-21T18:05:25", 
+                "retweet_count": 0, 
+                "id": "789528027105460224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6056976, 
+                    39.2964516
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#BackToHellWithYou...\n#GotWaitOnANiggaToBuyIt\n#CantBuyItYourSelf..\n#LMAO\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\u2026 https://t.co/M9P7SCJc3F", 
+                "created_at": "2016-10-21T12:56:58", 
+                "retweet_count": 0, 
+                "id": "789450403167531009", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.60532176, 
+                    39.29716766
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#truefuckingstory\ud83d\udcaf\ud83d\ude09 @ Oldtown Fire Station Super Medic 7 https://t.co/DFE1S7ahq0", 
+                "created_at": "2016-10-21T12:48:17", 
+                "retweet_count": 0, 
+                "id": "789448220783087616", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.5988, 
+                    39.2951
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#BabyZaddy @2chainz @ Paul Laurence Dunbar High School (Baltimore, Maryland) https://t.co/PfyGKPgrwk", 
+                "created_at": "2016-10-21T03:26:32", 
+                "retweet_count": 0, 
+                "id": "789306849577295872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.5988, 
+                    39.2951
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Dummies....\n#SomePeopleItTakesLongerThanOthers @ Paul Laurence Dunbar High School (Baltimore,\u2026 https://t.co/ssNEM4x6zB", 
+                "created_at": "2016-10-21T03:21:33", 
+                "retweet_count": 0, 
+                "id": "789305598747836417", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.5988, 
+                    39.2951
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#DunbarHomeComing\n#ChericeNoIGWinkler\nMyBabyFromWayBack... @ Paul Laurence Dunbar High School\u2026 https://t.co/oKYqW8kFd1", 
+                "created_at": "2016-10-21T02:19:51", 
+                "retweet_count": 0, 
+                "id": "789290068322254848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.94979525, 
+                    40.32920686
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@toyawright vs. #tamarbraxton @ The Breakfast Club https://t.co/rHpF563Pyk", 
+                "created_at": "2016-10-20T17:24:36", 
+                "retweet_count": 0, 
+                "id": "789155368396005376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.5924, 
+                    39.2974
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Johns Hopkins Hospital https://t.co/vA3u6twmXW", 
+                "created_at": "2016-10-19T23:43:00", 
+                "retweet_count": 0, 
+                "id": "788888207865896960", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.5988, 
+                    39.2951
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Madea.... @ Paul Laurence Dunbar High School (Baltimore, Maryland) https://t.co/Z4XoheMkQd", 
+                "created_at": "2016-10-19T20:54:52", 
+                "retweet_count": 0, 
+                "id": "788845895383150592", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.576134, 
+                    39.277473
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#NotSureIfIBelieveThis... @ The Boathouse Canton, Waterfront Grille https://t.co/xcHLWsTCWq", 
+                "created_at": "2016-10-19T15:24:10", 
+                "retweet_count": 0, 
+                "id": "788762675446747136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59624718, 
+                    39.29417226
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#truefuckingstory\ud83d\udcaf\ud83d\ude09 @ Douglass Homes https://t.co/2kpbThVzF4", 
+                "created_at": "2016-10-18T17:57:14", 
+                "retweet_count": 0, 
+                "id": "788438804764000257", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.576134, 
+                    39.277473
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#alrightalrightalright..... @ The Boathouse Canton, Waterfront Grille https://t.co/2daJw9Rz1q", 
+                "created_at": "2016-10-18T04:06:25", 
+                "retweet_count": 0, 
+                "id": "788229722337599488", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.58979395, 
+                    39.30154596
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@DaRealAmberRose #DWTS @ Middle East, Baltimore https://t.co/0omsZFlTMc", 
+                "created_at": "2016-10-18T02:44:07", 
+                "retweet_count": 0, 
+                "id": "788209012194107393", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.58979395, 
+                    39.30154596
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Middle East, Baltimore https://t.co/jKv5gh3gUo", 
+                "created_at": "2016-10-17T17:24:29", 
+                "retweet_count": 0, 
+                "id": "788068174633795584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.576134, 
+                    39.277473
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ The Boathouse Canton, Waterfront Grille https://t.co/aQU9DtGa9D", 
+                "created_at": "2016-10-16T17:28:41", 
+                "retweet_count": 0, 
+                "id": "787706846282936320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    76.22, 
+                    30.7
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Mood\ud83d\udd95#GoodMorning!\nSaints And Ain'ts Have A Wonderful Day.....\ud83d\ude02 @ In My Sweet ROOM On the\u2026 https://t.co/usPW4fOyt0", 
+                "created_at": "2016-10-16T15:30:40", 
+                "retweet_count": 0, 
+                "id": "787677147318063105", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6099, 
+                    39.2835
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Inner Harbor https://t.co/aTRN8Zn5W8", 
+                "created_at": "2016-10-16T02:29:56", 
+                "retweet_count": 0, 
+                "id": "787480667126890500", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6099, 
+                    39.2835
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#styleapproved\u2714\ufe0f @ Inner Harbor https://t.co/3zr6lNnna0", 
+                "created_at": "2016-10-15T19:43:23", 
+                "retweet_count": 0, 
+                "id": "787378355335204868", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#ValentinoRockStuds For Sale...\nBrand New... $800.00 Retailed for 1,000 or Best Offer Contact\u2026 https://t.co/deLTAXRuT4", 
+                "created_at": "2016-10-15T03:35:50", 
+                "retweet_count": 0, 
+                "id": "787134864436916224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59282463, 
+                    39.29251759
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#WhatSheSaid\ud83d\udc46 @ Russian Festival at Holy Trinity Russian Orthodox Church https://t.co/29hPMF2afD", 
+                "created_at": "2016-10-15T02:09:50", 
+                "retweet_count": 0, 
+                "id": "787113220058255360", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59282463, 
+                    39.29251759
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Russian Festival at Holy Trinity Russian Orthodox Church https://t.co/tYD2RRCY2x", 
+                "created_at": "2016-10-14T23:48:36", 
+                "retweet_count": 0, 
+                "id": "787077677484220416", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.61150467, 
+                    39.28703943
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Renaissance Baltimore Harborplace Hotel https://t.co/lLtR9zu5Oa", 
+                "created_at": "2016-10-13T04:02:30", 
+                "retweet_count": 0, 
+                "id": "786416798384033792", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.576134, 
+                    39.277473
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ The Boathouse Canton, Waterfront Grille https://t.co/40EcIa3U8e", 
+                "created_at": "2016-10-13T03:10:55", 
+                "retweet_count": 0, 
+                "id": "786403817801781248", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@corasonthegreat When You Customize Your Own\u2026 https://t.co/PGs1H7zXfP", 
+                "created_at": "2016-10-12T22:31:18", 
+                "retweet_count": 0, 
+                "id": "786333450659831808", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.576134, 
+                    39.277473
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ The Boathouse Canton, Waterfront Grille https://t.co/NePoRxcjOX", 
+                "created_at": "2016-10-12T22:26:15", 
+                "retweet_count": 0, 
+                "id": "786332179597058048", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.3267, 
+                    48.8681488
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Chanel Paris https://t.co/dQOWLkjOBF", 
+                "created_at": "2016-10-12T20:11:04", 
+                "retweet_count": 0, 
+                "id": "786298159806943232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.576134, 
+                    39.277473
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ The Boathouse Canton, Waterfront Grille https://t.co/7OQ5MmoJSa", 
+                "created_at": "2016-10-12T18:50:17", 
+                "retweet_count": 0, 
+                "id": "786277831185731584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.576134, 
+                    39.277473
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ The Boathouse Canton, Waterfront Grille https://t.co/UDlwR1tGxi", 
+                "created_at": "2016-10-12T17:04:31", 
+                "retweet_count": 0, 
+                "id": "786251211586539521", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.3881, 
+                    33.7489
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#ThisShowIsWellWritten.\nHilarious.... @ Atlanta, Georgia https://t.co/tHhq4phm13", 
+                "created_at": "2016-10-12T02:31:16", 
+                "retweet_count": 0, 
+                "id": "786031451963813888", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.57901023, 
+                    39.30485103
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#SnapChatGotMeToo @ East Baltimore, Baltimore https://t.co/Lf3EnCChE3", 
+                "created_at": "2016-10-10T19:03:31", 
+                "retweet_count": 0, 
+                "id": "785556384033153025", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.62733949, 
+                    39.2734678
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#WeBeenBeenSinceMiltonAndPreston\n#LookWhoIFound @SharmaBaltimore @ Horseshoe Casino Baltimore https://t.co/Ox9dCp0njZ", 
+                "created_at": "2016-10-10T04:47:03", 
+                "retweet_count": 0, 
+                "id": "785340847701299200", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.0503, 
+                    47.4719
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#KTEDunaAszFalt\n#Europeanyo @ Budapest, Hungary https://t.co/K0clczCCvz", 
+                "created_at": "2016-10-10T00:10:28", 
+                "retweet_count": 0, 
+                "id": "785271244035940352", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6125, 
+                    39.2903
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#styleapproved\u2714\ufe0f @ Baltimore, Maryland https://t.co/0qSpk4YIHi", 
+                "created_at": "2016-10-09T20:11:42", 
+                "retweet_count": 0, 
+                "id": "785211153379131392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.60819743, 
+                    39.33158764
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#MyFavorite\ud83d\udc9cCousin...\n#JenniferNoIG.... @ Old York Rd https://t.co/GTQHmODP91", 
+                "created_at": "2016-10-09T20:05:12", 
+                "retweet_count": 0, 
+                "id": "785209519261515776", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.60819743, 
+                    39.33158764
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#SnapChatGotMeToo @ Old York Rd https://t.co/puzteieL7I", 
+                "created_at": "2016-10-09T20:03:53", 
+                "retweet_count": 0, 
+                "id": "785209186040832000", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.60819743, 
+                    39.33158764
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#ThisIsSoMe... @ Old York Rd https://t.co/ORFdeaisQG", 
+                "created_at": "2016-10-09T19:55:21", 
+                "retweet_count": 0, 
+                "id": "785207041166020608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.0503, 
+                    47.4719
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Europeanyo\n#MyBoy\ud83d\udc9c @ Budapest, Hungary https://t.co/exmU9Seb3t", 
+                "created_at": "2016-10-09T17:04:52", 
+                "retweet_count": 0, 
+                "id": "785164134757326848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.60506948, 
+                    39.29654113
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Ishouldheldmystomachin...\n#boredselfies @ Flair Hair Salon and Barbershop https://t.co/FXsLxDd5FO", 
+                "created_at": "2016-10-07T19:20:44", 
+                "retweet_count": 0, 
+                "id": "784473551818612740", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.60506948, 
+                    39.29654113
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#BoredAtWork.... @ Flair Hair Salon and Barbershop https://t.co/k7IHF04p1r", 
+                "created_at": "2016-10-07T17:54:24", 
+                "retweet_count": 0, 
+                "id": "784451826288648192", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.60506948, 
+                    39.29654113
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#WhenYourOnTheMove.... @ Flair Hair Salon and Barbershop https://t.co/wrdnJefuUE", 
+                "created_at": "2016-10-07T17:33:49", 
+                "retweet_count": 0, 
+                "id": "784446647430475776", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59724249, 
+                    39.29415113
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#FightEducation 101..... @ Douglas Projects https://t.co/OBxbvS35hR", 
+                "created_at": "2016-10-05T14:38:22", 
+                "retweet_count": 0, 
+                "id": "783677715832537088", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    153.09006214, 
+                    -26.3967362
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#BETHipHopAwards\n#Commentary \n#LMAO\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 \n@kendallkyndall @ La La Land https://t.co/q9YqwkH2qD", 
+                "created_at": "2016-10-05T02:45:23", 
+                "retweet_count": 0, 
+                "id": "783498287999512576", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59724249, 
+                    39.29415113
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Icantaffordshitlikethat.... @ Douglas Projects https://t.co/QNyNgirsZv", 
+                "created_at": "2016-10-05T01:02:17", 
+                "retweet_count": 0, 
+                "id": "783472343972798464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.61099, 
+                    39.28619
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#SingleLifeChroniclesLunch @ The Cheesecake Factory Baltimore Inner Harbor. Yummo! https://t.co/VwLogjAAg2", 
+                "created_at": "2016-10-04T20:09:54", 
+                "retweet_count": 0, 
+                "id": "783398763310223360", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.61022013, 
+                    39.28599852
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Metime....\n#LifeIsSoHard \n#SingleLifeChronicles @ The Cheese Cake Factory Baltimore-Cheseapeke Bay https://t.co/oKhHtT02bT", 
+                "created_at": "2016-10-04T19:55:44", 
+                "retweet_count": 0, 
+                "id": "783395196272803841", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.61070697, 
+                    39.28597843
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#MyFirstDesignerBag \nThis Bag Is as Old As My Son. @ Inner Harbor Waterfront, Baltimore Maryland https://t.co/T7PMzntByW", 
+                "created_at": "2016-10-04T19:47:52", 
+                "retweet_count": 0, 
+                "id": "783393218851471360", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.61070697, 
+                    39.28597843
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#SingleLifeChronicles \n#lunchdatewithmyself\ud83d\ude0d\ud83d\udc8b @ Inner Harbor Waterfront, Baltimore Maryland https://t.co/oJ0cKPdsDp", 
+                "created_at": "2016-10-04T19:42:31", 
+                "retweet_count": 0, 
+                "id": "783391872248979456", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59724249, 
+                    39.29415113
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#ineedthisfilterinreallife \n#thismywholething @ Douglas Projects https://t.co/xhmQ3LJzFP", 
+                "created_at": "2016-10-02T20:40:23", 
+                "retweet_count": 0, 
+                "id": "782681656553504768", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.60079201, 
+                    39.28655702
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#GoesBothWays.... @ Little Italy, Baltimore https://t.co/8F8iZVAU45", 
+                "created_at": "2016-10-02T16:54:55", 
+                "retweet_count": 0, 
+                "id": "782624919515492352", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.62811171, 
+                    39.27933746
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#MeanWhile @meekmill @ The Lab https://t.co/MuSXt9W5RJ", 
+                "created_at": "2016-10-01T00:10:19", 
+                "retweet_count": 0, 
+                "id": "782009713294733312", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.5932472, 
+                    39.2863103
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#OnlyOnInstagram.... @ Rainbow https://t.co/mHG6z23jhE", 
+                "created_at": "2016-09-29T20:44:04", 
+                "retweet_count": 0, 
+                "id": "781595421663789056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.60961162, 
+                    39.31142124
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#ThrowBackThursday Mid 90\"s Mary J Blige &amp; Cedric The Entertainer Show....\n#MyFavoriteCousin\u2026 https://t.co/73izrPjxNb", 
+                "created_at": "2016-09-29T15:27:10", 
+                "retweet_count": 0, 
+                "id": "781515673042296833", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.60961162, 
+                    39.31142124
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#ThrowBackThursday\nMid  90\"s Mary J Blige &amp; Cedric The Entertainer\u2026 https://t.co/BkJm2Luqgq", 
+                "created_at": "2016-09-29T15:22:25", 
+                "retweet_count": 0, 
+                "id": "781514476352839681", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.13211898, 
+                    25.88663472
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#lipgoals\ud83d\udc44 or nah? @ Dr Miami https://t.co/xzNJnIBvwv", 
+                "created_at": "2016-09-28T11:40:21", 
+                "retweet_count": 0, 
+                "id": "781096202020458496", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59724249, 
+                    39.29415113
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#LoseMyNumber...... @ Douglas Projects https://t.co/9IiktfG3YG", 
+                "created_at": "2016-09-27T19:09:54", 
+                "retweet_count": 0, 
+                "id": "780846949524180992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    75.98333333, 
+                    39.46666667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I Love This Lady sweethanksgivinpie @ East Turkestan https://t.co/PaKJeW6WGp", 
+                "created_at": "2016-09-26T23:18:36", 
+                "retweet_count": 0, 
+                "id": "780547147309707264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59724249, 
+                    39.29415113
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#FromTheDeskOf @rodstern @ Douglas Projects https://t.co/cAMvwf0gS8", 
+                "created_at": "2016-09-26T09:11:32", 
+                "retweet_count": 0, 
+                "id": "780333976338702336", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.59724249, 
+                    39.29415113
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#HangingInTheHood.... @ Douglas Projects https://t.co/2s2vOySXXd", 
+                "created_at": "2016-09-23T01:39:52", 
+                "retweet_count": 0, 
+                "id": "779133145937485825", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.43582761, 
+                    39.32142556
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#RobandChyna\n@Savvytheamusing @ Calabasas , California https://t.co/il0KBKWTrO", 
+                "created_at": "2016-09-21T04:13:02", 
+                "retweet_count": 0, 
+                "id": "778446917042700293", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

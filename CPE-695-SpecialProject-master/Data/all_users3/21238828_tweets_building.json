@@ -1,0 +1,2528 @@
+{
+    "total_favorite_count": 8535, 
+    "followers_count": 12983, 
+    "total_tweets": 65, 
+    "user_id": 21238828, 
+    "screen_name": "ArthurBovino", 
+    "friends_count": 6571, 
+    "buildings": {
+        "school": 14, 
+        "theatre": 5, 
+        "office": 14, 
+        "apartments": 20, 
+        "residential": 4, 
+        "university": 4, 
+        "civic": 3, 
+        "commercial": 44, 
+        "dormitory": 4, 
+        "church": 11, 
+        "retail": 34
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99482.0, 
+                    "name": "10 Liberty Street", 
+                    "osm_id": 278069577.0
+                }
+            ], 
+            "text": "Ichiran in Bushwick! So good when we had it in JapN! Just wish this #ramen was in the\u2026 https://t.co/DLMYU8SqnH", 
+            "id": "797552706076504068", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T21:32:37", 
+            "coordinates": [
+                -73.93326, 
+                40.7075
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "10 Liberty Street"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street", 
+                    "osm_id": 247839731.0
+                }
+            ], 
+            "text": "Vote? Damn straight I did. This bicentennial baby is happy to have been able to vote for an\u2026 https://t.co/DvfIJi0KWU", 
+            "id": "796009049967955968", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-08T15:18:41", 
+            "coordinates": [
+                -73.978595, 
+                40.72606
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86408.0, 
+                    "name": "Friends Seminary", 
+                    "osm_id": 264751895.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 86500.0, 
+                    "name": "St. George's Church", 
+                    "osm_id": 264752147.0
+                }
+            ], 
+            "text": "Quick #election2016 #everythingbagel with #creamcheese and Nova. @ Ess-a-Bagel 1st ave https://t.co/CWGysk8Bg4", 
+            "id": "796008068333060096", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-08T15:14:47", 
+            "coordinates": [
+                -73.9800644, 
+                40.7341614
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Friends Seminary"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street", 
+                    "osm_id": 247839731.0
+                }
+            ], 
+            "text": "Okay, I need to find out what it feels like to taste \"The Plateau of the Galaxy,\" or know what\u2026 https://t.co/XmaunDvdvW", 
+            "id": "795814662390616064", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-08T02:26:15", 
+            "coordinates": [
+                -73.978595, 
+                40.72606
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "I know it's not tomato season, but these cocktail tomatoes \ud83c\udf45 slow-roasted are pretty delicious\u2026 https://t.co/K5wetwZS4b", 
+            "id": "795394617189564416", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-06T22:37:09", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Making a blue cheese \ud83e\uddc0 tomato \ud83c\udf45 tart with @mouthfoods blue cheese powder... recipe TK @ East\u2026 https://t.co/MEG8XJPD76", 
+            "id": "795375072630505473", 
+            "favorite_count": 5, 
+            "created_at": "2016-11-06T21:19:29", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Making some healthy party snacks. These were easy but tasty: Baked zucchini chips with feta and\u2026 https://t.co/96jHAGN4Mk", 
+            "id": "795358066690715649", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-06T20:11:54", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Chive, herb and turkey bacon cream cheese (low-fat) stuffed piquillo peppers #partyappetizers\u2026 https://t.co/Evot24eGho", 
+            "id": "795357394796773376", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-06T20:09:14", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Malt and peanut butter powdered #applechips #healthy #healthyfood #healthyrecipes #healthyeating\u2026 https://t.co/nIbaJJ82hI", 
+            "id": "795356840217415680", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-06T20:07:02", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street", 
+                    "osm_id": 247839731.0
+                }
+            ], 
+            "text": "Sunset over the #lowereastside. Crazy beautiful #sunset @ Alphabet City, Manhattan https://t.co/U8sHFF7wHt", 
+            "id": "795070332302491652", 
+            "favorite_count": 2, 
+            "created_at": "2016-11-06T01:08:33", 
+            "coordinates": [
+                -73.978595, 
+                40.72606
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Whoops. That was dumb. @ East Village, Manhattan https://t.co/w8sIPbMkC9", 
+            "id": "795034685000810496", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-05T22:46:54", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Date, pistachio, chia, cacao and peanut butter balls #healthyfood #healthyeating #healthy @ East\u2026 https://t.co/FMWLC5pTDb", 
+            "id": "795034439243988993", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-05T22:45:55", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Ricotta, walnut and lemon #dip #easyrecipes @ East Village, Manhattan https://t.co/NVetOytETc", 
+            "id": "794984322444984320", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-05T19:26:47", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Kalustyan's is great, but I love this place in my own hood for ALL my #spice needs #eastvillage\u2026 https://t.co/SR1ETHG1wo", 
+            "id": "794983647250157568", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-05T19:24:06", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 584.0, 
+                    "name": "\u5e1d\u570b\u5927\u5ec8", 
+                    "osm_id": 34633854.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 91058.0, 
+                    "name": "Church of the Incarnation", 
+                    "osm_id": 265419755.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe", 
+                    "osm_id": 396820651.0
+                }
+            ], 
+            "text": "Life hack indeed. #sidewalksign #lifehack @ Shelburne NYC, an Affinia hotel https://t.co/0clS8D9SAA", 
+            "id": "794408464357453825", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-04T05:18:31", 
+            "coordinates": [
+                -73.97802425, 
+                40.74848983
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Christa McAuliffe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "office": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "university", 
+                    "id": 795.0, 
+                    "name": "Helen and Martin Kimmel Center for University Life", 
+                    "osm_id": 155075464.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 10405.0, 
+                    "name": "Sculpture For Living", 
+                    "osm_id": 247838584.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 22322.0, 
+                    "name": "Elmer Holmes Bobst Library", 
+                    "osm_id": 248166208.0
+                }
+            ], 
+            "text": "Sunday special #yakinikuwest: #Kobe #shortrib #eastvillage #littlejapan @ Yakiniku West https://t.co/RTWnblpUFf", 
+            "id": "792906235620229120", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-31T01:49:12", 
+            "coordinates": [
+                -73.98864864, 
+                40.72968101
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "Helen and Martin Kimmel Center for University Life", 
+                    "Elmer Holmes Bobst Library"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street", 
+                    "osm_id": 247839731.0
+                }
+            ], 
+            "text": "When the storm rolls in... #alphabetcity #torrential @ Alphabet City, Manhattan https://t.co/wj9M7kMlsR", 
+            "id": "792827120695308292", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-30T20:34:50", 
+            "coordinates": [
+                -73.978595, 
+                40.72606
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 126401.0, 
+                    "name": "Burger King", 
+                    "osm_id": 366526237.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126413.0, 
+                    "name": "Sanai's", 
+                    "osm_id": 366535521.0
+                }
+            ], 
+            "text": "#faiccosporkstore Italian Special. One of my favorite Italian subs. So thinly sliced\u2026 https://t.co/OFC4QKPddL", 
+            "id": "792787648238718977", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T17:57:59", 
+            "coordinates": [
+                -74.00288841, 
+                40.73117147
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Burger King", 
+                    "Sanai's"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Tomato \ud83c\udf45 #gnocchi Boscaiola: mushroom \ud83c\udf44 sausage &amp; cherry tomatoes @PizzaByLuzzos #eastvillage @\u2026 https://t.co/HFgpkRAfCz", 
+            "id": "792575244250808320", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T03:53:58", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Fall gardening: picked the #mentuccia to dry it out for winter ragu #italianfood #garden\u2026 https://t.co/B4WGUanRMs", 
+            "id": "792573767633567744", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-30T03:48:06", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "#churro #licenseplate #eastvillage @ East Village, Manhattan https://t.co/Ke2ujTULrT", 
+            "id": "792572616825536512", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-30T03:43:31", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Now THAT's an #eastvillage #breakfast to start the day: Appetizing Platter mileenddeli. @ East\u2026 https://t.co/RlVNoc9rLB", 
+            "id": "792571148353626112", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-30T03:37:41", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Dessert #pizza @ Barclays Center https://t.co/xGNhzmaihV", 
+            "id": "792168053027069952", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-29T00:55:56", 
+            "coordinates": [
+                -73.97618, 
+                40.68327
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "@mouthfoods team out in the TOWN in a Friday night! #brooklyn @brooklynnets #nosleeptillbrooklyn\u2026 https://t.co/Y3dKutPSu7", 
+            "id": "792164905147363328", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-29T00:43:25", 
+            "coordinates": [
+                -73.97618, 
+                40.68327
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Funneled my #debate agita into making a #homemade #huckleberry and #applepie with a Parmesan and\u2026 https://t.co/cT8g8Ve6yg", 
+            "id": "789111496982859776", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-20T14:30:16", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street", 
+                    "osm_id": 247839731.0
+                }
+            ], 
+            "text": "When you can organize your food T-shirts by menu item... you may have a problem: too many great\u2026 https://t.co/F12whWl5ue", 
+            "id": "786383882094571520", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-13T01:51:42", 
+            "coordinates": [
+                -73.978595, 
+                40.72606
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church", 
+                    "osm_id": -3357433.0
+                }
+            ], 
+            "text": "That moment when you're biking near @ottopizzeria and @babboristorante and the guy on the\u2026 https://t.co/gAq2dcLHNR", 
+            "id": "786335310401634304", 
+            "favorite_count": 4, 
+            "created_at": "2016-10-12T22:38:42", 
+            "coordinates": [
+                -73.9975, 
+                40.73083333
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Our Lady of Pompeii Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street", 
+                    "osm_id": 247839731.0
+                }
+            ], 
+            "text": "Fava and hatch chile salad with lemon vinaigrette \ud83c\udf4b \ud83c\udf36 #homemade @ Alphabet City, Manhattan https://t.co/fjEKyo2UWP", 
+            "id": "784917204454273024", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-09T00:43:39", 
+            "coordinates": [
+                -73.978595, 
+                40.72606
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street", 
+                    "osm_id": 247839731.0
+                }
+            ], 
+            "text": "\"Oh, no food for us? Bye.\" #cats @ Alphabet City, Manhattan https://t.co/6MDI1ObSwN", 
+            "id": "784883218294145025", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-08T22:28:36", 
+            "coordinates": [
+                -73.978595, 
+                40.72606
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street", 
+                    "osm_id": 247839731.0
+                }
+            ], 
+            "text": "Rainy #NYC night. May as well make some beef stock for @angmoore onion soup @ Alphabet City,\u2026 https://t.co/Sm4m0u60lO", 
+            "id": "784882880392654848", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-08T22:27:15", 
+            "coordinates": [
+                -73.978595, 
+                40.72606
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 35116.0, 
+                    "name": "St. Anthony of Padua Church", 
+                    "osm_id": 249663231.0
+                }
+            ], 
+            "text": "Sesame Tofu: Black Sesame, Salted Mustard thetangnyc @ The Tang https://t.co/3JGbm4GVoc", 
+            "id": "784635191725793281", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-08T06:03:02", 
+            "coordinates": [
+                -73.98546, 
+                40.7270899
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 9681.0, 
+                    "name": "100 Atlantic", 
+                    "osm_id": 245132331.0
+                }
+            ], 
+            "text": "Diavola: mozzarella, tomato sauce, spicy salame #pizza @luzzosbk @ Luzzo's BK https://t.co/Jf0fZfreLQ", 
+            "id": "784189575224754176", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-07T00:32:18", 
+            "coordinates": [
+                -73.99523, 
+                40.69065
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "100 Atlantic"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 9681.0, 
+                    "name": "100 Atlantic", 
+                    "osm_id": 245132331.0
+                }
+            ], 
+            "text": "#eatpizzaordie @luzzosbk #brooklyn @ Luzzo's BK https://t.co/7FmF2Hp930", 
+            "id": "784184864794931200", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-07T00:13:35", 
+            "coordinates": [
+                -73.99523, 
+                40.69065
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "100 Atlantic"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 9681.0, 
+                    "name": "100 Atlantic", 
+                    "osm_id": 245132331.0
+                }
+            ], 
+            "text": "Tony @luzzosbk describes his #pizza as a style that can be likened to a hybrid of #neapolitan\u2026 https://t.co/Eyuz0mNBg5", 
+            "id": "784183338592591872", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-07T00:07:31", 
+            "coordinates": [
+                -73.99523, 
+                40.69065
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "100 Atlantic"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "#nyc @ East Village, Manhattan https://t.co/p9wEOQ4sDB", 
+            "id": "784177977617768448", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T23:46:13", 
+            "coordinates": [
+                -73.98158, 
+                40.72628
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20", 
+                    "osm_id": 250266613.0
+                }
+            ], 
+            "text": "#homemade Cape Malay Lamb #Curry with roasted #sunchokes #healthy #healthyfood #healthyliving @\u2026 https://t.co/BpnDTImOGV", 
+            "id": "783848123013668864", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T01:55:30", 
+            "coordinates": [
+                -73.97645274, 
+                40.7213906
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 20"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20", 
+                    "osm_id": 250266613.0
+                }
+            ], 
+            "text": "Homemade #Vietnamese C\u00e0 Ri Prawn #Curry with giant Nigerian #prawn \ud83c\udf64\ud83c\udf36 @ Da Lower Eastside https://t.co/fC2EmoAk2F", 
+            "id": "783846925820887040", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T01:50:44", 
+            "coordinates": [
+                -73.97645274, 
+                40.7213906
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 20"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 10627.0, 
+                    "name": "Church of the Nativity", 
+                    "osm_id": 247841436.0
+                }
+            ], 
+            "text": "Pshhh, yeah I WISH there was a subway station on the corner of #avenueb and E7th #movieset\u2026 https://t.co/CqMCjEhAKG", 
+            "id": "783845200166789120", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T01:43:53", 
+            "coordinates": [
+                -73.981468, 
+                40.725067
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of the Nativity"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 10747.0, 
+                    "name": "Mercer Street Residence Hall", 
+                    "osm_id": 247842941.0
+                }
+            ], 
+            "text": "Pan-fried chicken and cashew #dumplings drunkendumpling #eastvillage @ Drunken Dumpling https://t.co/knsnz4OEp9", 
+            "id": "783844075661201408", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T01:39:25", 
+            "coordinates": [
+                -73.98528, 
+                40.72793
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Mercer Street Residence Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 10747.0, 
+                    "name": "Mercer Street Residence Hall", 
+                    "osm_id": 247842941.0
+                }
+            ], 
+            "text": "Finally able to swing by and get in for pork soup dumplings drunkendumpling. Pretty thin\u2026 https://t.co/loVmFDbec4", 
+            "id": "783843245453352964", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-06T01:36:07", 
+            "coordinates": [
+                -73.98528, 
+                40.72793
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Mercer Street Residence Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20", 
+                    "osm_id": 250266613.0
+                }
+            ], 
+            "text": "Belon #oysters (Maine flats) @ Da Lower Eastside https://t.co/hInWTI1uHt", 
+            "id": "782726892847788032", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-02T23:40:08", 
+            "coordinates": [
+                -73.97645274, 
+                40.7213906
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 20"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20", 
+                    "osm_id": 250266613.0
+                }
+            ], 
+            "text": "Homemade beef wat #easy #curry @ Da Lower Eastside https://t.co/CZ9I40TuzA", 
+            "id": "782726195750244352", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-02T23:37:22", 
+            "coordinates": [
+                -73.97645274, 
+                40.7213906
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 20"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20", 
+                    "osm_id": 250266613.0
+                }
+            ], 
+            "text": "Homemade Japanese #beefcurry #easy #curry @ Da Lower Eastside https://t.co/zRYyvLNEtt", 
+            "id": "782725591913099264", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-02T23:34:58", 
+            "coordinates": [
+                -73.97645274, 
+                40.7213906
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 20"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20", 
+                    "osm_id": 250266613.0
+                }
+            ], 
+            "text": "Homemade #shrimp #penangcurry #easy #curry @ Da Lower Eastside https://t.co/uFB2A2Bsf9", 
+            "id": "782724546021449728", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-02T23:30:48", 
+            "coordinates": [
+                -73.97645274, 
+                40.7213906
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 20"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 695.0, 
+                    "name": "General Electric Building", 
+                    "osm_id": 137885993.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway", 
+                    "osm_id": 163629929.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 858.0, 
+                    "name": "1155 Avenue of the Americas", 
+                    "osm_id": 163631696.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street", 
+                    "osm_id": 265282692.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91436.0, 
+                    "name": "Connaught Tower", 
+                    "osm_id": 265447070.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91753.0, 
+                    "name": "The Veneto", 
+                    "osm_id": 265483582.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92987.0, 
+                    "name": "Colgate-Palmolive Building", 
+                    "osm_id": 266010426.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square", 
+                    "osm_id": 266034080.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square", 
+                    "osm_id": 266143341.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway", 
+                    "osm_id": 266149373.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93510.0, 
+                    "name": "Hudson Theatre", 
+                    "osm_id": 266170751.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93578.0, 
+                    "name": "1166 Avenue of the Americas", 
+                    "osm_id": 266170852.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 93589.0, 
+                    "name": "Tower 45", 
+                    "osm_id": 266170766.0
+                }
+            ], 
+            "text": "Last #heirloomtomatoes #grandmapizza of the year @SofiaPizzaShop. Thanks for saving me a #slice,\u2026 https://t.co/3uIeTcUB7P", 
+            "id": "782723351378792448", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-02T23:26:03", 
+            "coordinates": [
+                -73.9643402, 
+                40.7568703
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "General Electric Building", 
+                    "1500 Broadway", 
+                    "Colgate-Palmolive Building", 
+                    "3 Times Square", 
+                    "11 Times Square", 
+                    "1501 Broadway", 
+                    "1166 Avenue of the Americas"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 8, 
+                "theatre": 2, 
+                "office": 3, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20", 
+                    "osm_id": 250266613.0
+                }
+            ], 
+            "text": "#Homemade #chanamasala #easy #curry @ Da Lower Eastside https://t.co/Y7ai5UU8dB", 
+            "id": "782722261392433153", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-02T23:21:44", 
+            "coordinates": [
+                -73.97645274, 
+                40.7213906
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 20"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20", 
+                    "osm_id": 250266613.0
+                }
+            ], 
+            "text": "Homemade #jungleboogie... er #junglecurry with pork loin @ Da Lower Eastside https://t.co/PiFG1zxS2D", 
+            "id": "782721830234849280", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-02T23:20:01", 
+            "coordinates": [
+                -73.97645274, 
+                40.7213906
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 20"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20", 
+                    "osm_id": 250266613.0
+                }
+            ], 
+            "text": "A little home cooking: #chickentikkamasala #chickentikka @ Da Lower Eastside https://t.co/wqk0PIpigl", 
+            "id": "782720876777267200", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-02T23:16:13", 
+            "coordinates": [
+                -73.97645274, 
+                40.7213906
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 20"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99276.0, 
+                    "name": "Broad Financial Center", 
+                    "osm_id": 278053473.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99327.0, 
+                    "name": "One Battery Park Plaza", 
+                    "osm_id": 278053532.0
+                }
+            ], 
+            "text": "Crumbled fennel sausage on \"The Pizza\" at Ignazio's, a pizzeria I'd considered a mystery because\u2026 https://t.co/b1caLDJzKI", 
+            "id": "782261225010978817", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-01T16:49:44", 
+            "coordinates": [
+                -73.99405993, 
+                40.70330567
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "Broad Financial Center", 
+                    "One Battery Park Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99276.0, 
+                    "name": "Broad Financial Center", 
+                    "osm_id": 278053473.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99327.0, 
+                    "name": "One Battery Park Plaza", 
+                    "osm_id": 278053532.0
+                }
+            ], 
+            "text": "You like bacon and avocado together, you like tomato and avocado together, you like tomato and\u2026 https://t.co/WEy2s7yrEf", 
+            "id": "781988331517345792", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-30T22:45:21", 
+            "coordinates": [
+                -73.99405993, 
+                40.70330567
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "Broad Financial Center", 
+                    "One Battery Park Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street", 
+                    "osm_id": 247839731.0
+                }
+            ], 
+            "text": "Pumpkins aren't sad. Fall tomatoes... Are sad. @ Alphabet City, Manhattan https://t.co/7WEaZ0NJBC", 
+            "id": "781674475196678144", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-30T01:58:12", 
+            "coordinates": [
+                -73.978595, 
+                40.72606
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 10551.0, 
+                    "name": "49 Bleecker Street", 
+                    "osm_id": 247839731.0
+                }
+            ], 
+            "text": "Ever used fresh turmeric? (I know, you keep forgetting if there's that \"extra\" 'r' in there...\u2026 https://t.co/n5EDklWQxO", 
+            "id": "781322621480730624", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T02:40:03", 
+            "coordinates": [
+                -73.978595, 
+                40.72606
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 35116.0, 
+                    "name": "St. Anthony of Padua Church", 
+                    "osm_id": 249663231.0
+                }
+            ], 
+            "text": "#sidewalksigns are one of the best things about running in the #eastvillage #nyc @ Swift\u2026 https://t.co/Xlo9ifNBLM", 
+            "id": "781148847745687552", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-28T15:09:33", 
+            "coordinates": [
+                -73.99220193, 
+                40.72734277
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 101.0, 
+                    "name": "Our Lady of Pompeii Church", 
+                    "osm_id": -3357433.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 10715.0, 
+                    "name": "Georgetown Plaza", 
+                    "osm_id": 247842673.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 11331.0, 
+                    "name": "Wanamaker Store Annex", 
+                    "osm_id": 247855548.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 126124.0, 
+                    "name": "Saint Joseph's Catholic Church", 
+                    "osm_id": 317716546.0
+                }
+            ], 
+            "text": "Fried #pork #dumplings @mimichengs. Thin, crispy wrapper, juicy fresh filling. Mmm @ Mimi\u2026 https://t.co/QcHLP30scQ", 
+            "id": "781148009912467456", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T15:06:13", 
+            "coordinates": [
+                -73.98610833, 
+                40.73070388
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Our Lady of Pompeii Church", 
+                    "Saint Joseph's Catholic Church"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2, 
+                "commercial": 2, 
+                "church": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 695.0, 
+                    "name": "General Electric Building", 
+                    "osm_id": 137885993.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway", 
+                    "osm_id": 163629929.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 858.0, 
+                    "name": "1155 Avenue of the Americas", 
+                    "osm_id": 163631696.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street", 
+                    "osm_id": 265282692.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91436.0, 
+                    "name": "Connaught Tower", 
+                    "osm_id": 265447070.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91753.0, 
+                    "name": "The Veneto", 
+                    "osm_id": 265483582.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92987.0, 
+                    "name": "Colgate-Palmolive Building", 
+                    "osm_id": 266010426.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square", 
+                    "osm_id": 266034080.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square", 
+                    "osm_id": 266143341.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway", 
+                    "osm_id": 266149373.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93510.0, 
+                    "name": "Hudson Theatre", 
+                    "osm_id": 266170751.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93578.0, 
+                    "name": "1166 Avenue of the Americas", 
+                    "osm_id": 266170852.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 93589.0, 
+                    "name": "Tower 45", 
+                    "osm_id": 266170766.0
+                }
+            ], 
+            "text": "Grandma slice @SofiaPizzaShop. I missed the heirloom grandma #pizza this time apparently @ Sofia\u2026 https://t.co/rdy8KFwjN0", 
+            "id": "780934044502650880", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-28T00:55:59", 
+            "coordinates": [
+                -73.9643402, 
+                40.7568703
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "General Electric Building", 
+                    "1500 Broadway", 
+                    "Colgate-Palmolive Building", 
+                    "3 Times Square", 
+                    "11 Times Square", 
+                    "1501 Broadway", 
+                    "1166 Avenue of the Americas"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 8, 
+                "theatre": 2, 
+                "office": 3, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 695.0, 
+                    "name": "General Electric Building", 
+                    "osm_id": 137885993.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway", 
+                    "osm_id": 163629929.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 858.0, 
+                    "name": "1155 Avenue of the Americas", 
+                    "osm_id": 163631696.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street", 
+                    "osm_id": 265282692.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91436.0, 
+                    "name": "Connaught Tower", 
+                    "osm_id": 265447070.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91753.0, 
+                    "name": "The Veneto", 
+                    "osm_id": 265483582.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92987.0, 
+                    "name": "Colgate-Palmolive Building", 
+                    "osm_id": 266010426.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square", 
+                    "osm_id": 266034080.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square", 
+                    "osm_id": 266143341.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway", 
+                    "osm_id": 266149373.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93510.0, 
+                    "name": "Hudson Theatre", 
+                    "osm_id": 266170751.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93578.0, 
+                    "name": "1166 Avenue of the Americas", 
+                    "osm_id": 266170852.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 93589.0, 
+                    "name": "Tower 45", 
+                    "osm_id": 266170766.0
+                }
+            ], 
+            "text": "The Spinach Dip #slice @SofiaPizzaShop:  \"A creamy spinach &amp; artichoke blend on our signature\u2026 https://t.co/cgVePHNnjc", 
+            "id": "780932610507870209", 
+            "favorite_count": 3, 
+            "created_at": "2016-09-28T00:50:18", 
+            "coordinates": [
+                -73.9643402, 
+                40.7568703
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "General Electric Building", 
+                    "1500 Broadway", 
+                    "Colgate-Palmolive Building", 
+                    "3 Times Square", 
+                    "11 Times Square", 
+                    "1501 Broadway", 
+                    "1166 Avenue of the Americas"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 8, 
+                "theatre": 2, 
+                "office": 3, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 695.0, 
+                    "name": "General Electric Building", 
+                    "osm_id": 137885993.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 852.0, 
+                    "name": "1500 Broadway", 
+                    "osm_id": 163629929.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 858.0, 
+                    "name": "1155 Avenue of the Americas", 
+                    "osm_id": 163631696.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street", 
+                    "osm_id": 265282692.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91436.0, 
+                    "name": "Connaught Tower", 
+                    "osm_id": 265447070.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91753.0, 
+                    "name": "The Veneto", 
+                    "osm_id": 265483582.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92987.0, 
+                    "name": "Colgate-Palmolive Building", 
+                    "osm_id": 266010426.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93128.0, 
+                    "name": "3 Times Square", 
+                    "osm_id": 266034080.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square", 
+                    "osm_id": 266143341.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93283.0, 
+                    "name": "1501 Broadway", 
+                    "osm_id": 266149373.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93510.0, 
+                    "name": "Hudson Theatre", 
+                    "osm_id": 266170751.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93578.0, 
+                    "name": "1166 Avenue of the Americas", 
+                    "osm_id": 266170852.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 93589.0, 
+                    "name": "Tower 45", 
+                    "osm_id": 266170766.0
+                }
+            ], 
+            "text": "You always have to establish a baseline. A saucy #pizza slice at the relatively new slice joint\u2026 https://t.co/lct1lqfJZl", 
+            "id": "780917538855251968", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-27T23:50:24", 
+            "coordinates": [
+                -73.9643402, 
+                40.7568703
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "General Electric Building", 
+                    "1500 Broadway", 
+                    "Colgate-Palmolive Building", 
+                    "3 Times Square", 
+                    "11 Times Square", 
+                    "1501 Broadway", 
+                    "1166 Avenue of the Americas"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 8, 
+                "theatre": 2, 
+                "office": 3, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 10747.0, 
+                    "name": "Mercer Street Residence Hall", 
+                    "osm_id": 247842941.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 16658.0, 
+                    "name": "St. Nicholas of Myra", 
+                    "osm_id": 248142953.0
+                }
+            ], 
+            "text": "I called #debate backup: #pizza @ Gruppo https://t.co/ibsFW9qmB1", 
+            "id": "780580471063412736", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-27T01:31:01", 
+            "coordinates": [
+                -73.9792275, 
+                40.7277782
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Mercer Street Residence Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 2, 
+                "retail": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "university", 
+                    "id": 22409.0, 
+                    "name": "Warren Weaver Hall", 
+                    "osm_id": 248166268.0
+                }
+            ], 
+            "text": "Pre-debate sustenance: #sliders @stmarkburgernyc. Named this #nyc's best slider for\u2026 https://t.co/6i7RZXtLZZ", 
+            "id": "780572255730499584", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-27T00:58:22", 
+            "coordinates": [
+                -73.98827459, 
+                40.72891719
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "Warren Weaver Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "All the pizza. I want it. @ New York, New York https://t.co/qYF6BhufuV", 
+            "id": "780120052368547841", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-25T19:01:29", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I", 
+                    "osm_id": 259686626.0
+                }
+            ], 
+            "text": "Just posted a photo @ Shake Shack Burger, NY https://t.co/CXcfOSSplK", 
+            "id": "779520239411290112", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-24T03:18:02", 
+            "coordinates": [
+                -74.01475917, 
+                40.71537404
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Colgate Center I"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I", 
+                    "osm_id": 259686626.0
+                }
+            ], 
+            "text": "Bavarian-Style Soft #Pretzel: Toasted soft pretzel topped with Bavarian spices #oktoberfest\u2026 https://t.co/pBgDs1mhJp", 
+            "id": "779519450500435968", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-24T03:14:54", 
+            "coordinates": [
+                -74.01475917, 
+                40.71537404
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Colgate Center I"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 36106.0, 
+                    "name": "Public School 3", 
+                    "osm_id": 249666267.0
+                }
+            ], 
+            "text": "@8thstwinecellar shenanigans \ud83d\ude09\ud83c\udf78\ud83c\udf7a\ud83c\udf77\ud83c\udf7b #westvillage #nyc #sidewalksign @ 8th Street winecellar https://t.co/skBBkEYbIP", 
+            "id": "779333145661411328", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-23T14:54:35", 
+            "coordinates": [
+                -73.99787, 
+                40.73279
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 3"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 458.0, 
+                    "name": "Lower East Side Preparatory High School", 
+                    "osm_id": -3697695.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 10116.0, 
+                    "name": "H&R Block", 
+                    "osm_id": 245352088.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 12126.0, 
+                    "name": "San Lorenzo Ruiz Chapel", 
+                    "osm_id": 247866912.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 108735.0, 
+                    "name": "The Edge North Tower", 
+                    "osm_id": 279780013.0
+                }
+            ], 
+            "text": "If a slice of pizza could be ripe... This one from Gloria on Queens Blvd in Forest Hills @\u2026 https://t.co/GKDSEUPzvI", 
+            "id": "779121682241974273", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-23T00:54:19", 
+            "coordinates": [
+                -73.84358, 
+                40.72048
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Lower East Side Preparatory High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2, 
+                "apartments": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Wednesday and I needed to restock on @mouthfoods #peanutbutter to feed my recent obsession and\u2026 https://t.co/Hj983uboU2", 
+            "id": "776214395999379460", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-15T00:21:48", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

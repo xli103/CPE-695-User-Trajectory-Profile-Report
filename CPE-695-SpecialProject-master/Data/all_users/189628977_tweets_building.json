@@ -1,0 +1,3124 @@
+{
+    "total_favorite_count": 1430, 
+    "total_tweets": 135, 
+    "screen_name": "davilagrau", 
+    "friends_count": 254, 
+    "followers_count": 1997, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.05699699, 
+                    37.39983224
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Google - Quad Campus in Mountain View, CA w/ @dggonzalez https://t.co/s0ELGv7ZGU", 
+                "created_at": "2016-11-14T17:20:58", 
+                "retweet_count": 0, 
+                "id": "798214152925880320", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.07941973, 
+                    37.3934352
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Downtown Mountain View in Mountain View, Calif https://t.co/1YKWretmbj", 
+                "created_at": "2016-11-14T15:55:25", 
+                "retweet_count": 0, 
+                "id": "798192624012296192", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.478626, 
+                    37.856242
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "New ride today, from San Francisco to Sausalito. And now, heading back! (@ Sausalito Ferry Landing in Sausalito, CA) https://t.co/SKSh796mFs", 
+                "created_at": "2016-11-13T19:10:38", 
+                "retweet_count": 0, 
+                "id": "797879363303784450", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4029, 
+                    37.7952
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Financial District, San Francisco https://t.co/zvNwxM6q44", 
+                "created_at": "2016-11-12T21:29:17", 
+                "retweet_count": 0, 
+                "id": "797551866871742464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.38711651, 
+                    37.61696639
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at San Francisco International Airport - @flysfo in San Francisco, CA https://t.co/sNGF3CgxGU", 
+                "created_at": "2016-11-10T02:53:49", 
+                "retweet_count": 0, 
+                "id": "796546375697756160", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.89537, 
+                    41.97151
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Chicago O'Hare International Airport in Chicago, IL https://t.co/EyAAaX2TQB", 
+                "created_at": "2016-11-09T20:41:11", 
+                "retweet_count": 0, 
+                "id": "796452599327260677", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.57922554, 
+                    40.4833192
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Adolfo Su\u00e1rez Madrid-Barajas Airport - @aena in Madrid https://t.co/7uAGpL9AG9", 
+                "created_at": "2016-11-09T08:49:40", 
+                "retweet_count": 0, 
+                "id": "796273539951316992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.7080771, 
+                    40.44421421
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Parque De Santander https://t.co/EZPbA1FTYP", 
+                "created_at": "2016-11-06T17:06:15", 
+                "retweet_count": 0, 
+                "id": "795311343880511489", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.71068283, 
+                    40.43393563
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Centro Cultural Galileo in Madrid, Comunidad de Madrid https://t.co/O2Sn66wADQ", 
+                "created_at": "2016-11-05T17:30:19", 
+                "retweet_count": 0, 
+                "id": "794955015261749249", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.8907101, 
+                    38.99728918
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Cortijo El \u00c1guila in Albacete, Castilla-La Mancha https://t.co/HuG7gfzgDr", 
+                "created_at": "2016-11-01T14:15:13", 
+                "retweet_count": 0, 
+                "id": "793456364446183425", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.21935875, 
+                    37.9971863
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ La Contraparada https://t.co/xMQn3lvtE0", 
+                "created_at": "2016-10-31T15:37:30", 
+                "retweet_count": 0, 
+                "id": "793114684664778752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.21935875, 
+                    37.9971863
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ La Contraparada https://t.co/O01SGSCUUI", 
+                "created_at": "2016-10-31T15:35:16", 
+                "retweet_count": 0, 
+                "id": "793114120275066880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.30295026, 
+                    37.5621265
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Leo @ Playa De Bolnuevo https://t.co/QXilWQtQrk", 
+                "created_at": "2016-10-30T13:26:30", 
+                "retweet_count": 0, 
+                "id": "792719327732568064", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.30295026, 
+                    37.5621265
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Playa De Bolnuevo https://t.co/mVlapal4VW", 
+                "created_at": "2016-10-30T12:37:19", 
+                "retweet_count": 0, 
+                "id": "792706950307930113", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.30295026, 
+                    37.5621265
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Playa De Bolnuevo https://t.co/HuguAn8bfR", 
+                "created_at": "2016-10-30T12:34:10", 
+                "retweet_count": 0, 
+                "id": "792706158612058113", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.30295026, 
+                    37.5621265
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Playa De Bolnuevo https://t.co/yQ0JF8QDCb", 
+                "created_at": "2016-10-30T12:28:14", 
+                "retweet_count": 0, 
+                "id": "792704663179108352", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.30295026, 
+                    37.5621265
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Playa De Bolnuevo https://t.co/sT4Zzh7jnn", 
+                "created_at": "2016-10-30T12:25:04", 
+                "retweet_count": 0, 
+                "id": "792703867519721472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.7032199, 
+                    40.4257317
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Okashi Sanda https://t.co/tyUorX5wgL", 
+                "created_at": "2016-10-27T20:11:30", 
+                "retweet_count": 0, 
+                "id": "791734086398160897", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.68768769, 
+                    40.40547186
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Viaje rel\u00e1mpago a Albacete hoy!!! Un placer presentar Machine Learning APIs #cloud #machinelearning #ai (at @renfe) https://t.co/Sx5MHPltg3", 
+                "created_at": "2016-10-27T13:04:16", 
+                "retweet_count": 1, 
+                "id": "791626570318438400", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.69019925, 
+                    40.40669677
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Heading Albacete: presenting Google Machine Learning APIs with @GDGAlbacete (@ Estaci\u00f3n de Madrid-Puerta de Atocha) https://t.co/oVB7vx2Ene", 
+                "created_at": "2016-10-27T05:22:27", 
+                "retweet_count": 0, 
+                "id": "791510348570456064", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.70965, 
+                    40.41481
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Taberna Miranda https://t.co/IYLVdfXAUy", 
+                "created_at": "2016-10-23T12:43:36", 
+                "retweet_count": 0, 
+                "id": "790171815138189312", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.70841307, 
+                    40.43407366
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Mercado Municipal de Vallehermoso in Madrid, Spain https://t.co/uUWIpv94HO", 
+                "created_at": "2016-10-15T12:14:36", 
+                "retweet_count": 0, 
+                "id": "787265415529586688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98999022, 
+                    40.73332171
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27111256.0, 
+                    "type": "yes", 
+                    "id": 562.0, 
+                    "name": "Target"
+                }, 
+                {
+                    "osm_id": 247861602.0, 
+                    "type": "yes", 
+                    "id": 11497.0, 
+                    "name": "Hyatt Union Square New York"
+                }, 
+                {
+                    "osm_id": 265560949.0, 
+                    "type": "yes", 
+                    "id": 92013.0, 
+                    "name": "A&P"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @MiGarbaTuscany in New York, NY https://t.co/tYWFHL6QQt", 
+                "created_at": "2016-10-14T02:05:56", 
+                "retweet_count": 0, 
+                "id": "786749853476978688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ East Village, Manhattan https://t.co/Rq9Bag9Biw", 
+                "created_at": "2016-10-13T23:38:47", 
+                "retweet_count": 0, 
+                "id": "786712820968779776", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98158, 
+                    40.72628
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247838682.0, 
+                    "type": "yes", 
+                    "id": 10433.0, 
+                    "name": "La MaMa"
+                }, 
+                {
+                    "osm_id": 247848679.0, 
+                    "type": "yes", 
+                    "id": 10941.0, 
+                    "name": "Bayard Building"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ East Village, Manhattan https://t.co/n02XycYy8d", 
+                "created_at": "2016-10-13T23:32:57", 
+                "retweet_count": 0, 
+                "id": "786711354635874304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00339805, 
+                    40.74145935
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264624909.0, 
+                    "type": "yes", 
+                    "id": 84142.0, 
+                    "name": "Porter House"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Google NYC https://t.co/8ISNmcjNDD", 
+                "created_at": "2016-10-13T22:06:13", 
+                "retweet_count": 0, 
+                "id": "786689524294385664", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00339805, 
+                    40.74145935
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264624909.0, 
+                    "type": "yes", 
+                    "id": 84142.0, 
+                    "name": "Porter House"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Google NYC https://t.co/wQbUULoX2A", 
+                "created_at": "2016-10-13T22:05:02", 
+                "retweet_count": 0, 
+                "id": "786689227455160320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00339805, 
+                    40.74145935
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264624909.0, 
+                    "type": "yes", 
+                    "id": 84142.0, 
+                    "name": "Porter House"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Google NYC https://t.co/GemlQ84lrf", 
+                "created_at": "2016-10-13T14:50:48", 
+                "retweet_count": 0, 
+                "id": "786579951164203008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.002222, 
+                    40.745278
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 182240449.0, 
+                    "type": "yes", 
+                    "id": 900.0, 
+                    "name": "Palmer Hall"
+                }, 
+                {
+                    "osm_id": 264627658.0, 
+                    "type": "yes", 
+                    "id": 84242.0, 
+                    "name": "IAC Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Chelsea, Manhattan https://t.co/w7YhKcFnG7", 
+                "created_at": "2016-10-13T13:22:43", 
+                "retweet_count": 0, 
+                "id": "786557783407730692", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.002222, 
+                    40.745278
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 182240449.0, 
+                    "type": "yes", 
+                    "id": 900.0, 
+                    "name": "Palmer Hall"
+                }, 
+                {
+                    "osm_id": 264627658.0, 
+                    "type": "yes", 
+                    "id": 84242.0, 
+                    "name": "IAC Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Chelsea, Manhattan https://t.co/wdEd7Av71F", 
+                "created_at": "2016-10-13T11:55:39", 
+                "retweet_count": 0, 
+                "id": "786535869704499200", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.002222, 
+                    40.745278
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 182240449.0, 
+                    "type": "yes", 
+                    "id": 900.0, 
+                    "name": "Palmer Hall"
+                }, 
+                {
+                    "osm_id": 264627658.0, 
+                    "type": "yes", 
+                    "id": 84242.0, 
+                    "name": "IAC Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Chelsea, Manhattan https://t.co/6RrrnYmKe0", 
+                "created_at": "2016-10-13T11:53:56", 
+                "retweet_count": 0, 
+                "id": "786535437561163776", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98568215, 
+                    40.7723797
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 193612488.0, 
+                    "type": "yes", 
+                    "id": 966.0, 
+                    "name": "CJ Korea Express"
+                }, 
+                {
+                    "osm_id": 193612487.0, 
+                    "type": "yes", 
+                    "id": 968.0, 
+                    "name": "1000 Castle Road"
+                }, 
+                {
+                    "osm_id": 269210910.0, 
+                    "type": "yes", 
+                    "id": 97958.0, 
+                    "name": "West 59th Street Generating Station"
+                }, 
+                {
+                    "osm_id": 269211267.0, 
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School"
+                }, 
+                {
+                    "osm_id": 279480829.0, 
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ West Side, New York https://t.co/ax5PVJMQmK", 
+                "created_at": "2016-10-13T11:51:12", 
+                "retweet_count": 0, 
+                "id": "786534750345367552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.03431027, 
+                    40.69068887
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Statue Of Liberty At NYC https://t.co/dNYAM93afp", 
+                "created_at": "2016-10-12T23:45:50", 
+                "retweet_count": 0, 
+                "id": "786352206207483905", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9896546, 
+                    40.7038145
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695753.0, 
+                    "type": "yes", 
+                    "id": 441.0, 
+                    "name": "Alexander Hamilton U.S. Custom House"
+                }, 
+                {
+                    "osm_id": 42455776.0, 
+                    "type": "yes", 
+                    "id": 595.0, 
+                    "name": "One Financial Square"
+                }, 
+                {
+                    "osm_id": 250402627.0, 
+                    "type": "yes", 
+                    "id": 75059.0, 
+                    "name": "Empire Stores"
+                }, 
+                {
+                    "osm_id": 278053505.0, 
+                    "type": "yes", 
+                    "id": 99305.0, 
+                    "name": "DoubleTree by Hilton New York City Financial District"
+                }, 
+                {
+                    "osm_id": 278053579.0, 
+                    "type": "office", 
+                    "id": 99376.0, 
+                    "name": "1 Whitehall Street"
+                }, 
+                {
+                    "osm_id": 278053522.0, 
+                    "type": "yes", 
+                    "id": 99402.0, 
+                    "name": "Stone & Webster Building"
+                }, 
+                {
+                    "osm_id": 278053613.0, 
+                    "type": "yes", 
+                    "id": 99403.0, 
+                    "name": "85 Broad Street"
+                }, 
+                {
+                    "osm_id": 278053612.0, 
+                    "type": "yes", 
+                    "id": 99405.0, 
+                    "name": "7 Hanover Square"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }, 
+                {
+                    "osm_id": 373709849.0, 
+                    "type": "commercial", 
+                    "id": 126464.0, 
+                    "name": "St. Ann's Warehouse"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Brooklyn Bridge Park https://t.co/QTCZofs6ya", 
+                "created_at": "2016-10-12T23:21:12", 
+                "retweet_count": 0, 
+                "id": "786346008246706176", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0061, 
+                    40.7425
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974144.0, 
+                    "type": "yes", 
+                    "id": 545.0, 
+                    "name": "Edwin A. Stevens Hall and DeBaun Auditorium"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 182954082.0, 
+                    "type": "yes", 
+                    "id": 907.0, 
+                    "name": "Babbio Center"
+                }, 
+                {
+                    "osm_id": 182954150.0, 
+                    "type": "yes", 
+                    "id": 913.0, 
+                    "name": "Griffith Building"
+                }, 
+                {
+                    "osm_id": 258220220.0, 
+                    "type": "yes", 
+                    "id": 83553.0, 
+                    "name": "Stop & Shop"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Rana #NYC @ Chelsea Market https://t.co/dMIZi9c1p9", 
+                "created_at": "2016-10-12T01:57:59", 
+                "retweet_count": 0, 
+                "id": "786023073866743808", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.972216, 
+                    40.77274259
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 193612488.0, 
+                    "type": "yes", 
+                    "id": 966.0, 
+                    "name": "CJ Korea Express"
+                }, 
+                {
+                    "osm_id": 193612487.0, 
+                    "type": "yes", 
+                    "id": 968.0, 
+                    "name": "1000 Castle Road"
+                }, 
+                {
+                    "osm_id": 265354534.0, 
+                    "type": "yes", 
+                    "id": 90615.0, 
+                    "name": "Metropolitan Opera House"
+                }, 
+                {
+                    "osm_id": 265354527.0, 
+                    "type": "yes", 
+                    "id": 90622.0, 
+                    "name": "David Geffen Hall"
+                }, 
+                {
+                    "osm_id": 269211267.0, 
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School"
+                }, 
+                {
+                    "osm_id": 269212824.0, 
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier"
+                }, 
+                {
+                    "osm_id": 269219551.0, 
+                    "type": "yes", 
+                    "id": 98027.0, 
+                    "name": "Congregation Habonim"
+                }, 
+                {
+                    "osm_id": 269219557.0, 
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa"
+                }, 
+                {
+                    "osm_id": 279480829.0, 
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial"
+                }, 
+                {
+                    "osm_id": 347377417.0, 
+                    "type": "yes", 
+                    "id": 126330.0, 
+                    "name": "600 Meadowlands Parkway"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Central Park https://t.co/6Oewa3h34H", 
+                "created_at": "2016-10-11T10:19:17", 
+                "retweet_count": 0, 
+                "id": "785786843849777152", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.972216, 
+                    40.77274259
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 193612488.0, 
+                    "type": "yes", 
+                    "id": 966.0, 
+                    "name": "CJ Korea Express"
+                }, 
+                {
+                    "osm_id": 193612487.0, 
+                    "type": "yes", 
+                    "id": 968.0, 
+                    "name": "1000 Castle Road"
+                }, 
+                {
+                    "osm_id": 265354534.0, 
+                    "type": "yes", 
+                    "id": 90615.0, 
+                    "name": "Metropolitan Opera House"
+                }, 
+                {
+                    "osm_id": 265354527.0, 
+                    "type": "yes", 
+                    "id": 90622.0, 
+                    "name": "David Geffen Hall"
+                }, 
+                {
+                    "osm_id": 269211267.0, 
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School"
+                }, 
+                {
+                    "osm_id": 269212824.0, 
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier"
+                }, 
+                {
+                    "osm_id": 269219551.0, 
+                    "type": "yes", 
+                    "id": 98027.0, 
+                    "name": "Congregation Habonim"
+                }, 
+                {
+                    "osm_id": 269219557.0, 
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa"
+                }, 
+                {
+                    "osm_id": 279480829.0, 
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial"
+                }, 
+                {
+                    "osm_id": 347377417.0, 
+                    "type": "yes", 
+                    "id": 126330.0, 
+                    "name": "600 Meadowlands Parkway"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Central Park https://t.co/LmBORrB923", 
+                "created_at": "2016-10-10T21:50:16", 
+                "retweet_count": 0, 
+                "id": "785598347398803456", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00263842, 
+                    40.74129072
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264624909.0, 
+                    "type": "yes", 
+                    "id": 84142.0, 
+                    "name": "Porter House"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 403124630.0, 
+                    "type": "yes", 
+                    "id": 136049.0, 
+                    "name": "Saints Peter and Paul RC Church"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Google New York in New York, NY https://t.co/ONC6iykq75 https://t.co/VUuUnq2kju", 
+                "created_at": "2016-10-10T13:42:24", 
+                "retweet_count": 0, 
+                "id": "785475572617142272", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97579848, 
+                    40.76054966
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -2438875.0, 
+                    "type": "yes", 
+                    "id": 5.0, 
+                    "name": "Silver Towers"
+                }, 
+                {
+                    "osm_id": 109284794.0, 
+                    "type": "commercial", 
+                    "id": 667.0, 
+                    "name": "Time-Life Building"
+                }, 
+                {
+                    "osm_id": 109284795.0, 
+                    "type": "commercial", 
+                    "id": 671.0, 
+                    "name": "1290 Avenue of the Americas"
+                }, 
+                {
+                    "osm_id": 118476502.0, 
+                    "type": "commercial", 
+                    "id": 685.0, 
+                    "name": "666 Fifth Avenue"
+                }, 
+                {
+                    "osm_id": 162755458.0, 
+                    "type": "yes", 
+                    "id": 844.0, 
+                    "name": "Paley Center for Media"
+                }, 
+                {
+                    "osm_id": 163480139.0, 
+                    "type": "apartments", 
+                    "id": 846.0, 
+                    "name": "Biltmore Tower"
+                }, 
+                {
+                    "osm_id": 162747896.0, 
+                    "type": "commercial", 
+                    "id": 854.0, 
+                    "name": "31 West 52nd Street"
+                }, 
+                {
+                    "osm_id": 265312767.0, 
+                    "type": "apartments", 
+                    "id": 89310.0, 
+                    "name": "New Gotham"
+                }, 
+                {
+                    "osm_id": 266149331.0, 
+                    "type": "theatre", 
+                    "id": 93218.0, 
+                    "name": "Samuel J. Friedman Theatre"
+                }, 
+                {
+                    "osm_id": 266149348.0, 
+                    "type": "yes", 
+                    "id": 93222.0, 
+                    "name": "President Hotel"
+                }, 
+                {
+                    "osm_id": 266151929.0, 
+                    "type": "yes", 
+                    "id": 93250.0, 
+                    "name": "Crowne Plaza Times Square"
+                }, 
+                {
+                    "osm_id": 266151926.0, 
+                    "type": "theatre", 
+                    "id": 93294.0, 
+                    "name": "Walter Kerr Theatre"
+                }, 
+                {
+                    "osm_id": 266170754.0, 
+                    "type": "commercial", 
+                    "id": 93506.0, 
+                    "name": "Lehman Brothers Building"
+                }, 
+                {
+                    "osm_id": 279410762.0, 
+                    "type": "yes", 
+                    "id": 102037.0, 
+                    "name": "Citibank Data Center"
+                }, 
+                {
+                    "osm_id": 279410743.0, 
+                    "type": "yes", 
+                    "id": 102041.0, 
+                    "name": "1500 Harbor Boulevard"
+                }, 
+                {
+                    "osm_id": 279400689.0, 
+                    "type": "yes", 
+                    "id": 102067.0, 
+                    "name": "The Shops at Lincoln Harbor"
+                }, 
+                {
+                    "osm_id": 279410751.0, 
+                    "type": "yes", 
+                    "id": 102149.0, 
+                    "name": "Chart House"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ 5th Ave. Manhattan https://t.co/z56D3nZqzo", 
+                "created_at": "2016-10-09T18:43:15", 
+                "retweet_count": 0, 
+                "id": "785188897101869057", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98644, 
+                    40.75839
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 163474780.0, 
+                    "type": "yes", 
+                    "id": 859.0, 
+                    "name": "New York Marriott Marquis"
+                }, 
+                {
+                    "osm_id": 263194427.0, 
+                    "type": "yes", 
+                    "id": 83624.0, 
+                    "name": "420 West 42nd Street"
+                }, 
+                {
+                    "osm_id": 266033995.0, 
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School"
+                }, 
+                {
+                    "osm_id": 266034023.0, 
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower"
+                }, 
+                {
+                    "osm_id": 266034045.0, 
+                    "type": "yes", 
+                    "id": 93147.0, 
+                    "name": "InterContinental New York Times Square"
+                }, 
+                {
+                    "osm_id": 266149299.0, 
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre"
+                }, 
+                {
+                    "osm_id": 266149300.0, 
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre"
+                }, 
+                {
+                    "osm_id": 266149302.0, 
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149328.0, 
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "No running today! @ Times Square, New York City https://t.co/L87eOkbNML", 
+                "created_at": "2016-10-09T13:20:34", 
+                "retweet_count": 0, 
+                "id": "785107689034526720", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9885711, 
+                    40.7565708
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 108160358.0, 
+                    "type": "yes", 
+                    "id": 662.0, 
+                    "name": "Port Authority Bus Terminal"
+                }, 
+                {
+                    "osm_id": 265296161.0, 
+                    "type": "yes", 
+                    "id": 88884.0, 
+                    "name": "Distrikt Hotel"
+                }, 
+                {
+                    "osm_id": 265296155.0, 
+                    "type": "yes", 
+                    "id": 88912.0, 
+                    "name": "Staybridge Suites"
+                }, 
+                {
+                    "osm_id": 266143298.0, 
+                    "type": "yes", 
+                    "id": 93132.0, 
+                    "name": "AMC Empire 25"
+                }, 
+                {
+                    "osm_id": 266084216.0, 
+                    "type": "yes", 
+                    "id": 93176.0, 
+                    "name": "Fairfield Inn & Suites"
+                }, 
+                {
+                    "osm_id": 266143341.0, 
+                    "type": "commercial", 
+                    "id": 93193.0, 
+                    "name": "11 Times Square"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }, 
+                {
+                    "osm_id": 288458603.0, 
+                    "type": "yes", 
+                    "id": 125730.0, 
+                    "name": "Galerie 515"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Hilton Times Square https://t.co/xJBldctJk4", 
+                "created_at": "2016-10-08T22:09:02", 
+                "retweet_count": 0, 
+                "id": "784878296790163456", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.78310625, 
+                    40.64475032
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at John F. Kennedy International Airport in Queens, NY, NY https://t.co/0BXLrP4mxV", 
+                "created_at": "2016-10-08T19:11:38", 
+                "retweet_count": 0, 
+                "id": "784833648910622722", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.57054118, 
+                    40.48796215
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Heading #NYC (@ Adolfo Su\u00e1rez Madrid-Barajas Airport - @aena in Madrid) https://t.co/dfeRl9NIB0", 
+                "created_at": "2016-10-08T09:18:06", 
+                "retweet_count": 0, 
+                "id": "784684283730493440", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.17882, 
+                    38.70351
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ LXFactory https://t.co/W24fgMJdVr", 
+                "created_at": "2016-10-06T18:59:30", 
+                "retweet_count": 0, 
+                "id": "784105821403766784", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.17883314, 
+                    38.70309148
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#PixelCamp (@ LX Factory in Lisboa) https://t.co/34OfYgyG7z", 
+                "created_at": "2016-10-06T18:58:28", 
+                "retweet_count": 0, 
+                "id": "784105561189191680", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.13012334, 
+                    38.76982057
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#PixelCamp (@ Lisbon Humberto Delgado Airport in Lisboa) https://t.co/Za4EK1Cw21", 
+                "created_at": "2016-10-06T15:13:30", 
+                "retweet_count": 0, 
+                "id": "784048945790091264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.57054118, 
+                    40.48796215
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Heading #pixelcamp (@ Adolfo Su\u00e1rez Madrid-Barajas Airport - @aena in Madrid) https://t.co/T8hwCKYVQU", 
+                "created_at": "2016-10-06T12:14:29", 
+                "retweet_count": 0, 
+                "id": "784003895488118784", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.70330336, 
+                    40.42660047
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Malasa\u00f1a https://t.co/q11eSjZuKE", 
+                "created_at": "2016-09-30T07:00:14", 
+                "retweet_count": 0, 
+                "id": "781750484998754304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.766893, 
+                    40.466257
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Colegio Estudio https://t.co/zaeWkD1bOW", 
+                "created_at": "2016-09-28T14:59:27", 
+                "retweet_count": 0, 
+                "id": "781146307524255744", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.49739854, 
+                    36.71864621
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at The Green Ray in M\u00e1laga https://t.co/52OUrbgFah", 
+                "created_at": "2016-09-24T08:19:20", 
+                "retweet_count": 0, 
+                "id": "779596064756293632", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.51093912, 
+                    36.60140337
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#GDGSummitES (@ Sol Timor in Torremolinos, Andalusi\u00eb) https://t.co/6p48hShGd6", 
+                "created_at": "2016-09-23T12:06:54", 
+                "retweet_count": 0, 
+                "id": "779290946861199360", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.4326488, 
+                    36.71174113
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Estacion Maria Zambrano https://t.co/uaVOCLTx1h", 
+                "created_at": "2016-09-23T10:24:33", 
+                "retweet_count": 0, 
+                "id": "779265189325705216", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.43231821, 
+                    36.71162437
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Yay! #GDGSummitES (@ Estaci\u00f3n de M\u00e1laga-Mar\u00eda Zambrano - @adif_es in M\u00e1laga) https://t.co/0TpUCcMUaC", 
+                "created_at": "2016-09-23T10:22:29", 
+                "retweet_count": 0, 
+                "id": "779264668095447040", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.68967086, 
+                    40.40607117
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Estacion Atocha Renfe Madrid https://t.co/N6vhxovVuJ", 
+                "created_at": "2016-09-23T06:56:27", 
+                "retweet_count": 0, 
+                "id": "779212819573137408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.69033796, 
+                    40.40644425
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Heading #GDGSummitES (@ Estaci\u00f3n de Madrid-Puerta de Atocha - @adif_es in Madrid) https://t.co/D7FWHG1Y2Y", 
+                "created_at": "2016-09-23T06:49:42", 
+                "retweet_count": 0, 
+                "id": "779211117805629440", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.70274409, 
+                    40.43387733
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @PerrachicaMad in Madrid https://t.co/NBTL7CGYJN", 
+                "created_at": "2016-09-19T14:59:15", 
+                "retweet_count": 0, 
+                "id": "777884766993584128", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.70764618, 
+                    40.44377766
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Parque De Santander https://t.co/qFQZ5i30xF", 
+                "created_at": "2016-09-18T17:55:12", 
+                "retweet_count": 0, 
+                "id": "777566657724215296", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.371422, 
+                    48.198247
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Karlskirche https://t.co/fYDfHk24Rh", 
+                "created_at": "2016-09-16T17:59:11", 
+                "retweet_count": 0, 
+                "id": "776842886965039104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.36731, 
+                    48.19742
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Hotel DAS TRIEST https://t.co/blAb2lhZZX", 
+                "created_at": "2016-09-15T19:04:23", 
+                "retweet_count": 0, 
+                "id": "776496904536547328", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.3731, 
+                    48.2083
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Vienna, Austria https://t.co/YQueyUjmih", 
+                "created_at": "2016-09-15T15:24:02", 
+                "retweet_count": 0, 
+                "id": "776441451068657665", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.354906, 
+                    48.186449
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at sektor5 - @sektorfuenf in Wien https://t.co/Ww688sqbZY", 
+                "created_at": "2016-09-14T15:49:22", 
+                "retweet_count": 0, 
+                "id": "776085438083788800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.36831, 
+                    48.20941
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Google https://t.co/ejj4Bj7OP0", 
+                "created_at": "2016-09-14T10:06:33", 
+                "retweet_count": 0, 
+                "id": "775999168112390144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.57077346, 
+                    40.48017142
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Droidcon #Austria (@ Adolfo Su\u00e1rez Madrid-Barajas Airport - @aenaaeropuertos in Madrid) https://t.co/hWRxEVf8YN", 
+                "created_at": "2016-09-13T05:50:27", 
+                "retweet_count": 0, 
+                "id": "775572330672168960", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.76051913, 
+                    40.4978719
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at El Encinar De El Pardo in Madrid, Comunidad de Madrid https://t.co/gi1PutyDMp", 
+                "created_at": "2016-09-11T17:58:57", 
+                "retweet_count": 0, 
+                "id": "775030887960440832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.70402253, 
+                    40.43652232
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Cines Verdi for Kubo and the Two Strings in Madrid https://t.co/04WdL6IhS6", 
+                "created_at": "2016-09-10T13:40:55", 
+                "retweet_count": 0, 
+                "id": "774603562072637440", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.70401757, 
+                    40.43767896
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Restaurante Zhang in Madrid, Espa\u00f1a https://t.co/fZWdwunZEW", 
+                "created_at": "2016-09-10T12:48:42", 
+                "retweet_count": 0, 
+                "id": "774590420483444736", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.1419002, 
+                    39.1987702
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Miguelitos Ruiz https://t.co/uSmr6aKkgr", 
+                "created_at": "2016-09-03T14:20:41", 
+                "retweet_count": 0, 
+                "id": "772076853611888640", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.68967086, 
+                    40.40607117
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Estacion Atocha Renfe Madrid https://t.co/fS77aLdfsS", 
+                "created_at": "2016-09-02T13:53:45", 
+                "retweet_count": 0, 
+                "id": "771707690959638528", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.71227865, 
+                    40.43233466
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Home sweet home! (@ Chamber\u00ed) https://t.co/u4gthuS51M", 
+                "created_at": "2016-08-30T12:23:59", 
+                "retweet_count": 0, 
+                "id": "770597935889473536", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.25809283, 
+                    37.56468589
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#findelverano @ Puerto Mazarron https://t.co/BfMDSFvDWt", 
+                "created_at": "2016-08-29T07:05:26", 
+                "retweet_count": 0, 
+                "id": "770155381238689792", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.170707, 
+                    37.55178452
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Antipodas tavern in La Azohia https://t.co/v2IqKfpJ1V", 
+                "created_at": "2016-08-27T13:15:40", 
+                "retweet_count": 0, 
+                "id": "769523776782471168", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.169765, 
+                    37.55283684
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at La Azoh\u00eda in La Azoh\u00eda, Murcia https://t.co/KI2lf3Pqdd", 
+                "created_at": "2016-08-27T11:32:33", 
+                "retweet_count": 0, 
+                "id": "769497826564902912", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.25874025, 
+                    37.56641325
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Bar Vivancos in Mazarr\u00f3n, Murcia https://t.co/k2CLDxfoTK", 
+                "created_at": "2016-08-23T12:14:21", 
+                "retweet_count": 0, 
+                "id": "768058796694441990", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.26994856, 
+                    37.56394499
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Cine Bah\u00eda in Mazarr\u00f3n, Regi\u00f3n de Murcia https://t.co/BBvhbye4mT", 
+                "created_at": "2016-08-22T19:19:17", 
+                "retweet_count": 0, 
+                "id": "767803345406943232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.57210159, 
+                    40.47901042
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Adolfo Su\u00e1rez Madrid-Barajas Airport - @aenaaeropuertos in Madrid https://t.co/ew20grkMzp", 
+                "created_at": "2016-08-14T19:07:55", 
+                "retweet_count": 0, 
+                "id": "764901381660676096", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.41938972, 
+                    42.89200131
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Aeropuerto de Santiago de Compostela (SCQ) - @infoscq in Santiago de Compostela, A Coru\u00f1a https://t.co/6XGkYbN0NS", 
+                "created_at": "2016-08-14T14:25:39", 
+                "retweet_count": 0, 
+                "id": "764830346055708672", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.54460597, 
+                    42.88057523
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#PeregrinosTech (@ Catedral de Santiago de Compostela - @santiagoturismo in Santiago de Compostela, A Coru\u00f1a) https://t.co/83MfCeOJR5", 
+                "created_at": "2016-08-14T10:15:48", 
+                "retweet_count": 0, 
+                "id": "764767469772873728", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.54758321, 
+                    42.87723077
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Parque da Alameda in Santiago de Compostela, A Coru\u00f1a https://t.co/5GBiF9fcGg", 
+                "created_at": "2016-08-14T10:10:44", 
+                "retweet_count": 0, 
+                "id": "764766197846044672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.5457325, 
+                    42.88048088
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#PeregrinosTech Llegando... (@ Santiago de Compostela - @santiagoturismo in Santiago de Compostela, A Coru\u00f1a) https://t.co/j61v1sALeb", 
+                "created_at": "2016-08-14T10:07:42", 
+                "retweet_count": 0, 
+                "id": "764765434537181184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.55175018, 
+                    42.87456512
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#peregrinostech Ya casi estamos en la misa del peregrino (@ Pijus Magnifikus in Santiago De Compostela) https://t.co/TI0dMII3qW", 
+                "created_at": "2016-08-14T10:06:45", 
+                "retweet_count": 0, 
+                "id": "764765192249024528", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.66059841, 
+                    42.73741629
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Padr\u00f3n in Padr\u00f3n, A Coru\u00f1a https://t.co/0deVKgWLYv https://t.co/jawCDLbwTS", 
+                "created_at": "2016-08-13T12:00:03", 
+                "retweet_count": 0, 
+                "id": "764431316737781760", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.64248, 
+                    42.60251
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Concello de Caldas de Reis https://t.co/tK2efenLxK", 
+                "created_at": "2016-08-13T09:40:25", 
+                "retweet_count": 0, 
+                "id": "764396178616254464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.64561849, 
+                    42.64920519
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Cafe Bar Esperon https://t.co/S4rZUcsCKH", 
+                "created_at": "2016-08-13T08:43:53", 
+                "retweet_count": 0, 
+                "id": "764381952069791745", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.64246604, 
+                    42.60321573
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at O Mui\u00f1o https://t.co/O1VcPgBq22", 
+                "created_at": "2016-08-12T20:07:42", 
+                "retweet_count": 0, 
+                "id": "764191654043590656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.64304067, 
+                    42.60211765
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Y ahora a recuperar! #PeregrinosTech (@ Balneario Acu\u00f1a in Caldas de Reis, Galicia) https://t.co/zUHtibeoA9", 
+                "created_at": "2016-08-12T17:06:15", 
+                "retweet_count": 0, 
+                "id": "764145988923748353", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.64458735, 
+                    42.60489658
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Segundo doblete del camino: Rodondela/Calgas de Re\u00eds #PeregrinosTech (@ Caldas de Reis) https://t.co/tNmeMb5me4", 
+                "created_at": "2016-08-12T16:42:50", 
+                "retweet_count": 0, 
+                "id": "764140097419767808", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.63333, 
+                    42.55
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Barro, Galicia, Spain https://t.co/SweygOKSiy", 
+                "created_at": "2016-08-12T16:02:43", 
+                "retweet_count": 0, 
+                "id": "764130001373503493", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.67057022, 
+                    42.52722813
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Pontevedra https://t.co/xR5DfYoYTl", 
+                "created_at": "2016-08-12T13:53:23", 
+                "retweet_count": 0, 
+                "id": "764097451800178688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.64359593, 
+                    42.43052022
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Plaza de la Peregrina https://t.co/s3T7jaCWqJ", 
+                "created_at": "2016-08-12T11:05:44", 
+                "retweet_count": 0, 
+                "id": "764055260172136449", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.61322365, 
+                    42.34045907
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Muelle de Arcade https://t.co/Rnd7DuONPL", 
+                "created_at": "2016-08-12T08:03:02", 
+                "retweet_count": 0, 
+                "id": "764009284178882562", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.56778953, 
+                    42.32915028
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Castillo de Soutomaior https://t.co/pc7F1cGBfP", 
+                "created_at": "2016-08-12T07:20:16", 
+                "retweet_count": 0, 
+                "id": "763998519556399108", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.608516, 
+                    42.285459
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at casa mucha https://t.co/4S35sVFeWn", 
+                "created_at": "2016-08-11T17:20:03", 
+                "retweet_count": 0, 
+                "id": "763787074805886976", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.608856, 
+                    42.282139
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Albergue de Peregrinos - Redondela https://t.co/BbubF4FTSv", 
+                "created_at": "2016-08-11T15:20:26", 
+                "retweet_count": 1, 
+                "id": "763756971019407360", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.60905383, 
+                    42.28345808
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Demoledora primera etapa Tui-Redondela completada. #PeregrinosTech (@ Redondela) https://t.co/UzvdrFXXyd", 
+                "created_at": "2016-08-11T15:20:11", 
+                "retweet_count": 1, 
+                "id": "763756910034219009", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.62197564, 
+                    42.15794726
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Primera parada, a mitad de etapa #PeregrinosTech (@ O Porri\u00f1o in O Porri\u00f1o, Galicia) https://t.co/Vb6Pn4DPuP", 
+                "created_at": "2016-08-11T10:23:33", 
+                "retweet_count": 1, 
+                "id": "763682257395671040", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.64460826, 
+                    42.04677661
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Tui, Rio Mi\u00f1o https://t.co/hvfpSK0d7M", 
+                "created_at": "2016-08-10T12:29:45", 
+                "retweet_count": 0, 
+                "id": "763351630158921728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.64460826, 
+                    42.04677661
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Tui, Rio Mi\u00f1o https://t.co/GPtFjyO75A", 
+                "created_at": "2016-08-10T11:30:39", 
+                "retweet_count": 0, 
+                "id": "763336757324709889", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.64460826, 
+                    42.04677661
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Tui, Rio Mi\u00f1o https://t.co/BzeDzf2XWm", 
+                "created_at": "2016-08-10T09:25:52", 
+                "retweet_count": 0, 
+                "id": "763305352473575424", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.25799621, 
+                    37.5650084
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Puerto Mazarron https://t.co/lOAXAV5iOb", 
+                "created_at": "2016-08-07T16:03:31", 
+                "retweet_count": 0, 
+                "id": "762318263699243008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.45, 
+                    36.8333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Almer\u00eda, Spain https://t.co/c7c7boUNu6", 
+                "created_at": "2016-08-06T06:16:08", 
+                "retweet_count": 0, 
+                "id": "761808053662547968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.24689646, 
+                    37.57724378
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ el Alamillo (Puerto de Mazarron) https://t.co/T0czSvi7VR", 
+                "created_at": "2016-07-31T07:00:57", 
+                "retweet_count": 0, 
+                "id": "759645007368351744", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.43333, 
+                    37.9667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Puebla de Don Fadrique, Spain https://t.co/JILHdjiPMP", 
+                "created_at": "2016-07-23T09:12:36", 
+                "retweet_count": 0, 
+                "id": "756779033925410817", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.43333, 
+                    37.9667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Puebla de Don Fadrique, Spain https://t.co/ey1CZSOiOi", 
+                "created_at": "2016-07-23T09:07:38", 
+                "retweet_count": 0, 
+                "id": "756777782735151104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -16.25139864, 
+                    28.45656673
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Auditorio de Tenerife https://t.co/eKeGpE1X9B", 
+                "created_at": "2016-07-16T12:17:33", 
+                "retweet_count": 0, 
+                "id": "754288863837818880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -16.25176447, 
+                    28.4560717
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Auditorio de Tenerife https://t.co/ZGAe5TWSMV", 
+                "created_at": "2016-07-15T06:43:07", 
+                "retweet_count": 0, 
+                "id": "753842311667167232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -16.25176447, 
+                    28.4560717
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Auditorio de Tenerife https://t.co/FLsn0CRoRo", 
+                "created_at": "2016-07-15T06:41:43", 
+                "retweet_count": 0, 
+                "id": "753841960801095680", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.66659, 
+                    40.96121
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Catedral de Salamanca https://t.co/qsd8VegxTV", 
+                "created_at": "2016-06-30T19:49:16", 
+                "retweet_count": 0, 
+                "id": "748604335345516545", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.66659, 
+                    40.96121
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Catedral de Salamanca https://t.co/kHZUCdiM1w", 
+                "created_at": "2016-06-30T19:48:36", 
+                "retweet_count": 0, 
+                "id": "748604167237795840", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.66571, 
+                    40.95979
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Huerto de Calixto y Melibea https://t.co/aOZL6cnTOg", 
+                "created_at": "2016-06-30T19:34:14", 
+                "retweet_count": 0, 
+                "id": "748600553693904900", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.66456514, 
+                    40.96005605
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ La Cueva De Salamanca https://t.co/mDyFxsnuk8", 
+                "created_at": "2016-06-30T19:18:54", 
+                "retweet_count": 0, 
+                "id": "748596692157505536", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.66648462, 
+                    40.9559231
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Rio Tormes https://t.co/GftJR1qeC5", 
+                "created_at": "2016-06-29T18:25:31", 
+                "retweet_count": 0, 
+                "id": "748220870959767552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.66377, 
+                    40.96467
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Plaza Mayor, Salamanca https://t.co/L9ucGGUJVv", 
+                "created_at": "2016-06-29T11:49:57", 
+                "retweet_count": 0, 
+                "id": "748121322648109057", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.66659, 
+                    40.96121
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Catedral de Salamanca https://t.co/iOgXSwfpK3", 
+                "created_at": "2016-06-28T21:42:17", 
+                "retweet_count": 0, 
+                "id": "747908000313184256", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.66659, 
+                    40.96121
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Catedral de Salamanca https://t.co/oyRxrN4gPD", 
+                "created_at": "2016-06-28T21:40:56", 
+                "retweet_count": 0, 
+                "id": "747907659177803777", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.66325954, 
+                    40.95991636
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Hotel Hospes Palacio de San Esteban https://t.co/6h9XbRbdKr", 
+                "created_at": "2016-06-28T18:06:23", 
+                "retweet_count": 0, 
+                "id": "747853667152330752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.44861684, 
+                    42.46561883
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Calle del Laurel https://t.co/9X8NPONpGb", 
+                "created_at": "2016-06-17T18:57:41", 
+                "retweet_count": 1, 
+                "id": "743880309326884865", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.13074585, 
+                    51.506153
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Institute of Contemporary Arts https://t.co/U0YXnnbxP9", 
+                "created_at": "2016-06-09T10:32:36", 
+                "retweet_count": 0, 
+                "id": "740854101509087233", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.09620378, 
+                    51.51363847
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Barbecoa https://t.co/UDdf6nWeDb", 
+                "created_at": "2016-06-08T20:28:28", 
+                "retweet_count": 0, 
+                "id": "740641666630062084", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.10326, 
+                    51.51827
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ St Bartholomew the Great, West Smithfield https://t.co/9fyEnFAx8p", 
+                "created_at": "2016-06-08T19:34:04", 
+                "retweet_count": 0, 
+                "id": "740627977168392192", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.102405, 
+                    51.51716
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Cock Lane https://t.co/ttsBC99dnA", 
+                "created_at": "2016-06-08T19:07:24", 
+                "retweet_count": 0, 
+                "id": "740621264688140288", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.09902282, 
+                    51.51377451
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ St. Paul's Cathedral https://t.co/OM7sWADJVN", 
+                "created_at": "2016-06-08T18:29:54", 
+                "retweet_count": 1, 
+                "id": "740611829236391936", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.13503528, 
+                    38.71048745
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ EDIT. - Disruptive Digital Education https://t.co/j2LOgbIS75", 
+                "created_at": "2016-06-03T12:40:01", 
+                "retweet_count": 1, 
+                "id": "738711839979274241", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.09808517, 
+                    38.7666156
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Tivoli Oriente https://t.co/dxkrmrPNDi", 
+                "created_at": "2016-06-03T06:45:40", 
+                "retweet_count": 0, 
+                "id": "738622663350853632", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.595596, 
+                    41.1777306
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We are about to start the first conference in our Portuguese roadshow #uptec https://t.co/Q1PJBrPL9K", 
+                "created_at": "2016-06-02T13:50:40", 
+                "retweet_count": 0, 
+                "id": "738367229478248448", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.60422621, 
+                    41.18042907
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ ibis Porto Sao Joao https://t.co/T0Byee9T1P", 
+                "created_at": "2016-06-01T17:07:32", 
+                "retweet_count": 0, 
+                "id": "738054385708740608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.7030399, 
+                    40.4337311
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Perrachica https://t.co/vhMzgjebKd", 
+                "created_at": "2016-05-31T18:17:57", 
+                "retweet_count": 0, 
+                "id": "737709719901589504", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.14419, 
+                    38.73369
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Saldanha - Lisboa https://t.co/wYYhbTZHjo", 
+                "created_at": "2016-05-26T19:08:17", 
+                "retweet_count": 0, 
+                "id": "735910444431507456", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.13333, 
+                    38.7167
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Lisbon, Portugal https://t.co/nJkyllLLGd", 
+                "created_at": "2016-05-25T20:26:27", 
+                "retweet_count": 0, 
+                "id": "735567728103305216", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41073, 
+                    37.78787
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Hotel Zeppelin San Francisco https://t.co/juPWP3C665", 
+                "created_at": "2016-05-21T01:38:06", 
+                "retweet_count": 0, 
+                "id": "733834221102465024", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.08432, 
+                    37.4221
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Google HQ, Mountain View, CA https://t.co/f0dAwfvgX3", 
+                "created_at": "2016-05-18T23:42:05", 
+                "retweet_count": 0, 
+                "id": "733080245864148992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39016, 
+                    37.78963
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#io16 #gdgsummit @ Google San Francisco https://t.co/1YdpwdRup1", 
+                "created_at": "2016-05-16T23:38:58", 
+                "retweet_count": 1, 
+                "id": "732354687689760768", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39016, 
+                    37.78963
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#io16 #gdgsummit @ Google San Francisco https://t.co/GoRg4W1S2S", 
+                "created_at": "2016-05-16T23:29:45", 
+                "retweet_count": 1, 
+                "id": "732352369229475840", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -97.74011944, 
+                    30.26252778
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Austin Convention Center https://t.co/E8CEyDYoPK", 
+                "created_at": "2016-05-14T22:58:59", 
+                "retweet_count": 0, 
+                "id": "731619851064758273", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -97.7639, 
+                    30.2672
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Austin, Texas https://t.co/tllsIZlkuv", 
+                "created_at": "2016-05-14T00:02:54", 
+                "retweet_count": 1, 
+                "id": "731273546731814912", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -97.60762964, 
+                    30.24818817
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Colorado River, Austin https://t.co/tVBNZy53K0", 
+                "created_at": "2016-05-13T00:17:17", 
+                "retweet_count": 0, 
+                "id": "730914776436621312", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

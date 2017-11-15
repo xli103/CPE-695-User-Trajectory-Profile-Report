@@ -1,0 +1,365 @@
+{
+    "total_favorite_count": 572, 
+    "followers_count": 7743, 
+    "total_tweets": 8, 
+    "user_id": 167059246, 
+    "screen_name": "stilltech_", 
+    "friends_count": 432, 
+    "buildings": {
+        "school": 3, 
+        "theatre": 9, 
+        "office": 2, 
+        "apartments": 9, 
+        "house": 2, 
+        "civic": 2, 
+        "church": 2, 
+        "retail": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School", 
+                    "osm_id": 266033995.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower", 
+                    "osm_id": 266034023.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre", 
+                    "osm_id": 266149299.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre", 
+                    "osm_id": 266149300.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }
+            ], 
+            "text": "Just posted a video @ Times Square, New York City https://t.co/uIT2W3zZxp", 
+            "id": "787907653104087041", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-17T06:46:37", 
+            "coordinates": [
+                -73.98644, 
+                40.75839
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Booth Theatre", 
+                    "Broadhurst Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School", 
+                    "osm_id": 266033995.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower", 
+                    "osm_id": 266034023.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre", 
+                    "osm_id": 266149299.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre", 
+                    "osm_id": 266149300.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }
+            ], 
+            "text": "dont play. i do this shit. @ Times Square, New York City https://t.co/dPfrOJTqeI", 
+            "id": "787886507579150336", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-17T05:22:36", 
+            "coordinates": [
+                -73.98644, 
+                40.75839
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Booth Theatre", 
+                    "Broadhurst Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "damn this one hurt. #riptommy #iknewyoualwayshadajob \u270a @ SoHo https://t.co/t9KwLZT2H7", 
+            "id": "786352475259465728", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-12T23:46:54", 
+            "coordinates": [
+                -73.99936402, 
+                40.72379528
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "house", 
+                    "id": 126382.0, 
+                    "name": "Battello", 
+                    "osm_id": 362642225.0
+                }
+            ], 
+            "text": "Just posted a photo @ SoHo Square https://t.co/VjsVC62yYU", 
+            "id": "780449355840958465", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-26T16:50:01", 
+            "coordinates": [
+                -74.00441345, 
+                40.72535535
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "house", 
+                "name": [
+                    "Battello"
+                ]
+            }, 
+            "building_frequency": {
+                "house": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84147.0, 
+                    "name": "The Thomas Eddy", 
+                    "osm_id": 264624913.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 126069.0, 
+                    "name": "Marine 1", 
+                    "osm_id": 311665216.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "my bestfriends birthday. @ARIANADREAMBIG #23on23 #libragang @ Cafeteria Restaurant https://t.co/lw92Y733zM", 
+            "id": "779553964677173248", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-24T05:32:03", 
+            "coordinates": [
+                -73.99823141, 
+                40.74062749
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Thomas Eddy", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Aniston on Wednesday. #wcw @ Madison Square Garden https://t.co/buSb9ZKJx7", 
+            "id": "778652193305993218", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-21T17:48:44", 
+            "coordinates": [
+                -73.99289351, 
+                40.75051355
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 97687.0, 
+                    "name": "Church of All Souls", 
+                    "osm_id": 266927303.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98057.0, 
+                    "name": "The Copely", 
+                    "osm_id": 269224892.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98140.0, 
+                    "name": "The Park Millennium", 
+                    "osm_id": 269224896.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126397.0, 
+                    "name": "Columbia Park Theaters", 
+                    "osm_id": 366521782.0
+                }
+            ], 
+            "text": "next saturday i'll be performing live @stanford x @jeremih @metroboomin #blackfest @ LaGuardia\u2026 https://t.co/7VQ1mMs42z", 
+            "id": "731561654555566080", 
+            "favorite_count": 4, 
+            "created_at": "2016-05-14T19:07:44", 
+            "coordinates": [
+                -73.87229094, 
+                40.77526101
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Copely", 
+                    "The Park Millennium"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 3, 
+                "church": 2
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "my view from my first hockey game. courtesy of @keegandcarter : \ud83d\ude4f #courtsideclub @ Barclays Center https://t.co/SEpgd0DSvP", 
+            "id": "687156245959172096", 
+            "favorite_count": 1, 
+            "created_at": "2016-01-13T06:16:30", 
+            "coordinates": [
+                -73.97585645, 
+                40.68306273
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

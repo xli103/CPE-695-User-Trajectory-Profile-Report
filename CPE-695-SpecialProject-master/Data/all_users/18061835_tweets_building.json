@@ -1,0 +1,773 @@
+{
+    "total_favorite_count": 2872, 
+    "total_tweets": 20, 
+    "screen_name": "aidanfeldman", 
+    "friends_count": 1345, 
+    "followers_count": 2412, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98471606, 
+                    40.69199601
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 245113449.0, 
+                    "type": "yes", 
+                    "id": 9603.0, 
+                    "name": "Brooklyn Municipal Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I almost walked out of this place because it refers to the neighborhood as \"DoBro\" (at @AVABrew in Brooklyn, NY) https://t.co/r9GPKfwRjQ", 
+                "created_at": "2016-10-30T17:34:12", 
+                "retweet_count": 0, 
+                "id": "792781662786551809", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.04386026, 
+                    38.89652904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "successful day of organizing a distributed conference for seventy people; I've earned this.\u2026 https://t.co/KNS9I8PiTc", 
+                "created_at": "2016-10-20T21:16:19", 
+                "retweet_count": 0, 
+                "id": "789213682530082816", 
+                "favorite_count": 6
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99122409, 
+                    40.73980314
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 250490286.0, 
+                    "type": "yes", 
+                    "id": 81836.0, 
+                    "name": "Hotel Gansevoort"
+                }, 
+                {
+                    "osm_id": 288749896.0, 
+                    "type": "yes", 
+                    "id": 125721.0, 
+                    "name": "Whitney Museum of American Art"
+                }, 
+                {
+                    "osm_id": 351324339.0, 
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments"
+                }, 
+                {
+                    "osm_id": 351317831.0, 
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments"
+                }, 
+                {
+                    "osm_id": 396113960.0, 
+                    "type": "yes", 
+                    "id": 127163.0, 
+                    "name": "Supremo"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "this might be the first time ever I am the only white guy at a tech meetup (@HackerHours) (at @CivicHall) https://t.co/0w8ZECMY2g", 
+                "created_at": "2016-09-29T18:57:33", 
+                "retweet_count": 1, 
+                "id": "781568617024524289", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.039147, 
+                    38.897567
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CSforAll @ Eisenhower Executive Office Building https://t.co/mUwUmOcBCy", 
+                "created_at": "2016-09-14T17:12:58", 
+                "retweet_count": 0, 
+                "id": "776106476750245888", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.3993799, 
+                    41.60339
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hi from Camp Cannibal! @ Camp Echo https://t.co/WoWDv0T2Vd", 
+                "created_at": "2016-09-04T00:19:04", 
+                "retweet_count": 0, 
+                "id": "772227445118283776", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.1673, 
+                    40.365
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "the facility where transistors were invented and the Big Bang theory was proved...not a bad spot\u2026 https://t.co/Zqobgsyv2i", 
+                "created_at": "2016-08-06T15:31:09", 
+                "retweet_count": 0, 
+                "id": "761947730277232642", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98918498, 
+                    40.74158748
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 250490312.0, 
+                    "type": "yes", 
+                    "id": 81853.0, 
+                    "name": "High Line Building"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 396126615.0, 
+                    "type": "yes", 
+                    "id": 127319.0, 
+                    "name": "Pershing Rinks"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "outdoor tech talks! @ Flatiron Plaza https://t.co/E1r2hcQnLS", 
+                "created_at": "2016-07-26T22:57:21", 
+                "retweet_count": 0, 
+                "id": "758073750575259649", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99127, 
+                    40.74004
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 250490286.0, 
+                    "type": "yes", 
+                    "id": 81836.0, 
+                    "name": "Hotel Gansevoort"
+                }, 
+                {
+                    "osm_id": 250490292.0, 
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation"
+                }, 
+                {
+                    "osm_id": 250490950.0, 
+                    "type": "church", 
+                    "id": 82355.0, 
+                    "name": "Church of Our Lady of Guadalupe and St. Bernard"
+                }, 
+                {
+                    "osm_id": 351324339.0, 
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments"
+                }, 
+                {
+                    "osm_id": 351317831.0, 
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments"
+                }, 
+                {
+                    "osm_id": 396113960.0, 
+                    "type": "yes", 
+                    "id": 127163.0, 
+                    "name": "Supremo"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "had a fun usability research session with the https://t.co/mmHfOOhopR team @ Civic Hall https://t.co/qcRtQKQT9u", 
+                "created_at": "2016-07-26T15:48:43", 
+                "retweet_count": 0, 
+                "id": "757965883188867072", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96746039, 
+                    40.74971974
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 35938543.0, 
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 42500778.0, 
+                    "type": "yes", 
+                    "id": 602.0, 
+                    "name": "Daily News Building"
+                }, 
+                {
+                    "osm_id": 48869328.0, 
+                    "type": "yes", 
+                    "id": 605.0, 
+                    "name": "\u806f\u5408\u570b"
+                }, 
+                {
+                    "osm_id": 159899677.0, 
+                    "type": "yes", 
+                    "id": 819.0, 
+                    "name": "633 3rd Avenue"
+                }, 
+                {
+                    "osm_id": 264667033.0, 
+                    "type": "school", 
+                    "id": 86057.0, 
+                    "name": "Public School 33"
+                }, 
+                {
+                    "osm_id": 264685192.0, 
+                    "type": "yes", 
+                    "id": 86323.0, 
+                    "name": "Hotel Pennsylvania"
+                }, 
+                {
+                    "osm_id": 265301933.0, 
+                    "type": "yes", 
+                    "id": 89118.0, 
+                    "name": "Comfort Inn"
+                }, 
+                {
+                    "osm_id": 265302073.0, 
+                    "type": "yes", 
+                    "id": 89252.0, 
+                    "name": "Kratter Building"
+                }, 
+                {
+                    "osm_id": 265517922.0, 
+                    "type": "commercial", 
+                    "id": 91982.0, 
+                    "name": "Ford Foundation"
+                }, 
+                {
+                    "osm_id": 265864902.0, 
+                    "type": "yes", 
+                    "id": 92636.0, 
+                    "name": "Seton Hotel"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": ".@opencamps (@ United Nations - @un in New York, NY) https://t.co/1GRgxHl89f", 
+                "created_at": "2016-07-09T17:32:18", 
+                "retweet_count": 0, 
+                "id": "751831356162842624", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9660918, 
+                    40.65905865
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248169815.0, 
+                    "type": "school", 
+                    "id": 23864.0, 
+                    "name": "Holy Name of Jesus School"
+                }, 
+                {
+                    "osm_id": 249605362.0, 
+                    "type": "yes", 
+                    "id": 29728.0, 
+                    "name": "Industry City"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "spotted in Brooklyn: a fixie with a baby seat on the back (@ Smorgasburg Prospect Park - @bkflea in Brooklyn, NY) https://t.co/irWZq2Wbky", 
+                "created_at": "2016-06-26T15:21:01", 
+                "retweet_count": 0, 
+                "id": "747087275134173184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98537032, 
+                    40.67451466
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 362875747.0, 
+                    "type": "yes", 
+                    "id": 126394.0, 
+                    "name": "Whole Foods"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Wow. Had no idea drone stores were a thing. (@ Brooklyn Drones NYC in Brooklyn, NY) https://t.co/UuW4qWM8co https://t.co/IKrZGgYZVz", 
+                "created_at": "2016-06-12T16:42:41", 
+                "retweet_count": 0, 
+                "id": "742034397914923009", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98613669, 
+                    40.6773548
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "despite being the most twee thing I have ever done, highly recommend! @ Twig Terrariums https://t.co/eG9VBZrMfc", 
+                "created_at": "2016-06-09T23:12:08", 
+                "retweet_count": 0, 
+                "id": "741045241604669444", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99008751, 
+                    40.75668492
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 108160358.0, 
+                    "type": "yes", 
+                    "id": 662.0, 
+                    "name": "Port Authority Bus Terminal"
+                }, 
+                {
+                    "osm_id": 265282692.0, 
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street"
+                }, 
+                {
+                    "osm_id": 265296161.0, 
+                    "type": "yes", 
+                    "id": 88884.0, 
+                    "name": "Distrikt Hotel"
+                }, 
+                {
+                    "osm_id": 265296155.0, 
+                    "type": "yes", 
+                    "id": 88912.0, 
+                    "name": "Staybridge Suites"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": ".@GoodForPoC #G4PoC (at @Microsoft in New York, NY) https://t.co/cWOZXwgQGf https://t.co/uAodSw0l0U", 
+                "created_at": "2016-06-07T23:23:50", 
+                "retweet_count": 7, 
+                "id": "740323410639749120", 
+                "favorite_count": 12
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9940806, 
+                    40.722198
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27111279.0, 
+                    "type": "yes", 
+                    "id": 565.0, 
+                    "name": "B.J.'s"
+                }, 
+                {
+                    "osm_id": 247866674.0, 
+                    "type": "yes", 
+                    "id": 12059.0, 
+                    "name": "New Era Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#codeshare (at @Skillshare HQ in New York, NY w/ @abestanway @danapplegate @copasetickid) https://t.co/jsPcsoLYxS https://t.co/8Wau5RTy4r", 
+                "created_at": "2016-06-07T00:08:19", 
+                "retweet_count": 0, 
+                "id": "739972217325379586", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99605618, 
+                    40.7256057
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110661.0, 
+                    "type": "yes", 
+                    "id": 553.0, 
+                    "name": "South Garage"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 249664614.0, 
+                    "type": "yes", 
+                    "id": 35433.0, 
+                    "name": "New York City Fire Museum"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "hanging with @hoodiehq while collaborating with @librariesio across the pond #multitasking https://t.co/SpqYtjA4Te https://t.co/u1D0ozbBBb", 
+                "created_at": "2016-05-28T15:58:45", 
+                "retweet_count": 1, 
+                "id": "736587524714442752", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.78452301, 
+                    40.64508936
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "wheels up for #OSCON (@ John F. Kennedy International Airport in Queens, NY, NY) https://t.co/yFEZa24XQp", 
+                "created_at": "2016-05-15T16:28:00", 
+                "retweet_count": 0, 
+                "id": "731883841942618115", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98171902, 
+                    40.68356702
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interactive Show! (at @NYCResistor in Brooklyn, NY w/ @fountain @wylieconlon) https://t.co/7HHT2yiG69 https://t.co/GduyT6c72N", 
+                "created_at": "2016-05-15T01:44:23", 
+                "retweet_count": 0, 
+                "id": "731661475245359105", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99105766, 
+                    40.73991175
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 250490286.0, 
+                    "type": "yes", 
+                    "id": 81836.0, 
+                    "name": "Hotel Gansevoort"
+                }, 
+                {
+                    "osm_id": 250490292.0, 
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation"
+                }, 
+                {
+                    "osm_id": 351324339.0, 
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments"
+                }, 
+                {
+                    "osm_id": 351317831.0, 
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments"
+                }, 
+                {
+                    "osm_id": 396113086.0, 
+                    "type": "yes", 
+                    "id": 127132.0, 
+                    "name": "Trolley Car"
+                }, 
+                {
+                    "osm_id": 396113960.0, 
+                    "type": "yes", 
+                    "id": 127163.0, 
+                    "name": "Supremo"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "just made smalltalk with Mayor de Blasio in the bathroom #civichalllife (at @CivicHall in New York, NY) https://t.co/RYKaLGiv7v", 
+                "created_at": "2016-05-09T15:03:27", 
+                "retweet_count": 0, 
+                "id": "729688237543960576", 
+                "favorite_count": 9
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95757971, 
+                    40.72831309
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3340371.0, 
+                    "type": "yes", 
+                    "id": 38.0, 
+                    "name": "Merchants Building"
+                }, 
+                {
+                    "osm_id": -3357426.0, 
+                    "type": "yes", 
+                    "id": 108.0, 
+                    "name": "Pier 40"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 27110669.0, 
+                    "type": "yes", 
+                    "id": 575.0, 
+                    "name": "North Garage"
+                }, 
+                {
+                    "osm_id": 213909916.0, 
+                    "type": "yes", 
+                    "id": 1030.0, 
+                    "name": "375 Hudson Street"
+                }, 
+                {
+                    "osm_id": 241833274.0, 
+                    "type": "yes", 
+                    "id": 4713.0, 
+                    "name": "Stuyvesant Polyclinic Hospital"
+                }, 
+                {
+                    "osm_id": 241833326.0, 
+                    "type": "yes", 
+                    "id": 4722.0, 
+                    "name": "41 Cooper Square"
+                }, 
+                {
+                    "osm_id": 241833344.0, 
+                    "type": "yes", 
+                    "id": 4740.0, 
+                    "name": "St. George's Church"
+                }, 
+                {
+                    "osm_id": 247838697.0, 
+                    "type": "yes", 
+                    "id": 10451.0, 
+                    "name": "Weitz & Luxenberg Building"
+                }, 
+                {
+                    "osm_id": 248156665.0, 
+                    "type": "yes", 
+                    "id": 19156.0, 
+                    "name": "The Atrium"
+                }, 
+                {
+                    "osm_id": 331072217.0, 
+                    "type": "yes", 
+                    "id": 126275.0, 
+                    "name": "Holland Tunnel Ventilation Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "NYC Hot Sauce Expo (@ Brooklyn Expo Center in Brooklyn, NY w/ @abiscuit @digifireblast) https://t.co/97ZZfhb2U1", 
+                "created_at": "2016-04-23T16:22:31", 
+                "retweet_count": 0, 
+                "id": "723909928205869056", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98970926, 
+                    40.74173121
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 250490312.0, 
+                    "type": "yes", 
+                    "id": 81853.0, 
+                    "name": "High Line Building"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 396124526.0, 
+                    "type": "yes", 
+                    "id": 127298.0, 
+                    "name": "Tropicana"
+                }, 
+                {
+                    "osm_id": 396126615.0, 
+                    "type": "yes", 
+                    "id": 127319.0, 
+                    "name": "Pershing Rinks"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "good way to kill time after work @ Lego Store New York City https://t.co/PqgQ14yDFf", 
+                "created_at": "2016-04-14T23:06:30", 
+                "retweet_count": 0, 
+                "id": "720750104873943040", 
+                "favorite_count": 4
+            }
+        }
+    ]
+}

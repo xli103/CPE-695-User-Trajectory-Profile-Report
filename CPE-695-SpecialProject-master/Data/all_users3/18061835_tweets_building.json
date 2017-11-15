@@ -1,0 +1,254 @@
+{
+    "total_favorite_count": 2872, 
+    "followers_count": 2412, 
+    "total_tweets": 6, 
+    "user_id": 18061835, 
+    "screen_name": "aidanfeldman", 
+    "friends_count": 1345, 
+    "buildings": {
+        "school": 3, 
+        "office": 3, 
+        "apartments": 8, 
+        "commercial": 2, 
+        "church": 2, 
+        "tower": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments", 
+                    "osm_id": 351324339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "this might be the first time ever I am the only white guy at a tech meetup (@HackerHours) (at @CivicHall) https://t.co/0w8ZECMY2g", 
+            "id": "781568617024524289", 
+            "favorite_count": 5, 
+            "created_at": "2016-09-29T18:57:33", 
+            "coordinates": [
+                -73.99122409, 
+                40.73980314
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Marine View Apartments", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation", 
+                    "osm_id": 250490292.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 82355.0, 
+                    "name": "Church of Our Lady of Guadalupe and St. Bernard", 
+                    "osm_id": 250490950.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments", 
+                    "osm_id": 351324339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "had a fun usability research session with the https://t.co/mmHfOOhopR team @ Civic Hall https://t.co/qcRtQKQT9u", 
+            "id": "757965883188867072", 
+            "favorite_count": 2, 
+            "created_at": "2016-07-26T15:48:43", 
+            "coordinates": [
+                -73.99127, 
+                40.74004
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Marine View Apartments", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3, 
+                "office": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 86057.0, 
+                    "name": "Public School 33", 
+                    "osm_id": 264667033.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 91982.0, 
+                    "name": "Ford Foundation", 
+                    "osm_id": 265517922.0
+                }
+            ], 
+            "text": ".@opencamps (@ United Nations - @un in New York, NY) https://t.co/1GRgxHl89f", 
+            "id": "751831356162842624", 
+            "favorite_count": 4, 
+            "created_at": "2016-07-09T17:32:18", 
+            "coordinates": [
+                -73.96746039, 
+                40.74971974
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "tower", 
+                "name": [
+                    "Two Penn Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2, 
+                "commercial": 2, 
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 23864.0, 
+                    "name": "Holy Name of Jesus School", 
+                    "osm_id": 248169815.0
+                }
+            ], 
+            "text": "spotted in Brooklyn: a fixie with a baby seat on the back (@ Smorgasburg Prospect Park - @bkflea in Brooklyn, NY) https://t.co/irWZq2Wbky", 
+            "id": "747087275134173184", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-26T15:21:01", 
+            "coordinates": [
+                -73.9660918, 
+                40.65905865
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Holy Name of Jesus School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88824.0, 
+                    "name": "505 West 37th Street", 
+                    "osm_id": 265282692.0
+                }
+            ], 
+            "text": ".@GoodForPoC #G4PoC (at @Microsoft in New York, NY) https://t.co/cWOZXwgQGf https://t.co/uAodSw0l0U", 
+            "id": "740323410639749120", 
+            "favorite_count": 12, 
+            "created_at": "2016-06-07T23:23:50", 
+            "coordinates": [
+                -73.99008751, 
+                40.75668492
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "505 West 37th Street"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 7
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation", 
+                    "osm_id": 250490292.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments", 
+                    "osm_id": 351324339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "just made smalltalk with Mayor de Blasio in the bathroom #civichalllife (at @CivicHall in New York, NY) https://t.co/RYKaLGiv7v", 
+            "id": "729688237543960576", 
+            "favorite_count": 9, 
+            "created_at": "2016-05-09T15:03:27", 
+            "coordinates": [
+                -73.99105766, 
+                40.73991175
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Marine View Apartments", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

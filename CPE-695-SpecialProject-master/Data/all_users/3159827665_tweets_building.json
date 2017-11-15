@@ -1,0 +1,3807 @@
+{
+    "total_favorite_count": 0, 
+    "total_tweets": 164, 
+    "screen_name": "madewell_jobs", 
+    "friends_count": 2, 
+    "followers_count": 368, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.4399041, 
+                    38.5963157
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/N1ty8CrICj #Sales #Sacramento, CA #Hiring", 
+                "created_at": "2016-11-14T20:31:24", 
+                "retweet_count": 0, 
+                "id": "798262076258938880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.1676536, 
+                    42.2436085
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #Dedham, MA #job and click to apply: Seasonal Sales Associate, Madewell, Legacy Place - https://t.co/X2G7FKdQdG #Retail", 
+                "created_at": "2016-11-14T19:41:21", 
+                "retweet_count": 0, 
+                "id": "798249480814374913", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.3590802, 
+                    41.1270095
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Westport, CT? View our latest opening: https://t.co/5OpxlN7Ni8 #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-14T18:51:14", 
+                "retweet_count": 0, 
+                "id": "798236868080910336", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9874105, 
+                    40.7322535
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357450.0, 
+                    "type": "yes", 
+                    "id": 115.0, 
+                    "name": "The Archives"
+                }, 
+                {
+                    "osm_id": 247855557.0, 
+                    "type": "yes", 
+                    "id": 11332.0, 
+                    "name": "The Renwick"
+                }, 
+                {
+                    "osm_id": 247857074.0, 
+                    "type": "dormitory", 
+                    "id": 11343.0, 
+                    "name": "Founders Hall"
+                }, 
+                {
+                    "osm_id": 249665655.0, 
+                    "type": "yes", 
+                    "id": 35870.0, 
+                    "name": "Greenwich House"
+                }, 
+                {
+                    "osm_id": 249666372.0, 
+                    "type": "church", 
+                    "id": 36148.0, 
+                    "name": "Church of St. Luke in the Fields"
+                }, 
+                {
+                    "osm_id": 317884696.0, 
+                    "type": "yes", 
+                    "id": 126135.0, 
+                    "name": "Loew's Jersey Theatre"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Seasonal Sales Associate, Madewell, 115 5th Ave - https://t.co/D5tcCqSIj9 #Retail #NewYork, NY", 
+                "created_at": "2016-11-14T18:01:04", 
+                "retweet_count": 0, 
+                "id": "798224243964014592", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0898892, 
+                    42.339904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job in #Boston, MA? https://t.co/amhOvPyXXf #Retail #Hiring", 
+                "created_at": "2016-11-14T17:10:58", 
+                "retweet_count": 0, 
+                "id": "798211636024647682", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.166187, 
+                    42.3303798
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #ChestnutHill, MA? View our latest opening: https://t.co/lxk3r9YHQ7 #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-14T16:20:54", 
+                "retweet_count": 0, 
+                "id": "798199033982427136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6995749, 
+                    40.7978787
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/FIdaeCXVUG #Retail #Manhasset, NY #Hiring", 
+                "created_at": "2016-11-14T15:30:43", 
+                "retweet_count": 0, 
+                "id": "798186405851607040", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.1411815, 
+                    32.7742488
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #SanDiego, CA, check out this #job: https://t.co/3RSoM7i6ql #Retail #Hiring", 
+                "created_at": "2016-11-14T14:40:38", 
+                "retweet_count": 0, 
+                "id": "798173804295909377", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0947092, 
+                    38.984652
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #job might be a great fit for you: Seasonal Sales Associate, Madewell, Montgomery Mall - https://t.co/XitBVqi97t #Retail #Bethesda, MD", 
+                "created_at": "2016-11-14T13:50:35", 
+                "retweet_count": 0, 
+                "id": "798161208880742401", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.759112, 
+                    42.0341144
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Skokie, IL! Click for details: https://t.co/ShPqIUOS8a #Job #Retail #Jobs", 
+                "created_at": "2016-11-14T13:00:30", 
+                "retweet_count": 0, 
+                "id": "798148604066025472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0737149, 
+                    38.9156487
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Washington, DC! Click for details: https://t.co/o3z7F1MIcR #Job #Retail #Jobs", 
+                "created_at": "2016-11-14T12:10:00", 
+                "retweet_count": 0, 
+                "id": "798135895589126144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.7683784, 
+                    41.0322939
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Seasonal Sales Associate, Madewell, The Westchester - https://t.co/Xyl2gtUvGI #WhitePlains, NY", 
+                "created_at": "2016-11-14T02:16:45", 
+                "retweet_count": 0, 
+                "id": "797986599518642176", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.3338547, 
+                    44.8721412
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Edina, MN? View our latest opening: https://t.co/kIYHj32BYw #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-14T01:26:46", 
+                "retweet_count": 0, 
+                "id": "797974019852992512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0898892, 
+                    42.339904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, Newbury - https://t.co/q7qc3KZsGX #Boston, MA", 
+                "created_at": "2016-11-14T00:36:37", 
+                "retweet_count": 0, 
+                "id": "797961398277914624", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -104.9564084, 
+                    39.7271021
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Denver, CO! Click for details: https://t.co/33IBXTNfWD #Job #Retail #Jobs", 
+                "created_at": "2016-11-13T23:46:32", 
+                "retweet_count": 0, 
+                "id": "797948793501065217", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.6965972, 
+                    35.8533273
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #Raleigh, NC #job and click to apply: Seasonal Sales Associate, Madewell, Crabtree Valley Mall - https://t.co/YaKjZV41og", 
+                "created_at": "2016-11-13T22:56:28", 
+                "retweet_count": 0, 
+                "id": "797936194126393344", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -97.7525352, 
+                    30.401356
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Austin, TX? View our latest opening: https://t.co/LHfkw5AdTl #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-13T22:06:24", 
+                "retweet_count": 0, 
+                "id": "797923596232314880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.8397317, 
+                    41.730201
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #Farmington, CT, check out this #job: https://t.co/ITZyV6WiHv #Retail #Hiring", 
+                "created_at": "2016-11-13T21:16:19", 
+                "retweet_count": 0, 
+                "id": "797910991564468224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.026918, 
+                    37.8824054
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Seasonal Sales Associate, Madewell, Broadway Plaza - https://t.co/yIVT6sCdfk #WalnutCreek, CA", 
+                "created_at": "2016-11-13T20:26:11", 
+                "retweet_count": 0, 
+                "id": "797898375286833152", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.7895574, 
+                    32.8695051
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #Dallas, TX, check out this #job: https://t.co/5lA3XaBUf9 #Retail #Hiring", 
+                "created_at": "2016-11-13T19:36:04", 
+                "retweet_count": 0, 
+                "id": "797885763102748672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9521468, 
+                    40.7766412
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -1341944.0, 
+                    "type": "apartments", 
+                    "id": 2.0, 
+                    "name": "The Dakota"
+                }, 
+                {
+                    "osm_id": 193611211.0, 
+                    "type": "yes", 
+                    "id": 951.0, 
+                    "name": "Equinix NY4 Data Center"
+                }, 
+                {
+                    "osm_id": 232065071.0, 
+                    "type": "yes", 
+                    "id": 1173.0, 
+                    "name": "Port Imperial Parking Garage"
+                }, 
+                {
+                    "osm_id": 232065164.0, 
+                    "type": "yes", 
+                    "id": 1183.0, 
+                    "name": "Port Imperial Ferry Terminal"
+                }, 
+                {
+                    "osm_id": 266898993.0, 
+                    "type": "yes", 
+                    "id": 96028.0, 
+                    "name": "James E. Nichols House"
+                }, 
+                {
+                    "osm_id": 266899031.0, 
+                    "type": "yes", 
+                    "id": 96079.0, 
+                    "name": "Payne Whitney House"
+                }, 
+                {
+                    "osm_id": 266899034.0, 
+                    "type": "yes", 
+                    "id": 96082.0, 
+                    "name": "Ukrainian Institute of America"
+                }, 
+                {
+                    "osm_id": 266910535.0, 
+                    "type": "yes", 
+                    "id": 97523.0, 
+                    "name": "Saint Elizabeth of Hungary Roman Catholic Church"
+                }, 
+                {
+                    "osm_id": 266928800.0, 
+                    "type": "yes", 
+                    "id": 97773.0, 
+                    "name": "Manhattan Church of Christ"
+                }, 
+                {
+                    "osm_id": 269233525.0, 
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild"
+                }, 
+                {
+                    "osm_id": 269247827.0, 
+                    "type": "apartments", 
+                    "id": 98419.0, 
+                    "name": "The Bancroft"
+                }, 
+                {
+                    "osm_id": 269247820.0, 
+                    "type": "apartments", 
+                    "id": 98443.0, 
+                    "name": "The Franconia"
+                }, 
+                {
+                    "osm_id": 281114242.0, 
+                    "type": "yes", 
+                    "id": 123613.0, 
+                    "name": "Macy's Secaucus Distribution Center"
+                }, 
+                {
+                    "osm_id": 366521822.0, 
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, 1146 Madison Ave - https://t.co/93AWf44rGC", 
+                "created_at": "2016-11-13T18:40:53", 
+                "retweet_count": 0, 
+                "id": "797871875481186304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.2029363, 
+                    32.8563846
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #SanDiego, CA? View our latest opening: https://t.co/geQEclbVmt #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-13T17:50:47", 
+                "retweet_count": 0, 
+                "id": "797859267533340672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -97.5301397, 
+                    35.5220651
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #OklahomaCity, OK? View our latest opening: https://t.co/YNuXTGenlM #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-13T17:00:44", 
+                "retweet_count": 0, 
+                "id": "797846670163574784", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -94.6398693, 
+                    38.9009431
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Seasonal Sales Associate, Madewell, Town Center Plaza - https://t.co/CGxi7ZdZYg #Leawood, KS", 
+                "created_at": "2016-11-13T16:10:33", 
+                "retweet_count": 0, 
+                "id": "797834040782897152", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -97.3840729, 
+                    32.737615
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #FortWorth, TX? View our latest opening: https://t.co/MTY3HSmj4Q #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-13T15:20:31", 
+                "retweet_count": 0, 
+                "id": "797821450727997440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.1772604, 
+                    38.9338676
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #McLean, VA, check out this #job: https://t.co/vbmydJVONO #Retail #Hiring", 
+                "created_at": "2016-11-13T14:30:25", 
+                "retweet_count": 0, 
+                "id": "797808842620813313", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.0870155, 
+                    26.8598894
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, The Gardens - https://t.co/Ser9mzhfJd #Retail", 
+                "created_at": "2016-11-13T13:40:20", 
+                "retweet_count": 0, 
+                "id": "797796241526685697", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.514493, 
+                    29.7726138
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Houston, TX? View our latest opening: https://t.co/xhAvmKhTkD #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-13T12:50:14", 
+                "retweet_count": 0, 
+                "id": "797783633452998656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.2854622, 
+                    40.0067785
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Ardmore, PA! Click for details: https://t.co/8Ycx246KY8 #Job #Retail #Jobs", 
+                "created_at": "2016-11-13T12:00:05", 
+                "retweet_count": 0, 
+                "id": "797771012163022849", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0094471, 
+                    40.7217861
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 38110877.0, 
+                    "type": "yes", 
+                    "id": 587.0, 
+                    "name": "Mandalay on the Hudson"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #NewYork, NY, check out this #job: https://t.co/BXh7td8oUW #Retail #Hiring", 
+                "created_at": "2016-11-13T02:26:36", 
+                "retweet_count": 0, 
+                "id": "797626689316495360", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.2982799, 
+                    44.840798
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Stylist, Madewell, Mall of America - https://t.co/B2dT86goQ4 #Bloomington, MN #Hiring", 
+                "created_at": "2016-11-13T01:36:30", 
+                "retweet_count": 0, 
+                "id": "797614079284113409", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.1809776, 
+                    42.5586572
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, The Somerset... - https://t.co/JFbcJjzBFZ", 
+                "created_at": "2016-11-13T00:46:20", 
+                "retweet_count": 0, 
+                "id": "797601456559833088", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.9175088, 
+                    35.890231
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, Streets at... - https://t.co/yn4fLEZzDT #Retail", 
+                "created_at": "2016-11-12T23:46:16", 
+                "retweet_count": 0, 
+                "id": "797586341789777920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0754189, 
+                    40.9445428
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Click to apply: Seasonal Sales Associate, Madewell, Garden State Plaza - https://t.co/ebnQ7uLmTj #Job #Retail #Paramus, NJ", 
+                "created_at": "2016-11-12T22:56:10", 
+                "retweet_count": 0, 
+                "id": "797573730582962176", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.9416226, 
+                    37.3189149
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Click to apply: Seasonal Sales Associate, Madewell, Santana Row - https://t.co/b7ZGAIydvG #Job #Retail #SanJose, CA #Jobs", 
+                "created_at": "2016-11-12T22:06:07", 
+                "retweet_count": 0, 
+                "id": "797561137927622656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.9073244, 
+                    33.6834142
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Click to apply: Seasonal Sales Associate, Madewell, South Coast Plaza - https://t.co/C11Ge0CNn7 #Job #Retail #CostaMesa, CA", 
+                "created_at": "2016-11-12T21:15:57", 
+                "retweet_count": 0, 
+                "id": "797548509645848576", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.3726049, 
+                    33.7717008
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Click to apply: Associate Manager, Madewell, Ponce City Market - https://t.co/Ylo9b2wudX #Job #Retail #Atlanta, GA #Jobs", 
+                "created_at": "2016-11-12T20:25:53", 
+                "retweet_count": 0, 
+                "id": "797535912578064384", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6037222, 
+                    39.2994145
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Baltimore, MD! Click for details: https://t.co/EXgqdbP0vp #Job #Retail #Jobs", 
+                "created_at": "2016-11-12T19:35:50", 
+                "retweet_count": 0, 
+                "id": "797523315552202752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.3338547, 
+                    44.8721412
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job in #Edina, MN? https://t.co/sL0X5nUwrC #Retail #Hiring", 
+                "created_at": "2016-11-12T18:45:44", 
+                "retweet_count": 0, 
+                "id": "797510706648076288", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6880503, 
+                    45.5266975
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/S6wMb3Tt8C #Retail #Portland, OR #Hiring", 
+                "created_at": "2016-11-12T17:55:41", 
+                "retweet_count": 0, 
+                "id": "797498114122752000", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6995749, 
+                    40.7978787
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #Manhasset, NY? This could be a great fit: https://t.co/nzk4u7gPe1 #Retail #Hiring", 
+                "created_at": "2016-11-12T17:05:37", 
+                "retweet_count": 0, 
+                "id": "797485512231559168", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.5274755, 
+                    37.9254806
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/yRditmpwr2 #Retail #CorteMadera, CA #Hiring", 
+                "created_at": "2016-11-12T16:15:27", 
+                "retweet_count": 0, 
+                "id": "797472886780874753", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9874105, 
+                    40.7322535
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357450.0, 
+                    "type": "yes", 
+                    "id": 115.0, 
+                    "name": "The Archives"
+                }, 
+                {
+                    "osm_id": 247855557.0, 
+                    "type": "yes", 
+                    "id": 11332.0, 
+                    "name": "The Renwick"
+                }, 
+                {
+                    "osm_id": 247857074.0, 
+                    "type": "dormitory", 
+                    "id": 11343.0, 
+                    "name": "Founders Hall"
+                }, 
+                {
+                    "osm_id": 249665655.0, 
+                    "type": "yes", 
+                    "id": 35870.0, 
+                    "name": "Greenwich House"
+                }, 
+                {
+                    "osm_id": 249666372.0, 
+                    "type": "church", 
+                    "id": 36148.0, 
+                    "name": "Church of St. Luke in the Fields"
+                }, 
+                {
+                    "osm_id": 317884696.0, 
+                    "type": "yes", 
+                    "id": 126135.0, 
+                    "name": "Loew's Jersey Theatre"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #NewYork, NY, check out this #job: https://t.co/eNWqDpAWtl #Retail #Hiring", 
+                "created_at": "2016-11-12T15:25:25", 
+                "retweet_count": 0, 
+                "id": "797460295912329221", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.597305, 
+                    34.1989453
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, Topanga Plaza - https://t.co/iILIW4dwjY #Retail", 
+                "created_at": "2016-11-12T14:35:17", 
+                "retweet_count": 0, 
+                "id": "797447682348359682", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.8033845, 
+                    45.4081316
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/eqEeOrtL4J #Retail #Portland, OR #Hiring", 
+                "created_at": "2016-11-12T13:45:16", 
+                "retweet_count": 0, 
+                "id": "797435091962105856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.1676536, 
+                    42.2436085
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Keyholder, Madewell, Legacy Place - https://t.co/NEoiBcoAzK #Retail #Dedham, MA #Hiring", 
+                "created_at": "2016-11-12T12:50:12", 
+                "retweet_count": 0, 
+                "id": "797421234149412864", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.8985922, 
+                    40.7563925
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #SaltLakeCity, UT? This could be a great fit: https://t.co/dKXuYf2QBw #Retail #Hiring", 
+                "created_at": "2016-11-12T12:00:07", 
+                "retweet_count": 0, 
+                "id": "797408629368307712", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.9416226, 
+                    37.3189149
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #SanJose, CA? View our latest opening: https://t.co/SuVFwNGWtc #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-12T02:12:18", 
+                "retweet_count": 0, 
+                "id": "797260701043597312", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.3620913, 
+                    33.849145
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Atlanta, GA? View our latest opening: https://t.co/XBUSpsh6Kx #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-12T01:22:12", 
+                "retweet_count": 0, 
+                "id": "797248096337920000", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.4091563, 
+                    41.816736
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Click to apply: Associate Manager, Madewell, Providence Place - https://t.co/6CJfhxuMOh #Job #Retail #Providence, RI #Jobs", 
+                "created_at": "2016-11-12T00:32:05", 
+                "retweet_count": 0, 
+                "id": "797235483428339712", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9874105, 
+                    40.7322535
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357450.0, 
+                    "type": "yes", 
+                    "id": 115.0, 
+                    "name": "The Archives"
+                }, 
+                {
+                    "osm_id": 247855557.0, 
+                    "type": "yes", 
+                    "id": 11332.0, 
+                    "name": "The Renwick"
+                }, 
+                {
+                    "osm_id": 247857074.0, 
+                    "type": "dormitory", 
+                    "id": 11343.0, 
+                    "name": "Founders Hall"
+                }, 
+                {
+                    "osm_id": 249665655.0, 
+                    "type": "yes", 
+                    "id": 35870.0, 
+                    "name": "Greenwich House"
+                }, 
+                {
+                    "osm_id": 249666372.0, 
+                    "type": "church", 
+                    "id": 36148.0, 
+                    "name": "Church of St. Luke in the Fields"
+                }, 
+                {
+                    "osm_id": 317884696.0, 
+                    "type": "yes", 
+                    "id": 126135.0, 
+                    "name": "Loew's Jersey Theatre"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Sales Support Associate, Madewell, 115 5th Ave - https://t.co/V4PAdwSVnG #Retail #NewYork, NY", 
+                "created_at": "2016-11-11T23:41:54", 
+                "retweet_count": 0, 
+                "id": "797222853586235392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -104.8970678, 
+                    39.536482
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #LoneTree, CO? View our latest opening: https://t.co/CZt2iii73I #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-11T22:01:40", 
+                "retweet_count": 0, 
+                "id": "797197627167154176", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -85.6177891, 
+                    38.2718515
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Louisville, KY! Click for details: https://t.co/IWxI0pnNwK #Job #Retail #Jobs", 
+                "created_at": "2016-11-11T21:11:36", 
+                "retweet_count": 0, 
+                "id": "797185028513878016", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9485424, 
+                    40.744679
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974143.0, 
+                    "type": "office", 
+                    "id": 544.0, 
+                    "name": "Stevens Institute of Technology"
+                }, 
+                {
+                    "osm_id": 26974145.0, 
+                    "type": "yes", 
+                    "id": 546.0, 
+                    "name": "Davidson Lab"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 248143475.0, 
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court"
+                }, 
+                {
+                    "osm_id": 248143760.0, 
+                    "type": "apartments", 
+                    "id": 16842.0, 
+                    "name": "Capitol at Chelsea"
+                }, 
+                {
+                    "osm_id": 265042538.0, 
+                    "type": "apartments", 
+                    "id": 87455.0, 
+                    "name": "Instrata NoMad"
+                }, 
+                {
+                    "osm_id": 265261822.0, 
+                    "type": "yes", 
+                    "id": 88402.0, 
+                    "name": "Raymond R. Orbett building"
+                }, 
+                {
+                    "osm_id": 265268122.0, 
+                    "type": "apartments", 
+                    "id": 88471.0, 
+                    "name": "The Anthem"
+                }, 
+                {
+                    "osm_id": 265268231.0, 
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116"
+                }, 
+                {
+                    "osm_id": 278326921.0, 
+                    "type": "yes", 
+                    "id": 100910.0, 
+                    "name": "Permanent Mission of the Peoples Republic of China to the United Nations"
+                }, 
+                {
+                    "osm_id": 278326922.0, 
+                    "type": "yes", 
+                    "id": 100913.0, 
+                    "name": "Pinetree Lodge"
+                }, 
+                {
+                    "osm_id": 278327651.0, 
+                    "type": "yes", 
+                    "id": 100917.0, 
+                    "name": "East 36th Street Substation"
+                }, 
+                {
+                    "osm_id": 287496552.0, 
+                    "type": "apartments", 
+                    "id": 125728.0, 
+                    "name": "Chelsea Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #LongIslandCity, NY #job and click to apply: Assistant Designer - Madewell Outerwear and Bottoms - https://t.co/sg7Bltln4o", 
+                "created_at": "2016-11-11T20:21:31", 
+                "retweet_count": 0, 
+                "id": "797172425720893440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.5047772, 
+                    30.3093218
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, St. Johns Town... - https://t.co/5APl4fXj2O", 
+                "created_at": "2016-11-11T19:31:26", 
+                "retweet_count": 0, 
+                "id": "797159821514375168", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.9073244, 
+                    33.6834142
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #CostaMesa, CA? View our latest opening: https://t.co/QNFt87BzdU #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-11T18:41:20", 
+                "retweet_count": 0, 
+                "id": "797147215022071808", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.336407, 
+                    47.6084921
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #Seattle, WA #job and click to apply: Seasonal Sales Associate, Madewell, Downtown Seattle - https://t.co/cIaR6XAYPf #Retail", 
+                "created_at": "2016-11-11T17:51:06", 
+                "retweet_count": 0, 
+                "id": "797134572353765376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.6249734, 
+                    37.6474638
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/kQxxpUN5OQ #Retail #Richmond, VA #Hiring", 
+                "created_at": "2016-11-11T17:00:57", 
+                "retweet_count": 0, 
+                "id": "797121952087322624", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.026918, 
+                    37.8824054
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #WalnutCreek, CA! Click for details: https://t.co/B7gZZymbyk #Job #Retail #Jobs", 
+                "created_at": "2016-11-11T16:10:46", 
+                "retweet_count": 0, 
+                "id": "797109322358538240", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.8397317, 
+                    41.730201
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Visual Associate, Madewell, Westfarms - https://t.co/ruJYVMsZbP #Retail #Farmington, CT #Hiring", 
+                "created_at": "2016-11-11T15:20:39", 
+                "retweet_count": 0, 
+                "id": "797096711223029760", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.4091563, 
+                    41.816736
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Providence, RI? View our latest opening: https://t.co/zCjQuWkkSY #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-11T14:30:27", 
+                "retweet_count": 0, 
+                "id": "797084077178261504", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.495155, 
+                    34.0126379
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/WbnDLZE6MB #Retail #SantaMonica, CA #Hiring", 
+                "created_at": "2016-11-11T13:40:26", 
+                "retweet_count": 0, 
+                "id": "797071486922014720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -98.6215649, 
+                    29.6183126
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Seasonal Sales Associate, Madewell, The Shops at La Cantera - https://t.co/hCNGPt35rI #Retail", 
+                "created_at": "2016-11-11T12:50:18", 
+                "retweet_count": 0, 
+                "id": "797058872057806848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4099154, 
+                    37.7726402
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Visual Associate, Madewell, San Francisco Center - https://t.co/OIa1Ttw75K #Retail", 
+                "created_at": "2016-11-11T12:00:10", 
+                "retweet_count": 0, 
+                "id": "797046257537585152", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.2042619, 
+                    42.5005723
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Burlington, MA? View our latest opening: https://t.co/nboXF3xikh #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-11T02:27:05", 
+                "retweet_count": 0, 
+                "id": "796902034746150912", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.2965778, 
+                    37.8645848
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #job might be a great fit for you: Associate Manager, Madewell, Fourth Street*NEW STORE* - https://t.co/ETWvqSi7Kk #Berkeley, CA", 
+                "created_at": "2016-11-11T00:46:49", 
+                "retweet_count": 0, 
+                "id": "796876803289686016", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.3468091, 
+                    42.2775281
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/ACvT33pO71 #Retail #Natick, MA #Hiring", 
+                "created_at": "2016-11-10T23:51:47", 
+                "retweet_count": 0, 
+                "id": "796862951814610945", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.4672962, 
+                    30.1261952
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job in #TheWoodlands, TX? https://t.co/5NJiiitG74 #Retail #Hiring", 
+                "created_at": "2016-11-10T22:06:24", 
+                "retweet_count": 0, 
+                "id": "796836429804384256", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.2854622, 
+                    40.0067785
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #Ardmore, PA #job and click to apply: Store Director, Madewell, Suburban Square - https://t.co/JgNWSFr0EW #Retail #Hiring", 
+                "created_at": "2016-11-10T21:16:17", 
+                "retweet_count": 0, 
+                "id": "796823818194980864", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.2965778, 
+                    37.8645848
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Berkeley, CA? View our latest opening: https://t.co/v4Pt8KDTrE #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-10T20:26:12", 
+                "retweet_count": 0, 
+                "id": "796811217360732160", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6342954, 
+                    40.7267682
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247848704.0, 
+                    "type": "yes", 
+                    "id": 10958.0, 
+                    "name": "University Towers Apartments II"
+                }, 
+                {
+                    "osm_id": 247850388.0, 
+                    "type": "yes", 
+                    "id": 10982.0, 
+                    "name": "Broadway Arches"
+                }, 
+                {
+                    "osm_id": 250264474.0, 
+                    "type": "yes", 
+                    "id": 56584.0, 
+                    "name": "C-Town"
+                }, 
+                {
+                    "osm_id": 280123701.0, 
+                    "type": "school", 
+                    "id": 115320.0, 
+                    "name": "Junior High School 126"
+                }, 
+                {
+                    "osm_id": 375874980.0, 
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School"
+                }, 
+                {
+                    "osm_id": 409393049.0, 
+                    "type": "yes", 
+                    "id": 137331.0, 
+                    "name": "Bareburger"
+                }, 
+                {
+                    "osm_id": 409390014.0, 
+                    "type": "yes", 
+                    "id": 137383.0, 
+                    "name": "New York Theatre Workshop"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Support Associate, Madewell, Roosevelt... - https://t.co/P3EjukcaK0", 
+                "created_at": "2016-11-10T19:36:01", 
+                "retweet_count": 0, 
+                "id": "796798586511994881", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6342954, 
+                    40.7267682
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247848704.0, 
+                    "type": "yes", 
+                    "id": 10958.0, 
+                    "name": "University Towers Apartments II"
+                }, 
+                {
+                    "osm_id": 247850388.0, 
+                    "type": "yes", 
+                    "id": 10982.0, 
+                    "name": "Broadway Arches"
+                }, 
+                {
+                    "osm_id": 250264474.0, 
+                    "type": "yes", 
+                    "id": 56584.0, 
+                    "name": "C-Town"
+                }, 
+                {
+                    "osm_id": 280123701.0, 
+                    "type": "school", 
+                    "id": 115320.0, 
+                    "name": "Junior High School 126"
+                }, 
+                {
+                    "osm_id": 375874980.0, 
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School"
+                }, 
+                {
+                    "osm_id": 409393049.0, 
+                    "type": "yes", 
+                    "id": 137331.0, 
+                    "name": "Bareburger"
+                }, 
+                {
+                    "osm_id": 409390014.0, 
+                    "type": "yes", 
+                    "id": 137383.0, 
+                    "name": "New York Theatre Workshop"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #GardenCity, NY #job and click to apply: Sales Support Associate, Madewell, Roosevelt Field Mall - https://t.co/kBMbjhP0ZW", 
+                "created_at": "2016-11-10T18:45:49", 
+                "retweet_count": 0, 
+                "id": "796785954660880384", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6342954, 
+                    40.7267682
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247848704.0, 
+                    "type": "yes", 
+                    "id": 10958.0, 
+                    "name": "University Towers Apartments II"
+                }, 
+                {
+                    "osm_id": 247850388.0, 
+                    "type": "yes", 
+                    "id": 10982.0, 
+                    "name": "Broadway Arches"
+                }, 
+                {
+                    "osm_id": 250264474.0, 
+                    "type": "yes", 
+                    "id": 56584.0, 
+                    "name": "C-Town"
+                }, 
+                {
+                    "osm_id": 280123701.0, 
+                    "type": "school", 
+                    "id": 115320.0, 
+                    "name": "Junior High School 126"
+                }, 
+                {
+                    "osm_id": 375874980.0, 
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School"
+                }, 
+                {
+                    "osm_id": 409393049.0, 
+                    "type": "yes", 
+                    "id": 137331.0, 
+                    "name": "Bareburger"
+                }, 
+                {
+                    "osm_id": 409390014.0, 
+                    "type": "yes", 
+                    "id": 137383.0, 
+                    "name": "New York Theatre Workshop"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Click to apply: Stylist, Madewell, Roosevelt Field Mall - https://t.co/NLwOQ9eJ6M #Job #GardenCity, NY #Jobs", 
+                "created_at": "2016-11-10T17:55:39", 
+                "retweet_count": 0, 
+                "id": "796773327557660672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.8320743, 
+                    36.0802326
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Keyholder, Madewell, The Mall at Green Hills - https://t.co/hX8alnwG3E #Retail", 
+                "created_at": "2016-11-10T17:05:33", 
+                "retweet_count": 0, 
+                "id": "796760720377462785", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.8036636, 
+                    35.0937076
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Germantown, TN! Click for details: https://t.co/MOr52jI5S7 #Job #Jobs", 
+                "created_at": "2016-11-10T16:15:24", 
+                "retweet_count": 0, 
+                "id": "796748098827468800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6342954, 
+                    40.7267682
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247848704.0, 
+                    "type": "yes", 
+                    "id": 10958.0, 
+                    "name": "University Towers Apartments II"
+                }, 
+                {
+                    "osm_id": 247850388.0, 
+                    "type": "yes", 
+                    "id": 10982.0, 
+                    "name": "Broadway Arches"
+                }, 
+                {
+                    "osm_id": 250264474.0, 
+                    "type": "yes", 
+                    "id": 56584.0, 
+                    "name": "C-Town"
+                }, 
+                {
+                    "osm_id": 280123701.0, 
+                    "type": "school", 
+                    "id": 115320.0, 
+                    "name": "Junior High School 126"
+                }, 
+                {
+                    "osm_id": 375874980.0, 
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School"
+                }, 
+                {
+                    "osm_id": 409393049.0, 
+                    "type": "yes", 
+                    "id": 137331.0, 
+                    "name": "Bareburger"
+                }, 
+                {
+                    "osm_id": 409390014.0, 
+                    "type": "yes", 
+                    "id": 137383.0, 
+                    "name": "New York Theatre Workshop"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #GardenCity, NY? This could be a great fit: https://t.co/y6I5zKi2v4 #Retail #Hiring", 
+                "created_at": "2016-11-10T15:25:24", 
+                "retweet_count": 0, 
+                "id": "796735515399589888", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6342954, 
+                    40.7267682
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247848704.0, 
+                    "type": "yes", 
+                    "id": 10958.0, 
+                    "name": "University Towers Apartments II"
+                }, 
+                {
+                    "osm_id": 247850388.0, 
+                    "type": "yes", 
+                    "id": 10982.0, 
+                    "name": "Broadway Arches"
+                }, 
+                {
+                    "osm_id": 250264474.0, 
+                    "type": "yes", 
+                    "id": 56584.0, 
+                    "name": "C-Town"
+                }, 
+                {
+                    "osm_id": 280123701.0, 
+                    "type": "school", 
+                    "id": 115320.0, 
+                    "name": "Junior High School 126"
+                }, 
+                {
+                    "osm_id": 375874980.0, 
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School"
+                }, 
+                {
+                    "osm_id": 409393049.0, 
+                    "type": "yes", 
+                    "id": 137331.0, 
+                    "name": "Bareburger"
+                }, 
+                {
+                    "osm_id": 409390014.0, 
+                    "type": "yes", 
+                    "id": 137383.0, 
+                    "name": "New York Theatre Workshop"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job in #GardenCity, NY? https://t.co/z1w0vJDtcA #Retail #Hiring", 
+                "created_at": "2016-11-10T14:35:23", 
+                "retweet_count": 0, 
+                "id": "796722928364625920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.1772604, 
+                    38.9338676
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #McLean, VA! Click for details: https://t.co/czW5tAaEAV #Job #Retail #Jobs", 
+                "created_at": "2016-11-10T13:45:14", 
+                "retweet_count": 0, 
+                "id": "796710307716419584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.2965778, 
+                    37.8645848
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Store Director, Madewell, Fourth Street*NEW STORE* - https://t.co/AUAr0DnKGS #Retail #Berkeley, CA", 
+                "created_at": "2016-11-10T12:50:12", 
+                "retweet_count": 0, 
+                "id": "796696460670570496", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.3068644, 
+                    34.0716538
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, Avalon - https://t.co/m0UpyV6FHy", 
+                "created_at": "2016-11-10T12:00:09", 
+                "retweet_count": 1, 
+                "id": "796683862474506240", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.9224398, 
+                    33.4986286
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/qOkFas4xro #Scottsdale, AZ #Hiring", 
+                "created_at": "2016-11-10T02:11:46", 
+                "retweet_count": 0, 
+                "id": "796535790721331200", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9874105, 
+                    40.7322535
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357450.0, 
+                    "type": "yes", 
+                    "id": 115.0, 
+                    "name": "The Archives"
+                }, 
+                {
+                    "osm_id": 247855557.0, 
+                    "type": "yes", 
+                    "id": 11332.0, 
+                    "name": "The Renwick"
+                }, 
+                {
+                    "osm_id": 247857074.0, 
+                    "type": "dormitory", 
+                    "id": 11343.0, 
+                    "name": "Founders Hall"
+                }, 
+                {
+                    "osm_id": 249665655.0, 
+                    "type": "yes", 
+                    "id": 35870.0, 
+                    "name": "Greenwich House"
+                }, 
+                {
+                    "osm_id": 249666372.0, 
+                    "type": "church", 
+                    "id": 36148.0, 
+                    "name": "Church of St. Luke in the Fields"
+                }, 
+                {
+                    "osm_id": 317884696.0, 
+                    "type": "yes", 
+                    "id": 126135.0, 
+                    "name": "Loew's Jersey Theatre"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #NewYork, NY, check out this #job: https://t.co/eWv1SYnGlr #Retail #Hiring", 
+                "created_at": "2016-11-10T01:21:42", 
+                "retweet_count": 0, 
+                "id": "796523194454708225", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.9770371, 
+                    40.1420033
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Click to apply: Keyholder, Madewell, Polaris Fashion Place - https://t.co/hrDqaQqXHS #Job #Retail #Columbus, OH #Jobs", 
+                "created_at": "2016-11-09T23:41:28", 
+                "retweet_count": 0, 
+                "id": "796497967779704832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.9770371, 
+                    40.1420033
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Seasonal Sales Associate, Madewell, Polaris Fashion Place - https://t.co/KLGZofN97Y #Columbus, OH", 
+                "created_at": "2016-11-09T22:51:24", 
+                "retweet_count": 0, 
+                "id": "796485366790443008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.6249734, 
+                    37.6474638
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Click to apply: Associate Manager, Madewell, Short Pump Town Center - https://t.co/MqHLvm3RE3 #Job #Retail #Richmond, VA", 
+                "created_at": "2016-11-09T22:01:16", 
+                "retweet_count": 0, 
+                "id": "796472752844611584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -111.8879909, 
+                    40.6668916
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, Fashion Place - https://t.co/kf4HYRwabj", 
+                "created_at": "2016-11-09T14:30:26", 
+                "retweet_count": 0, 
+                "id": "796359294660677633", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0737149, 
+                    38.9156487
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #job might be a great fit for you: Seasonal Sales Associate, Madewell, 1237 Wisconsin Ave - https://t.co/Zv3F7tz97S #Washington, DC", 
+                "created_at": "2016-11-09T13:40:20", 
+                "retweet_count": 0, 
+                "id": "796346688344465408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.4115091, 
+                    40.8534318
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #HuntingtonStation, NY! Click for details: https://t.co/nmiB9R3zQK #Job #Jobs", 
+                "created_at": "2016-11-09T12:50:17", 
+                "retweet_count": 0, 
+                "id": "796334092732141569", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6354952, 
+                    39.407567
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #Towson, MD, check out this #job: https://t.co/o0XUN7fy5m #Hiring", 
+                "created_at": "2016-11-09T12:00:07", 
+                "retweet_count": 0, 
+                "id": "796321466824302592", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.1484407, 
+                    25.783312
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #MiamiBeach, FL? View our latest opening: https://t.co/upFqbk2Dnk #Job #Jobs #Hiring", 
+                "created_at": "2016-11-08T22:01:23", 
+                "retweet_count": 0, 
+                "id": "796110394850803712", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.7934798, 
+                    35.1660032
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Click to apply: Seasonal Sales Associate, Madewell, SouthPark - https://t.co/kXdcTYhq84 #Job #Charlotte, NC #Jobs", 
+                "created_at": "2016-11-08T21:11:17", 
+                "retweet_count": 0, 
+                "id": "796097783883145216", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.7146001, 
+                    42.2660881
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #AnnArbor, MI! Click for details: https://t.co/ZXmypBeKfh #Job #Jobs", 
+                "created_at": "2016-11-08T20:21:14", 
+                "retweet_count": 0, 
+                "id": "796085188824416256", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.2042619, 
+                    42.5005723
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Stylist, Madewell, Burlington Mall - https://t.co/GrHgjtcP1h #Burlington, MA", 
+                "created_at": "2016-11-08T19:31:04", 
+                "retweet_count": 0, 
+                "id": "796072564313374720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.2577571, 
+                    38.864187
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #Fairfax, VA, check out this #job: https://t.co/7UI6GU0aYY #Hiring", 
+                "created_at": "2016-11-08T18:41:02", 
+                "retweet_count": 0, 
+                "id": "796059974866608128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.4408037, 
+                    38.6206914
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/mVfnl46HkO #StLouis, MO #Hiring", 
+                "created_at": "2016-11-08T17:50:57", 
+                "retweet_count": 0, 
+                "id": "796047369557000192", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9660683, 
+                    40.7119031
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309461.0, 
+                    "type": "yes", 
+                    "id": 629.0, 
+                    "name": "225 Liberty Street"
+                }, 
+                {
+                    "osm_id": 277904750.0, 
+                    "type": "yes", 
+                    "id": 99142.0, 
+                    "name": "Transportation Building"
+                }, 
+                {
+                    "osm_id": 278033607.0, 
+                    "type": "construction", 
+                    "id": 99197.0, 
+                    "name": "Two World Trade Center"
+                }, 
+                {
+                    "osm_id": 278105947.0, 
+                    "type": "apartments", 
+                    "id": 99723.0, 
+                    "name": "Chatham Green"
+                }, 
+                {
+                    "osm_id": 278112893.0, 
+                    "type": "yes", 
+                    "id": 99950.0, 
+                    "name": "1 Police Plaza"
+                }, 
+                {
+                    "osm_id": 279592956.0, 
+                    "type": "yes", 
+                    "id": 103824.0, 
+                    "name": "Post Office"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #job might be a great fit for you: Keyholder, Madewell, North 6th Street - https://t.co/jtSbokYNfL #Retail #Brooklyn, NY #Hiring", 
+                "created_at": "2016-11-08T17:00:50", 
+                "retweet_count": 0, 
+                "id": "796034756504715264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.2042619, 
+                    42.5005723
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Click to apply: Seasonal Sales Associate, Madewell, Burlington Mall - https://t.co/Ab06SRMRlB #Job #Burlington, MA #Jobs", 
+                "created_at": "2016-11-08T16:10:39", 
+                "retweet_count": 0, 
+                "id": "796022127128260608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.5087322, 
+                    41.4644979
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job in #Beachwood, OH? https://t.co/uhmtlLalRT #Sales #Hiring", 
+                "created_at": "2016-11-08T15:20:31", 
+                "retweet_count": 0, 
+                "id": "796009510343057408", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.4515725, 
+                    29.740582
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #Houston, TX, check out this #job: https://t.co/KQpOhcLLJf #Sales #Hiring", 
+                "created_at": "2016-11-08T14:30:26", 
+                "retweet_count": 0, 
+                "id": "795996908208541696", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.6161696, 
+                    41.8925085
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #Chicago, IL #job and click to apply: Keyholder, Madewell, 932 Rush Street - https://t.co/v9Ho868nYK #Retail #Hiring", 
+                "created_at": "2016-11-07T19:31:04", 
+                "retweet_count": 0, 
+                "id": "795710176703614978", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.4015075, 
+                    39.2123057
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job in #Cincinnati, OH? https://t.co/yFuXzDBL7p #Sales #Hiring", 
+                "created_at": "2016-11-07T18:40:57", 
+                "retweet_count": 0, 
+                "id": "795697562925707264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.9488975, 
+                    36.1237711
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, Utica Square - https://t.co/UamTN8jcKm #Sales", 
+                "created_at": "2016-11-07T17:00:44", 
+                "retweet_count": 0, 
+                "id": "795672343469113344", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.8033845, 
+                    45.4081316
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #Portland, OR? This could be a great fit: https://t.co/XmzXVd8YfE #Retail #Hiring", 
+                "created_at": "2016-11-07T16:10:35", 
+                "retweet_count": 0, 
+                "id": "795659724121206785", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.4766781, 
+                    38.0293059
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Charlottesville, VA? View our latest opening: https://t.co/nz94pQosZp #Job #Retail #Jobs #Hiring", 
+                "created_at": "2016-11-07T15:20:31", 
+                "retweet_count": 0, 
+                "id": "795647126352998400", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -92.2150444, 
+                    34.6051286
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/AnXNgTnXZv #Retail #LittleRock, AR #Hiring", 
+                "created_at": "2016-11-07T14:30:20", 
+                "retweet_count": 0, 
+                "id": "795634497127522304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.2982799, 
+                    44.840798
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Seasonal Sales Associate, Madewell, Mall of America - https://t.co/Q8HdGxDJt6 #Bloomington, MN", 
+                "created_at": "2016-11-07T13:40:20", 
+                "retweet_count": 0, 
+                "id": "795621910461583360", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.4672962, 
+                    30.1261952
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #TheWoodlands, TX #job and click to apply: Seasonal Sales Associate, Madewell, Market Street... - https://t.co/TreMNe7Awy", 
+                "created_at": "2016-11-07T12:50:16", 
+                "retweet_count": 0, 
+                "id": "795609313398034432", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.3232194, 
+                    40.7483499
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job in #ShortHills, NJ? https://t.co/SodWFoaJjl #Sales #Hiring", 
+                "created_at": "2016-11-07T12:00:10", 
+                "retweet_count": 0, 
+                "id": "795596703604744192", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -92.2150444, 
+                    34.6051286
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #LittleRock, AR! Click for details: https://t.co/ltTDC5unNX #Job #Retail #Jobs", 
+                "created_at": "2016-11-07T02:11:52", 
+                "retweet_count": 0, 
+                "id": "795448654907641856", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.4766781, 
+                    38.0293059
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Keyholder, Madewell, Barracks Road *NEW STORE* - https://t.co/sR7GxRvSgl #Retail", 
+                "created_at": "2016-11-07T01:21:46", 
+                "retweet_count": 0, 
+                "id": "795436047811297280", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.4766781, 
+                    38.0293059
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Charlottesville, VA! Click for details: https://t.co/4dlj2HVVAX #Job #Retail #Jobs", 
+                "created_at": "2016-11-07T00:31:40", 
+                "retweet_count": 0, 
+                "id": "795423437892128768", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0362967, 
+                    38.9191485
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Keyholder, Madewell, 14th Street NW *NEW STORE* - https://t.co/CABa79wvty #Retail", 
+                "created_at": "2016-11-06T23:41:36", 
+                "retweet_count": 0, 
+                "id": "795410840178466817", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0362967, 
+                    38.9191485
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Washington, DC! Click for details: https://t.co/C7R9e6Np58 #Job #Retail #Jobs", 
+                "created_at": "2016-11-06T22:51:29", 
+                "retweet_count": 0, 
+                "id": "795398226228588545", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -92.2150444, 
+                    34.6051286
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/4Y10ReLvHN #Retail #LittleRock, AR #Hiring", 
+                "created_at": "2016-11-06T22:01:23", 
+                "retweet_count": 0, 
+                "id": "795385617097990144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0362967, 
+                    38.9191485
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Store Director, Madewell, 14th Street NW *NEW STORE* - https://t.co/WXPCSkL0hQ", 
+                "created_at": "2016-11-06T21:11:18", 
+                "retweet_count": 0, 
+                "id": "795373015823360000", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.6161696, 
+                    41.8925085
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job in #Chicago, IL? https://t.co/gsTydJ94lE #Sales #Hiring", 
+                "created_at": "2016-11-06T19:31:13", 
+                "retweet_count": 0, 
+                "id": "795347828599947264", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4099154, 
+                    37.7726402
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #SanFrancisco, CA? This could be a great fit: https://t.co/Ib1rzFSBKZ #Sales #Hiring", 
+                "created_at": "2016-11-06T18:41:11", 
+                "retweet_count": 0, 
+                "id": "795335234560475136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6182979, 
+                    41.0670166
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Greenwich, CT! Click for details: https://t.co/TcPu5nJWKL #Job #Sales #Jobs", 
+                "created_at": "2016-11-06T17:51:02", 
+                "retweet_count": 0, 
+                "id": "795322616798056448", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.1242881, 
+                    39.9063963
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #Indianapolis, IN #job and click to apply: Seasonal Sales Associate, Madewell, Fashion Mall... - https://t.co/pZM8RzZlhw", 
+                "created_at": "2016-11-06T17:00:53", 
+                "retweet_count": 0, 
+                "id": "795309994488934400", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0615285, 
+                    40.3295547
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Click to apply: Seasonal Sales Associate, Madewell, Grove at Shrewsbury - https://t.co/i0mueZHiIE #Job #HR #Shrewsbury, NJ", 
+                "created_at": "2016-11-06T16:10:45", 
+                "retweet_count": 0, 
+                "id": "795297379368902657", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.9248669, 
+                    32.7791432
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #Charleston, SC, check out this #job: https://t.co/3q08Ywandf #Sales #Hiring", 
+                "created_at": "2016-11-06T15:20:36", 
+                "retweet_count": 0, 
+                "id": "795284756728418304", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.8062912, 
+                    36.7757374
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Fresno, CA! Click for details: https://t.co/OX31Osjgvj #Job #Sales #Jobs", 
+                "created_at": "2016-11-06T14:30:30", 
+                "retweet_count": 0, 
+                "id": "795272148101132288", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.4088794, 
+                    42.9825633
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #Victor, NY? This could be a great fit: https://t.co/lNybkYvxS8 #Sales #Hiring", 
+                "created_at": "2016-11-06T13:40:24", 
+                "retweet_count": 0, 
+                "id": "795259540518223872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3520389, 
+                    34.0664817
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #LosAngeles, CA? View our latest opening: https://t.co/CZkl7T5WDU #Job #Sales #Jobs #Hiring", 
+                "created_at": "2016-11-06T12:50:17", 
+                "retweet_count": 0, 
+                "id": "795246927621128192", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.3835525, 
+                    40.1012856
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #KingofPrussia, PA? This could be a great fit: https://t.co/GbSHCyyHCQ #Sales #Hiring", 
+                "created_at": "2016-11-06T12:00:06", 
+                "retweet_count": 0, 
+                "id": "795234300249575424", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.0870155, 
+                    26.8598894
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #job might be a great fit for you: Stylist, Madewell, The Gardens - https://t.co/dLNAeH2Yug #PalmBeachGardens, FL #Hiring", 
+                "created_at": "2016-11-06T01:11:58", 
+                "retweet_count": 0, 
+                "id": "795071192453365760", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0094471, 
+                    40.7217861
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 38110877.0, 
+                    "type": "yes", 
+                    "id": 587.0, 
+                    "name": "Mandalay on the Hudson"
+                }, 
+                {
+                    "osm_id": 259782464.0, 
+                    "type": "yes", 
+                    "id": 83585.0, 
+                    "name": "Crystal Point"
+                }, 
+                {
+                    "osm_id": 403390799.0, 
+                    "type": "yes", 
+                    "id": 136058.0, 
+                    "name": "The One"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/fYbakdhp15 #NewYork, NY #Hiring", 
+                "created_at": "2016-11-06T00:21:48", 
+                "retweet_count": 1, 
+                "id": "795058568680521730", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.5274755, 
+                    37.9254806
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #CorteMadera, CA? View our latest opening: https://t.co/YjjUmNlaWC #Job #Jobs #Hiring", 
+                "created_at": "2016-11-05T23:31:40", 
+                "retweet_count": 0, 
+                "id": "795045949844262912", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.9770371, 
+                    40.1420033
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Columbus, OH? View our latest opening: https://t.co/PLqYqykDc3 #Job #Sales #Jobs #Hiring", 
+                "created_at": "2016-11-05T22:41:35", 
+                "retweet_count": 0, 
+                "id": "795033346103386112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -105.2077798, 
+                    40.0406506
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/SpjA5tM4mO #Sales #Boulder, CO #Hiring", 
+                "created_at": "2016-11-05T21:51:29", 
+                "retweet_count": 0, 
+                "id": "795020739015389184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.8062912, 
+                    36.7757374
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job in #Fresno, CA? https://t.co/7aPmz6S1fi #Sales #Hiring", 
+                "created_at": "2016-11-05T21:01:21", 
+                "retweet_count": 0, 
+                "id": "795008120804110336", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.2051487, 
+                    47.6264794
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job in #Bellevue, WA? https://t.co/hVwZLmS2Oe #Sales #Hiring", 
+                "created_at": "2016-11-05T20:11:14", 
+                "retweet_count": 0, 
+                "id": "794995509463130112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.1749671, 
+                    39.9531865
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #Philadelphia, PA #job and click to apply: Seasonal Sales Associate, Madewell, Walnut Street - https://t.co/6soO5WNo1h", 
+                "created_at": "2016-11-05T18:31:02", 
+                "retweet_count": 0, 
+                "id": "794970295052353536", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.1802812, 
+                    37.3813444
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #PaloAlto, CA? This could be a great fit: https://t.co/xENxd231AB #Retail #Hiring", 
+                "created_at": "2016-11-05T17:41:00", 
+                "retweet_count": 0, 
+                "id": "794957700593369088", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.4115091, 
+                    40.8534318
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #job might be a great fit for you: Keyholder, Madewell, Walt Whitman - https://t.co/DQV1WRmEhk #Retail #HuntingtonStation, NY #Hiring", 
+                "created_at": "2016-11-05T16:50:52", 
+                "retweet_count": 0, 
+                "id": "794945086341533696", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0737149, 
+                    38.9156487
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #job might be a great fit for you: Seasonal Support Associate, Madewell, 1237 Wisconsin Ave - https://t.co/ItYtJZd1ck #Washington, DC", 
+                "created_at": "2016-11-05T16:00:42", 
+                "retweet_count": 0, 
+                "id": "794932460916047872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.1802812, 
+                    37.3813444
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #PaloAlto, CA? This could be a great fit: https://t.co/e6sqgl9bCh #Retail #Hiring", 
+                "created_at": "2016-11-05T15:10:37", 
+                "retweet_count": 0, 
+                "id": "794919858659987456", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9874105, 
+                    40.7322535
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3357450.0, 
+                    "type": "yes", 
+                    "id": 115.0, 
+                    "name": "The Archives"
+                }, 
+                {
+                    "osm_id": 247855557.0, 
+                    "type": "yes", 
+                    "id": 11332.0, 
+                    "name": "The Renwick"
+                }, 
+                {
+                    "osm_id": 247857074.0, 
+                    "type": "dormitory", 
+                    "id": 11343.0, 
+                    "name": "Founders Hall"
+                }, 
+                {
+                    "osm_id": 249665655.0, 
+                    "type": "yes", 
+                    "id": 35870.0, 
+                    "name": "Greenwich House"
+                }, 
+                {
+                    "osm_id": 249666372.0, 
+                    "type": "church", 
+                    "id": 36148.0, 
+                    "name": "Church of St. Luke in the Fields"
+                }, 
+                {
+                    "osm_id": 317884696.0, 
+                    "type": "yes", 
+                    "id": 126135.0, 
+                    "name": "Loew's Jersey Theatre"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job? Seasonal Sales Associate, Madewell, 69 Gansevoort - https://t.co/Y1jisZTBZa #Sales #NewYork, NY", 
+                "created_at": "2016-11-05T14:20:32", 
+                "retweet_count": 0, 
+                "id": "794907254868701184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -104.8970678, 
+                    39.536482
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #LoneTree, CO! Click for details: https://t.co/FSccuZ1tdt #Job #Sales #Jobs", 
+                "created_at": "2016-11-05T12:40:22", 
+                "retweet_count": 0, 
+                "id": "794882044799000576", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9485424, 
+                    40.744679
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974143.0, 
+                    "type": "office", 
+                    "id": 544.0, 
+                    "name": "Stevens Institute of Technology"
+                }, 
+                {
+                    "osm_id": 26974145.0, 
+                    "type": "yes", 
+                    "id": 546.0, 
+                    "name": "Davidson Lab"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 248143475.0, 
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court"
+                }, 
+                {
+                    "osm_id": 248143760.0, 
+                    "type": "apartments", 
+                    "id": 16842.0, 
+                    "name": "Capitol at Chelsea"
+                }, 
+                {
+                    "osm_id": 265042538.0, 
+                    "type": "apartments", 
+                    "id": 87455.0, 
+                    "name": "Instrata NoMad"
+                }, 
+                {
+                    "osm_id": 265261822.0, 
+                    "type": "yes", 
+                    "id": 88402.0, 
+                    "name": "Raymond R. Orbett building"
+                }, 
+                {
+                    "osm_id": 265268122.0, 
+                    "type": "apartments", 
+                    "id": 88471.0, 
+                    "name": "The Anthem"
+                }, 
+                {
+                    "osm_id": 265268231.0, 
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116"
+                }, 
+                {
+                    "osm_id": 278326921.0, 
+                    "type": "yes", 
+                    "id": 100910.0, 
+                    "name": "Permanent Mission of the Peoples Republic of China to the United Nations"
+                }, 
+                {
+                    "osm_id": 278326922.0, 
+                    "type": "yes", 
+                    "id": 100913.0, 
+                    "name": "Pinetree Lodge"
+                }, 
+                {
+                    "osm_id": 278327651.0, 
+                    "type": "yes", 
+                    "id": 100917.0, 
+                    "name": "East 36th Street Substation"
+                }, 
+                {
+                    "osm_id": 287496552.0, 
+                    "type": "apartments", 
+                    "id": 125728.0, 
+                    "name": "Chelsea Tower"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/KRfrMxLKoc #BusinessMgmt #LongIslandCity, NY #Hiring", 
+                "created_at": "2016-11-05T11:50:14", 
+                "retweet_count": 0, 
+                "id": "794869428349386753", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.7315785, 
+                    33.4514846
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #Birmingham, AL? This could be a great fit: https://t.co/tAdqGVu87k #Sales #Hiring", 
+                "created_at": "2016-11-05T11:00:06", 
+                "retweet_count": 0, 
+                "id": "794856813686444032", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.6283316, 
+                    40.5971482
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Bridgewater, NJ! Click for details: https://t.co/4dtP3Q7MKP #Job #Sales #Jobs", 
+                "created_at": "2016-11-05T00:21:57", 
+                "retweet_count": 0, 
+                "id": "794696218928500737", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3520389, 
+                    33.8409696
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #Torrance, CA #job and click to apply: Seasonal Sales Associate, Madewell, Del Amo Fashion... - https://t.co/5TLXZ1q505", 
+                "created_at": "2016-11-04T22:41:36", 
+                "retweet_count": 0, 
+                "id": "794670964134932480", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9660683, 
+                    40.7119031
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309461.0, 
+                    "type": "yes", 
+                    "id": 629.0, 
+                    "name": "225 Liberty Street"
+                }, 
+                {
+                    "osm_id": 277904750.0, 
+                    "type": "yes", 
+                    "id": 99142.0, 
+                    "name": "Transportation Building"
+                }, 
+                {
+                    "osm_id": 278033607.0, 
+                    "type": "construction", 
+                    "id": 99197.0, 
+                    "name": "Two World Trade Center"
+                }, 
+                {
+                    "osm_id": 278105947.0, 
+                    "type": "apartments", 
+                    "id": 99723.0, 
+                    "name": "Chatham Green"
+                }, 
+                {
+                    "osm_id": 278112893.0, 
+                    "type": "yes", 
+                    "id": 99950.0, 
+                    "name": "1 Police Plaza"
+                }, 
+                {
+                    "osm_id": 279592956.0, 
+                    "type": "yes", 
+                    "id": 103824.0, 
+                    "name": "Post Office"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #job might be a great fit for you: Seasonal Sales Associate, Madewell, North 6th Street - https://t.co/uCMXpCo6eP #Sales #Brooklyn, NY", 
+                "created_at": "2016-11-04T21:51:32", 
+                "retweet_count": 0, 
+                "id": "794658362948349952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.1802812, 
+                    37.3813444
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #PaloAlto, CA? This could be a great fit: https://t.co/5ETBFovksl #Retail #Hiring", 
+                "created_at": "2016-11-04T21:01:27", 
+                "retweet_count": 0, 
+                "id": "794645760608333824", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.3468091, 
+                    42.2775281
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #Natick, MA? This could be a great fit: https://t.co/818t3oKBUg #Sales #Hiring", 
+                "created_at": "2016-11-04T20:11:25", 
+                "retweet_count": 0, 
+                "id": "794633169580347392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.1635442, 
+                    30.0144158
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #job might be a great fit for you: Seasonal Sales Associate, Madewell, Lakeside Shopping Center - https://t.co/YOOBYo2EV6 #Sales", 
+                "created_at": "2016-11-04T19:21:16", 
+                "retweet_count": 0, 
+                "id": "794620549028687872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.5274755, 
+                    37.9254806
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Can you recommend anyone for this #job in #CorteMadera, CA? https://t.co/LRM0T9pxjq #Sales #Hiring", 
+                "created_at": "2016-11-04T18:31:10", 
+                "retweet_count": 0, 
+                "id": "794607940195885056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.0199562, 
+                    40.5569121
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Pittsburgh, PA? View our latest opening: https://t.co/NGU4DlBObL #Job #Sales #Jobs #Hiring", 
+                "created_at": "2016-11-04T17:41:03", 
+                "retweet_count": 0, 
+                "id": "794595327370285058", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.3381855, 
+                    38.9552797
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Reston, VA? View our latest opening: https://t.co/ypbBSekGsf #Job #Sales #Jobs #Hiring", 
+                "created_at": "2016-11-04T16:50:57", 
+                "retweet_count": 0, 
+                "id": "794582718839287809", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.4046264, 
+                    33.9150066
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #job might be a great fit for you: Seasonal Sales Associate, Madewell, The Point - https://t.co/jNPpvyB1fX #Sales #ElSegundo, CA", 
+                "created_at": "2016-11-04T16:00:50", 
+                "retweet_count": 0, 
+                "id": "794570105896058880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.8320743, 
+                    36.0802326
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Madewell? We're #hiring in #Nashville, TN! Click for details: https://t.co/I3vyY2WZOo #Job #Sales #Jobs", 
+                "created_at": "2016-11-04T15:10:42", 
+                "retweet_count": 0, 
+                "id": "794557491979776000", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.6249734, 
+                    37.6474638
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This #job might be a great fit for you: Seasonal Sales Associate, Madewell, Short Pump Town Center - https://t.co/vJJFFcRDDU #Richmond, VA", 
+                "created_at": "2016-11-04T14:20:33", 
+                "retweet_count": 0, 
+                "id": "794544871348416513", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.495155, 
+                    34.0126379
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #SantaMonica, CA #job and click to apply: Seasonal Sales Associate, Madewell, 1349 3rd St... - https://t.co/dAloiiQw8v", 
+                "created_at": "2016-11-04T12:40:21", 
+                "retweet_count": 0, 
+                "id": "794519652521033728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.9178838, 
+                    40.0415191
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #Columbus, OH? This could be a great fit: https://t.co/lQd7ITnswU #Sales #Hiring", 
+                "created_at": "2016-11-04T11:50:18", 
+                "retweet_count": 0, 
+                "id": "794507057751654400", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0898892, 
+                    42.339904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #Boston, MA, check out this #job: https://t.co/eUjowYZK3h #Hiring", 
+                "created_at": "2016-11-04T11:00:08", 
+                "retweet_count": 0, 
+                "id": "794494434834399232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.1678543, 
+                    34.1406082
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you're looking for work in #Pasadena, CA, check out this #job: https://t.co/42odqQSyyO #Sales #Hiring", 
+                "created_at": "2016-11-04T01:21:41", 
+                "retweet_count": 0, 
+                "id": "794348862861242368", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.7683784, 
+                    41.0322939
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Visual Associate, Madewell, The Westchester - https://t.co/sBilLJa96h", 
+                "created_at": "2016-11-04T00:31:37", 
+                "retweet_count": 0, 
+                "id": "794336262119243777", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.9535534, 
+                    41.8397865
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #Oakbrook, IL #job and click to apply: Seasonal Sales Associate, Madewell, Oakbrook Center - https://t.co/I8gslvP18J #Sales", 
+                "created_at": "2016-11-03T23:41:34", 
+                "retweet_count": 0, 
+                "id": "794323665852645376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.2499749, 
+                    33.095442
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Join the Madewell team! See our latest #job opening here: https://t.co/D6DSKgqbOX #Sales #Carlsbad, CA #Hiring", 
+                "created_at": "2016-11-03T22:51:31", 
+                "retweet_count": 0, 
+                "id": "794311072245133312", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.4515725, 
+                    29.740582
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #Houston, TX #job and click to apply: Associate Manager, Madewell, Highland Village - https://t.co/yXuJWlvpK5 #Retail", 
+                "created_at": "2016-11-03T22:01:24", 
+                "retweet_count": 0, 
+                "id": "794298458370805760", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.3338547, 
+                    44.8721412
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "We're #hiring! Read about our latest #job opening here: Seasonal Sales Associate, Madewell, Southdale Center - https://t.co/cJrn2xkaD4", 
+                "created_at": "2016-11-03T21:11:18", 
+                "retweet_count": 0, 
+                "id": "794285852042006528", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.3620913, 
+                    33.849145
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "See our latest #Atlanta, GA #job and click to apply: Seasonal Sales Associate, Madewell, Lenox - https://t.co/QQvHdr5gzY #Sales #Hiring", 
+                "created_at": "2016-11-03T20:21:12", 
+                "retweet_count": 0, 
+                "id": "794273244073193472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.3338547, 
+                    44.8721412
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interested in a #job in #Edina, MN? This could be a great fit: https://t.co/0QaBWX2NvJ #Hiring", 
+                "created_at": "2016-11-03T19:31:05", 
+                "retweet_count": 0, 
+                "id": "794260631947878400", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

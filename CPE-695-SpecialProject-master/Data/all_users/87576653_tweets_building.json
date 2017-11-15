@@ -1,0 +1,664 @@
+{
+    "total_favorite_count": 1003, 
+    "total_tweets": 13, 
+    "screen_name": "mperez135", 
+    "friends_count": 287, 
+    "followers_count": 300, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Exploring the area @ New York, New York https://t.co/GyktpF2sJV", 
+                "created_at": "2016-10-02T20:01:09", 
+                "retweet_count": 0, 
+                "id": "782671786391601153", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.8858, 
+                    40.7556
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -1860567.0, 
+                    "type": "yes", 
+                    "id": 4.0, 
+                    "name": "The New York Times Building"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 42500733.0, 
+                    "type": "yes", 
+                    "id": 598.0, 
+                    "name": "383 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 86121621.0, 
+                    "type": "commercial", 
+                    "id": 637.0, 
+                    "name": "Bank of America Tower"
+                }, 
+                {
+                    "osm_id": 109285745.0, 
+                    "type": "commercial", 
+                    "id": 669.0, 
+                    "name": "Times Square Tower"
+                }, 
+                {
+                    "osm_id": 137860913.0, 
+                    "type": "commercial", 
+                    "id": 691.0, 
+                    "name": "277 Park Avenue"
+                }, 
+                {
+                    "osm_id": 144919873.0, 
+                    "type": "yes", 
+                    "id": 750.0, 
+                    "name": "InterContinental New York Barclay"
+                }, 
+                {
+                    "osm_id": 146278002.0, 
+                    "type": "commercial", 
+                    "id": 769.0, 
+                    "name": "JP Morgan Chase Tower"
+                }, 
+                {
+                    "osm_id": 150402504.0, 
+                    "type": "office", 
+                    "id": 781.0, 
+                    "name": "North American Plywood Building"
+                }, 
+                {
+                    "osm_id": 147301613.0, 
+                    "type": "yes", 
+                    "id": 788.0, 
+                    "name": "Crystal Pavilion"
+                }, 
+                {
+                    "osm_id": 265441627.0, 
+                    "type": "apartments", 
+                    "id": 91354.0, 
+                    "name": "River Tower"
+                }, 
+                {
+                    "osm_id": 265459533.0, 
+                    "type": "yes", 
+                    "id": 91608.0, 
+                    "name": "Permanent Mission of Thailand to the United Nations"
+                }, 
+                {
+                    "osm_id": 265459554.0, 
+                    "type": "construction", 
+                    "id": 91614.0, 
+                    "name": "The Halcyon"
+                }, 
+                {
+                    "osm_id": 265483580.0, 
+                    "type": "yes", 
+                    "id": 91748.0, 
+                    "name": "Permanent Mission of the Kingdom of Tonga to the United Nations"
+                }, 
+                {
+                    "osm_id": 265483607.0, 
+                    "type": "yes", 
+                    "id": 91775.0, 
+                    "name": "The Pod"
+                }, 
+                {
+                    "osm_id": 266143337.0, 
+                    "type": "theatre", 
+                    "id": 93159.0, 
+                    "name": "Nederlander Theatre"
+                }, 
+                {
+                    "osm_id": 266143361.0, 
+                    "type": "yes", 
+                    "id": 93179.0, 
+                    "name": "5 Times Square"
+                }, 
+                {
+                    "osm_id": 266170543.0, 
+                    "type": "yes", 
+                    "id": 93331.0, 
+                    "name": "Berkeley Building"
+                }, 
+                {
+                    "osm_id": 266170632.0, 
+                    "type": "commercial", 
+                    "id": 93399.0, 
+                    "name": "Putman Building"
+                }, 
+                {
+                    "osm_id": 266170761.0, 
+                    "type": "yes", 
+                    "id": 93509.0, 
+                    "name": "Royalton"
+                }, 
+                {
+                    "osm_id": 266170848.0, 
+                    "type": "yes", 
+                    "id": 93577.0, 
+                    "name": "Hippodrome Building"
+                }, 
+                {
+                    "osm_id": 281342725.0, 
+                    "type": "yes", 
+                    "id": 124626.0, 
+                    "name": "Melrose Ballroom"
+                }, 
+                {
+                    "osm_id": 301780388.0, 
+                    "type": "construction", 
+                    "id": 126056.0, 
+                    "name": "The Sutton"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The crew. Filming with the NYPD this week #nypd #filmcrew #setlife #steadicam #1stac #2ndac\u2026 https://t.co/OU8ku7JsHe", 
+                "created_at": "2016-09-29T18:27:39", 
+                "retweet_count": 0, 
+                "id": "781561093219123200", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.30357969, 
+                    28.59545639
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It was awesome to stop by #fullsailuniversity the other day and see the campus again. Even\u2026 https://t.co/UZYAaOHWYJ", 
+                "created_at": "2016-08-29T02:11:13", 
+                "retweet_count": 0, 
+                "id": "770081340607922176", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9786973, 
+                    40.75875356
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 145341302.0, 
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza"
+                }, 
+                {
+                    "osm_id": 163465869.0, 
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building"
+                }, 
+                {
+                    "osm_id": 163474780.0, 
+                    "type": "yes", 
+                    "id": 859.0, 
+                    "name": "New York Marriott Marquis"
+                }, 
+                {
+                    "osm_id": 243088863.0, 
+                    "type": "yes", 
+                    "id": 9403.0, 
+                    "name": "One MiMA Tower"
+                }, 
+                {
+                    "osm_id": 263194427.0, 
+                    "type": "yes", 
+                    "id": 83624.0, 
+                    "name": "420 West 42nd Street"
+                }, 
+                {
+                    "osm_id": 266034045.0, 
+                    "type": "yes", 
+                    "id": 93147.0, 
+                    "name": "InterContinental New York Times Square"
+                }, 
+                {
+                    "osm_id": 266149298.0, 
+                    "type": "theatre", 
+                    "id": 93180.0, 
+                    "name": "Bernard B. Jacobs Theatre"
+                }, 
+                {
+                    "osm_id": 266149325.0, 
+                    "type": "theatre", 
+                    "id": 93221.0, 
+                    "name": "John Golden Theatre"
+                }, 
+                {
+                    "osm_id": 266149329.0, 
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre"
+                }, 
+                {
+                    "osm_id": 266149365.0, 
+                    "type": "yes", 
+                    "id": 93346.0, 
+                    "name": "the Row Hotel"
+                }, 
+                {
+                    "osm_id": 266170797.0, 
+                    "type": "yes", 
+                    "id": 93541.0, 
+                    "name": "Simon and Schuster Building"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }, 
+                {
+                    "osm_id": 279400339.0, 
+                    "type": "yes", 
+                    "id": 102026.0, 
+                    "name": "Sheraton"
+                }, 
+                {
+                    "osm_id": 281273726.0, 
+                    "type": "yes", 
+                    "id": 123633.0, 
+                    "name": "551 10th Avenue"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The #sonyf5 setup today for a corporate gig in #nyc earlier today. #cinema #steadicam\u2026 https://t.co/n5LdDnSeDj", 
+                "created_at": "2016-06-28T00:33:10", 
+                "retweet_count": 0, 
+                "id": "747588615774035968", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96210273, 
+                    40.80811173
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "C300 at Columbia University today. Documentary shoot. @ Columbia University Low Memorial Library https://t.co/NTKmHFr8vI", 
+                "created_at": "2016-04-09T22:49:47", 
+                "retweet_count": 0, 
+                "id": "718933959854440449", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9923477, 
+                    40.7506752
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 264667030.0, 
+                    "type": "yes", 
+                    "id": 86092.0, 
+                    "name": "James Farley Post Office"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Awesome win tonight for the Rangers! #nyr #nyrangers @ Madison Square Garden https://t.co/vIkqShPbXI", 
+                "created_at": "2016-04-06T02:50:21", 
+                "retweet_count": 0, 
+                "id": "717544945779871744", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3354797, 
+                    34.1520004
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A #tbt to last week to when I was a teacher at the New York Film Academy teach students about\u2026 https://t.co/5dGOhoe8tb", 
+                "created_at": "2015-12-11T07:00:56", 
+                "retweet_count": 0, 
+                "id": "675208629268664321", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985131, 
+                    40.758895
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 159912554.0, 
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I"
+                }, 
+                {
+                    "osm_id": 163474780.0, 
+                    "type": "yes", 
+                    "id": 859.0, 
+                    "name": "New York Marriott Marquis"
+                }, 
+                {
+                    "osm_id": 243088863.0, 
+                    "type": "yes", 
+                    "id": 9403.0, 
+                    "name": "One MiMA Tower"
+                }, 
+                {
+                    "osm_id": 265299994.0, 
+                    "type": "yes", 
+                    "id": 88948.0, 
+                    "name": "Saint Raphael's Church"
+                }, 
+                {
+                    "osm_id": 266149330.0, 
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater"
+                }, 
+                {
+                    "osm_id": 266149329.0, 
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre"
+                }, 
+                {
+                    "osm_id": 266149365.0, 
+                    "type": "yes", 
+                    "id": 93346.0, 
+                    "name": "the Row Hotel"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }, 
+                {
+                    "osm_id": 279400339.0, 
+                    "type": "yes", 
+                    "id": 102026.0, 
+                    "name": "Sheraton"
+                }, 
+                {
+                    "osm_id": 281273726.0, 
+                    "type": "yes", 
+                    "id": 123633.0, 
+                    "name": "551 10th Avenue"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Today I got to fly an old 1981 Panasonic VHS camera. Not everyday you see one of these in use. @\u2026 https://t.co/GpRndFrVHy", 
+                "created_at": "2015-11-08T02:03:02", 
+                "retweet_count": 0, 
+                "id": "663174860881948672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0169373, 
+                    40.6759758
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#NYC #Brooklyn @ The Liberty Warehouse https://t.co/30YQbpJOK6", 
+                "created_at": "2015-10-30T22:50:49", 
+                "retweet_count": 0, 
+                "id": "660227383098740737", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99304362, 
+                    40.71159505
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309461.0, 
+                    "type": "yes", 
+                    "id": 629.0, 
+                    "name": "225 Liberty Street"
+                }, 
+                {
+                    "osm_id": 157212264.0, 
+                    "type": "yes", 
+                    "id": 797.0, 
+                    "name": "Gateway Plaza 200"
+                }, 
+                {
+                    "osm_id": 205332686.0, 
+                    "type": "yes", 
+                    "id": 1021.0, 
+                    "name": "Bergen South Post Office"
+                }, 
+                {
+                    "osm_id": 277919044.0, 
+                    "type": "apartments", 
+                    "id": 99123.0, 
+                    "name": "Gateway Plaza 500"
+                }, 
+                {
+                    "osm_id": 278033604.0, 
+                    "type": "yes", 
+                    "id": 99177.0, 
+                    "name": "Memorial Museum"
+                }, 
+                {
+                    "osm_id": 278033606.0, 
+                    "type": "yes", 
+                    "id": 99178.0, 
+                    "name": "World Trade Center Transportation Hub - Oculus"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#skate #nyc #skateboarding @ Manhattan Bridge (B, D, Q) https://t.co/hVH524U9XW", 
+                "created_at": "2015-07-16T23:37:42", 
+                "retweet_count": 0, 
+                "id": "621826067544809472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96469132, 
+                    41.42676862
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The smallest camera that I've flown so far. The black magic pocket camera. Shooting a part of a music\u2026 http://t.co/sT3qKojs2O", 
+                "created_at": "2014-10-31T14:27:20", 
+                "retweet_count": 0, 
+                "id": "528191497351725057", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.35141222, 
+                    44.3107202
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ferry to Vermont. @ Essex - Charlotte Ferry http://t.co/JRCMl22YJa", 
+                "created_at": "2014-05-12T00:41:31", 
+                "retweet_count": 0, 
+                "id": "465652960798593025", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.38284554, 
+                    41.9278499
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Awesome seeing this car in person. @ Lime Rock Park http://t.co/unXGZGT92C", 
+                "created_at": "2013-07-06T17:11:06", 
+                "retweet_count": 0, 
+                "id": "353561758797021185", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

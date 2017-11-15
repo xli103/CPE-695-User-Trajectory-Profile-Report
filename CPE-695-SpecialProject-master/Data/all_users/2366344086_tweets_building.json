@@ -1,0 +1,666 @@
+{
+    "total_favorite_count": 168, 
+    "total_tweets": 28, 
+    "screen_name": "WayneRogers58", 
+    "friends_count": 324, 
+    "followers_count": 131, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.71547474, 
+                    -32.92116528
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This Friday I will be performing my show \"Lashes, Legs &amp; Lyrics\" at Wests, New Lambton. I would\u2026 https://t.co/hc37SyFEm5", 
+                "created_at": "2016-11-13T02:49:22", 
+                "retweet_count": 0, 
+                "id": "797632420229083136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.67284, 
+                    -32.90051
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "What a lovely way to finish my day. \nJames got me to dress up thinking I was going out and he\u2026 https://t.co/IvcvYQz0Dw", 
+                "created_at": "2016-11-04T10:15:41", 
+                "retweet_count": 0, 
+                "id": "794483246767685633", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.66630195, 
+                    -32.90391324
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Had a wondering Melbourne Cup. Thank you to everyone that come down to Wallsend Sporties. \n\ud83d\udc8b\ud83d\ude18 @\u2026 https://t.co/t9c6u29FoC", 
+                "created_at": "2016-11-01T07:23:23", 
+                "retweet_count": 0, 
+                "id": "793352722401652736", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.77647479, 
+                    -32.92710089
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "VIP guests at the launch of Real Film Festival. Saw an incredible film \"Queens of Ireland\"\u2026 https://t.co/ixuKneqbPK", 
+                "created_at": "2016-10-28T09:52:55", 
+                "retweet_count": 0, 
+                "id": "791940800342921216", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.658492, 
+                    -32.9165559
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Breast Cancer Awareness at Koombahla.\n\nI love my job! @ Koombahla Aged Care Facility https://t.co/LxjrPZRLeZ", 
+                "created_at": "2016-10-24T02:01:52", 
+                "retweet_count": 1, 
+                "id": "790372708781551616", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.34881135, 
+                    -32.78104409
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bubbly Breakfast 2016!\n\n#bubblybreakfast2016 #hbcf #charity @ Crowne Plaza Hunter Valley https://t.co/dgWHkD2LOr", 
+                "created_at": "2016-10-22T20:47:05", 
+                "retweet_count": 0, 
+                "id": "789931102781734914", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98644, 
+                    40.75839
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 163474780.0, 
+                    "type": "yes", 
+                    "id": 859.0, 
+                    "name": "New York Marriott Marquis"
+                }, 
+                {
+                    "osm_id": 263194427.0, 
+                    "type": "yes", 
+                    "id": 83624.0, 
+                    "name": "420 West 42nd Street"
+                }, 
+                {
+                    "osm_id": 266033995.0, 
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School"
+                }, 
+                {
+                    "osm_id": 266034023.0, 
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower"
+                }, 
+                {
+                    "osm_id": 266034045.0, 
+                    "type": "yes", 
+                    "id": 93147.0, 
+                    "name": "InterContinental New York Times Square"
+                }, 
+                {
+                    "osm_id": 266149299.0, 
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre"
+                }, 
+                {
+                    "osm_id": 266149300.0, 
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre"
+                }, 
+                {
+                    "osm_id": 266149302.0, 
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre"
+                }, 
+                {
+                    "osm_id": 266149328.0, 
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "All dress &amp; ready to conquer NEW YORK \ud83d\ude18\ud83d\udc8b\n\nWalked through Time Square, now for Kinky Boots \ud83d\udc60 @\u2026 https://t.co/79o9aG3Ii3", 
+                "created_at": "2016-10-12T23:19:08", 
+                "retweet_count": 0, 
+                "id": "786345489348386816", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99859847, 
+                    40.70750673
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 68312595.0, 
+                    "type": "yes", 
+                    "id": 615.0, 
+                    "name": "200 Water Street"
+                }, 
+                {
+                    "osm_id": 109337830.0, 
+                    "type": "yes", 
+                    "id": 672.0, 
+                    "name": "Federal Hall National Memorial"
+                }, 
+                {
+                    "osm_id": 232065148.0, 
+                    "type": "yes", 
+                    "id": 1182.0, 
+                    "name": "Communipaw Terminal"
+                }, 
+                {
+                    "osm_id": 277924004.0, 
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch"
+                }, 
+                {
+                    "osm_id": 278042262.0, 
+                    "type": "yes", 
+                    "id": 99272.0, 
+                    "name": "14 Wall Street"
+                }, 
+                {
+                    "osm_id": 278042265.0, 
+                    "type": "yes", 
+                    "id": 99274.0, 
+                    "name": "20 Pine Street"
+                }, 
+                {
+                    "osm_id": 278053481.0, 
+                    "type": "yes", 
+                    "id": 99280.0, 
+                    "name": "Empire Building"
+                }, 
+                {
+                    "osm_id": 278053600.0, 
+                    "type": "yes", 
+                    "id": 99387.0, 
+                    "name": "1 Wall Street"
+                }, 
+                {
+                    "osm_id": 278053611.0, 
+                    "type": "yes", 
+                    "id": 99395.0, 
+                    "name": "65 Broadway"
+                }, 
+                {
+                    "osm_id": 278069577.0, 
+                    "type": "apartments", 
+                    "id": 99482.0, 
+                    "name": "10 Liberty Street"
+                }, 
+                {
+                    "osm_id": 278079587.0, 
+                    "type": "yes", 
+                    "id": 99550.0, 
+                    "name": "116 John Street"
+                }, 
+                {
+                    "osm_id": 278084737.0, 
+                    "type": "yes", 
+                    "id": 99560.0, 
+                    "name": "Bin no. 220"
+                }, 
+                {
+                    "osm_id": 279530782.0, 
+                    "type": "yes", 
+                    "id": 102186.0, 
+                    "name": "One Chase Manhattan Plaza"
+                }, 
+                {
+                    "osm_id": 292727352.0, 
+                    "type": "yes", 
+                    "id": 125754.0, 
+                    "name": "Insurance Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Having a FANTASTIC time in New York!\nToday we walked the Brooklyn Bridge,  visited the 9/11\u2026 https://t.co/aznM56Sm1L", 
+                "created_at": "2016-10-11T23:01:38", 
+                "retweet_count": 0, 
+                "id": "785978695722958848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.1617799, 
+                    39.94926
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Had the pleasure of sharing the stage with some very talented performers in Philadelphia.\n\nStay\u2026 https://t.co/QmNoXMyVOJ", 
+                "created_at": "2016-10-09T04:32:47", 
+                "retweet_count": 0, 
+                "id": "784974867623993344", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    150.93075622, 
+                    -31.09027928
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "In Tamworth doing promo for my show at The Capitol Theatre on Sunday 11th Sept!\n\n Would love to\u2026 https://t.co/8YLO5I5oVG", 
+                "created_at": "2016-08-29T23:35:54", 
+                "retweet_count": 0, 
+                "id": "770404639133077504", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    153.13480425, 
+                    -30.30474319
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "On our way home after performing 2 fantastic shows yesterday at The Jetty Theatre in Coffs\u2026 https://t.co/AJqVnA1zOj", 
+                "created_at": "2016-08-21T03:14:08", 
+                "retweet_count": 0, 
+                "id": "767198068617912321", 
+                "favorite_count": 5
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    153.13480425, 
+                    -30.30474319
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Time for the 2nd show, woohoo!\n\nCoffs Harbour will never be the same.... @ Jetty Memorial Theatre https://t.co/jyPOtE5a2X", 
+                "created_at": "2016-08-20T09:16:47", 
+                "retweet_count": 0, 
+                "id": "766926945741316096", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    153.13480425, 
+                    -30.30474319
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Showtime in Coffs Harbour @ Jetty Memorial Theatre https://t.co/4k85Q10aoI", 
+                "created_at": "2016-08-20T03:56:38", 
+                "retweet_count": 0, 
+                "id": "766846379863973889", 
+                "favorite_count": 3
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    153.133, 
+                    -30.3
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just arrived in Coffs Harbour, a quick rehearse with the girls before tomorrow's shows. \n\nIf you\u2026 https://t.co/ozf2Y0L0sE", 
+                "created_at": "2016-08-19T09:59:00", 
+                "retweet_count": 0, 
+                "id": "766575182702080004", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.67284, 
+                    -32.90051
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Good Morning!!!\n\nWhat a beautiful day, despite the rain &amp; cold weather, everyday is\u2026 https://t.co/ggTjzX2XWF", 
+                "created_at": "2016-08-05T23:08:03", 
+                "retweet_count": 0, 
+                "id": "761700322637148161", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.12780094, 
+                    -33.90588045
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Showtime \ud83d\udc8b\ud83d\ude18 @ Canterbury Hurlstone Park RSL Club https://t.co/aD1n427a9F", 
+                "created_at": "2016-08-03T00:50:56", 
+                "retweet_count": 0, 
+                "id": "760639050566995968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    150.92387408, 
+                    -33.92188733
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "What a beautiful audience at Club Liverpool today. I love my job.\n\nWayne \ud83d\udc8b @ Liverpool Rsl Club https://t.co/qTTN76e30D", 
+                "created_at": "2016-08-02T02:52:21", 
+                "retweet_count": 0, 
+                "id": "760307218369609729", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    152.49443503, 
+                    -31.89767571
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Thank you to all involved in yesterday's show. I couldn't have done it without you.\n\nTo all the\u2026 https://t.co/wkCMnzEh2E", 
+                "created_at": "2016-08-01T09:08:36", 
+                "retweet_count": 0, 
+                "id": "760039518984671232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    152.49443503, 
+                    -31.89767571
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "SHOWTIME!!!\n\n#ManningValley #Taree #WayneRogers #showtime #tour @ Manning Entertainment Centre https://t.co/QzAB0Ho2FD", 
+                "created_at": "2016-07-31T04:11:13", 
+                "retweet_count": 0, 
+                "id": "759602292702191616", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.19624734, 
+                    -33.86827631
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "At the Helpmann Awards \ud83d\ude0a\n\n#helpmannawards #helpmanns #redcarpet #social #style #fashion @ Sydney\u2026 https://t.co/XNcmy2hghm", 
+                "created_at": "2016-07-25T09:13:05", 
+                "retweet_count": 0, 
+                "id": "757503931295686656", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.67056914, 
+                    -32.90163886
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "What a great time I had performing with these 2 beautiful souls at my show \"Just Haven't Met You\u2026 https://t.co/xm0d7Heb7u", 
+                "created_at": "2016-06-27T09:44:28", 
+                "retweet_count": 0, 
+                "id": "747364970187395072", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.71547474, 
+                    -32.92116528
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ready for a great night out with friends at Stars of Newcastle, Cancer Council. Maybe I'll with\u2026 https://t.co/R0g5ZCYFsk", 
+                "created_at": "2016-06-25T09:50:13", 
+                "retweet_count": 0, 
+                "id": "746641638957715456", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.67284, 
+                    -32.90051
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Have you seen the article about me in Newcastle Weekly?\n\nFor those that haven't, here it is.\u2026 https://t.co/tJwU1hMBO2", 
+                "created_at": "2016-06-25T06:06:12", 
+                "retweet_count": 0, 
+                "id": "746585264445882368", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.1064984, 
+                    -33.8809901
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Omg.....I just got another nomination, for \"Best Variety Production Show\"\nI am beyond excited, I\u2026 https://t.co/BqpYIF8ebj", 
+                "created_at": "2016-06-15T11:16:02", 
+                "retweet_count": 0, 
+                "id": "743039358358413312", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.10672182, 
+                    -33.88082325
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Woohoo!!\n\nI have just been nominated for \"Best Versatile Variety &amp; Harmony Act\" \n\nThank you to\u2026 https://t.co/2VlJUUbbhr", 
+                "created_at": "2016-06-15T10:03:46", 
+                "retweet_count": 0, 
+                "id": "743021170031726592", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.654559, 
+                    -32.94306
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's SHOWTIME!!!\n\nHow do you like my new outfit??\n\nIt's so lovely to be working with the lovely\u2026 https://t.co/sO2WxC1KTD", 
+                "created_at": "2016-06-10T03:59:14", 
+                "retweet_count": 0, 
+                "id": "741117492320468992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.67284, 
+                    -32.90051
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2764\ufe0fWR\ud83d\udc8b @ Iona on Robert https://t.co/3OJcuEDWPU", 
+                "created_at": "2016-06-07T10:02:23", 
+                "retweet_count": 0, 
+                "id": "740121718698717184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    151.64024808, 
+                    -33.08679711
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Another FANTASTIC audience at Swansea RSL today. I'm so blessed to be able to entertain such\u2026 https://t.co/7zXBMqyEn8", 
+                "created_at": "2016-06-02T08:47:15", 
+                "retweet_count": 0, 
+                "id": "738290874430443520", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

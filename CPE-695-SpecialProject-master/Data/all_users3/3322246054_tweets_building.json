@@ -1,0 +1,301 @@
+{
+    "total_favorite_count": 3275, 
+    "followers_count": 273, 
+    "total_tweets": 8, 
+    "user_id": 3322246054, 
+    "screen_name": "KaplanAzul", 
+    "friends_count": 553, 
+    "buildings": {
+        "school": 4, 
+        "theatre": 3, 
+        "office": 2, 
+        "apartments": 6, 
+        "roof": 2, 
+        "church": 2, 
+        "retail": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 584.0, 
+                    "name": "\u5e1d\u570b\u5927\u5ec8", 
+                    "osm_id": 34633854.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe", 
+                    "osm_id": 396820651.0
+                }
+            ], 
+            "text": "\ud83c\udf03 #empirestatebuilding @ Empire State Building Manhattan New York City https://t.co/xVeXPAWEy5", 
+            "id": "792382383169294337", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-29T15:07:36", 
+            "coordinates": [
+                -73.98554053, 
+                40.74853372
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Christa McAuliffe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School", 
+                    "osm_id": 266033995.0
+                }
+            ], 
+            "text": "One of the cities that i'll never forget\ud83d\udc9b @ 8th Avenue Manhattan NYC https://t.co/6jEOT4yaF3", 
+            "id": "786350707607601152", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-12T23:39:53", 
+            "coordinates": [
+                -73.98885469, 
+                40.75848799
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Holy Cross School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "De ese gran d\u00eda \n{10.09.16}\ud83c\udf41 #illuminatemsg @ Madison Square Garden https://t.co/dHDna4Tpt4", 
+            "id": "784180697967661056", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T23:57:02", 
+            "coordinates": [
+                -73.9923478, 
+                40.7506734
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "roof", 
+                    "id": 126164.0, 
+                    "name": "BP", 
+                    "osm_id": 320480762.0
+                }
+            ], 
+            "text": "Una de las noches m\u00e1s lindas\ud83c\udf19 @ NYC Times Square https://t.co/9fSDALbtll", 
+            "id": "781276139826229248", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T23:35:21", 
+            "coordinates": [
+                -73.9869499, 
+                40.75604
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "roof", 
+                "name": [
+                    "BP"
+                ]
+            }, 
+            "building_frequency": {
+                "roof": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School", 
+                    "osm_id": 375874980.0
+                }
+            ], 
+            "text": "\u26be\ufe0f @ Soho District, New York https://t.co/DkDGsdpVFJ", 
+            "id": "776918873144688640", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-16T23:01:08", 
+            "coordinates": [
+                -73.99492622, 
+                40.72683742
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Dr. Ronald E. McNair Academic High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory", 
+                    "osm_id": 278069550.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "-Sometimes you gotta burn some bridges just to create some distance- @ The Brooklyn Bridge New\u2026 https://t.co/0yqN7vluZ0", 
+            "id": "775789835021873152", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-13T20:14:44", 
+            "coordinates": [
+                -73.99818544, 
+                40.7070729
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "\"Maybe one day i\"ll be singing at Madison square Garden\"- @shawnmendes @ Madison Square Garden https://t.co/vTeIdiqKTm", 
+            "id": "775026237483933700", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-11T17:40:28", 
+            "coordinates": [
+                -73.99289351, 
+                40.75051355
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater", 
+                    "osm_id": 266149330.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre", 
+                    "osm_id": 266149329.0
+                }
+            ], 
+            "text": "No hay palabras para explicar lo que es esta ciudad\ud83d\uddfd @ Times Square, New York City https://t.co/kF5WoxOjZH", 
+            "id": "774601113379151876", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-10T13:31:11", 
+            "coordinates": [
+                -73.985131, 
+                40.758895
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Richard Rodgers Theater", 
+                    "Music Box Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

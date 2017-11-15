@@ -1,0 +1,276 @@
+{
+    "total_favorite_count": 4394, 
+    "total_tweets": 9, 
+    "screen_name": "_gunzalezb", 
+    "friends_count": 371, 
+    "followers_count": 537, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    136.0, 
+                    35.0
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\uddef\ud83c\uddf5\ud83c\uddef\ud83c\uddf5\ud83c\uddef\ud83c\uddf5 @ Japan https://t.co/7L86RXvgzY", 
+                "created_at": "2016-11-05T22:32:03", 
+                "retweet_count": 0, 
+                "id": "795030947750117376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99029026, 
+                    40.73528359
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 247862290.0, 
+                    "type": "yes", 
+                    "id": 11488.0, 
+                    "name": "Lincoln Building"
+                }, 
+                {
+                    "osm_id": 247862299.0, 
+                    "type": "yes", 
+                    "id": 11499.0, 
+                    "name": "Joe Coffee"
+                }, 
+                {
+                    "osm_id": 247862297.0, 
+                    "type": "yes", 
+                    "id": 11524.0, 
+                    "name": "The New School University Center"
+                }, 
+                {
+                    "osm_id": 250073000.0, 
+                    "type": "yes", 
+                    "id": 41539.0, 
+                    "name": "The Ardea"
+                }, 
+                {
+                    "osm_id": 250474273.0, 
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41"
+                }, 
+                {
+                    "osm_id": 377078046.0, 
+                    "type": "university", 
+                    "id": 126562.0, 
+                    "name": "The New School University Center"
+                }, 
+                {
+                    "osm_id": 377077898.0, 
+                    "type": "university", 
+                    "id": 126566.0, 
+                    "name": "The New School University Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "back where the sun never shine @ 14 Street - Union Square https://t.co/fC9JqSS5mh", 
+                "created_at": "2016-10-13T00:03:14", 
+                "retweet_count": 0, 
+                "id": "786356584800776193", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99525108, 
+                    40.70433979
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695753.0, 
+                    "type": "yes", 
+                    "id": 441.0, 
+                    "name": "Alexander Hamilton U.S. Custom House"
+                }, 
+                {
+                    "osm_id": 155440973.0, 
+                    "type": "yes", 
+                    "id": 792.0, 
+                    "name": "2 Broadway"
+                }, 
+                {
+                    "osm_id": 278053575.0, 
+                    "type": "yes", 
+                    "id": 99368.0, 
+                    "name": "Adrienne's Pizza Bar"
+                }, 
+                {
+                    "osm_id": 278053583.0, 
+                    "type": "yes", 
+                    "id": 99386.0, 
+                    "name": "Maritime Exchange Building"
+                }, 
+                {
+                    "osm_id": 278053612.0, 
+                    "type": "yes", 
+                    "id": 99405.0, 
+                    "name": "7 Hanover Square"
+                }, 
+                {
+                    "osm_id": 278076407.0, 
+                    "type": "yes", 
+                    "id": 99461.0, 
+                    "name": "10 Hanover Square"
+                }, 
+                {
+                    "osm_id": 278076410.0, 
+                    "type": "yes", 
+                    "id": 99463.0, 
+                    "name": "111 Wall Street"
+                }, 
+                {
+                    "osm_id": 278076413.0, 
+                    "type": "yes", 
+                    "id": 99466.0, 
+                    "name": "77 Water Street"
+                }, 
+                {
+                    "osm_id": 337839343.0, 
+                    "type": "yes", 
+                    "id": 126294.0, 
+                    "name": "Ulysses'"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Brooklyn Bridge https://t.co/QQiNJ2JaMv", 
+                "created_at": "2016-09-29T14:48:48", 
+                "retweet_count": 0, 
+                "id": "781506016210980865", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.919344, 
+                    41.294331
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "hair &amp; beard all brazy like @ Fantastic Barbershop https://t.co/JV7yzfoGKu", 
+                "created_at": "2016-09-26T23:02:59", 
+                "retweet_count": 0, 
+                "id": "780543217645260800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.7618, 
+                    41.0235
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "level up @ White Plains, New York https://t.co/Dq7UiAI5M8", 
+                "created_at": "2016-09-06T00:41:49", 
+                "retweet_count": 0, 
+                "id": "772957943457275905", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.7940078, 
+                    41.48488084
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "gang shit @ Chen Yen Buddist Temple Kent Ny https://t.co/xmu7AQjX55", 
+                "created_at": "2016-08-19T23:58:26", 
+                "retweet_count": 0, 
+                "id": "766786434166579200", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96333333, 
+                    40.77944444
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Metropolitan https://t.co/mJBJbIbliH", 
+                "created_at": "2016-07-08T18:01:41", 
+                "retweet_count": 0, 
+                "id": "751476362368647168", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.202397, 
+                    41.554522
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "my face looks stupid lit cause i was stupid lit @ Javs https://t.co/2c9IbgI7Dv", 
+                "created_at": "2016-07-05T23:19:52", 
+                "retweet_count": 0, 
+                "id": "750469271860420609", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.92149853, 
+                    36.55428289
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "all i remember is someone said hit the light skin pose so i had to do it to em @ Barmel https://t.co/OjrPGpc6kP", 
+                "created_at": "2016-07-02T17:51:22", 
+                "retweet_count": 0, 
+                "id": "749299438934515712", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

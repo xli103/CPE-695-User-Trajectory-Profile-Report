@@ -1,0 +1,1317 @@
+{
+    "total_favorite_count": 2273, 
+    "followers_count": 3088, 
+    "total_tweets": 39, 
+    "user_id": 418172193, 
+    "screen_name": "bodybysimone", 
+    "friends_count": 624, 
+    "buildings": {
+        "church": 5, 
+        "commercial": 10, 
+        "theatre": 2, 
+        "office": 4, 
+        "apartments": 42
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "#tbt to that time when the team went out for burgers and shakes after filming our upcoming DVD!\u2026 https://t.co/5jkbRvdfKy", 
+            "id": "786661103937941504", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-13T20:13:17", 
+            "coordinates": [
+                -74.00205399, 
+                40.73957797
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments", 
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 126069.0, 
+                    "name": "Marine 1", 
+                    "osm_id": 311665216.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "Goodbye NYC! Loved dancing with you! \ud83d\udc83 See you soon LA! #trainerlife #bodybysimone\u2026 https://t.co/NZaDeU1cwj", 
+            "id": "786354145443745792", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:53:32", 
+            "coordinates": [
+                -74.0067978, 
+                40.7406616
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "Marine 1"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 126411.0, 
+                    "name": "Saint Demetrius", 
+                    "osm_id": 366536016.0
+                }
+            ], 
+            "text": "Healthy mind, healthy body, healthy soul! Take time to be still. @mndflmeditation is a wonderful\u2026 https://t.co/HJ3PXwoJDb", 
+            "id": "785994391597019136", 
+            "favorite_count": 3, 
+            "created_at": "2016-10-12T00:04:00", 
+            "coordinates": [
+                -73.9957199, 
+                40.7317505
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Saint Demetrius"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 599.0, 
+                    "name": "Morgan Stanley Building", 
+                    "osm_id": 42496284.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 761.0, 
+                    "name": "Exxon Building", 
+                    "osm_id": 146031971.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 817.0, 
+                    "name": "Manhattan Plaza Apartments II", 
+                    "osm_id": 159912559.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 83554.0, 
+                    "name": "Platinum", 
+                    "osm_id": 258619237.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89475.0, 
+                    "name": "The Strand", 
+                    "osm_id": 265319596.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 89572.0, 
+                    "name": "Film Center", 
+                    "osm_id": 265320243.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 93025.0, 
+                    "name": "St. Luke's Church", 
+                    "osm_id": 266024854.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93209.0, 
+                    "name": "Brooks Atkinson Theatre", 
+                    "osm_id": 266149301.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93539.0, 
+                    "name": "1270 Avenue of the Americas", 
+                    "osm_id": 266170801.0
+                }
+            ], 
+            "text": "How cute are these 2! @aliceramshaw @nattirosewhite In rehearsals at Radio City for the\u2026 https://t.co/IzTWhQC5U0", 
+            "id": "784535603828428800", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-07T23:27:18", 
+            "coordinates": [
+                -73.97975636, 
+                40.75987811
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "McGraw-Hill Building", 
+                    "Morgan Stanley Building", 
+                    "Exxon Building", 
+                    "1270 Avenue of the Americas"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 5, 
+                "theatre": 2, 
+                "office": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "The whole NYC crew at CPR training today! It's so important to keep learning and growing...we\u2026 https://t.co/sMxkaty1qu", 
+            "id": "781263460537606144", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-28T22:44:58", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Final rehearsal for our DVD! Thanks for dropping in Maria and Jones! We missed you Nick Can't\u2026 https://t.co/CQtiTVNDdN", 
+            "id": "780085488522764288", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-25T16:44:08", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "! Don't forget to tag yourself! Happy Dancing beauties! \ud83d\udc6f\ud83d\udc6f\ud83d\udc6f #bodybysimone #simonedelarue\u2026 https://t.co/qZZDpcFlOK", 
+            "id": "779825333843419136", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-24T23:30:22", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Two more sold out classes today in NYC with Simone 11am Hips thighs and Buns and 12 noon Dance\u2026 https://t.co/GHj4pDu3p1", 
+            "id": "779793847975079945", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-24T21:25:15", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Sold out Dance cardio class this morning in NYC  at 10am with @browniejdnyc \ud83d\udc6f\ud83d\udc6f\ud83d\udc6f #bbsnyc\u2026 https://t.co/hNXSDgLjnp", 
+            "id": "779728655387881472", 
+            "favorite_count": 5, 
+            "created_at": "2016-09-24T17:06:12", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Sold out 9am Full Body class in NYC with LA Head Trainer @MsAmEricaS #bodybysimone\u2026 https://t.co/eV9iLGuBM4", 
+            "id": "779684050231521280", 
+            "favorite_count": 4, 
+            "created_at": "2016-09-24T14:08:58", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "*Spoiler alert! Guess what we are rehearsing for? If you said our next DVD then you guessed\u2026 https://t.co/CEW9yGvoD9", 
+            "id": "779474122787196928", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-24T00:14:47", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Update!!! Sue to popular demand and sold out classes Simone is now teaching the 12 noon dance\u2026 https://t.co/i3FW7f5zS6", 
+            "id": "779390365497434113", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-23T18:41:58", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Good Morning from NYC headquarters! #tgif @MsAmEricaS @aliceramshaw @sarahgrooms @jasminefoxy\u2026 https://t.co/9yEGIUXDAr", 
+            "id": "779306860579000321", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-23T13:10:09", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "#tbt to almost 5 years ago when Simone had short hair and beloved friend and artist zoebuckman\u2026 https://t.co/pGx8yv4GQ1", 
+            "id": "779059498447151104", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-22T20:47:13", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "NYC Simone is in town! Don't forget to sign up for a class...or two! Join us at #bbsnyc for a\u2026 https://t.co/AXKc37bqMd", 
+            "id": "779034566451466241", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T19:08:09", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Killing those arms this morning! With our resident firecracker NYC trainer @jasminefoxy\u2026 https://t.co/dZnvBTXZ3K", 
+            "id": "778946588689436672", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T13:18:33", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Workout Wednesday. Grab your bestie and try these moves. Laughing is absolutely required! Xx\u2026 https://t.co/MATzkBI2pl", 
+            "id": "778761390500741120", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T01:02:38", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "It's  workout Wednesday! Grab your bestie and try these moves. Simone is back in NYC and\u2026 https://t.co/e3C5PUh6oZ", 
+            "id": "778729865054781441", 
+            "favorite_count": 3, 
+            "created_at": "2016-09-21T22:57:22", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "We have the best clients! Thanks for brightening up our day and studio! \ud83d\ude18 #simonedelarue #bbs\u2026 https://t.co/B2Tc3wDzL9", 
+            "id": "778708844536995840", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-21T21:33:50", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Simone just landed in NYC! Don't forget to sign up for her class this Saturday at 11am! It's\u2026 https://t.co/YgEbQtQBiy", 
+            "id": "778586515391782915", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-21T13:27:45", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Part 2 of #trainertuesday \ud83e\udd17 @aliceramshaw outside of the BBS NYC studio ... check out our\u2026 https://t.co/zJXQwpCTV9", 
+            "id": "778266439333576704", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-20T16:15:53", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Attention NYC - our head trainer @MsAmEricaS will be teaching this week at #bbsnyc ... will you\u2026 https://t.co/4GEEv3aZO9", 
+            "id": "777891953392381952", 
+            "favorite_count": 3, 
+            "created_at": "2016-09-19T15:27:48", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "Our NYC beauties @lindsayhowe @sarahgrooms taught a kick ass BBS class poolside this morning\u2026 https://t.co/145707V6tP", 
+            "id": "765921765751128064", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-17T14:42:33", 
+            "coordinates": [
+                -74.00579006, 
+                40.74050405
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Got  an office chair? Why not use it! Try this advanced move. Step up onto your chair making\u2026 https://t.co/6h1UZ7JJLR", 
+            "id": "761534853930254336", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-05T12:10:32", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Just our Director of training @aliceramshaw showing you some of our favorite BBS 101 moves. Get\u2026 https://t.co/ZpipJiVALJ", 
+            "id": "760907987078770688", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-03T18:39:35", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Cheeky faces! Starting work on our next project! BBS NYC beauties! @aliceramshaw @nathaliesuzm\u2026 https://t.co/2Li4UodbUp", 
+            "id": "760469355838709760", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-02T13:36:37", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Move of the week for buns of steel! Grab a Pilates ball, squeeze for your hamstring curls and\u2026 https://t.co/KJAhQFTMOb", 
+            "id": "760132690725179392", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-01T15:18:50", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 599.0, 
+                    "name": "Morgan Stanley Building", 
+                    "osm_id": 42496284.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 761.0, 
+                    "name": "Exxon Building", 
+                    "osm_id": 146031971.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 817.0, 
+                    "name": "Manhattan Plaza Apartments II", 
+                    "osm_id": 159912559.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 83554.0, 
+                    "name": "Platinum", 
+                    "osm_id": 258619237.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 89572.0, 
+                    "name": "Film Center", 
+                    "osm_id": 265320243.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 93025.0, 
+                    "name": "St. Luke's Church", 
+                    "osm_id": 266024854.0
+                }
+            ], 
+            "text": "What an incredible evening! The @rockettes New York Spectacular with our BBS beauties\u2026 https://t.co/V6dINipRm6", 
+            "id": "757748758197051394", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-26T01:25:56", 
+            "coordinates": [
+                -73.97945422, 
+                40.75972708
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "McGraw-Hill Building", 
+                    "Morgan Stanley Building", 
+                    "Exxon Building"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 4, 
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 126411.0, 
+                    "name": "Saint Demetrius", 
+                    "osm_id": 366536016.0
+                }
+            ], 
+            "text": "A blissful evening @mndflmeditation with with our beloved @_ellieburrows_ it's so important to\u2026 https://t.co/zCYAH5YNT6", 
+            "id": "713148631981797376", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-24T23:40:58", 
+            "coordinates": [
+                -73.9957199, 
+                40.7317505
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Saint Demetrius"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Having a New York moment today! Simone and Director of training @aliceramshaw jumping for joy at\u2026 https://t.co/w9LZcjC4gT", 
+            "id": "712790012496977920", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-23T23:55:56", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Just an average day at the NYC Under Armor headquarters. Simone's Hanging  out with one of our\u2026 https://t.co/DIgYcPNVDg", 
+            "id": "712696640453218304", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-23T17:44:55", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Dream Team! NYC girl squad! Thank you Alice and Liane for keeping the show running! Much\u2026 https://t.co/EvCH2tBm2H", 
+            "id": "706853594872414208", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-07T14:46:44", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Simone was in NYC for the day to film with @mindbodygreen look out for her feature next month.\u2026 https://t.co/iAemJie8Aj", 
+            "id": "704438675518550016", 
+            "favorite_count": 6, 
+            "created_at": "2016-02-29T22:50:42", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Simone leaped back into NYC for a quick visit with @aliceramshaw today before leaping across the\u2026 https://t.co/bDA4vrYBzq", 
+            "id": "704385301473423360", 
+            "favorite_count": 1, 
+            "created_at": "2016-02-29T19:18:37", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "It was a sad day in NYC! We said farewell to @blondiejdnyc one of our original BBS NYC trainers.\u2026 https://t.co/ZICtmRJ7mL", 
+            "id": "703716414281023488", 
+            "favorite_count": 2, 
+            "created_at": "2016-02-27T23:00:42", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Angel @iammarthahunt @victoriassecret demonstrating strength and beauty! Start in a plank with\u2026 https://t.co/eKR8qhHDJb", 
+            "id": "701850046657011712", 
+            "favorite_count": 2, 
+            "created_at": "2016-02-22T19:24:25", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Congratulations to NYC client Erica for successfully completing our 8 week program! Not only did\u2026 https://t.co/CR3YKl6wr9", 
+            "id": "701784964136771585", 
+            "favorite_count": 3, 
+            "created_at": "2016-02-22T15:05:48", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "This is how we do it in NYC! Anyway to keep warm!  \ud83d\udc6f\u2744\ufe0f.  #Repost @aliceramshaw with\u2026 https://t.co/bWMRhVkKdQ", 
+            "id": "700849275110993920", 
+            "favorite_count": 2, 
+            "created_at": "2016-02-20T01:07:42", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "A little dance cardio to start your morning! NYC trainer @lindsayhowe takes the ladies through\u2026 https://t.co/J1YDaLJgsr", 
+            "id": "697434979211476993", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-10T15:00:31", 
+            "coordinates": [
+                -74.005948, 
+                40.7507689
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

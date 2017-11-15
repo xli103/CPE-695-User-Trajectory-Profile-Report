@@ -1,0 +1,5557 @@
+{
+    "total_favorite_count": 129, 
+    "total_tweets": 198, 
+    "screen_name": "LisaFernandezCr", 
+    "friends_count": 196, 
+    "followers_count": 203, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Chasing those #debate feelings away with Lemon and last of the season blueberry drizzle\u2026 https://t.co/C4AgaAbPUO", 
+                "created_at": "2016-10-10T15:36:29", 
+                "retweet_count": 0, 
+                "id": "785504281776578560", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Preview. #comingsoon #halloween2016 #porgie #thinkoutsidethebox #nosuperheros @ Hudson Heights,\u2026 https://t.co/4g04xoxXSO", 
+                "created_at": "2016-10-08T21:39:53", 
+                "retweet_count": 0, 
+                "id": "784870957857071104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.82352926, 
+                    41.51783535
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "To his own drum. #youpicktheapples #fritzeatstheapples @ Fishkill Farms https://t.co/toJ0m541Y8", 
+                "created_at": "2016-10-08T20:55:48", 
+                "retweet_count": 0, 
+                "id": "784859867102273536", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.82352926, 
+                    41.51783535
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Don't worry, I was in the cider tent the whole time. #chefsdayoff #upstateny @ Fishkill Farms https://t.co/ekGkdJMu4G", 
+                "created_at": "2016-10-08T18:02:17", 
+                "retweet_count": 0, 
+                "id": "784816197154078724", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.82352926, 
+                    41.51783535
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#teamwork @ Fishkill Farms https://t.co/ehkWz9fKqp", 
+                "created_at": "2016-10-08T17:59:23", 
+                "retweet_count": 0, 
+                "id": "784815467517059073", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.82352926, 
+                    41.51783535
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Settled, Macoun is the best apple. #tastetest #applepicking #upstateny @ Fishkill Farms https://t.co/AK9XarnSpt", 
+                "created_at": "2016-10-08T17:46:14", 
+                "retweet_count": 0, 
+                "id": "784812160752943104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.82352926, 
+                    41.51783535
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pick an apple. Eat an apple. Pick an apple. Eat an apple....... #chefsdayoff #upstateny @\u2026 https://t.co/0M6YH4Nf1A", 
+                "created_at": "2016-10-08T17:39:16", 
+                "retweet_count": 0, 
+                "id": "784810405810040832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93876653, 
+                    40.85471334
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Never too late to get a good cry in for the day! #proudmom #runwillyrun @ Hudson Heights, Manhattan https://t.co/9Ej4zSLfxQ", 
+                "created_at": "2016-10-06T22:57:29", 
+                "retweet_count": 0, 
+                "id": "784165714097831936", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95, 
+                    40.7
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 248138019.0, 
+                    "type": "yes", 
+                    "id": 15255.0, 
+                    "name": "R. C. Church"
+                }, 
+                {
+                    "osm_id": 278963005.0, 
+                    "type": "yes", 
+                    "id": 101756.0, 
+                    "name": "Stages 1-6"
+                }, 
+                {
+                    "osm_id": 278963123.0, 
+                    "type": "yes", 
+                    "id": 101844.0, 
+                    "name": "Building 8/9"
+                }, 
+                {
+                    "osm_id": 295812069.0, 
+                    "type": "yes", 
+                    "id": 125792.0, 
+                    "name": "Stages 10-15"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Feeling these #williamsburg tags this morning! #ifeellikehillz #ladypower #strongwomen @\u2026 https://t.co/eE76UhqTBz", 
+                "created_at": "2016-10-06T11:22:41", 
+                "retweet_count": 0, 
+                "id": "783990860413333504", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95571904, 
+                    40.71466514
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3359447.0, 
+                    "type": "yes", 
+                    "id": 117.0, 
+                    "name": "Louis J. Lefkowitz State Office Building"
+                }, 
+                {
+                    "osm_id": -3363386.0, 
+                    "type": "yes", 
+                    "id": 291.0, 
+                    "name": "Amalgamated Dwellings"
+                }, 
+                {
+                    "osm_id": -3696430.0, 
+                    "type": "yes", 
+                    "id": 460.0, 
+                    "name": "New York State Supreme Court"
+                }, 
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 241823871.0, 
+                    "type": "industrial", 
+                    "id": 2821.0, 
+                    "name": "Domino Sugar Refinery"
+                }, 
+                {
+                    "osm_id": 249848313.0, 
+                    "type": "church", 
+                    "id": 36636.0, 
+                    "name": "Church of the Transfiguration"
+                }, 
+                {
+                    "osm_id": 250267911.0, 
+                    "type": "yes", 
+                    "id": 57532.0, 
+                    "name": "Museum at Eldridge Street"
+                }, 
+                {
+                    "osm_id": 250269529.0, 
+                    "type": "yes", 
+                    "id": 57721.0, 
+                    "name": "United States Court of International Trade"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 259759697.0, 
+                    "type": "yes", 
+                    "id": 83579.0, 
+                    "name": "70 Greene Street"
+                }, 
+                {
+                    "osm_id": 259759698.0, 
+                    "type": "yes", 
+                    "id": 83581.0, 
+                    "name": "77 Hudson Street"
+                }, 
+                {
+                    "osm_id": 277890473.0, 
+                    "type": "yes", 
+                    "id": 99030.0, 
+                    "name": "Corner Gourmet 2"
+                }, 
+                {
+                    "osm_id": 277890497.0, 
+                    "type": "yes", 
+                    "id": 99051.0, 
+                    "name": "Lilly O'Briens"
+                }, 
+                {
+                    "osm_id": 277890500.0, 
+                    "type": "yes", 
+                    "id": 99055.0, 
+                    "name": "Pure Green Cleaners"
+                }, 
+                {
+                    "osm_id": 277890515.0, 
+                    "type": "yes", 
+                    "id": 99068.0, 
+                    "name": "125 Barclay Street"
+                }, 
+                {
+                    "osm_id": 277904748.0, 
+                    "type": "yes", 
+                    "id": 99101.0, 
+                    "name": "Raccoon Lodge"
+                }, 
+                {
+                    "osm_id": 278093222.0, 
+                    "type": "yes", 
+                    "id": 99700.0, 
+                    "name": "Ted Weiss Federal Building"
+                }, 
+                {
+                    "osm_id": 278241635.0, 
+                    "type": "yes", 
+                    "id": 99997.0, 
+                    "name": "Confucius Plaza"
+                }, 
+                {
+                    "osm_id": 279777178.0, 
+                    "type": "yes", 
+                    "id": 108228.0, 
+                    "name": "OSLO coffee"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When in doubt, DANCE that #caseofthemondays away! #dancingchef #solomonday #inthekitchen @\u2026 https://t.co/KlbjoJvexV", 
+                "created_at": "2016-10-03T15:05:09", 
+                "retweet_count": 0, 
+                "id": "782959683749441536", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.89701053, 
+                    40.89139797
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Strong finish this morning at 6.58 seconds at the #harrymurphyxc #nyrryrs Smiles all around!\u2026 https://t.co/a6T9m6098l", 
+                "created_at": "2016-10-02T14:57:43", 
+                "retweet_count": 0, 
+                "id": "782595422871257088", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90781454, 
+                    40.87337204
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Costume searching for @wilfrinf George is taking his inspiration from n527aneal @ Target Riverdale https://t.co/yQgbLRYpKr", 
+                "created_at": "2016-10-01T22:05:14", 
+                "retweet_count": 0, 
+                "id": "782340625488162816", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93876653, 
+                    40.85471334
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Picking up vitamins. @ Hudson Heights, Manhattan https://t.co/mu9EZgfcZ5", 
+                "created_at": "2016-10-01T16:46:35", 
+                "retweet_count": 0, 
+                "id": "782260432652361728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0025, 
+                    40.7398
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 250490286.0, 
+                    "type": "yes", 
+                    "id": 81836.0, 
+                    "name": "Hotel Gansevoort"
+                }, 
+                {
+                    "osm_id": 288749896.0, 
+                    "type": "yes", 
+                    "id": 125721.0, 
+                    "name": "Whitney Museum of American Art"
+                }, 
+                {
+                    "osm_id": 351324339.0, 
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments"
+                }, 
+                {
+                    "osm_id": 351317831.0, 
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments"
+                }, 
+                {
+                    "osm_id": 396113960.0, 
+                    "type": "yes", 
+                    "id": 127163.0, 
+                    "name": "Supremo"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "That Friday night rush hour commute got me like.... @ 14th Street\u2013Eighth Avenue https://t.co/K20TIu85gH", 
+                "created_at": "2016-09-30T21:32:39", 
+                "retweet_count": 0, 
+                "id": "781970035048873984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A girls best friend. #whattomake #thattimeoftheyear #fall #nyc #concordgrapes #dessert #pastry\u2026 https://t.co/DVJ8DMnWbT", 
+                "created_at": "2016-09-29T18:35:42", 
+                "retweet_count": 0, 
+                "id": "781563115725029376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.87819047, 
+                    40.85013422
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Totally normal Sunday afternoon. #lovethem #alwayskeepmelaughing #neveradullmoment #boys\u2026 https://t.co/mJqdvqaAHz", 
+                "created_at": "2016-09-26T01:10:12", 
+                "retweet_count": 0, 
+                "id": "780212843929034752", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.87819047, 
+                    40.85013422
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lazy #sundayfunday wandering through the #bronxzoo #brothers #citylife #nyc #zoolovers @ Bronx Zoo https://t.co/FzbgFJV5A3", 
+                "created_at": "2016-09-25T18:30:33", 
+                "retweet_count": 0, 
+                "id": "780112268117872641", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93968632, 
+                    40.85354468
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "After a two week grounding caused by a physical incident, it has come to this. #contractchildren\u2026 https://t.co/6V5zuhAjdz", 
+                "created_at": "2016-09-25T14:48:06", 
+                "retweet_count": 0, 
+                "id": "780056286385827841", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9375, 
+                    40.84166667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "n527aneal insisted that @jaheisler take this cooler with wheels home from family vacation\u2026 https://t.co/F234IwrPTJ", 
+                "created_at": "2016-09-25T12:40:42", 
+                "retweet_count": 0, 
+                "id": "780024228997464064", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.946944, 
+                    40.850278
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I am pretty positive @wilfrinf is infinitely happy right now. #familytime #hudson #nycfish\u2026 https://t.co/obl2cBOZaO", 
+                "created_at": "2016-09-24T18:37:20", 
+                "retweet_count": 0, 
+                "id": "779751589284290560", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94066055, 
+                    40.85447662
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Still sweating through these #sunset #runs, and I \u2764\ufe0f it. #summerdontgo #runningchef #running\u2026 https://t.co/oO9A8ZxQWp", 
+                "created_at": "2016-09-23T23:06:04", 
+                "retweet_count": 0, 
+                "id": "779456829512450048", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "aarondiener made Carolina Reaper hot sauce, and then ate some, and then ate half a six pan of\u2026 https://t.co/68eVUjZM9x", 
+                "created_at": "2016-09-22T20:44:12", 
+                "retweet_count": 0, 
+                "id": "779058740817453060", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#privateevents @riderbklyn Hazelnut chocolate crunch tarts for daaaazzzeee. #youregettinghungry\u2026 https://t.co/eWYs4jzCxl", 
+                "created_at": "2016-09-21T20:17:44", 
+                "retweet_count": 0, 
+                "id": "778689692854198272", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#humpday #sunrise #nofilter #upstatemanhattan #wahi @ Hudson Heights, Manhattan https://t.co/4mhV5PzCaE", 
+                "created_at": "2016-09-21T10:57:33", 
+                "retweet_count": 0, 
+                "id": "778548717905403904", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96111409, 
+                    40.71904896
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 259782468.0, 
+                    "type": "yes", 
+                    "id": 83599.0, 
+                    "name": "Washington Commons"
+                }, 
+                {
+                    "osm_id": 278284163.0, 
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows"
+                }, 
+                {
+                    "osm_id": 310245651.0, 
+                    "type": "yes", 
+                    "id": 126066.0, 
+                    "name": "Independence Plaza I"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gonna miss you summer. #plum #italian #dessert #nyceats #pastry #knowthyfarmer #eater\u2026 https://t.co/3pyRaHl1sg", 
+                "created_at": "2016-09-20T13:50:10", 
+                "retweet_count": 0, 
+                "id": "778229767439060992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.89701053, 
+                    40.89139797
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "7.00.38 minute mile.  Running like the wind. #nyrryrs #running #proudmom #runwillyrun @ Van\u2026 https://t.co/9Qy2rAtDIu", 
+                "created_at": "2016-09-18T15:03:12", 
+                "retweet_count": 0, 
+                "id": "777523372574081024", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.89701053, 
+                    40.89139797
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "First run of the fall #nyrryrs youth running series at #vancortlandtpark #runwillyrun #proudmom\u2026 https://t.co/WQFgCUX1HB", 
+                "created_at": "2016-09-18T14:15:46", 
+                "retweet_count": 0, 
+                "id": "777511434406203392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94066055, 
+                    40.85447662
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#coolmorning #coolpace #sundayrunday #running #runningchef #cantstopwontstop #nikeplus @ Hudson\u2026 https://t.co/p0kLDgocCK", 
+                "created_at": "2016-09-18T12:16:35", 
+                "retweet_count": 0, 
+                "id": "777481444390236161", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94066055, 
+                    40.85447662
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Guys, child and adult trivial pursuit exists......so this is the best night of my life.\u2026 https://t.co/ArW9wkI3tG", 
+                "created_at": "2016-09-18T01:15:48", 
+                "retweet_count": 0, 
+                "id": "777315150424580096", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934506, 
+                    40.858904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#sunsetwalks #favoritetimeofday @ Fort Tryon Park Trust https://t.co/qzj7oWCnVz", 
+                "created_at": "2016-09-17T23:27:45", 
+                "retweet_count": 0, 
+                "id": "777287960987365376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94066055, 
+                    40.85447662
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#partygames @ Hudson Heights, Manhattan https://t.co/aGgXhqVoQd", 
+                "created_at": "2016-09-17T19:16:22", 
+                "retweet_count": 0, 
+                "id": "777224696144199680", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.957, 
+                    40.825
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#skillsanddrills Saturday with @fcharlem #soccermomsaturday @ Riverbank State Park https://t.co/Icbp3Ag8dR", 
+                "created_at": "2016-09-17T17:09:52", 
+                "retweet_count": 0, 
+                "id": "777192860429017090", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#commuting heirloom tomatoes from berriedtreasuresfarm at the @unsqgreenmarket. Ready to hit the\u2026 https://t.co/NeKycqxwPh", 
+                "created_at": "2016-09-16T13:15:34", 
+                "retweet_count": 0, 
+                "id": "776771508848975872", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94066055, 
+                    40.85447662
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Beat the sun this #tgif #running #runningchef #cantstopwontstop #upstatemanhattan #wahi\u2026 https://t.co/GzOX4yp9Yo", 
+                "created_at": "2016-09-16T11:00:30", 
+                "retweet_count": 0, 
+                "id": "776737518968537088", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94066055, 
+                    40.85447662
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Early morning #trackandfield tryouts at #ps187 #killedit #runwillyrun #fernandezrunningclub\u2026 https://t.co/KWpUGczOmD", 
+                "created_at": "2016-09-15T12:38:46", 
+                "retweet_count": 0, 
+                "id": "776399862623510528", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Going #nuts for my #honeys @riderbklyn #honeynutdoughnuts #doughnuts #honey #glaze #nyceats\u2026 https://t.co/Dbne2xcAu6", 
+                "created_at": "2016-09-13T13:13:16", 
+                "retweet_count": 0, 
+                "id": "775683767000244224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94066055, 
+                    40.85447662
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Sunday night feels. #nofilter #paperairplanesflying #whatmyhusbanddoesntknowwonthurthim #wahi\u2026 https://t.co/thUqrIM565", 
+                "created_at": "2016-09-11T23:18:18", 
+                "retweet_count": 0, 
+                "id": "775111255325609984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934506, 
+                    40.858904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#littledude #hardass #orsohethinks #bringingupboys @ Fort Tryon Park Trust https://t.co/9b2pq40E78", 
+                "created_at": "2016-09-10T21:35:22", 
+                "retweet_count": 0, 
+                "id": "774722963513958400", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94066055, 
+                    40.85447662
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Desperately awaiting the #fallback. #530am #sleepyheights #upstatemanhattan #wahi @ Hudson\u2026 https://t.co/L4tx780xio", 
+                "created_at": "2016-09-10T11:01:32", 
+                "retweet_count": 0, 
+                "id": "774563451381358592", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "What a difference a year makes! #upstatemanhattan #hudsoncliffs #wahi #ps187 #boom2016\ud83d\udca5 @ Hudson\u2026 https://t.co/MQ6fkG3qGV", 
+                "created_at": "2016-09-09T11:18:30", 
+                "retweet_count": 0, 
+                "id": "774205334307078144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.990257, 
+                    40.736693
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3365138.0, 
+                    "type": "yes", 
+                    "id": 342.0, 
+                    "name": "Westbeth Artists Community"
+                }, 
+                {
+                    "osm_id": 248773775.0, 
+                    "type": "yes", 
+                    "id": 29030.0, 
+                    "name": "SGI-USA New York Culture Centre"
+                }, 
+                {
+                    "osm_id": 250471890.0, 
+                    "type": "yes", 
+                    "id": 81012.0, 
+                    "name": "The New School Arnold Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's almost time. #berrystrong #eatrealfood #menuinspiration #marketinspiration #knowthyfamrer\u2026 https://t.co/27M7PRW9Vn", 
+                "created_at": "2016-09-07T12:27:23", 
+                "retweet_count": 0, 
+                "id": "773497894741704705", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96574877, 
+                    40.63755759
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Mom this is why I need a dog.\" #dogsofinstgram #lucie #boysbestfriend #wishfullthinking @\u2026 https://t.co/zY819OlvQa", 
+                "created_at": "2016-09-06T02:02:27", 
+                "retweet_count": 0, 
+                "id": "772978235487481857", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934506, 
+                    40.858904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Those last minutes of summer. #dazeofsummer #epicsummer #upstatemanhattan #wahi @ Fort Tryon\u2026 https://t.co/We2RQDsPOA", 
+                "created_at": "2016-09-05T23:34:42", 
+                "retweet_count": 0, 
+                "id": "772941052835729409", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94646558, 
+                    40.84679803
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#fall colors wasting no time. #cantstopwontstop #runningchef #running #coolruns\u2026 https://t.co/3OIUT2M5iJ", 
+                "created_at": "2016-09-05T12:50:55", 
+                "retweet_count": 0, 
+                "id": "772779040965070848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934506, 
+                    40.858904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#sundayrunday #cantstopwontstop #coolrun #upstatemanhattan #running #runningchef #wahi #nikeplus\u2026 https://t.co/cu0LTx81wm", 
+                "created_at": "2016-09-04T13:40:15", 
+                "retweet_count": 0, 
+                "id": "772429067165507584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9396779, 
+                    40.8535637
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Inspiring run. #endofsummer #cantstopwontstop #tgif #running #runningchef #upstatemanhattan\u2026 https://t.co/84GlkvO7j1", 
+                "created_at": "2016-09-03T00:04:42", 
+                "retweet_count": 0, 
+                "id": "771861440563118080", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96111347, 
+                    40.71904864
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 259782468.0, 
+                    "type": "yes", 
+                    "id": 83599.0, 
+                    "name": "Washington Commons"
+                }, 
+                {
+                    "osm_id": 278284163.0, 
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows"
+                }, 
+                {
+                    "osm_id": 310245651.0, 
+                    "type": "yes", 
+                    "id": 126066.0, 
+                    "name": "Independence Plaza I"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you come to work early enough today, you win big. #mifamilia #kitchenlove #summer #doughnuts\u2026 https://t.co/nhurj2Pwad", 
+                "created_at": "2016-09-02T14:16:53", 
+                "retweet_count": 0, 
+                "id": "771713511160475648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93267257, 
+                    40.86358172
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Loving the new art installation Evolving Terrain in #forttryonpark #localart #lovemyhood\u2026 https://t.co/3Gs94FePp7", 
+                "created_at": "2016-09-01T21:07:10", 
+                "retweet_count": 0, 
+                "id": "771454374350614532", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.63367038, 
+                    35.95878857
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#tbt to the littlest chickens first flight. #hanggliding #epicsummer #obx @ The Sand Dunes https://t.co/fE5hQ7J99c", 
+                "created_at": "2016-09-01T18:08:04", 
+                "retweet_count": 0, 
+                "id": "771409304431816706", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94646558, 
+                    40.84679803
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Could've waited till after the rain, but where's the fun in that. #cantstopwontstop #runningchef\u2026 https://t.co/CRGgHZmUF2", 
+                "created_at": "2016-09-01T13:59:20", 
+                "retweet_count": 0, 
+                "id": "771346705254064128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96111347, 
+                    40.71904864
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 259782468.0, 
+                    "type": "yes", 
+                    "id": 83599.0, 
+                    "name": "Washington Commons"
+                }, 
+                {
+                    "osm_id": 278284163.0, 
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows"
+                }, 
+                {
+                    "osm_id": 310245651.0, 
+                    "type": "yes", 
+                    "id": 126066.0, 
+                    "name": "Independence Plaza I"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pastry station game strong this morning. #marketbagswag #whereareyoueatingtonight #bestbetshere\u2026 https://t.co/fL1INKgLuO", 
+                "created_at": "2016-08-31T13:08:22", 
+                "retweet_count": 0, 
+                "id": "770971493673082881", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.990257, 
+                    40.736693
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3365138.0, 
+                    "type": "yes", 
+                    "id": 342.0, 
+                    "name": "Westbeth Artists Community"
+                }, 
+                {
+                    "osm_id": 248773775.0, 
+                    "type": "yes", 
+                    "id": 29030.0, 
+                    "name": "SGI-USA New York Culture Centre"
+                }, 
+                {
+                    "osm_id": 250471890.0, 
+                    "type": "yes", 
+                    "id": 81012.0, 
+                    "name": "The New School Arnold Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#allshapesandsizes @unsqgreenmarket #nodiscrimination #foodlessons #eatrealfood  #nycfood\u2026 https://t.co/0UrgrovJRS", 
+                "created_at": "2016-08-31T12:11:31", 
+                "retweet_count": 0, 
+                "id": "770957186721783808", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96111347, 
+                    40.71904864
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 259782468.0, 
+                    "type": "yes", 
+                    "id": 83599.0, 
+                    "name": "Washington Commons"
+                }, 
+                {
+                    "osm_id": 278284163.0, 
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows"
+                }, 
+                {
+                    "osm_id": 310245651.0, 
+                    "type": "yes", 
+                    "id": 126066.0, 
+                    "name": "Independence Plaza I"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Work it out. #randd #ginger #tahini #toastedsesame #icecreamsandwich #foodporn #dessert\u2026 https://t.co/AL3qQ0pVRQ", 
+                "created_at": "2016-08-30T21:44:22", 
+                "retweet_count": 0, 
+                "id": "770738961614532608", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When vacation is over, and work kept you a little long, and your 9 year old has a fever and is\u2026 https://t.co/fItY1zXu0f", 
+                "created_at": "2016-08-30T00:04:14", 
+                "retweet_count": 0, 
+                "id": "770411771505016833", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It was hard, but they all managed. #uptosix #allourchickens #obx #familyvacation\u2026 https://t.co/IHU4LItHB1", 
+                "created_at": "2016-08-27T18:18:46", 
+                "retweet_count": 0, 
+                "id": "769600055967899648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#heartmelted #growingup #obx #backtoreality @ OBX North Carolina https://t.co/FEHWqxposY", 
+                "created_at": "2016-08-27T11:40:12", 
+                "retweet_count": 0, 
+                "id": "769499754459963392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cloudy morning last day run. #obx  #beachruns #untilnextyear #timeflieswhenyourehavingfun\u2026 https://t.co/DZxPALumxQ", 
+                "created_at": "2016-08-26T13:11:47", 
+                "retweet_count": 0, 
+                "id": "769160414248787968", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Having @wilfrinf on staff for family vacation is pretty much the best. #shrimpboil #epicsummer\u2026 https://t.co/qUTkBtEtP0", 
+                "created_at": "2016-08-26T00:02:12", 
+                "retweet_count": 0, 
+                "id": "768961706865426432", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#luckiest #obx #epicsummer #timeflieswhenyourehavingfun @ OBX North Carolina https://t.co/7TUezX6RTu", 
+                "created_at": "2016-08-25T23:58:57", 
+                "retweet_count": 0, 
+                "id": "768960888753840128", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.6315018, 
+                    35.9733937
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#relaxation mode. #obx #virgindaquiri #timeflieswhenyourehavingfun @ Captain Andys Tikki Bar and\u2026 https://t.co/DjbG4kzt07", 
+                "created_at": "2016-08-25T18:47:29", 
+                "retweet_count": 0, 
+                "id": "768882505520906240", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Wish we could put #slowmo on how fast this week is flying by. #beachruns #obx\u2026 https://t.co/PX8XcfMz6v", 
+                "created_at": "2016-08-25T17:11:22", 
+                "retweet_count": 0, 
+                "id": "768858317854826496", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Chickens at #dawn. @ OBX North Carolina https://t.co/XfTaY0hLxB", 
+                "created_at": "2016-08-25T12:00:24", 
+                "retweet_count": 0, 
+                "id": "768780061772218368", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#firstlight @ OBX North Carolina https://t.co/9Uq4oak2V3", 
+                "created_at": "2016-08-25T11:58:15", 
+                "retweet_count": 0, 
+                "id": "768779519859752960", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.6342, 
+                    35.9619
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Took it to ten. #hanggliding #dunes #obx #brothers @ Jockey's Ridge State Park https://t.co/9HsYvDyzAm", 
+                "created_at": "2016-08-24T11:08:13", 
+                "retweet_count": 0, 
+                "id": "768404542002196481", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.6546173, 
+                    36.0039482
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My four guys at fiveguys @ Five Guys https://t.co/dxKiYykuaC", 
+                "created_at": "2016-08-23T17:03:48", 
+                "retweet_count": 0, 
+                "id": "768131639570489344", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#boom #beachrun #epicsummer #cantstopwontstop #runningchef #running #nikeplus @ OBX North Carolina https://t.co/1jtkd4y4Jm", 
+                "created_at": "2016-08-23T13:35:22", 
+                "retweet_count": 0, 
+                "id": "768079183079698432", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#thatbeachlife #obx #brothers #epicsummer @ OBX North Carolina https://t.co/QpYyfKvdxr", 
+                "created_at": "2016-08-22T19:26:12", 
+                "retweet_count": 0, 
+                "id": "767805087993528320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#cooldown #beachrun #cantstopwontstop #chefsweekoff #runningchef #obx #running #nikeplus @ OBX\u2026 https://t.co/bTor8egmCD", 
+                "created_at": "2016-08-22T13:45:54", 
+                "retweet_count": 0, 
+                "id": "767719447704526848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67635638, 
+                    36.04046212
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#goodmorning #beachrun #destinationrunning #inheaven #runningchef #chefsweekoff #running\u2026 https://t.co/01zAiKDGFl", 
+                "created_at": "2016-08-21T12:31:29", 
+                "retweet_count": 0, 
+                "id": "767338332883935233", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.30207, 
+                    36.88518
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#wheninrome I could only muster three miles staring at a wall. #fernandezsgoawol #obxorbust\u2026 https://t.co/e0TVu8DlP5", 
+                "created_at": "2016-08-20T12:17:36", 
+                "retweet_count": 0, 
+                "id": "766972449418248192", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "After the worst afternoon/evening yesterday, today needed an early morning looooong run.\u2026 https://t.co/jmaX2xYj6v", 
+                "created_at": "2016-08-19T11:53:09", 
+                "retweet_count": 0, 
+                "id": "766603911566426112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9375, 
+                    40.84166667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#33 got nothing on me. #birthdayrun #cantstopwontstop #myideaofagoodtime #running #sunsetruns\u2026 https://t.co/Fk3Yo1DWZX", 
+                "created_at": "2016-08-17T23:42:16", 
+                "retweet_count": 0, 
+                "id": "766057587225796608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Raspberry Hyssop Granita step 1. #pantone185 #bloodred #eatrealfood #nyceats #dessert #foodporn\u2026 https://t.co/QVtkwJmnOL", 
+                "created_at": "2016-08-16T15:14:53", 
+                "retweet_count": 0, 
+                "id": "765567513174441984", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934506, 
+                    40.858904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#tuesdaytrekking #neverwasteaminute #epicsummer #cantstopwontstop #runningchef #running\u2026 https://t.co/nyt8CD8Jmx", 
+                "created_at": "2016-08-16T10:51:11", 
+                "retweet_count": 0, 
+                "id": "765501151156535296", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Trying to beat that heat this morning. #chefsdayoff #cantstopwontstop #runningchef #running\u2026 https://t.co/QemPoTVRsB", 
+                "created_at": "2016-08-14T13:12:39", 
+                "retweet_count": 0, 
+                "id": "764811975931092992", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Don't worry, I grew up in #stl. #summerheat #sweatyruns #92degreesout #feelslike104\u2026 https://t.co/z80DIQrxqe", 
+                "created_at": "2016-08-13T23:53:24", 
+                "retweet_count": 0, 
+                "id": "764610841241088000", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#summerstorms #upstatemanhattan #wahi @ Hudson Heights, Manhattan https://t.co/m2nKhGpEsw", 
+                "created_at": "2016-08-13T00:00:03", 
+                "retweet_count": 0, 
+                "id": "764250125736837124", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Due to the disgusting humidity level this morning, here's a gorgeous picture of the\u2026 https://t.co/hkjUbiX07m", 
+                "created_at": "2016-08-12T12:09:03", 
+                "retweet_count": 0, 
+                "id": "764071194299551744", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "And when you come home from running on your day off, and @wilfrinf made waffles for everyone\u2026 https://t.co/44LILTLe0S", 
+                "created_at": "2016-08-11T14:12:32", 
+                "retweet_count": 0, 
+                "id": "763739885006127105", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93735134, 
+                    40.85519718
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kept this chicken home from camp today and he joined me on the last two miles of my long run!\u2026 https://t.co/XKiAnNtbQG", 
+                "created_at": "2016-08-11T13:50:19", 
+                "retweet_count": 0, 
+                "id": "763734290807021569", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96111337, 
+                    40.71904993
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 259782468.0, 
+                    "type": "yes", 
+                    "id": 83599.0, 
+                    "name": "Washington Commons"
+                }, 
+                {
+                    "osm_id": 278284163.0, 
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows"
+                }, 
+                {
+                    "osm_id": 310245651.0, 
+                    "type": "yes", 
+                    "id": 126066.0, 
+                    "name": "Independence Plaza I"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#marketbagswag #chamomile from @unsqgreenmarket #nyc #williamsburg #howisummer #brooklyn\u2026 https://t.co/2PeqQZtdwC", 
+                "created_at": "2016-08-10T13:33:15", 
+                "retweet_count": 0, 
+                "id": "763367608586539008", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#humpdayrun #thathumiditytho #running #cantstopwontstop #runningchef #nikeplus @ Hudson Heights,\u2026 https://t.co/iRoNJHYf5D", 
+                "created_at": "2016-08-10T11:28:04", 
+                "retweet_count": 0, 
+                "id": "763336106142203904", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Older brother cheerleader. #brothers #boys #skateboarding #newbie #natural @ Hudson Heights,\u2026 https://t.co/QsrhDTYUmz", 
+                "created_at": "2016-08-09T00:47:30", 
+                "retweet_count": 0, 
+                "id": "762812514795196416", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Birthday wish came true. He exceeds my 32 years of coolness at only 7 years. Special thanks to\u2026 https://t.co/rTfQFQj3BT", 
+                "created_at": "2016-08-09T00:15:36", 
+                "retweet_count": 0, 
+                "id": "762804484858929152", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93735134, 
+                    40.85519718
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#sunset #treeclimbing in Fort Tryon Park. #boys #bestneighborhood #epicsummer #nycparks\u2026 https://t.co/0hoDv4LhDc", 
+                "created_at": "2016-08-08T02:22:26", 
+                "retweet_count": 0, 
+                "id": "762474018846814208", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.935041, 
+                    40.858144
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#sundayrunday on this #beautiful morning. #runeatsleeprepeat #cantstopwontstop #runningchef\u2026 https://t.co/f0orJsThsF", 
+                "created_at": "2016-08-07T13:23:21", 
+                "retweet_count": 0, 
+                "id": "762277952658804740", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Killing that after work #sunsetrun. #cantstopwontstop #runningchef #running #upstatemanhattan\u2026 https://t.co/BcGwsHPIX2", 
+                "created_at": "2016-08-06T23:44:13", 
+                "retweet_count": 0, 
+                "id": "762071814281527296", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96111337, 
+                    40.71904993
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 259782468.0, 
+                    "type": "yes", 
+                    "id": 83599.0, 
+                    "name": "Washington Commons"
+                }, 
+                {
+                    "osm_id": 278284163.0, 
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows"
+                }, 
+                {
+                    "osm_id": 310245651.0, 
+                    "type": "yes", 
+                    "id": 126066.0, 
+                    "name": "Independence Plaza I"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "One fish, two fish, three fish @riderbklyn #sardines #pasta #howisummer #thegoodstuff\u2026 https://t.co/yXAozfXS4V", 
+                "created_at": "2016-08-06T21:56:59", 
+                "retweet_count": 0, 
+                "id": "762044825197830144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Being 7 is pretty much the best. @ Hudson Heights, Manhattan https://t.co/wzx4OzW1gW", 
+                "created_at": "2016-08-06T01:38:39", 
+                "retweet_count": 0, 
+                "id": "761738223601197056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9383, 
+                    40.8508
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#thursdaynightactivities #7thbirthdaycake #porgeturns7 #chocolate #chefsdayoff #cake\u2026 https://t.co/aeeDumJ3sR", 
+                "created_at": "2016-08-04T23:58:54", 
+                "retweet_count": 0, 
+                "id": "761350734319329284", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.946944, 
+                    40.850278
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Perfect weather today, followed by gorgeous wildflower engulfed greenway, the smell of the\u2026 https://t.co/M7599QBVlL", 
+                "created_at": "2016-08-04T16:19:41", 
+                "retweet_count": 0, 
+                "id": "761235164890529793", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9375, 
+                    40.84166667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#tbt\u2764\ufe0f Hard to believe that this little blue eyed chicken turns 7 tomorrow. @ Washington\u2026 https://t.co/PeMvGytWQn", 
+                "created_at": "2016-08-04T14:05:08", 
+                "retweet_count": 0, 
+                "id": "761201306719678468", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.990257, 
+                    40.736693
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3365138.0, 
+                    "type": "yes", 
+                    "id": 342.0, 
+                    "name": "Westbeth Artists Community"
+                }, 
+                {
+                    "osm_id": 248773775.0, 
+                    "type": "yes", 
+                    "id": 29030.0, 
+                    "name": "SGI-USA New York Culture Centre"
+                }, 
+                {
+                    "osm_id": 250471890.0, 
+                    "type": "yes", 
+                    "id": 81012.0, 
+                    "name": "The New School Arnold Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Absolutely my favorite type of plum @unsqgreenmarket. So versatile, both savory and sweet. Just.\u2026 https://t.co/67YrRNj1LO", 
+                "created_at": "2016-08-03T12:34:44", 
+                "retweet_count": 0, 
+                "id": "760816169796378625", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93735134, 
+                    40.85519718
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Absolutely loving these cooler morning runs. #humpday #cantstopwontstop #running #runningchef\u2026 https://t.co/L2ieJsGmXA", 
+                "created_at": "2016-08-03T10:58:22", 
+                "retweet_count": 0, 
+                "id": "760791915411410944", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96111337, 
+                    40.71904993
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 259782468.0, 
+                    "type": "yes", 
+                    "id": 83599.0, 
+                    "name": "Washington Commons"
+                }, 
+                {
+                    "osm_id": 278284163.0, 
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows"
+                }, 
+                {
+                    "osm_id": 310245651.0, 
+                    "type": "yes", 
+                    "id": 126066.0, 
+                    "name": "Independence Plaza I"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@Drew_Wheelerr is such a #cowtailtease. #kitchenfun #sneakattack #ouichef #neversawitcoming @ RIDER https://t.co/8OlmIhix9T", 
+                "created_at": "2016-08-02T23:13:18", 
+                "retweet_count": 0, 
+                "id": "760614481982611456", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96111337, 
+                    40.71904993
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 259782468.0, 
+                    "type": "yes", 
+                    "id": 83599.0, 
+                    "name": "Washington Commons"
+                }, 
+                {
+                    "osm_id": 278284163.0, 
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows"
+                }, 
+                {
+                    "osm_id": 310245651.0, 
+                    "type": "yes", 
+                    "id": 126066.0, 
+                    "name": "Independence Plaza I"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Rolling with the #summer produce. Plum+Polenta Crostata, pistachio, chamomile, corn ice cream.\u2026 https://t.co/zVPoyHOwkW", 
+                "created_at": "2016-08-02T22:32:24", 
+                "retweet_count": 0, 
+                "id": "760604187361173505", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93642437, 
+                    40.84836942
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When you have one too many #sundayfunday #margaritas and you skip your Monday morning run, you\u2026 https://t.co/cmZjpn538k", 
+                "created_at": "2016-08-01T23:35:01", 
+                "retweet_count": 0, 
+                "id": "760257557000818688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9889, 
+                    40.7267
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247848704.0, 
+                    "type": "yes", 
+                    "id": 10958.0, 
+                    "name": "University Towers Apartments II"
+                }, 
+                {
+                    "osm_id": 247850388.0, 
+                    "type": "yes", 
+                    "id": 10982.0, 
+                    "name": "Broadway Arches"
+                }, 
+                {
+                    "osm_id": 249664800.0, 
+                    "type": "yes", 
+                    "id": 35483.0, 
+                    "name": "Holland Tunnel Ventilation Tower"
+                }, 
+                {
+                    "osm_id": 375874980.0, 
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School"
+                }, 
+                {
+                    "osm_id": 409390014.0, 
+                    "type": "yes", 
+                    "id": 137383.0, 
+                    "name": "New York Theatre Workshop"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "There is a space in my heart reserved only for this boy. #love #myheart #atypicalove\u2026 https://t.co/nIlYnJof3C", 
+                "created_at": "2016-07-31T23:19:53", 
+                "retweet_count": 0, 
+                "id": "759891361378234368", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99049238, 
+                    40.72486646
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3340429.0, 
+                    "type": "yes", 
+                    "id": 47.0, 
+                    "name": "Gina Keatley, CDN"
+                }, 
+                {
+                    "osm_id": 27111278.0, 
+                    "type": "yes", 
+                    "id": 564.0, 
+                    "name": "Westin"
+                }, 
+                {
+                    "osm_id": 247844314.0, 
+                    "type": "yes", 
+                    "id": 10785.0, 
+                    "name": "Puck Building"
+                }, 
+                {
+                    "osm_id": 247850461.0, 
+                    "type": "yes", 
+                    "id": 11050.0, 
+                    "name": "La Mer 575 Broadway"
+                }, 
+                {
+                    "osm_id": 249664448.0, 
+                    "type": "yes", 
+                    "id": 35341.0, 
+                    "name": "Chelsea Career & Techincal High School"
+                }, 
+                {
+                    "osm_id": 297163345.0, 
+                    "type": "yes", 
+                    "id": 125795.0, 
+                    "name": "National Guard Armory"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Commence stuffing face. #sundayfunday #nyc #eastvillage @ Rosie's https://t.co/3YvFi8PzLo", 
+                "created_at": "2016-07-31T21:40:31", 
+                "retweet_count": 0, 
+                "id": "759866354774188032", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99049238, 
+                    40.72486646
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3340429.0, 
+                    "type": "yes", 
+                    "id": 47.0, 
+                    "name": "Gina Keatley, CDN"
+                }, 
+                {
+                    "osm_id": 27111278.0, 
+                    "type": "yes", 
+                    "id": 564.0, 
+                    "name": "Westin"
+                }, 
+                {
+                    "osm_id": 247844314.0, 
+                    "type": "yes", 
+                    "id": 10785.0, 
+                    "name": "Puck Building"
+                }, 
+                {
+                    "osm_id": 247850461.0, 
+                    "type": "yes", 
+                    "id": 11050.0, 
+                    "name": "La Mer 575 Broadway"
+                }, 
+                {
+                    "osm_id": 249664448.0, 
+                    "type": "yes", 
+                    "id": 35341.0, 
+                    "name": "Chelsea Career & Techincal High School"
+                }, 
+                {
+                    "osm_id": 297163345.0, 
+                    "type": "yes", 
+                    "id": 125795.0, 
+                    "name": "National Guard Armory"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#sundayfunday @rosiesnyc @ Rosie's https://t.co/y0GSokunFU", 
+                "created_at": "2016-07-31T21:03:41", 
+                "retweet_count": 1, 
+                "id": "759857085475618816", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97351821, 
+                    40.78067282
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#crocs @ American Museum of Natural History https://t.co/ebuq71Y2U1", 
+                "created_at": "2016-07-31T19:33:50", 
+                "retweet_count": 0, 
+                "id": "759834473206800384", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93805556, 
+                    40.85277778
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Working on our #rainyday hobbies. #uptstatemanhattan #wahi @ Bennett Park https://t.co/iv7Btk6vti", 
+                "created_at": "2016-07-31T15:29:36", 
+                "retweet_count": 0, 
+                "id": "759773013277630464", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9375, 
+                    40.84166667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#updownaroundandthrough Inwood hill park, Fort Tryon Park and the Hudson greenway. #jumpstart\u2026 https://t.co/67S3OjqznA", 
+                "created_at": "2016-07-31T13:46:54", 
+                "retweet_count": 0, 
+                "id": "759747165522694144", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00586993, 
+                    40.74564279
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 182240451.0, 
+                    "type": "apartments", 
+                    "id": 903.0, 
+                    "name": "Humphreys Hall"
+                }, 
+                {
+                    "osm_id": 182954083.0, 
+                    "type": "yes", 
+                    "id": 908.0, 
+                    "name": "Jonas Hall"
+                }, 
+                {
+                    "osm_id": 182954149.0, 
+                    "type": "yes", 
+                    "id": 914.0, 
+                    "name": "Hoxie House"
+                }, 
+                {
+                    "osm_id": 264627658.0, 
+                    "type": "yes", 
+                    "id": 84242.0, 
+                    "name": "IAC Building"
+                }, 
+                {
+                    "osm_id": 288767467.0, 
+                    "type": "apartments", 
+                    "id": 125726.0, 
+                    "name": "505W19"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When your son figures out boomerang. @ Cookshop https://t.co/5d4CNN0J0Z", 
+                "created_at": "2016-07-30T22:46:09", 
+                "retweet_count": 0, 
+                "id": "759520486380466176", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96111337, 
+                    40.71904993
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 259782468.0, 
+                    "type": "yes", 
+                    "id": 83599.0, 
+                    "name": "Washington Commons"
+                }, 
+                {
+                    "osm_id": 278284163.0, 
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows"
+                }, 
+                {
+                    "osm_id": 310245651.0, 
+                    "type": "yes", 
+                    "id": 126066.0, 
+                    "name": "Independence Plaza I"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#after Come and get em #brunch @riderbklyn served with homemade migliorellifarm Blueberry Jam!\u2026 https://t.co/IVEhrgnUp8", 
+                "created_at": "2016-07-30T12:38:12", 
+                "retweet_count": 0, 
+                "id": "759367491273560064", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96111337, 
+                    40.71904993
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 259782468.0, 
+                    "type": "yes", 
+                    "id": 83599.0, 
+                    "name": "Washington Commons"
+                }, 
+                {
+                    "osm_id": 278284163.0, 
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows"
+                }, 
+                {
+                    "osm_id": 310245651.0, 
+                    "type": "yes", 
+                    "id": 126066.0, 
+                    "name": "Independence Plaza I"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#before #brunchsohard #brunch #nyceats #williamsburg @ RIDER https://t.co/IwpNK1LljA", 
+                "created_at": "2016-07-30T12:25:03", 
+                "retweet_count": 0, 
+                "id": "759364181988630528", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95767056, 
+                    40.71467017
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3359447.0, 
+                    "type": "yes", 
+                    "id": 117.0, 
+                    "name": "Louis J. Lefkowitz State Office Building"
+                }, 
+                {
+                    "osm_id": -3363386.0, 
+                    "type": "yes", 
+                    "id": 291.0, 
+                    "name": "Amalgamated Dwellings"
+                }, 
+                {
+                    "osm_id": -3696430.0, 
+                    "type": "yes", 
+                    "id": 460.0, 
+                    "name": "New York State Supreme Court"
+                }, 
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 241823871.0, 
+                    "type": "industrial", 
+                    "id": 2821.0, 
+                    "name": "Domino Sugar Refinery"
+                }, 
+                {
+                    "osm_id": 249848313.0, 
+                    "type": "church", 
+                    "id": 36636.0, 
+                    "name": "Church of the Transfiguration"
+                }, 
+                {
+                    "osm_id": 250267911.0, 
+                    "type": "yes", 
+                    "id": 57532.0, 
+                    "name": "Museum at Eldridge Street"
+                }, 
+                {
+                    "osm_id": 250269529.0, 
+                    "type": "yes", 
+                    "id": 57721.0, 
+                    "name": "United States Court of International Trade"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 259759697.0, 
+                    "type": "yes", 
+                    "id": 83579.0, 
+                    "name": "70 Greene Street"
+                }, 
+                {
+                    "osm_id": 259759698.0, 
+                    "type": "yes", 
+                    "id": 83581.0, 
+                    "name": "77 Hudson Street"
+                }, 
+                {
+                    "osm_id": 277890473.0, 
+                    "type": "yes", 
+                    "id": 99030.0, 
+                    "name": "Corner Gourmet 2"
+                }, 
+                {
+                    "osm_id": 277890497.0, 
+                    "type": "yes", 
+                    "id": 99051.0, 
+                    "name": "Lilly O'Briens"
+                }, 
+                {
+                    "osm_id": 277890500.0, 
+                    "type": "yes", 
+                    "id": 99055.0, 
+                    "name": "Pure Green Cleaners"
+                }, 
+                {
+                    "osm_id": 277890515.0, 
+                    "type": "yes", 
+                    "id": 99068.0, 
+                    "name": "125 Barclay Street"
+                }, 
+                {
+                    "osm_id": 277904748.0, 
+                    "type": "yes", 
+                    "id": 99101.0, 
+                    "name": "Raccoon Lodge"
+                }, 
+                {
+                    "osm_id": 278093222.0, 
+                    "type": "yes", 
+                    "id": 99700.0, 
+                    "name": "Ted Weiss Federal Building"
+                }, 
+                {
+                    "osm_id": 278241635.0, 
+                    "type": "yes", 
+                    "id": 99997.0, 
+                    "name": "Confucius Plaza"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#risenshine #williamsburg See you later for brunch @riderbklyn #brunch #brunchsohard #nyceats @\u2026 https://t.co/H1QGPdl5DA", 
+                "created_at": "2016-07-30T11:04:13", 
+                "retweet_count": 0, 
+                "id": "759343837898768384", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9375, 
+                    40.84166667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "He was called a girl one too many times this week, so he just lost 4 inches. #evenmorehandsome @\u2026 https://t.co/EtLr9fd0Si", 
+                "created_at": "2016-07-28T23:35:50", 
+                "retweet_count": 0, 
+                "id": "758808214360039425", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9375, 
+                    40.84166667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Market grab this afternoon. I spent 30 dollars at the @grownyc market for food(flowers as well)\u2026 https://t.co/bpjhZ0X7mD", 
+                "created_at": "2016-07-28T20:25:38", 
+                "retweet_count": 0, 
+                "id": "758760346417004544", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9375, 
+                    40.84166667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hitting up the #washingtonheights @grownyc greenmarket this steamy Thursday afternoon.\u2026 https://t.co/4IxmYUmGWI", 
+                "created_at": "2016-07-28T19:36:12", 
+                "retweet_count": 1, 
+                "id": "758747907579195392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.946944, 
+                    40.850278
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Kept it #uptown on this humid morning. #moretrees #moreshade #whorunstheworld #girls #running\u2026 https://t.co/h0Y8rtpnQu", 
+                "created_at": "2016-07-28T14:54:59", 
+                "retweet_count": 0, 
+                "id": "758677136429486084", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "R and DDDDDDDD. #randd #summerdriven #dailymarketdriven #cookwiththeseasons #williamsburg\u2026 https://t.co/qi6kr6fQbL", 
+                "created_at": "2016-07-27T19:24:57", 
+                "retweet_count": 0, 
+                "id": "758382688923418624", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "That Wednesday @unsqgreenmarket tho. Just some of the awesome summer fun hitting the table\u2026 https://t.co/IAccoNrHVm", 
+                "created_at": "2016-07-27T12:58:14", 
+                "retweet_count": 0, 
+                "id": "758285367275556866", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9375, 
+                    40.84166667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#happyhumpday #morningburn #cantstopwontstop #running #runningchef #upstatemanhattan #wahi\u2026 https://t.co/um9TuF4OvB", 
+                "created_at": "2016-07-27T10:42:06", 
+                "retweet_count": 0, 
+                "id": "758251110029295616", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9375, 
+                    40.84166667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#potofgold at the end of a #rainbow proof. #nofilter #goldglow #afterthestorm @ Washington\u2026 https://t.co/iu6kw4ZdpY", 
+                "created_at": "2016-07-26T00:14:44", 
+                "retweet_count": 0, 
+                "id": "757730838775816192", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.66434439, 
+                    40.58382475
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "At long last a family of four!!! Who knew @wilfrinf even existed? @ Long Beach Boardwalk https://t.co/dUqLJxPU6f", 
+                "created_at": "2016-07-24T19:24:46", 
+                "retweet_count": 0, 
+                "id": "757295476228100096", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.65818208, 
+                    40.58296506
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#pleasedaspunch @ Beach, Long Beach, NY https://t.co/1gmZ57wOJx", 
+                "created_at": "2016-07-24T18:37:00", 
+                "retweet_count": 0, 
+                "id": "757283456774762497", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.66775, 
+                    40.58605
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Total creeper pushing up on my blanket. @ Long Beach, New York https://t.co/3dBCo9rbgd", 
+                "created_at": "2016-07-24T16:17:14", 
+                "retweet_count": 0, 
+                "id": "757248282011766785", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93805556, 
+                    40.85277778
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When your sweaty run ends here. #fate #instantcooldown #dayoff #cantstopwontstop #runningchef\u2026 https://t.co/KLCkMQMeIw", 
+                "created_at": "2016-07-24T12:17:46", 
+                "retweet_count": 0, 
+                "id": "757188019510243328", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93833333, 
+                    40.85083333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "How #stlouisans take on the heat. #youcantakethegirloutofthelou #youcanttakethelououtofthegirl @\u2026 https://t.co/1U5TQmPqLg", 
+                "created_at": "2016-07-22T23:58:59", 
+                "retweet_count": 0, 
+                "id": "756639711498829825", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.990257, 
+                    40.736693
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3365138.0, 
+                    "type": "yes", 
+                    "id": 342.0, 
+                    "name": "Westbeth Artists Community"
+                }, 
+                {
+                    "osm_id": 248773775.0, 
+                    "type": "yes", 
+                    "id": 29030.0, 
+                    "name": "SGI-USA New York Culture Centre"
+                }, 
+                {
+                    "osm_id": 250471890.0, 
+                    "type": "yes", 
+                    "id": 81012.0, 
+                    "name": "The New School Arnold Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Early #tgif market run. #jobperks #freshfriday @ Union Square Greenmarket https://t.co/TsssMg5dyN", 
+                "created_at": "2016-07-22T12:10:43", 
+                "retweet_count": 1, 
+                "id": "756461470599225344", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93731551, 
+                    40.85512482
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Taking it easy on this #tgif #running #cantstopwontstop #runningchef #nikeplus @ Fort Tryon\u2026 https://t.co/Gjnn2HnR3k", 
+                "created_at": "2016-07-22T11:08:26", 
+                "retweet_count": 0, 
+                "id": "756445796925579265", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00805, 
+                    40.74915
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I wish 33 year old me could back 20 years and tell 13 year old me Field Hockey was not the sport\u2026 https://t.co/3N5wVjgRek", 
+                "created_at": "2016-07-21T17:00:03", 
+                "retweet_count": 0, 
+                "id": "756171897365233664", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934506, 
+                    40.858904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#workoutwednesday #chasingthesun #licketysplit #cantstopwontstop #running #runningchallenge\u2026 https://t.co/CVH5MoLW0l", 
+                "created_at": "2016-07-20T10:39:55", 
+                "retweet_count": 0, 
+                "id": "755713844039806977", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93731551, 
+                    40.85512482
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Back at it on #trekkingtuesday #cantstopwontstop #runningforlife #runningchef #runready\u2026 https://t.co/5e9VNGewhq", 
+                "created_at": "2016-07-19T10:40:21", 
+                "retweet_count": 0, 
+                "id": "755351566534774784", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9969, 
+                    40.72378
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 247866615.0, 
+                    "type": "yes", 
+                    "id": 12005.0, 
+                    "name": "Singer Building"
+                }, 
+                {
+                    "osm_id": 249664475.0, 
+                    "type": "yes", 
+                    "id": 35365.0, 
+                    "name": "Holland Plaza Building"
+                }, 
+                {
+                    "osm_id": 249666506.0, 
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca"
+                }, 
+                {
+                    "osm_id": 403194879.0, 
+                    "type": "yes", 
+                    "id": 136132.0, 
+                    "name": "Monaco"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Met this guy seven years ago when he graciously volunteered to  take the place of an 8 1/2 month\u2026 https://t.co/n1qSvrK06g", 
+                "created_at": "2016-07-17T21:19:28", 
+                "retweet_count": 0, 
+                "id": "754787627866488832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94160489, 
+                    40.85129281
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Making early mornings easier. #nofilter #upstatemanhattan #wahi @ Hudson Heights https://t.co/K2oU1ex24I", 
+                "created_at": "2016-07-16T10:50:01", 
+                "retweet_count": 0, 
+                "id": "754266834388541440", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Despite today's heat, I ain't sweatin this new banging dessert premiering tonight @riderbklyn\u2026 https://t.co/a2tQUrUROW", 
+                "created_at": "2016-07-15T23:38:28", 
+                "retweet_count": 0, 
+                "id": "754097831300980738", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Took my new #brooksrunning shoes on a 10 mile #runcation from uptown all the way down the\u2026 https://t.co/xPAabyVGt2", 
+                "created_at": "2016-07-14T18:02:26", 
+                "retweet_count": 0, 
+                "id": "753650880159813632", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93731551, 
+                    40.85512482
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#mondaymiles #mondaymotivation #runningchef #runningforlife #runready #cantstopwontstop\u2026 https://t.co/jLd0SAajKl", 
+                "created_at": "2016-07-11T10:41:14", 
+                "retweet_count": 0, 
+                "id": "752452684599484416", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.66053625, 
+                    40.58373979
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Think it's time for a haircut n527aneal??? #bighairdontcare #futuresurfer @ Boardwalk Long Beach\u2026 https://t.co/5PZrclTUyb", 
+                "created_at": "2016-07-11T01:13:07", 
+                "retweet_count": 0, 
+                "id": "752309713514143744", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.66775, 
+                    40.58605
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "He just gets me. #bff #minime @ Long Beach, New York https://t.co/HyzaPEu2GV", 
+                "created_at": "2016-07-10T22:11:47", 
+                "retweet_count": 0, 
+                "id": "752264080229036037", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.66053625, 
+                    40.58373979
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#beachbowlingontheboardwalk @ Boardwalk Long Beach New York https://t.co/zpSkeAkJ1K", 
+                "created_at": "2016-07-10T22:03:40", 
+                "retweet_count": 0, 
+                "id": "752262034931195905", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934506, 
+                    40.858904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#sundayrunday #licketysplit #runready #runningforlife #runningchef #cantstopwontstop #nikeplus @\u2026 https://t.co/2tvFsOJT8j", 
+                "created_at": "2016-07-10T12:50:25", 
+                "retweet_count": 0, 
+                "id": "752122808625405952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Are you ready for Saturday night? @Drew_Wheelerr can help out. @ RIDER https://t.co/NyHBWp2hfj", 
+                "created_at": "2016-07-09T20:54:30", 
+                "retweet_count": 0, 
+                "id": "751882241253539842", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93731551, 
+                    40.85512482
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#tgifrun #risenshinerun #nextupbouldering #runningchef #cantstopwontstop #runningforlife\u2026 https://t.co/K5lb0TEE38", 
+                "created_at": "2016-07-08T10:39:17", 
+                "retweet_count": 0, 
+                "id": "751365028457148416", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.4111, 
+                    41.4672
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#risenshine run. #sweatyselfie #cantstopwontstop #runningforlife #runready #runningchef\u2026 https://t.co/xzfOkDHmrp", 
+                "created_at": "2016-07-07T10:23:54", 
+                "retweet_count": 0, 
+                "id": "750998772105248770", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#summerschool #williamsburg #chefskid #nyceats @ RIDER https://t.co/QRP1lN80o3", 
+                "created_at": "2016-07-05T16:45:23", 
+                "retweet_count": 0, 
+                "id": "750369999315931136", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Patriotic doughnuts for my @riderbklyn family this morning. Strawberry, vanilla and blueberry,\u2026 https://t.co/whVnOmLpm3", 
+                "created_at": "2016-07-04T14:07:09", 
+                "retweet_count": 0, 
+                "id": "749967790812069888", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.66416185, 
+                    40.58835733
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Worked up quite an appetite. #growingboys @ Five Guys Famous Burgers &amp; Fries https://t.co/85IXaGmwhA", 
+                "created_at": "2016-07-03T18:29:35", 
+                "retweet_count": 0, 
+                "id": "749671444288770048", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.66775, 
+                    40.58605
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Child rearing not too bad from this angle. Added bonus, the water is full of seaweed so they\u2026 https://t.co/M5qlzM1wC7", 
+                "created_at": "2016-07-03T16:59:10", 
+                "retweet_count": 0, 
+                "id": "749648690269347840", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.993899, 
+                    40.750638
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 264667030.0, 
+                    "type": "yes", 
+                    "id": 86092.0, 
+                    "name": "James Farley Post Office"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#daytrippin #beachtrippin #urbanhikers #neverwasteaminute @ Pennsylvania Station https://t.co/XNmgrMqxDy", 
+                "created_at": "2016-07-03T14:45:07", 
+                "retweet_count": 0, 
+                "id": "749614958523125760", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934506, 
+                    40.858904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#downtherabbithole in the Heathers at night. @ Fort Tryon Park Trust https://t.co/JSBHJbvLKk", 
+                "created_at": "2016-07-03T01:58:52", 
+                "retweet_count": 0, 
+                "id": "749422124733984768", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934506, 
+                    40.858904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Firefly catching in Fort Tryon was a success! #neverwasteaminute  #mybrood #epicsummer @ Fort\u2026 https://t.co/GgiOXuvSJu", 
+                "created_at": "2016-07-03T01:53:02", 
+                "retweet_count": 0, 
+                "id": "749420654294884352", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9375, 
+                    40.84166667
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "While you were sleeping..... #nofilter #upstatemanhattan #wahi #epicsummer @ Washington Heights,\u2026 https://t.co/SytxCDaKXj", 
+                "created_at": "2016-07-02T09:41:44", 
+                "retweet_count": 0, 
+                "id": "749176218159869952", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93805556, 
+                    40.85277778
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The mobilization and democratic decision making that takes place on the playground speaks\u2026 https://t.co/qRIaS5LVTK", 
+                "created_at": "2016-06-30T20:59:09", 
+                "retweet_count": 0, 
+                "id": "748621922485829632", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934157, 
+                    40.859382
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Two parks and the greenway, not bad for hill day on a day off. #vitamindexplosion\u2026 https://t.co/4kJOttG7Ft", 
+                "created_at": "2016-06-30T13:33:18", 
+                "retweet_count": 0, 
+                "id": "748509718470070272", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "When those #hotfry wings with ranch makes the vain on your head pop! #wingwednesday #dienerwings\u2026 https://t.co/uzcdCqxRxy", 
+                "created_at": "2016-06-29T20:01:26", 
+                "retweet_count": 0, 
+                "id": "748245008545906692", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93747265, 
+                    40.8552418
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hazy humid morning run. #feelslikesummer #sweatingitout #runready #runningchef #canstopwontstop\u2026 https://t.co/ECXfdB8YGn", 
+                "created_at": "2016-06-29T12:19:03", 
+                "retweet_count": 0, 
+                "id": "748128644246159360", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93704376, 
+                    40.85616159
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The last day of school and my mind is blown by how much my chickens have grown in just one\u2026 https://t.co/8pewMCCuWx", 
+                "created_at": "2016-06-28T12:19:48", 
+                "retweet_count": 0, 
+                "id": "747766447410118657", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934506, 
+                    40.858904
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Monday motivation. #firstlight #nikeplus #runningforlife #runningchef #runready\u2026 https://t.co/9KePKY7n7d", 
+                "created_at": "2016-06-27T10:03:36", 
+                "retweet_count": 0, 
+                "id": "747369784313057280", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.946312, 
+                    40.847066
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Did a little interval training this morning chasing this fast cyclist. @ Hudson River Greenway https://t.co/V3uj3XvalV", 
+                "created_at": "2016-06-26T13:19:04", 
+                "retweet_count": 0, 
+                "id": "747056584405188608", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9455883, 
+                    40.84671953
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "In a #sunset zone this evening pumping out my best run in quite some time. #thatpacetho\u2026 https://t.co/6pOGkRzqti", 
+                "created_at": "2016-06-26T00:08:44", 
+                "retweet_count": 0, 
+                "id": "746857690660544512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93833333, 
+                    40.85083333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This impromptu gathering of besties is what Friday's are made of. #tilldeathdouspart\u2026 https://t.co/QY8HFvITjC", 
+                "created_at": "2016-06-25T02:20:56", 
+                "retweet_count": 0, 
+                "id": "746528572727238657", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.934157, 
+                    40.859382
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Day off loooooong run. #myideaofagoodtime #cantstopwontstop #upstatemanhattan #wahi #runready\u2026 https://t.co/JuLrltPww3", 
+                "created_at": "2016-06-23T15:49:38", 
+                "retweet_count": 0, 
+                "id": "746007313421639681", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Crazy day, crazy wings. Maple, honey, sambal and other shit aarondiener through in the bowl.\u2026 https://t.co/ydoTglTWCo", 
+                "created_at": "2016-06-22T21:27:39", 
+                "retweet_count": 0, 
+                "id": "745729989987962881", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93833333, 
+                    40.85083333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The sun taking its time to come up, knowing it is the longest work day of the year.\u2026 https://t.co/F8BEILv4Gn", 
+                "created_at": "2016-06-21T10:11:28", 
+                "retweet_count": 0, 
+                "id": "745197436981874688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Monday could be worse.... @ RIDER https://t.co/JUmlAI4jvL", 
+                "created_at": "2016-06-20T13:36:45", 
+                "retweet_count": 0, 
+                "id": "744886709301686273", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.925886, 
+                    40.872458
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "His Dominican side shined today with a hit every time at bat, no strike outs. Triumphant end to\u2026 https://t.co/TBbXmvsFUQ", 
+                "created_at": "2016-06-19T15:01:59", 
+                "retweet_count": 0, 
+                "id": "744545772398645248", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.925886, 
+                    40.872458
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "You are my sunshine.#dayoff #loveliest @ Inwood Hill Park https://t.co/Hv7FHXMk4n", 
+                "created_at": "2016-06-19T14:02:22", 
+                "retweet_count": 0, 
+                "id": "744530767347331072", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93747265, 
+                    40.8552418
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Never wasting a minute. #decompressing #therapysession #cantstopwontstop #runningchef #runready\u2026 https://t.co/JkGG88ZbN3", 
+                "created_at": "2016-06-19T00:05:57", 
+                "retweet_count": 0, 
+                "id": "744320275563548672", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Since dennylaflare brightens my morning everyday, today I brightened his, via doughnuts.\u2026 https://t.co/RscQDodTFr", 
+                "created_at": "2016-06-18T19:21:31", 
+                "retweet_count": 0, 
+                "id": "744248695378616320", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pumping out English for #brunch today @riderbklyn #besmart #behere #nyceats #badassbrunchbitch\u2026 https://t.co/BGBdaPcMX3", 
+                "created_at": "2016-06-18T12:40:23", 
+                "retweet_count": 0, 
+                "id": "744147750611222528", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93747265, 
+                    40.8552418
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Beat the sun this morning. #tgif #honeysucklesunrises #cantstopwontstop #runningforlife\u2026 https://t.co/KvJDdObOsN", 
+                "created_at": "2016-06-17T10:14:06", 
+                "retweet_count": 0, 
+                "id": "743748545165955072", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96136, 
+                    40.71887
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 74268326.0, 
+                    "type": "yes", 
+                    "id": 620.0, 
+                    "name": "Harborside Plaza 5"
+                }, 
+                {
+                    "osm_id": 250266824.0, 
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium"
+                }, 
+                {
+                    "osm_id": 259782470.0, 
+                    "type": "yes", 
+                    "id": 83586.0, 
+                    "name": "50 Columbus"
+                }, 
+                {
+                    "osm_id": 278276300.0, 
+                    "type": "yes", 
+                    "id": 100475.0, 
+                    "name": "Nurse Bettie"
+                }, 
+                {
+                    "osm_id": 375836520.0, 
+                    "type": "yes", 
+                    "id": 126525.0, 
+                    "name": "Pathmark"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's aarondiener wing time!!!!! To match this gorgeous summer weather this week, we have classic\u2026 https://t.co/SNsgpVr7S2", 
+                "created_at": "2016-06-15T20:16:14", 
+                "retweet_count": 0, 
+                "id": "743175303225290753", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9455883, 
+                    40.84671953
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hellllooooo hump day. #cantstopwontstop #jumpstart #runningforlife #runningchef\u2026 https://t.co/LL13edolH8", 
+                "created_at": "2016-06-15T10:04:32", 
+                "retweet_count": 0, 
+                "id": "743021364085411841", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94694444, 
+                    40.85027778
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Perfect picnic by the #hudsonriver with pinchy the lobster. @ Little Red Lighthouse https://t.co/R3fHdHQM0K", 
+                "created_at": "2016-06-14T18:01:09", 
+                "retweet_count": 0, 
+                "id": "742778921477898241", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95776214, 
+                    40.85264205
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Afternoon stroll down to the lighthouse. #upstatemanhattan #wahi @ New York - George Washington\u2026 https://t.co/tT9KgmRaud", 
+                "created_at": "2016-06-14T17:49:33", 
+                "retweet_count": 0, 
+                "id": "742776000958828545", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95776214, 
+                    40.85264205
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#fernandezrunningclub takes it to the #GWB Wonderful start to a day off together! @ New York -\u2026 https://t.co/GPUcJO5dfA", 
+                "created_at": "2016-06-14T14:18:21", 
+                "retweet_count": 0, 
+                "id": "742722850142998529", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.925886, 
+                    40.872458
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Soooooo ready for these sweaty runs. #whatgoesupmustcomedown #runready #runningforlife\u2026 https://t.co/Ii0Cx9zNFA", 
+                "created_at": "2016-06-14T13:05:39", 
+                "retweet_count": 0, 
+                "id": "742704554609905664", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93833333, 
+                    40.85083333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Teamwork makes the dream work. #brothers #tothetopofthehill #mushmush #lazygeorge @ Hudson\u2026 https://t.co/ftVM354PBj", 
+                "created_at": "2016-06-12T23:24:46", 
+                "retweet_count": 0, 
+                "id": "742135584462917632", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93833333, 
+                    40.85083333
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you can't fit them in at the beginning of the day, fit them in at the end. #cantstopwontstop\u2026 https://t.co/auLDD8d7dh", 
+                "created_at": "2016-06-11T23:45:13", 
+                "retweet_count": 0, 
+                "id": "741778344006541316", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93120517, 
+                    40.85273033
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I just went for it. @ Washington Heights 187St https://t.co/AUOZDxUuMX", 
+                "created_at": "2015-07-04T16:46:34", 
+                "retweet_count": 0, 
+                "id": "617373951455535104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92871406, 
+                    40.86691632
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Salt Marsh investigation. #Inwood #wahi #homesweethome #summer2015 @ Inwood Hill Park/Dyckman Street\u2026 https://t.co/rEJul889Gt", 
+                "created_at": "2015-06-14T14:43:43", 
+                "retweet_count": 0, 
+                "id": "610095277861679105", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.261591, 
+                    38.640078
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last night out in STL, last drink in STL had to be at @tastebarstl always perfection. @ Taste by\u2026 https://t.co/dEeJqZtZzW", 
+                "created_at": "2015-05-16T23:37:51", 
+                "retweet_count": 0, 
+                "id": "599720446070755330", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.28334406, 
+                    38.64377224
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#nofilter @ Forest Park Visitors Center https://t.co/4NVZXtGh4b", 
+                "created_at": "2015-03-07T18:25:20", 
+                "retweet_count": 0, 
+                "id": "574274650127077376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.2093698, 
+                    38.46021271
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Family Ramen night thanks to the home cooking of neal_covington @ The Covington Grounds http://t.co/SaBQTLGxHy", 
+                "created_at": "2015-02-18T01:23:17", 
+                "retweet_count": 0, 
+                "id": "567856847484510208", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.2093698, 
+                    38.46021271
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "#nomasni\u00f1os @ The Covington Grounds http://t.co/9dPdeZqesW", 
+                "created_at": "2015-02-16T18:40:54", 
+                "retweet_count": 0, 
+                "id": "567393199141179392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.2093698, 
+                    38.46021271
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cards against humanity. #bellylaughsfordays @ The Covington Grounds http://t.co/ixiGZcj3Ld", 
+                "created_at": "2015-02-15T05:50:12", 
+                "retweet_count": 0, 
+                "id": "566836857963806720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.2093698, 
+                    38.46021271
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "You just feel stronger when biggie is on your side!!! @ The Covington Grounds http://t.co/QlCtWpOwmq", 
+                "created_at": "2015-02-15T03:34:46", 
+                "retweet_count": 0, 
+                "id": "566802771534688256", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.29411779, 
+                    38.63951606
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Could look for day the soundsuits. @ Saint Louis Art Museum http://t.co/KLlJioZs93", 
+                "created_at": "2015-02-11T16:32:03", 
+                "retweet_count": 0, 
+                "id": "565548829563707392", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.33965861, 
+                    38.63625359
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "He's bringing sexy back @wilfrinf @ where dominicans are king http://t.co/wF7r7OYQk6", 
+                "created_at": "2015-02-08T23:10:03", 
+                "retweet_count": 0, 
+                "id": "564561826101616642", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.53959181, 
+                    38.55016729
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "What a day for a hike! #60degrees #notflorida @ Castlewood State Park http://t.co/e9wWK5m3cB", 
+                "created_at": "2015-02-08T19:42:11", 
+                "retweet_count": 0, 
+                "id": "564509516495327232", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.32121289, 
+                    38.65774611
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Making my day today! #winslowshomebaked @ Winslow's Home http://t.co/IcYcHCam9I", 
+                "created_at": "2015-01-21T19:25:48", 
+                "retweet_count": 0, 
+                "id": "557982413503352832", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.29098664, 
+                    38.6350515
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Scariest. @ Saint Louis Zoo http://t.co/3ptEgvUnpP", 
+                "created_at": "2015-01-18T17:00:19", 
+                "retweet_count": 0, 
+                "id": "556858637629792256", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.29098664, 
+                    38.6350515
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hardly enough head space. @ Saint Louis Zoo http://t.co/zr0c9eB53O", 
+                "created_at": "2015-01-18T16:54:49", 
+                "retweet_count": 0, 
+                "id": "556857250380521472", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.32114529, 
+                    38.65772192
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pistachio Rose &amp; Gianduja Coconut doughnuts this morning on the counter. Not feeling fancy, Maple long\u2026 http://t.co/M8gP9k4JSW", 
+                "created_at": "2015-01-04T14:00:57", 
+                "retweet_count": 0, 
+                "id": "551740065454784512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.50910118, 
+                    38.53729491
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My handsome boys. @ Lone Elk Park http://t.co/77eWiEJ4BE", 
+                "created_at": "2015-01-01T17:43:53", 
+                "retweet_count": 0, 
+                "id": "550709005937422336", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.50910118, 
+                    38.53729491
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gorgeous New Year's Day! @ Lone Elk Park http://t.co/4Yq7LdgweZ", 
+                "created_at": "2015-01-01T17:40:51", 
+                "retweet_count": 0, 
+                "id": "550708241529704448", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.50910118, 
+                    38.53729491
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Lone elk look out! @ Lone Elk Park http://t.co/sRg99Zlf06", 
+                "created_at": "2015-01-01T17:35:53", 
+                "retweet_count": 0, 
+                "id": "550706992621563906", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.22097265, 
+                    38.61315309
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cause what else do you do two days before Christmas but look at creepy Halloween stuff. @ Johnny\u2026 http://t.co/e7M8WoeYoe", 
+                "created_at": "2014-12-23T19:23:53", 
+                "retweet_count": 0, 
+                "id": "547472683676352512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.127445, 
+                    38.51006194
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sunday Funday! @ Eckerts Millstadt Farm http://t.co/naeqZXw9ca", 
+                "created_at": "2014-11-30T17:41:30", 
+                "retweet_count": 0, 
+                "id": "539111993874333696", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.29454134, 
+                    38.63936925
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Interpreting art. @ Saint Louis Art Museum http://t.co/4ISi1fMwzU", 
+                "created_at": "2014-11-23T18:23:05", 
+                "retweet_count": 0, 
+                "id": "536585744689537024", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.26835001, 
+                    38.63722796
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This should be good. @ Steinberg Skating Rink http://t.co/FLdHuOznBh", 
+                "created_at": "2014-11-16T17:22:47", 
+                "retweet_count": 0, 
+                "id": "534033853904465920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.31946366, 
+                    38.71680002
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pumpkin patch action. @ Thies Farm &amp; Greenhouses http://t.co/Xczujjyf0M", 
+                "created_at": "2014-10-19T21:19:31", 
+                "retweet_count": 0, 
+                "id": "523946571579555840", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.29371339, 
+                    38.6400687
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Forest park early morning. @ Art Hill, Forest Park http://t.co/l6I7yUfXLg", 
+                "created_at": "2014-10-19T13:02:18", 
+                "retweet_count": 0, 
+                "id": "523821440932777986", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.30080023, 
+                    38.65567074
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Why wouldn't we celebrate our anniversary with these two?? @ Mission Taco Joint http://t.co/ZzJ0oTD7ls", 
+                "created_at": "2014-10-18T23:28:01", 
+                "retweet_count": 0, 
+                "id": "523616518568153089", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.2429425, 
+                    38.59941896
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tripe Pho. @wilfrinf lucky day. @ Pho Grand Restaurant http://t.co/QQ7dxOxWTQ", 
+                "created_at": "2014-10-15T18:18:11", 
+                "retweet_count": 0, 
+                "id": "522451382864183297", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

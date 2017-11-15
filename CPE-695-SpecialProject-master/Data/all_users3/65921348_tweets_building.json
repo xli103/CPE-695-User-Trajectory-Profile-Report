@@ -1,0 +1,3806 @@
+{
+    "total_favorite_count": 0, 
+    "followers_count": 135, 
+    "total_tweets": 45, 
+    "user_id": 65921348, 
+    "screen_name": "tmj_nyc_actuar", 
+    "friends_count": 89, 
+    "buildings": {
+        "school": 2, 
+        "synagogue": 43, 
+        "theatre": 25, 
+        "office": 2, 
+        "apartments": 50, 
+        "commercial": 279
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job? VP, Accrual Mortgage Portfolio Risk Management - https://t.co/4QuiSTlb5D #CitiCareers #NewYork, NY", 
+            "id": "798239464912916481", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T19:01:33", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "This #job might be a great fit for you: Director of CCAR RWA Forecasting and Analytics - https://t.co/Xa1Y7aZkD0 #CitiCareers #NewYork, NY", 
+            "id": "798227767858860033", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T18:15:04", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Want to work at CITI? We're #hiring in #NewYork, NY! Click for details: https://t.co/9PssMmOAjG #Job #CitiCareers #Actuarial #Jobs", 
+            "id": "798216087062003713", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T17:28:39", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Want to work at CITI? We're #hiring in #NewYork, NY! Click for details: https://t.co/QORlckW0Fb #Job #CitiCareers #Actuarial #Jobs", 
+            "id": "798192738487308288", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T15:55:53", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job in #NewYork, NY? https://t.co/Ao0hJO4g0U #CitiCareers #Actuarial #Hiring #CareerArc", 
+            "id": "798181055148662784", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T15:09:27", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "See our latest #NewYork, NY #job and click to apply: Senior Vice President-Senior Compliance Officer- AML... - https://t.co/3eU756FKOp", 
+            "id": "798169366650986498", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T14:23:00", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "See our latest #NewYork, NY #job and click to apply: VP- Retail Risk Analytics Transformation - https://t.co/HyvD7SI3qK #CitiCareers", 
+            "id": "798157700550885377", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-14T13:36:39", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job? Sr. Manager, CCAR Model Oversight - Mortgage Portfolio - https://t.co/tW5ArMN49n #NewYork, NY", 
+            "id": "797926947569315840", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T22:19:43", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92955.0, 
+                    "name": "Olympic Tower", 
+                    "osm_id": 266010393.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job? Anti-Money Laundering (AML) Audit Manager - Risk Consulting - (12940) - https://t.co/CcUAclGiAq", 
+            "id": "797915247851945984", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T21:33:14", 
+            "coordinates": [
+                -73.9697795, 
+                40.7593941
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "399 Park Avenue", 
+                    "30 Rockefeller Plaza", 
+                    "Olympic Tower", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 9, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "We're #hiring! Click to apply: Finance and Risk Infrastructure PMO Lead Analyst - https://t.co/uDBmuoI6wb #Job #CitiCareers #NewYork, NY", 
+            "id": "797880171680272384", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T19:13:51", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job in #NewYork, NY? https://t.co/5hopY0iZr0 #CitiCareers #Actuarial #Hiring #CareerArc", 
+            "id": "797832834027163648", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T16:05:45", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92955.0, 
+                    "name": "Olympic Tower", 
+                    "osm_id": 266010393.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Interested in a #job in #NewYorkCity, NY? This could be a great fit: https://t.co/msG7zClgWd #Actuarial #Hiring #CareerArc", 
+            "id": "797808206399447040", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T14:27:53", 
+            "coordinates": [
+                -73.9697795, 
+                40.7593941
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "399 Park Avenue", 
+                    "30 Rockefeller Plaza", 
+                    "Olympic Tower", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 9, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92955.0, 
+                    "name": "Olympic Tower", 
+                    "osm_id": 266010393.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "If you're looking for work in #NewYorkCity, NY, check out this #job: https://t.co/whkRNjYR9C #Actuarial #Hiring #CareerArc", 
+            "id": "797795890593308673", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-13T13:38:57", 
+            "coordinates": [
+                -73.9697795, 
+                40.7593941
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "399 Park Avenue", 
+                    "30 Rockefeller Plaza", 
+                    "Olympic Tower", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 9, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92955.0, 
+                    "name": "Olympic Tower", 
+                    "osm_id": 266010393.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Interested in a #job in #NewYorkCity, NY? This could be a great fit: https://t.co/HOvQOLCR4x #Actuarial #Hiring #CareerArc", 
+            "id": "797783602587049986", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-13T12:50:07", 
+            "coordinates": [
+                -73.9697795, 
+                40.7593941
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "399 Park Avenue", 
+                    "30 Rockefeller Plaza", 
+                    "Olympic Tower", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 9, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92955.0, 
+                    "name": "Olympic Tower", 
+                    "osm_id": 266010393.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Join the Crowe Horwath team! See our latest #job opening here: https://t.co/jsLJUL6n0y #Actuarial #NewYorkCity, NY #Hiring #CareerArc", 
+            "id": "797565073560518657", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T22:21:46", 
+            "coordinates": [
+                -73.9697795, 
+                40.7593941
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "399 Park Avenue", 
+                    "30 Rockefeller Plaza", 
+                    "Olympic Tower", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 9, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92955.0, 
+                    "name": "Olympic Tower", 
+                    "osm_id": 266010393.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "If you're looking for work in #NewYorkCity, NY, check out this #job: https://t.co/ZQC8Ukkqov #Actuarial #Hiring #CareerArc", 
+            "id": "797552747079839744", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T21:32:47", 
+            "coordinates": [
+                -73.9697795, 
+                40.7593941
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "399 Park Avenue", 
+                    "30 Rockefeller Plaza", 
+                    "Olympic Tower", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 9, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92955.0, 
+                    "name": "Olympic Tower", 
+                    "osm_id": 266010393.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Want to work at Crowe Horwath? We're #hiring in #NewYorkCity, NY! Click for details: https://t.co/E5aMQJWQD5 #Job #Actuarial #Jobs", 
+            "id": "797539605549457409", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T20:40:34", 
+            "coordinates": [
+                -73.9697795, 
+                40.7593941
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "399 Park Avenue", 
+                    "30 Rockefeller Plaza", 
+                    "Olympic Tower", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 9, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92955.0, 
+                    "name": "Olympic Tower", 
+                    "osm_id": 266010393.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "See our latest #NewYorkCity, NY #job and click to apply: AML System Implementation Consultant - Risk... - https://t.co/4BT1hHvTmt #Hiring", 
+            "id": "797527747052482560", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T19:53:26", 
+            "coordinates": [
+                -73.9697795, 
+                40.7593941
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "399 Park Avenue", 
+                    "30 Rockefeller Plaza", 
+                    "Olympic Tower", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 9, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92955.0, 
+                    "name": "Olympic Tower", 
+                    "osm_id": 266010393.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Interested in a #job in #NewYorkCity, NY? This could be a great fit: https://t.co/aofq4d0lGU #Actuarial #Hiring #CareerArc", 
+            "id": "797515903017492480", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T19:06:23", 
+            "coordinates": [
+                -73.9697795, 
+                40.7593941
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "399 Park Avenue", 
+                    "30 Rockefeller Plaza", 
+                    "Olympic Tower", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 9, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "We're #hiring! Read about our latest #job opening here: Model/Scoring/Analysis Manager - https://t.co/yatQKZfXhW #CitiCareers #NewYork, NY", 
+            "id": "797504078502690816", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T18:19:23", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "This #job might be a great fit for you: Sr. Manager, CCAR Model Oversight - Unsecured Portfolio - https://t.co/2HubbXvnb4 #NewYork, NY", 
+            "id": "797492237495996416", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T17:32:20", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "See our latest #NewYork, NY #job and click to apply: Cross Border Risk Capital Model Development \u2013Assistant... - https://t.co/XGQTtVSZLD", 
+            "id": "797468568119934976", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T15:58:17", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Interested in a #job in #NewYork, NY? This could be a great fit: https://t.co/N8Cn2dLnMb #CitiCareers #Actuarial #Hiring #CareerArc", 
+            "id": "797166669370011649", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T19:58:39", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "See our latest #NewYork, NY #job and click to apply: Modeling Scoring Analyst Manager - https://t.co/o49UB0ysLN #CitiCareers #Actuarial", 
+            "id": "797119323152097281", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T16:50:31", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "This #job might be a great fit for you: Sr. Manager, CCAR Model Oversight - Unsecured Portfolio - https://t.co/kiBEa1C7z9 #NewYork, NY", 
+            "id": "797107478672486402", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-11T16:03:27", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Want to work at CITI? We're #hiring in #NewYork, NY! Click for details: https://t.co/YEDoCEiDAF #Job #CitiCareers #Actuarial #Jobs", 
+            "id": "797095639066652672", 
+            "favorite_count": 1, 
+            "created_at": "2016-11-11T15:16:24", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Interested in a #job in #NewYork, NY? This could be a great fit: https://t.co/fEgPd5EQVR #CitiCareers #Actuarial #Hiring #CareerArc", 
+            "id": "796836612411822080", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T22:07:07", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "See our latest #NewYork, NY #job and click to apply: Director, CCAR Model Oversight- Unsecured Portfolio - https://t.co/aoqxtK96Nt", 
+            "id": "796824923108823040", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T21:20:40", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job? CCAR RWA Forecasting &amp; Analytics Regulatory Risk Manager - https://t.co/YgjMegAJKN #NewYork, NY", 
+            "id": "796813242362269696", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T20:34:15", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job in #NewYork, NY? https://t.co/69VpnxMm1j #CitiCareers #Actuarial #Hiring #CareerArc", 
+            "id": "796801563503181824", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T19:47:51", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Interested in a #job in #NewYork, NY? This could be a great fit: https://t.co/rZgGBwjmi9 #CitiCareers #Actuarial #Hiring #CareerArc", 
+            "id": "796789896820105216", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T19:01:29", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "If you're looking for work in #NewYork, NY, check out this #job: https://t.co/7HE1lndz4J #CitiCareers #Actuarial #Hiring #CareerArc", 
+            "id": "796766514196004868", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T17:28:34", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "We're #hiring! Click to apply: Modeling/Scoring/Analysis Senior Manager - https://t.co/4JnMCMEaK6 #CitiCareers #Actuarial #NewYork, NY", 
+            "id": "796743145769693184", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T15:55:43", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "If you're looking for work in #NewYork, NY, check out this #job: https://t.co/facbBZ5Kg4 #CitiCareers #Actuarial #Hiring #CareerArc", 
+            "id": "796719780304547840", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T14:22:52", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92955.0, 
+                    "name": "Olympic Tower", 
+                    "osm_id": 266010393.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job in #NewYorkCity, NY? https://t.co/pSxnIRd1Zy #Actuarial #Hiring #CareerArc", 
+            "id": "796708099620933632", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T13:36:27", 
+            "coordinates": [
+                -73.9697795, 
+                40.7593941
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "399 Park Avenue", 
+                    "30 Rockefeller Plaza", 
+                    "Olympic Tower", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 9, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "If you're looking for work in #NewYork, NY, check out this #job: https://t.co/K2nUb9zXEw #CitiCareers #Actuarial #Hiring #CareerArc", 
+            "id": "796696423676813312", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T12:50:03", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "We're #hiring! Click to apply: Modeling/Scoring/Analysis Senior Manager - https://t.co/wmnz29niMG #CitiCareers #Actuarial #NewYork, NY", 
+            "id": "796475998497710080", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T22:14:10", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "We're #hiring! Click to apply: Modeling Scoring Analyst 4 - https://t.co/zRbGfu5sVC #Job #CitiCareers #Actuarial #NewYork, NY #Jobs", 
+            "id": "796429256632856576", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T19:08:26", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "See our latest #NewYork, NY #job and click to apply: CCAR RWA Forecasting &amp; Analytics Regulatory Risk - https://t.co/e2i3tipbHK #Actuarial", 
+            "id": "796394180385730560", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T16:49:03", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job? Digital Product Manager, Fraud Risk - https://t.co/9ysQLDakXZ #CitiCareers #Actuarial #NewYork, NY", 
+            "id": "796370814475997184", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T15:16:12", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Interested in a #job in #NewYork, NY? This could be a great fit: https://t.co/JSYLOX79An #CitiCareers #Actuarial #Hiring #CareerArc", 
+            "id": "796358133035581441", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T14:25:49", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House", 
+                    "osm_id": -1999493.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior", 
+                    "osm_id": 265432783.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue", 
+                    "osm_id": 266170774.0
+                }, 
+                {
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue", 
+                    "osm_id": 266233360.0
+                }
+            ], 
+            "text": "Join the CITI team! See our latest #job opening here: https://t.co/2eZOX27ChY #CitiCareers #Actuarial #NewYork, NY #Hiring #CareerArc", 
+            "id": "796346727900934144", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-09T13:40:29", 
+            "coordinates": [
+                -73.9271644, 
+                40.7595044
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Lever House", 
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Park Avenue Plaza", 
+                    "640 5th Avenue"
+                ]
+            }, 
+            "building_frequency": {
+                "synagogue": 2, 
+                "commercial": 7, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 544.0, 
+                    "name": "Stevens Institute of Technology", 
+                    "osm_id": 26974143.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16764.0, 
+                    "name": "Windsor Court", 
+                    "osm_id": 248143475.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 16842.0, 
+                    "name": "Capitol at Chelsea", 
+                    "osm_id": 248143760.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87455.0, 
+                    "name": "Instrata NoMad", 
+                    "osm_id": 265042538.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88471.0, 
+                    "name": "The Anthem", 
+                    "osm_id": 265268122.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 88487.0, 
+                    "name": "Public School 116", 
+                    "osm_id": 265268231.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125728.0, 
+                    "name": "Chelsea Tower", 
+                    "osm_id": 287496552.0
+                }
+            ], 
+            "text": "Can you recommend anyone for this #job in #LongIslandCity, NY? https://t.co/P2kK8nLiDs #CitiCareers #Actuarial #Hiring #CareerArc", 
+            "id": "779297596938477568", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-23T12:33:20", 
+            "coordinates": [
+                -73.9485424, 
+                40.744679
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Windsor Court", 
+                    "Capitol at Chelsea", 
+                    "Instrata NoMad", 
+                    "The Anthem", 
+                    "Chelsea Tower"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "office": 2, 
+                "apartments": 6
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building", 
+                    "osm_id": 163465869.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater", 
+                    "osm_id": 266149330.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre", 
+                    "osm_id": 266149329.0
+                }
+            ], 
+            "text": "Join the Crowe Horwath team! See our latest #job opening here: https://t.co/u9FH2XAzOh #Actuarial #NewYork, NY #Hiring #CareerArc", 
+            "id": "750683756155940865", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-06T13:32:09", 
+            "coordinates": [
+                -73.9752018, 
+                40.7589167
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "News Corp. Building"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 4, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building", 
+                    "osm_id": 163465869.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater", 
+                    "osm_id": 266149330.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre", 
+                    "osm_id": 266149329.0
+                }
+            ], 
+            "text": "If you're a #Actuarial professional in #NewYork, NY, check out this #job: https://t.co/axlIE3l76P #Hiring #CareerArc", 
+            "id": "748574266476498944", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-30T17:49:47", 
+            "coordinates": [
+                -73.9752018, 
+                40.7589167
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "News Corp. Building"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 4, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

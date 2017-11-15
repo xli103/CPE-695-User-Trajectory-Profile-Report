@@ -1,0 +1,2785 @@
+{
+    "total_favorite_count": 175, 
+    "followers_count": 852, 
+    "total_tweets": 68, 
+    "user_id": 39638688, 
+    "screen_name": "2reezy", 
+    "friends_count": 905, 
+    "buildings": {
+        "school": 12, 
+        "office": 6, 
+        "theatre": 11, 
+        "civic": 3, 
+        "museum": 3, 
+        "apartments": 56, 
+        "commercial": 39, 
+        "supermarket": 2, 
+        "construction": 6, 
+        "library": 3, 
+        "church": 6, 
+        "warehouse": 3, 
+        "ship": 2, 
+        "retail": 28, 
+        "university": 7
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "It does! @ New York, New York https://t.co/08Jm8L0MPE", 
+            "id": "786345741178601472", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:20:08", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Just posted a photo @ New York, New York https://t.co/JMusw3sSnB", 
+            "id": "786221925135769601", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T15:08:08", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "@JessicaLClarke_ @ New York, New York https://t.co/1pj8z2Nk0z", 
+            "id": "785323288570585088", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-10T03:37:17", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "@mlb #playoff2016 @ New York, New York https://t.co/WM3kl1FTc7", 
+            "id": "785315054128431104", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-10T03:04:34", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Just posted a photo @ New York, New York https://t.co/ciafXZ0o7f", 
+            "id": "785266038111735808", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-09T23:49:47", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Of course the bay is the 1st to use @brunomars #24KMagic as bumper\u2026 https://t.co/MTGCvV5dh2", 
+            "id": "785255914945339392", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-09T23:09:34", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "This also happened! Tomorrow Radio City! @alessiacara @923amp @ New\u2026 https://t.co/YWTK8T0N96", 
+            "id": "783154131867492352", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-04T03:57:49", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Great to catch up with this guy!! Dope music! #DontSleep\u2026 https://t.co/C8foZjqmPw", 
+            "id": "783153587161538564", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-04T03:55:40", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "That type of night! @fatbellybella never gets old! @ New York, New York https://t.co/fy84dWpBbB", 
+            "id": "783139075096207361", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-04T02:58:00", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Grab a bar!! @ New York, New York https://t.co/3Qj90Vtk8h", 
+            "id": "782764253291905025", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-03T02:08:35", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 688.0, 
+                    "name": "Millennium Tower Residences", 
+                    "osm_id": 129700432.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99256.0, 
+                    "name": "45 Wall Street", 
+                    "osm_id": 278042241.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99408.0, 
+                    "name": "Le Rivage", 
+                    "osm_id": 278067734.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99471.0, 
+                    "name": "The Downtown Club", 
+                    "osm_id": 278067735.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 103709.0, 
+                    "name": "Public School 16", 
+                    "osm_id": 279588434.0
+                }, 
+                {
+                    "type": "warehouse", 
+                    "id": 126250.0, 
+                    "name": "Fulton Fish Market", 
+                    "osm_id": 328238988.0
+                }
+            ], 
+            "text": "Out with the homie val_the_voice @ Sweet Science https://t.co/xSIcSqnR2r", 
+            "id": "732404011173871616", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-17T02:54:58", 
+            "coordinates": [
+                -73.9432, 
+                40.70624
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Millennium Tower Residences", 
+                    "45 Wall Street", 
+                    "Le Rivage", 
+                    "The Downtown Club"
+                ]
+            }, 
+            "building_frequency": {
+                "warehouse": 2, 
+                "school": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Happy hour wif @steve_ampradio @ Westville https://t.co/w9enVFebvg", 
+            "id": "719640734257831940", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-11T21:38:15", 
+            "coordinates": [
+                -74.00754, 
+                40.72713
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "Yep! @ Barclays Centre Brooklyn New York https://t.co/a67p6lvDKT", 
+            "id": "715356762363326466", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-31T01:55:17", 
+            "coordinates": [
+                -73.9760359, 
+                40.68306968
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 697.0, 
+                    "name": "AXA Equitable Center", 
+                    "osm_id": 137707119.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 760.0, 
+                    "name": "UBS Building", 
+                    "osm_id": 146028965.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 774.0, 
+                    "name": "Calyon Building", 
+                    "osm_id": 146028962.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 783.0, 
+                    "name": "Museum Tower", 
+                    "osm_id": 148251193.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 855.0, 
+                    "name": "Winter Garden Theatre", 
+                    "osm_id": 163502865.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83607.0, 
+                    "name": "CBS Building", 
+                    "osm_id": 259748031.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }, 
+                {
+                    "type": "museum", 
+                    "id": 100954.0, 
+                    "name": "Museum of Modern Art", 
+                    "osm_id": 278346578.0
+                }
+            ], 
+            "text": "Just posted a photo @ MoMA The Museum of Modern Art https://t.co/15hC0f0f63", 
+            "id": "713820505074245632", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-26T20:10:45", 
+            "coordinates": [
+                -73.97712991, 
+                40.76148016
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "AXA Equitable Center", 
+                    "UBS Building", 
+                    "Calyon Building", 
+                    "CBS Building"
+                ]
+            }, 
+            "building_frequency": {
+                "museum": 2, 
+                "church": 2, 
+                "commercial": 5, 
+                "theatre": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 697.0, 
+                    "name": "AXA Equitable Center", 
+                    "osm_id": 137707119.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 760.0, 
+                    "name": "UBS Building", 
+                    "osm_id": 146028965.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 774.0, 
+                    "name": "Calyon Building", 
+                    "osm_id": 146028962.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 783.0, 
+                    "name": "Museum Tower", 
+                    "osm_id": 148251193.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 855.0, 
+                    "name": "Winter Garden Theatre", 
+                    "osm_id": 163502865.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83607.0, 
+                    "name": "CBS Building", 
+                    "osm_id": 259748031.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }, 
+                {
+                    "type": "museum", 
+                    "id": 100954.0, 
+                    "name": "Museum of Modern Art", 
+                    "osm_id": 278346578.0
+                }
+            ], 
+            "text": "This is happening @ MoMA The Museum of Modern Art https://t.co/pgucrb44bl", 
+            "id": "713816530170064897", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-26T19:54:57", 
+            "coordinates": [
+                -73.97712991, 
+                40.76148016
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "AXA Equitable Center", 
+                    "UBS Building", 
+                    "Calyon Building", 
+                    "CBS Building"
+                ]
+            }, 
+            "building_frequency": {
+                "museum": 2, 
+                "church": 2, 
+                "commercial": 5, 
+                "theatre": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "ship", 
+                    "id": 603.0, 
+                    "name": "USS Intrepid", 
+                    "osm_id": 50603780.0
+                }, 
+                {
+                    "type": "supermarket", 
+                    "id": 126441.0, 
+                    "name": "Food Basics", 
+                    "osm_id": 371377293.0
+                }
+            ], 
+            "text": "Nice View! @ the Press Lounge https://t.co/3cFXvl9851", 
+            "id": "711346109348749314", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-20T00:18:23", 
+            "coordinates": [
+                -73.9959869, 
+                40.7645683
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "ship", 
+                "name": [
+                    "USS Intrepid"
+                ]
+            }, 
+            "building_frequency": {
+                "ship": 2, 
+                "supermarket": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99123.0, 
+                    "name": "Gateway Plaza 500", 
+                    "osm_id": 277919044.0
+                }
+            ], 
+            "text": "It's one of those times I realize I live in NYC! #NeverForget @ 9/11\u2026 https://t.co/zfybJc44Gf", 
+            "id": "708753319586635781", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-12T20:35:34", 
+            "coordinates": [
+                -74.01308718, 
+                40.71158339
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Gateway Plaza 500"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation", 
+                    "osm_id": 250490292.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 87180.0, 
+                    "name": "45 East 22nd Street", 
+                    "osm_id": 264768930.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments", 
+                    "osm_id": 351324339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "Nice! @ The Gramercy Theatre https://t.co/koiMo3s4Yb", 
+            "id": "676233506469597185", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-14T02:53:26", 
+            "coordinates": [
+                -73.9849167, 
+                40.7399101
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Marine View Apartments", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation", 
+                    "osm_id": 250490292.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 87180.0, 
+                    "name": "45 East 22nd Street", 
+                    "osm_id": 264768930.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments", 
+                    "osm_id": 351324339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "@monicabrown going in! @ The Gramercy Theatre https://t.co/jJw1sLbEPS", 
+            "id": "676231412891189249", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-14T02:45:07", 
+            "coordinates": [
+                -73.9849167, 
+                40.7399101
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Marine View Apartments", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation", 
+                    "osm_id": 250490292.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 87180.0, 
+                    "name": "45 East 22nd Street", 
+                    "osm_id": 264768930.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments", 
+                    "osm_id": 351324339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "@wearexso &amp; rsdj_dmoney was nice with it!! @dtrane11 @ The Gramercy\u2026 https://t.co/ZPn4xrxBGb", 
+            "id": "676214778117926912", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-14T01:39:01", 
+            "coordinates": [
+                -73.9849167, 
+                40.7399101
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Marine View Apartments", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 81839.0, 
+                    "name": "Department of Sanitation", 
+                    "osm_id": 250490292.0
+                }, 
+                {
+                    "type": "construction", 
+                    "id": 87180.0, 
+                    "name": "45 East 22nd Street", 
+                    "osm_id": 264768930.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments", 
+                    "osm_id": 351324339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "Gonna check this out! Gotta see my dude rsdj_dmoney @wearexso  get\u2026 https://t.co/0HJzO59qUW", 
+            "id": "676205453743939584", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-14T01:01:58", 
+            "coordinates": [
+                -73.9849167, 
+                40.7399101
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Marine View Apartments", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "construction": 2, 
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "@dtrane11 @wearexso just came through!! Awesome women!! @ CBS New York https://t.co/QhADvdXGsI", 
+            "id": "675456532235100160", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-11T23:26:01", 
+            "coordinates": [
+                -74.0074539, 
+                40.7275696
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm", 
+                    "osm_id": 264656621.0
+                }, 
+                {
+                    "type": "library", 
+                    "id": 89209.0, 
+                    "name": "\u7d10\u7d04\u5716\u66f8\u9928", 
+                    "osm_id": 265302076.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92848.0, 
+                    "name": "Graybar Building", 
+                    "osm_id": 265947361.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 126369.0, 
+                    "name": "Holy Family Catholic Church", 
+                    "osm_id": 354612946.0
+                }
+            ], 
+            "text": "Crazy!!!! @ Mamajuana Cafe Queens https://t.co/LrwWQD5r3m", 
+            "id": "660702904593031168", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-01T06:20:22", 
+            "coordinates": [
+                -73.9048462, 
+                40.7527885
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Holy Family Catholic Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 2, 
+                "library": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm", 
+                    "osm_id": 264656621.0
+                }, 
+                {
+                    "type": "library", 
+                    "id": 89209.0, 
+                    "name": "\u7d10\u7d04\u5716\u66f8\u9928", 
+                    "osm_id": 265302076.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92848.0, 
+                    "name": "Graybar Building", 
+                    "osm_id": 265947361.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 126369.0, 
+                    "name": "Holy Family Catholic Church", 
+                    "osm_id": 354612946.0
+                }
+            ], 
+            "text": "This guy!!! #halloween @lboogsonair @ Mamajuana Cafe Queens https://t.co/dJHVYFXTXT", 
+            "id": "660685521883107328", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-01T05:11:18", 
+            "coordinates": [
+                -73.9048462, 
+                40.7527885
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Holy Family Catholic Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 2, 
+                "library": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Checking out the homie @deejaytoro @steve_ampradio @923nightshow @ New\u2026 https://t.co/xIeTdICOFy", 
+            "id": "654851156754214912", 
+            "favorite_count": 1, 
+            "created_at": "2015-10-16T02:47:36", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 105619.0, 
+                    "name": "Brooklyn Latin School", 
+                    "osm_id": 279649737.0
+                }
+            ], 
+            "text": "That view tho! @ Tiki Disco https://t.co/Luve5K22vk", 
+            "id": "628012988788772864", 
+            "favorite_count": 0, 
+            "created_at": "2015-08-03T01:22:19", 
+            "coordinates": [
+                -73.93374401, 
+                40.70503241
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Brooklyn Latin School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 9986.0, 
+                    "name": "Brooklyn Heights Montessori School Annex", 
+                    "osm_id": 245221169.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 9999.0, 
+                    "name": "Brooklyn Heights Montessori School", 
+                    "osm_id": 245221186.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 72968.0, 
+                    "name": "Our Lady Queen of All Saints School", 
+                    "osm_id": 250361579.0
+                }
+            ], 
+            "text": "Yoooooo mook!! Open da door!! @ Marietta - Brooklyn https://t.co/OvWaHMK0II", 
+            "id": "623993661869674496", 
+            "favorite_count": 1, 
+            "created_at": "2015-07-22T23:10:56", 
+            "coordinates": [
+                -73.9625473, 
+                40.6879845
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Brooklyn Heights Montessori School Annex", 
+                    "Brooklyn Heights Montessori School", 
+                    "Our Lady Queen of All Saints School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "Going down! @mahjestik @ The Delancey https://t.co/NfKeSJnDfj", 
+            "id": "617228062451740672", 
+            "favorite_count": 0, 
+            "created_at": "2015-07-04T07:06:52", 
+            "coordinates": [
+                -73.9852676, 
+                40.7180214
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Thank you! I felt loved at least for one day! @ CBS New York https://t.co/RVRSr5Cm5v", 
+            "id": "616745752275124224", 
+            "favorite_count": 0, 
+            "created_at": "2015-07-02T23:10:20", 
+            "coordinates": [
+                -74.0074539, 
+                40.7275696
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "#Pizza #Les @mahjestik @ The Delancey https://t.co/anEGbz9TDx", 
+            "id": "616418040008339456", 
+            "favorite_count": 0, 
+            "created_at": "2015-07-02T01:28:07", 
+            "coordinates": [
+                -73.9852676, 
+                40.7180214
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Xtra funny card from #alli_M @ CBS New York https://t.co/1QweB7S2AO", 
+            "id": "616366031448244224", 
+            "favorite_count": 1, 
+            "created_at": "2015-07-01T22:01:28", 
+            "coordinates": [
+                -74.0074539, 
+                40.7275696
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Cool bday card from my co-workers! @ CBS New York https://t.co/TF12rdkXBI", 
+            "id": "616365614391795716", 
+            "favorite_count": 0, 
+            "created_at": "2015-07-01T21:59:48", 
+            "coordinates": [
+                -74.0074539, 
+                40.7275696
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "#GroupHome that kinda Friday!! @ CBS New York https://t.co/UkI5ha7p1L", 
+            "id": "614545543105220608", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-26T21:27:29", 
+            "coordinates": [
+                -74.0074539, 
+                40.7275696
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Cool peeps! @torikelly new CD out now! Pretty dope! Get it on iTunes! @ CBS New York https://t.co/nM8kBZYTEK", 
+            "id": "613566421625405440", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-24T04:36:49", 
+            "coordinates": [
+                -74.0074539, 
+                40.7275696
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "So this happened! @selenagomez is a pretty cool lady! Make sure u look for her new single out on\u2026 https://t.co/fvv5EKVFnW", 
+            "id": "613471945762471938", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-23T22:21:24", 
+            "coordinates": [
+                -74.0074539, 
+                40.7275696
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "TBT kristen_mariee lyssclarkin michaelnortiz @coridej  look @ you now!!! @ CBS New York https://t.co/96md2kR1X0", 
+            "id": "611670826962812928", 
+            "favorite_count": 1, 
+            "created_at": "2015-06-18T23:04:24", 
+            "coordinates": [
+                -74.0074539, 
+                40.7275696
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "From the PR Parade with @prflagsup to Amplify 2015 #CommercialFreeWeekends @923amp @ Barclays Center https://t.co/fho1omU7Cm", 
+            "id": "610224565134970881", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-14T23:17:28", 
+            "coordinates": [
+                -73.97585541, 
+                40.68306203
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails", 
+                    "osm_id": 265355139.0
+                }
+            ], 
+            "text": "@prflagsup @923amp #CommercialFreeWeekends #PRParade @ Central Park https://t.co/LTpUUUw6hF", 
+            "id": "610177726209724416", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-14T20:11:21", 
+            "coordinates": [
+                -73.97530669, 
+                40.76892437
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Bijou Nails"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails", 
+                    "osm_id": 265355139.0
+                }
+            ], 
+            "text": "@923amp @whoispvalentine @prflagsup @ Central Park https://t.co/SEt9Phwdt3", 
+            "id": "610174920191049728", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-14T20:00:12", 
+            "coordinates": [
+                -73.97530669, 
+                40.76892437
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Bijou Nails"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails", 
+                    "osm_id": 265355139.0
+                }
+            ], 
+            "text": "Going up! @prflagsup @ Central Park https://t.co/KnJ5kqdkqK", 
+            "id": "610174146757193729", 
+            "favorite_count": 1, 
+            "created_at": "2015-06-14T19:57:07", 
+            "coordinates": [
+                -73.97530669, 
+                40.76892437
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Bijou Nails"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 599.0, 
+                    "name": "Morgan Stanley Building", 
+                    "osm_id": 42496284.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 671.0, 
+                    "name": "1290 Avenue of the Americas", 
+                    "osm_id": 109284795.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 685.0, 
+                    "name": "666 Fifth Avenue", 
+                    "osm_id": 118476502.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 761.0, 
+                    "name": "Exxon Building", 
+                    "osm_id": 146031971.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 817.0, 
+                    "name": "Manhattan Plaza Apartments II", 
+                    "osm_id": 159912559.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 83554.0, 
+                    "name": "Platinum", 
+                    "osm_id": 258619237.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89475.0, 
+                    "name": "The Strand", 
+                    "osm_id": 265319596.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 89572.0, 
+                    "name": "Film Center", 
+                    "osm_id": 265320243.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93190.0, 
+                    "name": "Barrymore Theatre", 
+                    "osm_id": 266149297.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93209.0, 
+                    "name": "Brooks Atkinson Theatre", 
+                    "osm_id": 266149301.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93251.0, 
+                    "name": "1600 Broadway", 
+                    "osm_id": 266151930.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93539.0, 
+                    "name": "1270 Avenue of the Americas", 
+                    "osm_id": 266170801.0
+                }
+            ], 
+            "text": "Going ok Skl!! @prflagsup @ Robb Report NYC https://t.co/PPpIndjic3", 
+            "id": "610169711549153280", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-14T19:39:30", 
+            "coordinates": [
+                -73.97576068, 
+                40.76007481
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Morgan Stanley Building", 
+                    "1290 Avenue of the Americas", 
+                    "666 Fifth Avenue", 
+                    "Exxon Building", 
+                    "1600 Broadway", 
+                    "1270 Avenue of the Americas"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 7, 
+                "theatre": 3, 
+                "office": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89056.0, 
+                    "name": "Victory Apartments", 
+                    "osm_id": 265300047.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92955.0, 
+                    "name": "Olympic Tower", 
+                    "osm_id": 266010393.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }
+            ], 
+            "text": "@puerticanflagsup @923amp #CommercialFreeWeekends @ Big Apple https://t.co/q65fbfieUA", 
+            "id": "610168329739878402", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-14T19:34:00", 
+            "coordinates": [
+                -73.976026, 
+                40.759291
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "McGraw-Hill Building", 
+                    "International Building", 
+                    "30 Rockefeller Plaza", 
+                    "Olympic Tower"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 5, 
+                "theatre": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building", 
+                    "osm_id": 163465869.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93221.0, 
+                    "name": "John Golden Theatre", 
+                    "osm_id": 266149325.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre", 
+                    "osm_id": 266149329.0
+                }
+            ], 
+            "text": "@whoispvalentine going Down!! @ Rockefeller Center https://t.co/q3w3ZTY0nT", 
+            "id": "610166014467293184", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-14T19:24:48", 
+            "coordinates": [
+                -73.97891041, 
+                40.75882679
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "30 Rockefeller Plaza", 
+                    "News Corp. Building"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 688.0, 
+                    "name": "Millennium Tower Residences", 
+                    "osm_id": 129700432.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99256.0, 
+                    "name": "45 Wall Street", 
+                    "osm_id": 278042241.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99408.0, 
+                    "name": "Le Rivage", 
+                    "osm_id": 278067734.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99471.0, 
+                    "name": "The Downtown Club", 
+                    "osm_id": 278067735.0
+                }, 
+                {
+                    "type": "warehouse", 
+                    "id": 126250.0, 
+                    "name": "Fulton Fish Market", 
+                    "osm_id": 328238988.0
+                }
+            ], 
+            "text": "@whoispvalentine chillin with the homie! @ Sweet Science https://t.co/q5rHWtswcf", 
+            "id": "609936216620969984", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-14T04:11:40", 
+            "coordinates": [
+                -73.9432144, 
+                40.7063179
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Millennium Tower Residences", 
+                    "45 Wall Street", 
+                    "Le Rivage", 
+                    "The Downtown Club"
+                ]
+            }, 
+            "building_frequency": {
+                "warehouse": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater", 
+                    "osm_id": 266149330.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre", 
+                    "osm_id": 266149329.0
+                }
+            ], 
+            "text": "Yo son!! Been looking for u all night!! Where u is? @trez90sd @ Times Square NYC https://t.co/tnx0VKgmuP", 
+            "id": "607473895470440449", 
+            "favorite_count": 1, 
+            "created_at": "2015-06-07T09:07:17", 
+            "coordinates": [
+                -73.985131, 
+                40.758895
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Richard Rodgers Theater", 
+                    "Music Box Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "theatre": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School", 
+                    "osm_id": 375874980.0
+                }
+            ], 
+            "text": "Look who showed up in #NYC @trez90sd @ The Dutch https://t.co/OV35gnOOlK", 
+            "id": "606536684658958336", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-04T19:03:09", 
+            "coordinates": [
+                -74.00222105, 
+                40.72650416
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Dr. Ronald E. McNair Academic High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "construction", 
+                    "id": 883.0, 
+                    "name": "Three World Trade Center", 
+                    "osm_id": 166839381.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99124.0, 
+                    "name": "Gateway Plaza 100", 
+                    "osm_id": 277919043.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99148.0, 
+                    "name": "Saint Paul's Chapel", 
+                    "osm_id": 277904752.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 99858.0, 
+                    "name": "Murry Bergtraum High School", 
+                    "osm_id": 278112878.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 103850.0, 
+                    "name": "15 Dunham Place", 
+                    "osm_id": 279593040.0
+                }
+            ], 
+            "text": "Heels?! Really?! @ Roaming Da Streets https://t.co/X4CA5JpycD", 
+            "id": "606257347833511936", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-04T00:33:10", 
+            "coordinates": [
+                -73.91681612, 
+                40.71130691
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Gateway Plaza 100", 
+                    "15 Dunham Place"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "school": 2, 
+                "construction": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Woo-hop! @ Wo Hop https://t.co/MgHhD8xdGz", 
+            "id": "604939410317189121", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-31T09:16:09", 
+            "coordinates": [
+                -73.99877818, 
+                40.71431182
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "The ladies @ wohop! @ Wo Hop https://t.co/FdtfSdDuPs", 
+            "id": "604920092586065920", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-31T07:59:23", 
+            "coordinates": [
+                -73.99877818, 
+                40.71431182
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Gotta do it! @ Roaming The Streets https://t.co/ZYCYdDgHo4", 
+            "id": "603711523471626241", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-27T23:56:58", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41", 
+                    "osm_id": 250474273.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126562.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377078046.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126566.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377077898.0
+                }
+            ], 
+            "text": "My SD peeps!!! @djjsmoove1 @ Union Square, Manhattan https://t.co/qZLnJrfKpl", 
+            "id": "603381907796131841", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-27T02:07:11", 
+            "coordinates": [
+                -73.99089887, 
+                40.73527279
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "The New School University Center", 
+                    "The New School University Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "university": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41", 
+                    "osm_id": 250474273.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126562.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377078046.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126566.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377077898.0
+                }
+            ], 
+            "text": "@djjsmoove1 in #NYC good times!! Talking shop!! @ Union Square, Manhattan https://t.co/NJN5wqMHvY", 
+            "id": "603370100645863424", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-27T01:20:16", 
+            "coordinates": [
+                -73.99089887, 
+                40.73527279
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "The New School University Center", 
+                    "The New School University Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "university": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Breakfast!! kristen_mariee @ Roaming The Streets https://t.co/GpLfsiLXga", 
+            "id": "603184372490043392", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-26T13:02:15", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "#raining #NYCProblems #NYCLivin @ Roaming The Streets https://t.co/EZTxrykHsn", 
+            "id": "599730423552471040", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-17T00:17:30", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Challenge accepted from @lboogshh for the #AmpNastyFreestyle BAM!! I'm calling out @jclarke_13\u2026 https://t.co/1hAZx8WUnX", 
+            "id": "599330228066975744", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-15T21:47:16", 
+            "coordinates": [
+                -74.007445, 
+                40.727571
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "This also happened! katdeluna she's awesome! @ CBS New York https://t.co/Qvm6c5K5mr", 
+            "id": "598625145763328001", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-13T23:05:31", 
+            "coordinates": [
+                -74.007445, 
+                40.727571
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "So yep this happened! @astraontheair katdeluna @ CBS New York https://t.co/292JOrtB84", 
+            "id": "598624697912262656", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-13T23:03:44", 
+            "coordinates": [
+                -74.007445, 
+                40.727571
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Oh yea this happened too! #NYC @ Roaming The Streets https://t.co/uneaSNYkJw", 
+            "id": "598339421277188096", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-13T04:10:09", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "So this happened earlier this evening! #NYC #DjKhaled @ Roaming The Streets https://t.co/uoWi3DhclI", 
+            "id": "598338573637722112", 
+            "favorite_count": 2, 
+            "created_at": "2015-05-13T04:06:47", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "#CommercialFreeWeekends follow us Twitter &amp; Instagram @923amp starting at 5p @ CBS New York https://t.co/CyZTcmDGr9", 
+            "id": "598197192743059456", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-12T18:44:59", 
+            "coordinates": [
+                -74.007445, 
+                40.727571
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 2.0, 
+                    "name": "The Dakota", 
+                    "osm_id": -1341944.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98402.0, 
+                    "name": "The Oliver Cromwell", 
+                    "osm_id": 269247818.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98443.0, 
+                    "name": "The Franconia", 
+                    "osm_id": 269247820.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "View from above! @ LaGuardia Airport https://t.co/NEPH3q3W8q", 
+            "id": "597579565360357378", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-11T01:50:45", 
+            "coordinates": [
+                -73.8721185, 
+                40.7765079
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Dakota", 
+                    "Lincoln Guild", 
+                    "The Oliver Cromwell", 
+                    "The Franconia"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "#Selfie #Take2 @ Roaming The Streets https://t.co/WEUjpsnRnN", 
+            "id": "597217619427598336", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-10T01:52:30", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "#Sarille #Selfie #Outing #Family @ Roaming The Streets https://t.co/ppeJZbcmYz", 
+            "id": "597217473482612736", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-10T01:51:56", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Still getting it in on the road!! #Passion @ Roaming The Streets https://t.co/rWqzqB75ZI", 
+            "id": "596770669955809280", 
+            "favorite_count": 2, 
+            "created_at": "2015-05-08T20:16:29", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "I got lost so I had to Google my way out! @ Roaming The Streets https://t.co/Q7SQi7n2Qv", 
+            "id": "594506210700853248", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-02T14:18:20", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Had to take a picture of this! @ Roaming The Streets https://t.co/plAusCxS3j", 
+            "id": "594504509134675968", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-02T14:11:34", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "#food4TheBrain @ Roaming The Streets https://t.co/fbJeBXGVgK", 
+            "id": "594466025481052161", 
+            "favorite_count": 0, 
+            "created_at": "2015-05-02T11:38:39", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "Damn its @deejaytoro ..can I get a loan! Hahaha @steve_ampradio @ Roaming The Streets https://t.co/lPuzJ9gIzE", 
+            "id": "593916304542855168", 
+            "favorite_count": 1, 
+            "created_at": "2015-04-30T23:14:16", 
+            "coordinates": [
+                -74.00738013, 
+                40.72750856
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

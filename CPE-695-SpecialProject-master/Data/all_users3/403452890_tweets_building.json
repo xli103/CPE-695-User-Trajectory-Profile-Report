@@ -1,0 +1,2064 @@
+{
+    "total_favorite_count": 194, 
+    "followers_count": 601, 
+    "total_tweets": 58, 
+    "user_id": 403452890, 
+    "screen_name": "enzodinapoli123", 
+    "friends_count": 2337, 
+    "buildings": {
+        "school": 23, 
+        "hotel": 2, 
+        "office": 3, 
+        "apartments": 44, 
+        "residential": 2, 
+        "university": 3, 
+        "civic": 2, 
+        "commercial": 19, 
+        "church": 4, 
+        "retail": 8, 
+        "hospital": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86.0, 
+                    "name": "Middle School 88", 
+                    "osm_id": -3343781.0
+                }
+            ], 
+            "text": "Tonight as a gift to myself on my #birthday I fed my family at my restaurant. Family, friends,\u2026 https://t.co/qafu2sJ1s8", 
+            "id": "794359601059631104", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-04T02:04:22", 
+            "coordinates": [
+                -73.98036, 
+                40.6602
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Middle School 88"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86.0, 
+                    "name": "Middle School 88", 
+                    "osm_id": -3343781.0
+                }
+            ], 
+            "text": "And just like that. We're open. Welcome to #oggipizzabar \ud83c\udf55\ud83c\udf7a\ud83c\udf7b\ud83c\udf77 @ Oggi Pizza Bar https://t.co/KQRXeEtEXe", 
+            "id": "793931271634157568", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-02T21:42:20", 
+            "coordinates": [
+                -73.98036, 
+                40.6602
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Middle School 88"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86.0, 
+                    "name": "Middle School 88", 
+                    "osm_id": -3343781.0
+                }
+            ], 
+            "text": "I was never a Bartender but now I have my own Restaurant and Bar #tap #beer #wine #pizza\u2026 https://t.co/mmQKvJNlZD", 
+            "id": "790294153074585601", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-23T20:49:43", 
+            "coordinates": [
+                -73.98036, 
+                40.6602
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Middle School 88"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86.0, 
+                    "name": "Middle School 88", 
+                    "osm_id": -3343781.0
+                }
+            ], 
+            "text": "Who's these mystery men behind #oggipizzabar? \ud83d\udc40\ud83d\udd75\ud83c\udffb\u200d\u2640\ufe0f\ud83d\udd75\ud83c\udffc @ Oggi Pizza Bar https://t.co/zawhEL9guu", 
+            "id": "788861539973410818", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-19T21:57:02", 
+            "coordinates": [
+                -73.98036, 
+                40.6602
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Middle School 88"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86.0, 
+                    "name": "Middle School 88", 
+                    "osm_id": -3343781.0
+                }
+            ], 
+            "text": "Put #love in your #work #wednesday #pizza is my #wcw We #love the #dough more than you know\u2026 https://t.co/v70ZoVhHG2", 
+            "id": "786342373793996800", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T23:06:46", 
+            "coordinates": [
+                -73.98021878, 
+                40.66044715
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Middle School 88"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86.0, 
+                    "name": "Middle School 88", 
+                    "osm_id": -3343781.0
+                }
+            ], 
+            "text": "#sunday #sundays We #love the #dough more than you know #recipes #italian #recipe #pizza #pizza\ud83c\udf55\u2026 https://t.co/AaIGOHGOOu", 
+            "id": "785967843422507008", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-11T22:18:31", 
+            "coordinates": [
+                -73.98021878, 
+                40.66044715
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Middle School 88"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86.0, 
+                    "name": "Middle School 88", 
+                    "osm_id": -3343781.0
+                }
+            ], 
+            "text": "#wine #tasting #perks #food #foodporn #foodie #foodies #oggipizzabar #comingsoon\u2026 https://t.co/Rh4M3DMawR", 
+            "id": "784107009612230656", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-06T19:04:13", 
+            "coordinates": [
+                -73.98021878, 
+                40.66044715
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Middle School 88"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86.0, 
+                    "name": "Middle School 88", 
+                    "osm_id": -3343781.0
+                }
+            ], 
+            "text": "#monday #mondays We #love the #dough more that you know #recipes #italian #recipe #pizza #pizza\ud83c\udf55\u2026 https://t.co/zG0UfbfvAz", 
+            "id": "783000882421964800", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-03T17:48:52", 
+            "coordinates": [
+                -73.98021878, 
+                40.66044715
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Middle School 88"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 86.0, 
+                    "name": "Middle School 88", 
+                    "osm_id": -3343781.0
+                }
+            ], 
+            "text": "I come #alive in the #fall #time \ud83c\udf42\ud83c\udf41\ud83d\udd58 #rp cleonardi Aunt Carla #oggipizzabar #coming soon\u2026 https://t.co/IMms7kkqZ5", 
+            "id": "782229066678099968", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-01T14:41:57", 
+            "coordinates": [
+                -73.98021878, 
+                40.66044715
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Middle School 88"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Welcome to the #family #baby #cousin Sal future #hockey #player @nyrangers big cousin Enzo will\u2026 https://t.co/v5eozld5r9", 
+            "id": "779081410132967426", 
+            "favorite_count": 3, 
+            "created_at": "2016-09-22T22:14:17", 
+            "coordinates": [
+                -73.99289351, 
+                40.75051355
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 331.0, 
+                    "name": "Public School 321", 
+                    "osm_id": -3364727.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA", 
+                    "osm_id": 248168055.0
+                }
+            ], 
+            "text": "#summer #nights #myhome #town #brooklyn  I can go anywhere on this planet but Brooklyn is #me\u2026 https://t.co/210tnXcKuz", 
+            "id": "762095611822899200", 
+            "favorite_count": 2, 
+            "created_at": "2016-08-07T01:18:47", 
+            "coordinates": [
+                -73.96371226, 
+                40.67143437
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 321"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 90187.0, 
+                    "name": "Longacre House", 
+                    "osm_id": 265331324.0
+                }
+            ], 
+            "text": "#happybirthday to the #queen 08/04 a Leo \ud83e\udd81#mommadukes thanks for everything and always reminding\u2026 https://t.co/8QzJGfuGhK", 
+            "id": "761348551775547392", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-04T23:50:14", 
+            "coordinates": [
+                -73.98661106, 
+                40.76266807
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Longacre House"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "The #best #men #cousins #brother #family @ New York, New York https://t.co/ocIXbhh6tc", 
+            "id": "747151700146921473", 
+            "favorite_count": 1, 
+            "created_at": "2016-06-26T19:37:01", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 331.0, 
+                    "name": "Public School 321", 
+                    "osm_id": -3364727.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA", 
+                    "osm_id": 248168055.0
+                }
+            ], 
+            "text": "Find #ecstasy in #life; the mere sense of living is #joy enough. @DanielleOlverd\u2026 https://t.co/OlkEgSBcGe", 
+            "id": "729122091971293185", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-08T01:33:47", 
+            "coordinates": [
+                -73.96371226, 
+                40.67143437
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 321"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 331.0, 
+                    "name": "Public School 321", 
+                    "osm_id": -3364727.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA", 
+                    "osm_id": 248168055.0
+                }
+            ], 
+            "text": "#night at the #museum #music #tomsachs #one of my #favorite #artist #wine #saturday\u2026 https://t.co/fnXmhrWmc0", 
+            "id": "729095577238175744", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-07T23:48:26", 
+            "coordinates": [
+                -73.96371226, 
+                40.67143437
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 321"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "#happy #sunday #passion #italiaislove #dg #grande stefanogabbana @peperussoph\u2026 https://t.co/6DXJKbwnI2", 
+            "id": "726782741866549249", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-01T14:38:03", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "#hockey #buddies #cocaptains of the all #mighty #flames #onetime #champions @ Madison Square Garden https://t.co/rt1HCeNyzz", 
+            "id": "722556055285338115", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-19T22:42:42", 
+            "coordinates": [
+                -73.99289351, 
+                40.75051355
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Let's #go @nyrangers lets go #blueshirts #playoffs #nyc #hockey is #life @ Madison Square Garden https://t.co/C61yMXLtuL", 
+            "id": "722555744818765824", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-19T22:41:28", 
+            "coordinates": [
+                -73.99289351, 
+                40.75051355
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "#my #man for over 15 #years looked #up to #him #my #mentor andre_guillette norwoodclub #thanks\u2026 https://t.co/Hxt1C050vC", 
+            "id": "720781951511175168", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-15T01:13:03", 
+            "coordinates": [
+                -74.0012436, 
+                40.739521
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments", 
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "#tbt #someone #birthday is coming #up my #cousins #cookiemonster #booboo @leo_claudd  #family\u2026 https://t.co/AuSQGytKqi", 
+            "id": "720579916828426240", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-14T11:50:14", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "#monday #motivation #wish #it #was #sunday that's #my #funday #everyday is #money #day\u2026 https://t.co/ezWalN8caH", 
+            "id": "719532942343741440", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-11T14:29:56", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall", 
+                    "osm_id": 241846074.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building", 
+                    "osm_id": 241846109.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence", 
+                    "osm_id": 249979270.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology", 
+                    "osm_id": 250369747.0
+                }
+            ], 
+            "text": "#wednesday #motivation Dips in #bushwick  #night #hiimenzo #instaart #photooftheday #beautiful\u2026 https://t.co/JDTq1SBFHV", 
+            "id": "710123349779808256", 
+            "favorite_count": 0, 
+            "created_at": "2016-03-16T15:19:34", 
+            "coordinates": [
+                -73.92027413, 
+                40.69571377
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "New York City College of Technology - Namm Hall", 
+                    "New York City College of Technology - Adams Street Building", 
+                    "Bushwick Leaders' High School for Academic Excellence", 
+                    "New York City College of Technology"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 5
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }
+            ], 
+            "text": "#biggie #small is the #illest #bushwick #dope #fresh #art #cool  #up #there @ The Bushwick\u2026 https://t.co/38604eTDbW", 
+            "id": "707613006973292546", 
+            "favorite_count": 1, 
+            "created_at": "2016-03-09T17:04:22", 
+            "coordinates": [
+                -73.9218, 
+                40.70762
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "Greenwich Club Residences"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99376.0, 
+                    "name": "1 Whitehall Street", 
+                    "osm_id": 278053579.0
+                }
+            ], 
+            "text": "One.  #truth #hiimenzo #instaart #photooftheday #beautiful #poetsofinstagram  #instagood\u2026 https://t.co/GDRShulXZS", 
+            "id": "696785654504624128", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-08T20:00:20", 
+            "coordinates": [
+                -73.99489003, 
+                40.70396892
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "1 Whitehall Street"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Hey #hiimenzo how are #you ? How's #life Haven't seen you in a while. How's the #family ?\u2026 https://t.co/zzrKTlVJZs", 
+            "id": "694646417055420419", 
+            "favorite_count": 0, 
+            "created_at": "2016-02-02T22:19:46", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "#tbt #ten years ago. pinkelephantnyc #night #hiimenzo #instaart #photooftheday #beautiful\u2026 https://t.co/tmDpTCcSKy", 
+            "id": "692728244525744128", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-28T15:17:38", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "When you're trying to follow a beat to practice with. #monday night music lessons #bored\u2026 https://t.co/E7VNAcyeUY", 
+            "id": "689540768344727553", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-19T20:11:44", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Momma Dukes pull out the poloralphlauren and @burberry Teddy bears collection. Old school. You\u2026 https://t.co/WbnCvyYTIy", 
+            "id": "686202707766591488", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-10T15:07:29", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Saturday Night Tea Sessions and Mind our own a business. #hiimenzo #instaart #photooftheday\u2026 https://t.co/AlocXCjAsl", 
+            "id": "686025643889410048", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-10T03:23:53", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "residential", 
+                    "id": 803.0, 
+                    "name": "One Brooklyn Bridge Park", 
+                    "osm_id": 157766603.0
+                }
+            ], 
+            "text": "My Brooklyn.. Baby Pushers.. \ud83d\udc76\ud83c\udffc\ud83c\udf7c#hiimenzo #instaart #photooftheday #beautiful #poetsofinstagram\u2026 https://t.co/cwF3tuaYJG", 
+            "id": "684420834631544833", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-05T17:06:57", 
+            "coordinates": [
+                -73.99270744, 
+                40.69361245
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "residential", 
+                "name": [
+                    "One Brooklyn Bridge Park"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 331.0, 
+                    "name": "Public School 321", 
+                    "osm_id": -3364727.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA", 
+                    "osm_id": 248168055.0
+                }
+            ], 
+            "text": "Big Tom #thebreaks @brooklynmuseum #hiimenzo #instaart #photooftheday #beautiful\u2026 https://t.co/0yd3kNVx03", 
+            "id": "683449259568553984", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-03T00:46:16", 
+            "coordinates": [
+                -73.96371226, 
+                40.67143437
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 321"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 331.0, 
+                    "name": "Public School 321", 
+                    "osm_id": -3364727.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 23337.0, 
+                    "name": "IKEA", 
+                    "osm_id": 248168055.0
+                }
+            ], 
+            "text": "The Breaks premiere #thebreaks @brooklynmuseum #brooklyn #hiimenzo #instaart #photooftheday\u2026 https://t.co/oK2pYLqeDk", 
+            "id": "683446863136165894", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-03T00:36:44", 
+            "coordinates": [
+                -73.96371226, 
+                40.67143437
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 321"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Okay one more. Baby cousin Maddalena. She was texting her girls all night. Hey, where you at? \ud83d\ude02\u2026 https://t.co/AHob6DmiMc", 
+            "id": "682957184041369600", 
+            "favorite_count": 0, 
+            "created_at": "2016-01-01T16:10:56", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa", 
+                    "osm_id": 269219557.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "#tbt Year ending strong. Thank you to everyone in my life. The good, bad, and especially the\u2026 https://t.co/mekOvm8Mwv", 
+            "id": "682564955657367552", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-31T14:12:21", 
+            "coordinates": [
+                -73.972216, 
+                40.77274259
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Grand Tier", 
+                    "The Europa", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 87837.0, 
+                    "name": "The Colonnade", 
+                    "osm_id": 265152145.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97892.0, 
+                    "name": "The Westport", 
+                    "osm_id": 269201860.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97917.0, 
+                    "name": "Harborview Terrace II", 
+                    "osm_id": 269199818.0
+                }
+            ], 
+            "text": "Ree Ree is back Enzo the skate instructor @reenielife #hiimenzo #instaart #photooftheday\u2026 https://t.co/BZSVTM7lyk", 
+            "id": "680911087508807680", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-27T00:40:28", 
+            "coordinates": [
+                -73.97446347, 
+                40.76799601
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Colonnade", 
+                    "The Westport", 
+                    "Harborview Terrace II"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Baby Cousin Maddalena. Genuine \u2665\ufe0f\ud83d\ude4f\ud83c\udffd\ud83d\ude4f\ud83c\udffd\ud83d\ude4c\ud83c\udffd\ud83d\ude4c\ud83c\udffd    #hiimenzo #instaart #photooftheday #beautiful\u2026 https://t.co/OUHsF5L8Pw", 
+            "id": "680764131419549696", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-26T14:56:31", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Love \ud83d\udc98\ud83c\uddee\ud83c\uddf9\ud83c\udf51\ud83c\udf84\ud83d\ude4f\ud83c\udffd it's not my fault. Great words ! realmrvalentino #rp #hiimenzo #instaart\u2026 https://t.co/EwAk1H4pp3", 
+            "id": "677876524222054405", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-18T15:42:12", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Merry Christmas. Even Bono \ud83d\udc36 gets his own tree. #hiimenzo #instaart #photooftheday #beautiful\u2026 https://t.co/U2R29AyFa0", 
+            "id": "676056273188741120", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-13T15:09:10", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Thoughts of Enzo. Swiped Documentary @hulu @abc @abcnewsradio #hiimenzo #instaart #photooftheday\u2026 https://t.co/UkcEvTuV4V", 
+            "id": "675422880151269376", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-11T21:12:18", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 126069.0, 
+                    "name": "Marine 1", 
+                    "osm_id": 311665216.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "#poetry only poetry #hiimenzo #instaart #photooftheday #beautiful #poetsofinstagram  #instagood\u2026 https://t.co/YbqB9X0N9z", 
+            "id": "671713908248453120", 
+            "favorite_count": 0, 
+            "created_at": "2015-12-01T15:34:10", 
+            "coordinates": [
+                -74.0067978, 
+                40.7406616
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "Marine 1"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm", 
+                    "osm_id": 264656621.0
+                }
+            ], 
+            "text": "Lonely diner pic on a selfie Saturday night. The city is quiet. Nightcrawler #night #nightcrawler\u2026 https://t.co/01PkmmYEsI", 
+            "id": "670820471902982144", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-29T04:23:58", 
+            "coordinates": [
+                -73.992981, 
+                40.7528496
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Ohm"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Hi, I'm baby Anna. #family #first #happythanksgivingday #hiimenzo #instaart #photooftheday #beautiful\u2026 https://t.co/aj3bjJ0y7S", 
+            "id": "670046123822866432", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-27T01:06:59", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "You used to... You used to... I know when that hotline bling. champagnepapi #hiimenzo #instaart\u2026 https://t.co/LTt96qkbvh", 
+            "id": "661538981155328000", 
+            "favorite_count": 0, 
+            "created_at": "2015-11-03T13:42:38", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "First @nyislanders game at the @barclayscenter uncle Ralph and cousin Pietro     #hiimenzo #instaart\u2026 https://t.co/2OqrjcmFJV", 
+            "id": "658774312682418181", 
+            "favorite_count": 0, 
+            "created_at": "2015-10-26T22:36:50", 
+            "coordinates": [
+                -73.97585645, 
+                40.68306273
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "university", 
+                    "id": 22322.0, 
+                    "name": "Elmer Holmes Bobst Library", 
+                    "osm_id": 248166208.0
+                }
+            ], 
+            "text": "@jillhennessy #hiimenzo #instaart #photooftheday #beautiful #poetsofinstagram  #instagood #instalike\u2026 https://t.co/9pPwEGpXCr", 
+            "id": "654483547407949824", 
+            "favorite_count": 2, 
+            "created_at": "2015-10-15T02:26:52", 
+            "coordinates": [
+                -73.991772, 
+                40.729259
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "Elmer Holmes Bobst Library"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "My Mood and my Moves. Happy Wednesday. What a time to be alive. #hiimenzo #instaart #photooftheday\u2026 https://t.co/93OmksS4QG", 
+            "id": "654364711891390464", 
+            "favorite_count": 0, 
+            "created_at": "2015-10-14T18:34:39", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "To Woof or Not To Woof that is the Question? My boy Bono Winston.. \u2764\ufe0f\ud83d\ude4f\ud83c\udffd\ud83d\udc3a #dog #hiimenzo #instaart\u2026 https://t.co/VuZpBt4a1U", 
+            "id": "650312951325421568", 
+            "favorite_count": 0, 
+            "created_at": "2015-10-03T14:14:24", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows", 
+                    "osm_id": 278284163.0
+                }
+            ], 
+            "text": "Good girl gone Naughty. jasondb_nyc on the ones and twos #hiimenzo #instaart #photooftheday\u2026 https://t.co/s2sCgJXRbg", 
+            "id": "647229465681088512", 
+            "favorite_count": 0, 
+            "created_at": "2015-09-25T02:01:44", 
+            "coordinates": [
+                -73.9546738, 
+                40.7190018
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Our Lady of Sorrows"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 35116.0, 
+                    "name": "St. Anthony of Padua Church", 
+                    "osm_id": 249663231.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 115320.0, 
+                    "name": "Junior High School 126", 
+                    "osm_id": 280123701.0
+                }
+            ], 
+            "text": "I always said this from business to school to hockey to relationship. #hiimenzo #instaart\u2026 https://t.co/TZ15WNnYK3", 
+            "id": "642687668996939776", 
+            "favorite_count": 0, 
+            "created_at": "2015-09-12T13:14:15", 
+            "coordinates": [
+                -73.9527474, 
+                40.7271025
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Junior High School 126"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 90269.0, 
+                    "name": "15 Central Park West", 
+                    "osm_id": 265343861.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90299.0, 
+                    "name": "The Regent", 
+                    "osm_id": 265344258.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 90371.0, 
+                    "name": "New Technology Building", 
+                    "osm_id": 265344256.0
+                }, 
+                {
+                    "type": "hospital", 
+                    "id": 90623.0, 
+                    "name": "Mount Sinai Roosevelt Hospital", 
+                    "osm_id": 265355142.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 94930.0, 
+                    "name": "Cathedral of the Holy Trinity", 
+                    "osm_id": 266874645.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123617.0, 
+                    "name": "Woodrow Wilson School", 
+                    "osm_id": 280850927.0
+                }
+            ], 
+            "text": "Saturday night fever with my boys. White teeth \ud83d\ude01 tan skin \ud83d\udc71\ud83c\udffd la Bella vida at the standard hotel ,\u2026 https://t.co/mhQg36Zhqo", 
+            "id": "632730457193492480", 
+            "favorite_count": 0, 
+            "created_at": "2015-08-16T01:47:51", 
+            "coordinates": [
+                -73.95293105, 
+                40.7698676
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "15 Central Park West", 
+                    "The Regent"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "church": 2, 
+                "school": 2, 
+                "hospital": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "This is my home girl Ree Ree @reenielife #hiimenzo #instaart #photooftheday #beautiful\u2026 https://t.co/H4hZ1RkjbU", 
+            "id": "625428860079898629", 
+            "favorite_count": 0, 
+            "created_at": "2015-07-26T22:13:54", 
+            "coordinates": [
+                -74.00623073, 
+                40.73973281
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "My man.  For Ree Ree welcome back party @reenielife #hiimenzo #instaart #photooftheday #beautiful\u2026 https://t.co/O7t6pxvuvj", 
+            "id": "625420533778284544", 
+            "favorite_count": 1, 
+            "created_at": "2015-07-26T21:40:49", 
+            "coordinates": [
+                -74.00623073, 
+                40.73973281
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 126559.0, 
+                    "name": "The Hudson School", 
+                    "osm_id": 376010260.0
+                }
+            ], 
+            "text": "Happy birthday to my Napolitano boy, Ciro. Cent anni #hiimenzo #instaart #photooftheday #beautiful\u2026 https://t.co/7gqiEXDS4j", 
+            "id": "624950385963347968", 
+            "favorite_count": 0, 
+            "created_at": "2015-07-25T14:32:37", 
+            "coordinates": [
+                -74.0063934, 
+                40.7440796
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "The Hudson School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }
+            ], 
+            "text": "Two Bad Asses and Enzo.  josecorderofdny #instaart #photooftheday #beautiful #poetsofinstagram #kcco\u2026 https://t.co/tZgMCuRaPJ", 
+            "id": "612228506517422080", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-20T12:00:25", 
+            "coordinates": [
+                -73.9851913, 
+                40.7523804
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Olivia"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }
+            ], 
+            "text": "Irene's lil sis. Where is ree ree? Michelle will do for now!!!! michellemillano @reenielife\u2026 https://t.co/iTVijAVNhp", 
+            "id": "612228437550477312", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-20T12:00:08", 
+            "coordinates": [
+                -73.9851913, 
+                40.7523804
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Olivia"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }
+            ], 
+            "text": "Two Bad Asses and Enzo.  @josecorderony #instaart #photooftheday #beautiful #poetsofinstagram #kcco\u2026 https://t.co/tZgMCuRaPJ", 
+            "id": "612132455630401540", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-20T05:38:44", 
+            "coordinates": [
+                -73.9851913, 
+                40.7523804
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Olivia"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }
+            ], 
+            "text": "My best friends lil sis. Where is ree ree? Michelle will do for now!!!! michellemillano @reenielife\u2026 https://t.co/iTVijAVNhp", 
+            "id": "612120888046174208", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-20T04:52:47", 
+            "coordinates": [
+                -73.9851913, 
+                40.7523804
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Olivia"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126437.0, 
+                    "name": "Holiday Inn Express", 
+                    "osm_id": 371372814.0
+                }
+            ], 
+            "text": "Nothing is Impossible. Coming soon.  #instaart #photooftheday #beautiful #poetsofinstagram #kcco\u2026 https://t.co/Jlfp2N5qgE", 
+            "id": "609099299700547584", 
+            "favorite_count": 0, 
+            "created_at": "2015-06-11T20:46:04", 
+            "coordinates": [
+                -73.98024667, 
+                40.77330912
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "hotel", 
+                "name": [
+                    "Holiday Inn Express"
+                ]
+            }, 
+            "building_frequency": {
+                "hotel": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

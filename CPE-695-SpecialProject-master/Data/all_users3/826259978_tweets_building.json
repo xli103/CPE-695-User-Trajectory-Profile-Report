@@ -1,0 +1,1184 @@
+{
+    "total_favorite_count": 129, 
+    "followers_count": 203, 
+    "total_tweets": 37, 
+    "user_id": 826259978, 
+    "screen_name": "LisaFernandezCr", 
+    "friends_count": 196, 
+    "buildings": {
+        "school": 2, 
+        "industrial": 3, 
+        "apartments": 27, 
+        "commercial": 4, 
+        "church": 13, 
+        "retail": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "Chasing those #debate feelings away with Lemon and last of the season blueberry drizzle\u2026 https://t.co/C4AgaAbPUO", 
+            "id": "785504281776578560", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-10T15:36:29", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 2821.0, 
+                    "name": "Domino Sugar Refinery", 
+                    "osm_id": 241823871.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36636.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 249848313.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }
+            ], 
+            "text": "When in doubt, DANCE that #caseofthemondays away! #dancingchef #solomonday #inthekitchen @\u2026 https://t.co/KlbjoJvexV", 
+            "id": "782959683749441536", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-03T15:05:09", 
+            "coordinates": [
+                -73.95571904, 
+                40.71466514
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Domino Sugar Refinery"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2, 
+                "commercial": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126343.0, 
+                    "name": "Marine View Apartments", 
+                    "osm_id": 351324339.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "That Friday night rush hour commute got me like.... @ 14th Street\u2013Eighth Avenue https://t.co/K20TIu85gH", 
+            "id": "781970035048873984", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-30T21:32:39", 
+            "coordinates": [
+                -74.0025, 
+                40.7398
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Marine View Apartments", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "A girls best friend. #whattomake #thattimeoftheyear #fall #nyc #concordgrapes #dessert #pastry\u2026 https://t.co/DVJ8DMnWbT", 
+            "id": "781563115725029376", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-29T18:35:42", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "aarondiener made Carolina Reaper hot sauce, and then ate some, and then ate half a six pan of\u2026 https://t.co/68eVUjZM9x", 
+            "id": "779058740817453060", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T20:44:12", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "#privateevents @riderbklyn Hazelnut chocolate crunch tarts for daaaazzzeee. #youregettinghungry\u2026 https://t.co/eWYs4jzCxl", 
+            "id": "778689692854198272", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-21T20:17:44", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows", 
+                    "osm_id": 278284163.0
+                }
+            ], 
+            "text": "Gonna miss you summer. #plum #italian #dessert #nyceats #pastry #knowthyfarmer #eater\u2026 https://t.co/3pyRaHl1sg", 
+            "id": "778229767439060992", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-20T13:50:10", 
+            "coordinates": [
+                -73.96111409, 
+                40.71904896
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Our Lady of Sorrows"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "#commuting heirloom tomatoes from berriedtreasuresfarm at the @unsqgreenmarket. Ready to hit the\u2026 https://t.co/NeKycqxwPh", 
+            "id": "776771508848975872", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-16T13:15:34", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "Going #nuts for my #honeys @riderbklyn #honeynutdoughnuts #doughnuts #honey #glaze #nyceats\u2026 https://t.co/Dbne2xcAu6", 
+            "id": "775683767000244224", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-13T13:13:16", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows", 
+                    "osm_id": 278284163.0
+                }
+            ], 
+            "text": "If you come to work early enough today, you win big. #mifamilia #kitchenlove #summer #doughnuts\u2026 https://t.co/nhurj2Pwad", 
+            "id": "771713511160475648", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-02T14:16:53", 
+            "coordinates": [
+                -73.96111347, 
+                40.71904864
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Our Lady of Sorrows"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows", 
+                    "osm_id": 278284163.0
+                }
+            ], 
+            "text": "Pastry station game strong this morning. #marketbagswag #whereareyoueatingtonight #bestbetshere\u2026 https://t.co/fL1INKgLuO", 
+            "id": "770971493673082881", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-31T13:08:22", 
+            "coordinates": [
+                -73.96111347, 
+                40.71904864
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Our Lady of Sorrows"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows", 
+                    "osm_id": 278284163.0
+                }
+            ], 
+            "text": "Work it out. #randd #ginger #tahini #toastedsesame #icecreamsandwich #foodporn #dessert\u2026 https://t.co/AL3qQ0pVRQ", 
+            "id": "770738961614532608", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-30T21:44:22", 
+            "coordinates": [
+                -73.96111347, 
+                40.71904864
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Our Lady of Sorrows"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "Raspberry Hyssop Granita step 1. #pantone185 #bloodred #eatrealfood #nyceats #dessert #foodporn\u2026 https://t.co/QVtkwJmnOL", 
+            "id": "765567513174441984", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-16T15:14:53", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows", 
+                    "osm_id": 278284163.0
+                }
+            ], 
+            "text": "#marketbagswag #chamomile from @unsqgreenmarket #nyc #williamsburg #howisummer #brooklyn\u2026 https://t.co/2PeqQZtdwC", 
+            "id": "763367608586539008", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-10T13:33:15", 
+            "coordinates": [
+                -73.96111337, 
+                40.71904993
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Our Lady of Sorrows"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows", 
+                    "osm_id": 278284163.0
+                }
+            ], 
+            "text": "One fish, two fish, three fish @riderbklyn #sardines #pasta #howisummer #thegoodstuff\u2026 https://t.co/yXAozfXS4V", 
+            "id": "762044825197830144", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-06T21:56:59", 
+            "coordinates": [
+                -73.96111337, 
+                40.71904993
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Our Lady of Sorrows"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows", 
+                    "osm_id": 278284163.0
+                }
+            ], 
+            "text": "@Drew_Wheelerr is such a #cowtailtease. #kitchenfun #sneakattack #ouichef #neversawitcoming @ RIDER https://t.co/8OlmIhix9T", 
+            "id": "760614481982611456", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-02T23:13:18", 
+            "coordinates": [
+                -73.96111337, 
+                40.71904993
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Our Lady of Sorrows"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows", 
+                    "osm_id": 278284163.0
+                }
+            ], 
+            "text": "Rolling with the #summer produce. Plum+Polenta Crostata, pistachio, chamomile, corn ice cream.\u2026 https://t.co/zVPoyHOwkW", 
+            "id": "760604187361173505", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-02T22:32:24", 
+            "coordinates": [
+                -73.96111337, 
+                40.71904993
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Our Lady of Sorrows"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School", 
+                    "osm_id": 375874980.0
+                }
+            ], 
+            "text": "There is a space in my heart reserved only for this boy. #love #myheart #atypicalove\u2026 https://t.co/nIlYnJof3C", 
+            "id": "759891361378234368", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-31T23:19:53", 
+            "coordinates": [
+                -73.9889, 
+                40.7267
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Dr. Ronald E. McNair Academic High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 903.0, 
+                    "name": "Humphreys Hall", 
+                    "osm_id": 182240451.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 125726.0, 
+                    "name": "505W19", 
+                    "osm_id": 288767467.0
+                }
+            ], 
+            "text": "When your son figures out boomerang. @ Cookshop https://t.co/5d4CNN0J0Z", 
+            "id": "759520486380466176", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-30T22:46:09", 
+            "coordinates": [
+                -74.00586993, 
+                40.74564279
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Humphreys Hall", 
+                    "505W19"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows", 
+                    "osm_id": 278284163.0
+                }
+            ], 
+            "text": "#after Come and get em #brunch @riderbklyn served with homemade migliorellifarm Blueberry Jam!\u2026 https://t.co/IVEhrgnUp8", 
+            "id": "759367491273560064", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-30T12:38:12", 
+            "coordinates": [
+                -73.96111337, 
+                40.71904993
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Our Lady of Sorrows"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 100623.0, 
+                    "name": "Church of Our Lady of Sorrows", 
+                    "osm_id": 278284163.0
+                }
+            ], 
+            "text": "#before #brunchsohard #brunch #nyceats #williamsburg @ RIDER https://t.co/IwpNK1LljA", 
+            "id": "759364181988630528", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-30T12:25:03", 
+            "coordinates": [
+                -73.96111337, 
+                40.71904993
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Church of Our Lady of Sorrows"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "industrial", 
+                    "id": 2821.0, 
+                    "name": "Domino Sugar Refinery", 
+                    "osm_id": 241823871.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 36636.0, 
+                    "name": "Church of the Transfiguration", 
+                    "osm_id": 249848313.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }
+            ], 
+            "text": "#risenshine #williamsburg See you later for brunch @riderbklyn #brunch #brunchsohard #nyceats @\u2026 https://t.co/H1QGPdl5DA", 
+            "id": "759343837898768384", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-30T11:04:13", 
+            "coordinates": [
+                -73.95767056, 
+                40.71467017
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "Domino Sugar Refinery"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 2, 
+                "commercial": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "R and DDDDDDDD. #randd #summerdriven #dailymarketdriven #cookwiththeseasons #williamsburg\u2026 https://t.co/qi6kr6fQbL", 
+            "id": "758382688923418624", 
+            "favorite_count": 1, 
+            "created_at": "2016-07-27T19:24:57", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "That Wednesday @unsqgreenmarket tho. Just some of the awesome summer fun hitting the table\u2026 https://t.co/IAccoNrHVm", 
+            "id": "758285367275556866", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-27T12:58:14", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "Met this guy seven years ago when he graciously volunteered to  take the place of an 8 1/2 month\u2026 https://t.co/n1qSvrK06g", 
+            "id": "754787627866488832", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-17T21:19:28", 
+            "coordinates": [
+                -73.9969, 
+                40.72378
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "Despite today's heat, I ain't sweatin this new banging dessert premiering tonight @riderbklyn\u2026 https://t.co/a2tQUrUROW", 
+            "id": "754097831300980738", 
+            "favorite_count": 2, 
+            "created_at": "2016-07-15T23:38:28", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Took my new #brooksrunning shoes on a 10 mile #runcation from uptown all the way down the\u2026 https://t.co/xPAabyVGt2", 
+            "id": "753650880159813632", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-14T18:02:26", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "Are you ready for Saturday night? @Drew_Wheelerr can help out. @ RIDER https://t.co/NyHBWp2hfj", 
+            "id": "751882241253539842", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-09T20:54:30", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "#summerschool #williamsburg #chefskid #nyceats @ RIDER https://t.co/QRP1lN80o3", 
+            "id": "750369999315931136", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-05T16:45:23", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "Patriotic doughnuts for my @riderbklyn family this morning. Strawberry, vanilla and blueberry,\u2026 https://t.co/whVnOmLpm3", 
+            "id": "749967790812069888", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-04T14:07:09", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "#daytrippin #beachtrippin #urbanhikers #neverwasteaminute @ Pennsylvania Station https://t.co/XNmgrMqxDy", 
+            "id": "749614958523125760", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-03T14:45:07", 
+            "coordinates": [
+                -73.993899, 
+                40.750638
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "When those #hotfry wings with ranch makes the vain on your head pop! #wingwednesday #dienerwings\u2026 https://t.co/uzcdCqxRxy", 
+            "id": "748245008545906692", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-29T20:01:26", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "Crazy day, crazy wings. Maple, honey, sambal and other shit aarondiener through in the bowl.\u2026 https://t.co/ydoTglTWCo", 
+            "id": "745729989987962881", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-22T21:27:39", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "Monday could be worse.... @ RIDER https://t.co/JUmlAI4jvL", 
+            "id": "744886709301686273", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-20T13:36:45", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "Since dennylaflare brightens my morning everyday, today I brightened his, via doughnuts.\u2026 https://t.co/RscQDodTFr", 
+            "id": "744248695378616320", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-18T19:21:31", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "Pumping out English for #brunch today @riderbklyn #besmart #behere #nyceats #badassbrunchbitch\u2026 https://t.co/BGBdaPcMX3", 
+            "id": "744147750611222528", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-18T12:40:23", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 57204.0, 
+                    "name": "Blue Condominium", 
+                    "osm_id": 250266824.0
+                }
+            ], 
+            "text": "It's aarondiener wing time!!!!! To match this gorgeous summer weather this week, we have classic\u2026 https://t.co/SNsgpVr7S2", 
+            "id": "743175303225290753", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-15T20:16:14", 
+            "coordinates": [
+                -73.96136, 
+                40.71887
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Blue Condominium"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

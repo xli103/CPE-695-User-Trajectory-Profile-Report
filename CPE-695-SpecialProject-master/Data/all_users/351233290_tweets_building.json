@@ -1,0 +1,3828 @@
+{
+    "total_favorite_count": 1131, 
+    "total_tweets": 110, 
+    "screen_name": "orlando_urena", 
+    "friends_count": 154, 
+    "followers_count": 141, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.8667, 
+                    40.85
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Election Day \ud83c\uddfa\ud83c\uddf8. But First , \u2615\ufe0f@alfredcoffee #ButFirstCoffee @ Bronx, New York https://t.co/LLfzTaNaer", 
+                "created_at": "2016-11-08T19:10:28", 
+                "retweet_count": 0, 
+                "id": "796067381265113088", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97742434, 
+                    40.75266173
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 148457887.0, 
+                    "type": "yes", 
+                    "id": 777.0, 
+                    "name": "300 Madison Avenue"
+                }, 
+                {
+                    "osm_id": 160915057.0, 
+                    "type": "yes", 
+                    "id": 826.0, 
+                    "name": "Bryant Park Tower"
+                }, 
+                {
+                    "osm_id": 264656621.0, 
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm"
+                }, 
+                {
+                    "osm_id": 265258287.0, 
+                    "type": "yes", 
+                    "id": 88209.0, 
+                    "name": "The New Yorker"
+                }, 
+                {
+                    "osm_id": 265258294.0, 
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia"
+                }, 
+                {
+                    "osm_id": 265302050.0, 
+                    "type": "yes", 
+                    "id": 89180.0, 
+                    "name": "Mangia Organic"
+                }, 
+                {
+                    "osm_id": 265302076.0, 
+                    "type": "library", 
+                    "id": 89209.0, 
+                    "name": "\u7d10\u7d04\u5716\u66f8\u9928"
+                }, 
+                {
+                    "osm_id": 265302172.0, 
+                    "type": "yes", 
+                    "id": 89272.0, 
+                    "name": "1400 Broadway"
+                }, 
+                {
+                    "osm_id": 265947358.0, 
+                    "type": "yes", 
+                    "id": 92888.0, 
+                    "name": "Grand Central Terminal"
+                }, 
+                {
+                    "osm_id": 283346493.0, 
+                    "type": "yes", 
+                    "id": 125610.0, 
+                    "name": "American Standard Building"
+                }, 
+                {
+                    "osm_id": 287686136.0, 
+                    "type": "yes", 
+                    "id": 125716.0, 
+                    "name": "Manhattan Center"
+                }, 
+                {
+                    "osm_id": 288878360.0, 
+                    "type": "yes", 
+                    "id": 125733.0, 
+                    "name": "Westyard Distribution Center"
+                }, 
+                {
+                    "osm_id": 303603808.0, 
+                    "type": "yes", 
+                    "id": 126049.0, 
+                    "name": "10 Hudson Yards"
+                }, 
+                {
+                    "osm_id": 413978507.0, 
+                    "type": "yes", 
+                    "id": 146511.0, 
+                    "name": "YMCA"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "JUST GOT THIS IN THE MAIL!! \u2615\ufe0f\ud83d\udce6\ud83d\udcec\n\ncatcloudcoffee Flagship Blend : THE ANSWER, All the way from\u2026 https://t.co/1nK45MFGf9", 
+                "created_at": "2016-11-07T20:10:13", 
+                "retweet_count": 0, 
+                "id": "795720030709170177", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95961032, 
+                    40.71509338
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3359447.0, 
+                    "type": "yes", 
+                    "id": 117.0, 
+                    "name": "Louis J. Lefkowitz State Office Building"
+                }, 
+                {
+                    "osm_id": -3363386.0, 
+                    "type": "yes", 
+                    "id": 291.0, 
+                    "name": "Amalgamated Dwellings"
+                }, 
+                {
+                    "osm_id": 75363907.0, 
+                    "type": "yes", 
+                    "id": 626.0, 
+                    "name": "Javits Federal Office Building"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 250267940.0, 
+                    "type": "yes", 
+                    "id": 57438.0, 
+                    "name": "Saint Barbara Greek Orthodox Church"
+                }, 
+                {
+                    "osm_id": 250269145.0, 
+                    "type": "school", 
+                    "id": 57699.0, 
+                    "name": "Public School 110"
+                }, 
+                {
+                    "osm_id": 250269529.0, 
+                    "type": "yes", 
+                    "id": 57721.0, 
+                    "name": "United States Court of International Trade"
+                }, 
+                {
+                    "osm_id": 250268980.0, 
+                    "type": "yes", 
+                    "id": 57785.0, 
+                    "name": "Hillman Housing"
+                }, 
+                {
+                    "osm_id": 259686626.0, 
+                    "type": "commercial", 
+                    "id": 83568.0, 
+                    "name": "Colgate Center I"
+                }, 
+                {
+                    "osm_id": 277881283.0, 
+                    "type": "yes", 
+                    "id": 98992.0, 
+                    "name": "Mudville 9"
+                }, 
+                {
+                    "osm_id": 278093222.0, 
+                    "type": "yes", 
+                    "id": 99700.0, 
+                    "name": "Ted Weiss Federal Building"
+                }, 
+                {
+                    "osm_id": 404331963.0, 
+                    "type": "yes", 
+                    "id": 136262.0, 
+                    "name": "Saints Peter and Paul Orthodox Church"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nostalgic Window Light @sweatshop_nyc @ Sweatshop https://t.co/PU3Nuvrk34", 
+                "created_at": "2016-11-04T19:35:55", 
+                "retweet_count": 0, 
+                "id": "794624235662557184", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.88882, 
+                    40.81842
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@BirchCoffee in The Boogie \u2022 Down \u2022 Bronx \ud83c\udf06 #TheBronx #HuntsPoint @ Birch Coffee https://t.co/tn1p2NV07c", 
+                "created_at": "2016-11-02T18:07:10", 
+                "retweet_count": 0, 
+                "id": "793877123526045696", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.387011, 
+                    34.0809397
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@vervecoffee \u2615\ufe0f on the go.........\ud83c\udfc3\ud83c\udffd @ Verve Coffee Roasters https://t.co/u14biMsrBw", 
+                "created_at": "2016-10-25T20:09:31", 
+                "retweet_count": 0, 
+                "id": "791008812115202048", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99352219, 
+                    40.72790708
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247842941.0, 
+                    "type": "dormitory", 
+                    "id": 10747.0, 
+                    "name": "Mercer Street Residence Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Starting the workweek @lacolombecoffee \u2615\ufe0f in #NoHo, #NYC . @ 400 Lafayette La Colombe https://t.co/Ulx1nZhCEF", 
+                "created_at": "2016-10-24T17:49:31", 
+                "retweet_count": 0, 
+                "id": "790611191005458432", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.37429802, 
+                    34.08354205
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "It's Friday........But First, Coffee. \u2615\ufe0fby @alfredCoffee @ Alfred {Coffee &amp; Kitchen} https://t.co/IMDSmSAjTl", 
+                "created_at": "2016-10-21T18:58:25", 
+                "retweet_count": 0, 
+                "id": "789541367441612800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.283695, 
+                    34.095225
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Serenity dinosaur_coffee @ Dinosaur Coffee https://t.co/39grG9Hc7c", 
+                "created_at": "2016-10-20T18:37:42", 
+                "retweet_count": 0, 
+                "id": "789173766127366149", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.283695, 
+                    34.095225
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Things Will Be Fine\" dinosaur_coffee \ud83d\udcab\ud83d\ude4f\ud83c\udffc #iDontAlwaysDrinkCoffee @ Dinosaur Coffee https://t.co/eMK4mhEWPM", 
+                "created_at": "2016-10-20T18:32:36", 
+                "retweet_count": 0, 
+                "id": "789172480174858240", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.2802181, 
+                    34.0920892
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Single Origin Chemex Pour Over @Intelligentsia #SoCal #CaliforniaCoffee #intelligentsia @\u2026 https://t.co/nOj3pxs8ZQ", 
+                "created_at": "2016-10-19T18:46:31", 
+                "retweet_count": 0, 
+                "id": "788813598067859456", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.387011, 
+                    34.0809397
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sipping @VerveCoffee in the streets of #WOHO . #StreetArt ironeyeretna 's #SoCalVibes @ Verve\u2026 https://t.co/2gEHxvSqT0", 
+                "created_at": "2016-10-18T18:15:46", 
+                "retweet_count": 0, 
+                "id": "788443469849120768", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.1907, 
+                    40.7044
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Flight Essentials : @tobysbrooklyn Single Shot Cold Brew \u2615\ufe0f is TSA \ud83d\udc6e\ud83c\udffcfriendly. Enjoy specialty\u2026 https://t.co/EAgeI9rh1f", 
+                "created_at": "2016-10-17T19:51:43", 
+                "retweet_count": 0, 
+                "id": "788105227631157248", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.8667, 
+                    40.85
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nostalgic Home Brew Vibes : @HelloSupercrown ( Kamwangi AA \u2022 KENYA ) via the_chemex @ Bronx, New\u2026 https://t.co/HSJgTvPH6B", 
+                "created_at": "2016-10-12T18:25:23", 
+                "retweet_count": 1, 
+                "id": "786271563918159872", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92395, 
+                    40.7046
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 155440973.0, 
+                    "type": "yes", 
+                    "id": 792.0, 
+                    "name": "2 Broadway"
+                }, 
+                {
+                    "osm_id": 278053503.0, 
+                    "type": "yes", 
+                    "id": 99303.0, 
+                    "name": "Icon"
+                }, 
+                {
+                    "osm_id": 278053567.0, 
+                    "type": "yes", 
+                    "id": 99399.0, 
+                    "name": "Wall Street Inn"
+                }, 
+                {
+                    "osm_id": 278076407.0, 
+                    "type": "yes", 
+                    "id": 99461.0, 
+                    "name": "10 Hanover Square"
+                }, 
+                {
+                    "osm_id": 278076410.0, 
+                    "type": "yes", 
+                    "id": 99463.0, 
+                    "name": "111 Wall Street"
+                }, 
+                {
+                    "osm_id": 278076417.0, 
+                    "type": "yes", 
+                    "id": 99480.0, 
+                    "name": "95 Wall Street"
+                }, 
+                {
+                    "osm_id": 278076374.0, 
+                    "type": "yes", 
+                    "id": 99660.0, 
+                    "name": "120 Wall Street"
+                }, 
+                {
+                    "osm_id": 279574670.0, 
+                    "type": "school", 
+                    "id": 102772.0, 
+                    "name": "Public School 122"
+                }, 
+                {
+                    "osm_id": 279649784.0, 
+                    "type": "yes", 
+                    "id": 105633.0, 
+                    "name": "CartoDB"
+                }, 
+                {
+                    "osm_id": 279652311.0, 
+                    "type": "yes", 
+                    "id": 105979.0, 
+                    "name": "Bushwick Branch Brooklyn Public Library"
+                }, 
+                {
+                    "osm_id": 344559309.0, 
+                    "type": "yes", 
+                    "id": 126315.0, 
+                    "name": "India House"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Beaker Espresso @istanbulftv #walterscoffeeroastery #walterscoffee #walterscoffeenyc @ Walter's\u2026 https://t.co/jAjOKuMGCR", 
+                "created_at": "2016-10-10T19:48:50", 
+                "retweet_count": 0, 
+                "id": "785567787846471680", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9645, 
+                    40.7157399
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3359448.0, 
+                    "type": "yes", 
+                    "id": 124.0, 
+                    "name": "Criminal Courts Building"
+                }, 
+                {
+                    "osm_id": 75363907.0, 
+                    "type": "yes", 
+                    "id": 626.0, 
+                    "name": "Javits Federal Office Building"
+                }, 
+                {
+                    "osm_id": 249847972.0, 
+                    "type": "yes", 
+                    "id": 36553.0, 
+                    "name": "New York City Health and Hospitals Corporation"
+                }, 
+                {
+                    "osm_id": 250268367.0, 
+                    "type": "church", 
+                    "id": 57731.0, 
+                    "name": "St. Mary's Church"
+                }, 
+                {
+                    "osm_id": 250268980.0, 
+                    "type": "yes", 
+                    "id": 57785.0, 
+                    "name": "Hillman Housing"
+                }, 
+                {
+                    "osm_id": 250269533.0, 
+                    "type": "yes", 
+                    "id": 57796.0, 
+                    "name": "Tribeca Tower"
+                }, 
+                {
+                    "osm_id": 277880569.0, 
+                    "type": "apartments", 
+                    "id": 98908.0, 
+                    "name": "Liberty Luxe"
+                }, 
+                {
+                    "osm_id": 277890501.0, 
+                    "type": "yes", 
+                    "id": 99056.0, 
+                    "name": "111 Murray Street"
+                }, 
+                {
+                    "osm_id": 277890502.0, 
+                    "type": "yes", 
+                    "id": 99057.0, 
+                    "name": "TriBeCa Hardware"
+                }, 
+                {
+                    "osm_id": 328553920.0, 
+                    "type": "yes", 
+                    "id": 126264.0, 
+                    "name": "St. Peter's Preparatory School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Red Barrel Pour Over devocionusa \ud83c\udde8\ud83c\uddf4#devocionfresh @ Devocion USA https://t.co/nNY4knVnHu", 
+                "created_at": "2016-10-06T19:23:34", 
+                "retweet_count": 0, 
+                "id": "784111878557474816", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96375, 
+                    40.71773
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 147472865.0, 
+                    "type": "yes", 
+                    "id": 789.0, 
+                    "name": "DeWitt Reformed Church"
+                }, 
+                {
+                    "osm_id": 249847594.0, 
+                    "type": "church", 
+                    "id": 36468.0, 
+                    "name": "Most Precious Blood Church"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250052732.0, 
+                    "type": "yes", 
+                    "id": 41361.0, 
+                    "name": "60 Hudson Street"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }, 
+                {
+                    "osm_id": 261499928.0, 
+                    "type": "construction", 
+                    "id": 83618.0, 
+                    "name": "56 Leonard Street"
+                }, 
+                {
+                    "osm_id": 311152348.0, 
+                    "type": "yes", 
+                    "id": 126072.0, 
+                    "name": "Independence Plaza III"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Maple Sage Latte by @tobysbrooklyn during yesterday's nyccoffeefest villainstagram\u2026 https://t.co/6874NHOK9E", 
+                "created_at": "2016-10-02T18:24:13", 
+                "retweet_count": 0, 
+                "id": "782647390050226176", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96375, 
+                    40.71773
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 147472865.0, 
+                    "type": "yes", 
+                    "id": 789.0, 
+                    "name": "DeWitt Reformed Church"
+                }, 
+                {
+                    "osm_id": 249847594.0, 
+                    "type": "church", 
+                    "id": 36468.0, 
+                    "name": "Most Precious Blood Church"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250052732.0, 
+                    "type": "yes", 
+                    "id": 41361.0, 
+                    "name": "60 Hudson Street"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }, 
+                {
+                    "osm_id": 261499928.0, 
+                    "type": "construction", 
+                    "id": 83618.0, 
+                    "name": "56 Leonard Street"
+                }, 
+                {
+                    "osm_id": 311152348.0, 
+                    "type": "yes", 
+                    "id": 126072.0, 
+                    "name": "Independence Plaza III"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "varietycoffee serving up an amazing Pumpkin Spice Cold Brew that is to die for at the\u2026 https://t.co/NYtaj94pQ6", 
+                "created_at": "2016-10-01T20:06:49", 
+                "retweet_count": 0, 
+                "id": "782310824849178624", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96375, 
+                    40.71773
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3361059.0, 
+                    "type": "yes", 
+                    "id": 127.0, 
+                    "name": "Borough of Manhattan Community College"
+                }, 
+                {
+                    "osm_id": 27150748.0, 
+                    "type": "yes", 
+                    "id": 571.0, 
+                    "name": "Harborside Plaza 1-3"
+                }, 
+                {
+                    "osm_id": 140838264.0, 
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II"
+                }, 
+                {
+                    "osm_id": 147472865.0, 
+                    "type": "yes", 
+                    "id": 789.0, 
+                    "name": "DeWitt Reformed Church"
+                }, 
+                {
+                    "osm_id": 249847594.0, 
+                    "type": "church", 
+                    "id": 36468.0, 
+                    "name": "Most Precious Blood Church"
+                }, 
+                {
+                    "osm_id": 250052729.0, 
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School"
+                }, 
+                {
+                    "osm_id": 250052732.0, 
+                    "type": "yes", 
+                    "id": 41361.0, 
+                    "name": "60 Hudson Street"
+                }, 
+                {
+                    "osm_id": 250568901.0, 
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School"
+                }, 
+                {
+                    "osm_id": 261499928.0, 
+                    "type": "construction", 
+                    "id": 83618.0, 
+                    "name": "56 Leonard Street"
+                }, 
+                {
+                    "osm_id": 311152348.0, 
+                    "type": "yes", 
+                    "id": 126072.0, 
+                    "name": "Independence Plaza III"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Caffeinated Vibes earlier today at nyccoffeefest inside @villianinstagram\u2026 https://t.co/SnT78ntaTW", 
+                "created_at": "2016-10-01T18:18:44", 
+                "retweet_count": 0, 
+                "id": "782283624959791104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98404914, 
+                    40.67973341
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241834635.0, 
+                    "type": "school", 
+                    "id": 4775.0, 
+                    "name": "Public School K146 Brooklyn New School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bouldering Session @BKBoulders with photojunky22 &amp; ciz_fin3st @ Brooklyn Boulders https://t.co/Z9Us5Sr7Bf", 
+                "created_at": "2016-09-30T19:38:34", 
+                "retweet_count": 0, 
+                "id": "781941325612494848", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9309082, 
+                    40.7034912
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695755.0, 
+                    "type": "yes", 
+                    "id": 468.0, 
+                    "name": "Castle Clinton"
+                }, 
+                {
+                    "osm_id": -3718633.0, 
+                    "type": "school", 
+                    "id": 520.0, 
+                    "name": "Intermediate School 71"
+                }, 
+                {
+                    "osm_id": 42455776.0, 
+                    "type": "yes", 
+                    "id": 595.0, 
+                    "name": "One Financial Square"
+                }, 
+                {
+                    "osm_id": 250386580.0, 
+                    "type": "yes", 
+                    "id": 74838.0, 
+                    "name": "Greendesk"
+                }, 
+                {
+                    "osm_id": 250386730.0, 
+                    "type": "yes", 
+                    "id": 74892.0, 
+                    "name": "Water Street Substation"
+                }, 
+                {
+                    "osm_id": 250402627.0, 
+                    "type": "yes", 
+                    "id": 75059.0, 
+                    "name": "Empire Stores"
+                }, 
+                {
+                    "osm_id": 256689564.0, 
+                    "type": "residential", 
+                    "id": 83549.0, 
+                    "name": "205 Water"
+                }, 
+                {
+                    "osm_id": 278053473.0, 
+                    "type": "office", 
+                    "id": 99276.0, 
+                    "name": "Broad Financial Center"
+                }, 
+                {
+                    "osm_id": 278053532.0, 
+                    "type": "office", 
+                    "id": 99327.0, 
+                    "name": "One Battery Park Plaza"
+                }, 
+                {
+                    "osm_id": 278053529.0, 
+                    "type": "yes", 
+                    "id": 99329.0, 
+                    "name": "New York Clearing House Association"
+                }, 
+                {
+                    "osm_id": 278076368.0, 
+                    "type": "yes", 
+                    "id": 99438.0, 
+                    "name": "NYPD Museum"
+                }, 
+                {
+                    "osm_id": 278203280.0, 
+                    "type": "yes", 
+                    "id": 99870.0, 
+                    "name": "55 Water Street"
+                }, 
+                {
+                    "osm_id": 373709849.0, 
+                    "type": "commercial", 
+                    "id": 126464.0, 
+                    "name": "St. Ann's Warehouse"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\uddf0\ud83c\uddea Kenyan, Kamwangi Coffee on National Coffee Day @HelloSupercrown . @ Supercrown Coffee Roasters https://t.co/Pbw4mfJOAz", 
+                "created_at": "2016-09-29T18:19:50", 
+                "retweet_count": 0, 
+                "id": "781559122369970176", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9096, 
+                    40.8015
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Blue Jeans, White Shirt, &amp; Coffee @filterednewyork #southbronx #sobro #portmorris #motthaven @\u2026 https://t.co/aLed1oHYaO", 
+                "created_at": "2016-09-27T21:30:16", 
+                "retweet_count": 0, 
+                "id": "780882273675595776", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92027413, 
+                    40.69571377
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 241846065.0, 
+                    "type": "yes", 
+                    "id": 7522.0, 
+                    "name": "Brooklyn Heights Library"
+                }, 
+                {
+                    "osm_id": 241846074.0, 
+                    "type": "school", 
+                    "id": 7562.0, 
+                    "name": "New York City College of Technology - Namm Hall"
+                }, 
+                {
+                    "osm_id": 241846109.0, 
+                    "type": "school", 
+                    "id": 7635.0, 
+                    "name": "New York City College of Technology - Adams Street Building"
+                }, 
+                {
+                    "osm_id": 249979270.0, 
+                    "type": "school", 
+                    "id": 37926.0, 
+                    "name": "Bushwick Leaders' High School for Academic Excellence"
+                }, 
+                {
+                    "osm_id": 250369747.0, 
+                    "type": "school", 
+                    "id": 74038.0, 
+                    "name": "New York City College of Technology"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u0160\u00fcNd\u00c6y F\u00fcNd\u00c6y #BushwickArtCollective @ Bushwick, Brooklyn https://t.co/RLFk8AbJZj", 
+                "created_at": "2016-09-25T18:31:33", 
+                "retweet_count": 0, 
+                "id": "780112520660987904", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92395, 
+                    40.7046
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 155440973.0, 
+                    "type": "yes", 
+                    "id": 792.0, 
+                    "name": "2 Broadway"
+                }, 
+                {
+                    "osm_id": 278053503.0, 
+                    "type": "yes", 
+                    "id": 99303.0, 
+                    "name": "Icon"
+                }, 
+                {
+                    "osm_id": 278053567.0, 
+                    "type": "yes", 
+                    "id": 99399.0, 
+                    "name": "Wall Street Inn"
+                }, 
+                {
+                    "osm_id": 278076407.0, 
+                    "type": "yes", 
+                    "id": 99461.0, 
+                    "name": "10 Hanover Square"
+                }, 
+                {
+                    "osm_id": 278076410.0, 
+                    "type": "yes", 
+                    "id": 99463.0, 
+                    "name": "111 Wall Street"
+                }, 
+                {
+                    "osm_id": 278076417.0, 
+                    "type": "yes", 
+                    "id": 99480.0, 
+                    "name": "95 Wall Street"
+                }, 
+                {
+                    "osm_id": 278076374.0, 
+                    "type": "yes", 
+                    "id": 99660.0, 
+                    "name": "120 Wall Street"
+                }, 
+                {
+                    "osm_id": 279574670.0, 
+                    "type": "school", 
+                    "id": 102772.0, 
+                    "name": "Public School 122"
+                }, 
+                {
+                    "osm_id": 279649784.0, 
+                    "type": "yes", 
+                    "id": 105633.0, 
+                    "name": "CartoDB"
+                }, 
+                {
+                    "osm_id": 279652311.0, 
+                    "type": "yes", 
+                    "id": 105979.0, 
+                    "name": "Bushwick Branch Brooklyn Public Library"
+                }, 
+                {
+                    "osm_id": 344559309.0, 
+                    "type": "yes", 
+                    "id": 126315.0, 
+                    "name": "India House"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Coffee Chemistry \u2697 walterscoffee . #breakingbad  #walterscoffee #coffeeculture the_chemex\u2026 https://t.co/UKRbUfB2ZQ", 
+                "created_at": "2016-09-23T18:51:12", 
+                "retweet_count": 0, 
+                "id": "779392689103966208", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.8667, 
+                    40.85
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Celebrating the first day of Fall with the @kalitausa Wave. #CozyVibes #kalitawave #homebrew\u2026 https://t.co/HD1hmfxIYp", 
+                "created_at": "2016-09-22T20:20:57", 
+                "retweet_count": 0, 
+                "id": "779052890027462656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9837418, 
+                    40.7411423
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 109280428.0, 
+                    "type": "yes", 
+                    "id": 665.0, 
+                    "name": "Metropolitan Life Insurance Company Tower"
+                }, 
+                {
+                    "osm_id": 158404390.0, 
+                    "type": "yes", 
+                    "id": 801.0, 
+                    "name": "Met Life Tower"
+                }, 
+                {
+                    "osm_id": 250490358.0, 
+                    "type": "yes", 
+                    "id": 82189.0, 
+                    "name": "The Standard"
+                }, 
+                {
+                    "osm_id": 264624881.0, 
+                    "type": "yes", 
+                    "id": 84113.0, 
+                    "name": "Gansevoort Market"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 264633440.0, 
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea"
+                }, 
+                {
+                    "osm_id": 264644824.0, 
+                    "type": "yes", 
+                    "id": 85136.0, 
+                    "name": "West 19th Street"
+                }, 
+                {
+                    "osm_id": 264645708.0, 
+                    "type": "yes", 
+                    "id": 85172.0, 
+                    "name": "Spero Building"
+                }, 
+                {
+                    "osm_id": 264768896.0, 
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building"
+                }, 
+                {
+                    "osm_id": 264768938.0, 
+                    "type": "yes", 
+                    "id": 87191.0, 
+                    "name": "69th Regiment Armory"
+                }, 
+                {
+                    "osm_id": 264768948.0, 
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House"
+                }, 
+                {
+                    "osm_id": 264768931.0, 
+                    "type": "yes", 
+                    "id": 87263.0, 
+                    "name": "Metropolitan Life North Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Treated myself to some Colombia Manantiales del Frontino (Geisha) Top Shelf Coffee from\u2026 https://t.co/OIS9qhzPph", 
+                "created_at": "2016-09-21T18:46:25", 
+                "retweet_count": 0, 
+                "id": "778666711281086468", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9837418, 
+                    40.7411423
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 109280428.0, 
+                    "type": "yes", 
+                    "id": 665.0, 
+                    "name": "Metropolitan Life Insurance Company Tower"
+                }, 
+                {
+                    "osm_id": 158404390.0, 
+                    "type": "yes", 
+                    "id": 801.0, 
+                    "name": "Met Life Tower"
+                }, 
+                {
+                    "osm_id": 250490358.0, 
+                    "type": "yes", 
+                    "id": 82189.0, 
+                    "name": "The Standard"
+                }, 
+                {
+                    "osm_id": 264624881.0, 
+                    "type": "yes", 
+                    "id": 84113.0, 
+                    "name": "Gansevoort Market"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 264633440.0, 
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea"
+                }, 
+                {
+                    "osm_id": 264644824.0, 
+                    "type": "yes", 
+                    "id": 85136.0, 
+                    "name": "West 19th Street"
+                }, 
+                {
+                    "osm_id": 264645708.0, 
+                    "type": "yes", 
+                    "id": 85172.0, 
+                    "name": "Spero Building"
+                }, 
+                {
+                    "osm_id": 264768896.0, 
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building"
+                }, 
+                {
+                    "osm_id": 264768938.0, 
+                    "type": "yes", 
+                    "id": 87191.0, 
+                    "name": "69th Regiment Armory"
+                }, 
+                {
+                    "osm_id": 264768948.0, 
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House"
+                }, 
+                {
+                    "osm_id": 264768931.0, 
+                    "type": "yes", 
+                    "id": 87263.0, 
+                    "name": "Metropolitan Life North Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cascara Antioxidant Shot by devocionusa at the @NYCoffeeFest . #DevocionFresh\u2026 https://t.co/S2EMDCu81x", 
+                "created_at": "2016-09-18T19:59:47", 
+                "retweet_count": 0, 
+                "id": "777598008984608768", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9837418, 
+                    40.7411423
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 109280428.0, 
+                    "type": "yes", 
+                    "id": 665.0, 
+                    "name": "Metropolitan Life Insurance Company Tower"
+                }, 
+                {
+                    "osm_id": 158404390.0, 
+                    "type": "yes", 
+                    "id": 801.0, 
+                    "name": "Met Life Tower"
+                }, 
+                {
+                    "osm_id": 250490358.0, 
+                    "type": "yes", 
+                    "id": 82189.0, 
+                    "name": "The Standard"
+                }, 
+                {
+                    "osm_id": 264624881.0, 
+                    "type": "yes", 
+                    "id": 84113.0, 
+                    "name": "Gansevoort Market"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 264633440.0, 
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea"
+                }, 
+                {
+                    "osm_id": 264644824.0, 
+                    "type": "yes", 
+                    "id": 85136.0, 
+                    "name": "West 19th Street"
+                }, 
+                {
+                    "osm_id": 264645708.0, 
+                    "type": "yes", 
+                    "id": 85172.0, 
+                    "name": "Spero Building"
+                }, 
+                {
+                    "osm_id": 264768896.0, 
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building"
+                }, 
+                {
+                    "osm_id": 264768938.0, 
+                    "type": "yes", 
+                    "id": 87191.0, 
+                    "name": "69th Regiment Armory"
+                }, 
+                {
+                    "osm_id": 264768948.0, 
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House"
+                }, 
+                {
+                    "osm_id": 264768931.0, 
+                    "type": "yes", 
+                    "id": 87263.0, 
+                    "name": "Metropolitan Life North Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Minions &amp; Coffee ? walterscoffee with a killer presentation at the @NYCoffeeFest .\u2026 https://t.co/eIn2RkwKoz", 
+                "created_at": "2016-09-18T17:33:56", 
+                "retweet_count": 0, 
+                "id": "777561308522618880", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9837418, 
+                    40.7411423
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 109280428.0, 
+                    "type": "yes", 
+                    "id": 665.0, 
+                    "name": "Metropolitan Life Insurance Company Tower"
+                }, 
+                {
+                    "osm_id": 158404390.0, 
+                    "type": "yes", 
+                    "id": 801.0, 
+                    "name": "Met Life Tower"
+                }, 
+                {
+                    "osm_id": 250490358.0, 
+                    "type": "yes", 
+                    "id": 82189.0, 
+                    "name": "The Standard"
+                }, 
+                {
+                    "osm_id": 264624881.0, 
+                    "type": "yes", 
+                    "id": 84113.0, 
+                    "name": "Gansevoort Market"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 264633440.0, 
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea"
+                }, 
+                {
+                    "osm_id": 264644824.0, 
+                    "type": "yes", 
+                    "id": 85136.0, 
+                    "name": "West 19th Street"
+                }, 
+                {
+                    "osm_id": 264645708.0, 
+                    "type": "yes", 
+                    "id": 85172.0, 
+                    "name": "Spero Building"
+                }, 
+                {
+                    "osm_id": 264768896.0, 
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building"
+                }, 
+                {
+                    "osm_id": 264768938.0, 
+                    "type": "yes", 
+                    "id": 87191.0, 
+                    "name": "69th Regiment Armory"
+                }, 
+                {
+                    "osm_id": 264768948.0, 
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House"
+                }, 
+                {
+                    "osm_id": 264768931.0, 
+                    "type": "yes", 
+                    "id": 87263.0, 
+                    "name": "Metropolitan Life North Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@tobysbrooklyn 's New Black &amp; White Cold Brew @NYCoffeeFest #NewYorkCoffeefestival #tobysestate\u2026 https://t.co/EJ5KnVK6TI", 
+                "created_at": "2016-09-17T15:15:27", 
+                "retweet_count": 0, 
+                "id": "777164066259218432", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9836, 
+                    40.7411
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 109280428.0, 
+                    "type": "yes", 
+                    "id": 665.0, 
+                    "name": "Metropolitan Life Insurance Company Tower"
+                }, 
+                {
+                    "osm_id": 250490358.0, 
+                    "type": "yes", 
+                    "id": 82189.0, 
+                    "name": "The Standard"
+                }, 
+                {
+                    "osm_id": 264624881.0, 
+                    "type": "yes", 
+                    "id": 84113.0, 
+                    "name": "Gansevoort Market"
+                }, 
+                {
+                    "osm_id": 264624898.0, 
+                    "type": "yes", 
+                    "id": 84148.0, 
+                    "name": "111 Eighth Avenue"
+                }, 
+                {
+                    "osm_id": 264633440.0, 
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea"
+                }, 
+                {
+                    "osm_id": 264644824.0, 
+                    "type": "yes", 
+                    "id": 85136.0, 
+                    "name": "West 19th Street"
+                }, 
+                {
+                    "osm_id": 264645708.0, 
+                    "type": "yes", 
+                    "id": 85172.0, 
+                    "name": "Spero Building"
+                }, 
+                {
+                    "osm_id": 264768896.0, 
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building"
+                }, 
+                {
+                    "osm_id": 264768942.0, 
+                    "type": "apartments", 
+                    "id": 87188.0, 
+                    "name": "Madison Green Residential Plaza"
+                }, 
+                {
+                    "osm_id": 264768938.0, 
+                    "type": "yes", 
+                    "id": 87191.0, 
+                    "name": "69th Regiment Armory"
+                }, 
+                {
+                    "osm_id": 264768948.0, 
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House"
+                }, 
+                {
+                    "osm_id": 264768931.0, 
+                    "type": "yes", 
+                    "id": 87263.0, 
+                    "name": "Metropolitan Life North Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Where you can find me this weekend \ud83d\udc49\ud83c\udffd@NYCoffeeFest #newyorkcoffeefestival @ 69th Regiment Armory https://t.co/F6zMtnrf3Q", 
+                "created_at": "2016-09-16T16:45:47", 
+                "retweet_count": 0, 
+                "id": "776824411634606080", 
+                "favorite_count": 4
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.8667, 
+                    40.85
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Coffee Fit. #CoffeeFitness #ou #orlandourena @ Bronx, New York https://t.co/9Ld4W7IOes", 
+                "created_at": "2016-06-22T18:03:22", 
+                "retweet_count": 0, 
+                "id": "745678580567379968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.81892, 
+                    40.58513
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Beach\ud83c\udfd6 &amp; Coffee \u2615\ufe0f Vibes. Happy 1st Day of Summer \u2600\ufe0f. #Summer2016 #RockawayBeach #NYCBeach\u2026 https://t.co/kS7ktxnKpP", 
+                "created_at": "2016-06-20T17:41:16", 
+                "retweet_count": 0, 
+                "id": "744948242941644800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.8667, 
+                    40.85
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Coffee Vibes via my @kalitausa &amp; @keepcup @ Bronx, New York https://t.co/zCPclPkpEU", 
+                "created_at": "2016-05-25T17:21:59", 
+                "retweet_count": 1, 
+                "id": "735521306335055872", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9861984, 
+                    40.7042007
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3695753.0, 
+                    "type": "yes", 
+                    "id": 441.0, 
+                    "name": "Alexander Hamilton U.S. Custom House"
+                }, 
+                {
+                    "osm_id": 155440973.0, 
+                    "type": "yes", 
+                    "id": 792.0, 
+                    "name": "2 Broadway"
+                }, 
+                {
+                    "osm_id": 250387162.0, 
+                    "type": "yes", 
+                    "id": 75024.0, 
+                    "name": "Brooklyn Roasting Company"
+                }, 
+                {
+                    "osm_id": 278053552.0, 
+                    "type": "yes", 
+                    "id": 99346.0, 
+                    "name": "Mad Dog and Beans"
+                }, 
+                {
+                    "osm_id": 278053554.0, 
+                    "type": "yes", 
+                    "id": 99349.0, 
+                    "name": "Stone Street Tavern"
+                }, 
+                {
+                    "osm_id": 278053562.0, 
+                    "type": "yes", 
+                    "id": 99361.0, 
+                    "name": "Beckett's Bar and Grill"
+                }, 
+                {
+                    "osm_id": 278053575.0, 
+                    "type": "yes", 
+                    "id": 99368.0, 
+                    "name": "Adrienne's Pizza Bar"
+                }, 
+                {
+                    "osm_id": 278053583.0, 
+                    "type": "yes", 
+                    "id": 99386.0, 
+                    "name": "Maritime Exchange Building"
+                }, 
+                {
+                    "osm_id": 278053613.0, 
+                    "type": "yes", 
+                    "id": 99403.0, 
+                    "name": "85 Broad Street"
+                }, 
+                {
+                    "osm_id": 278053612.0, 
+                    "type": "yes", 
+                    "id": 99405.0, 
+                    "name": "7 Hanover Square"
+                }, 
+                {
+                    "osm_id": 278076410.0, 
+                    "type": "yes", 
+                    "id": 99463.0, 
+                    "name": "111 Wall Street"
+                }, 
+                {
+                    "osm_id": 278076413.0, 
+                    "type": "yes", 
+                    "id": 99466.0, 
+                    "name": "77 Water Street"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "On today's menu : @bklynroasting brew and my @fiatusa Abarth. #fiat #abarth #ciaobaby @ Brooklyn\u2026 https://t.co/VFQYdxeREm", 
+                "created_at": "2016-05-24T20:19:06", 
+                "retweet_count": 0, 
+                "id": "735203492642627584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.37430129, 
+                    34.0835416
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "BUT FIRST, COFFEE \u2615\ufe0f #tbt @alfredcoffee @ Alfred {Coffee &amp; Kitchen} https://t.co/P76reH5w18", 
+                "created_at": "2016-05-19T16:18:48", 
+                "retweet_count": 0, 
+                "id": "733331078044364800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95538, 
+                    40.73453
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 158413988.0, 
+                    "type": "yes", 
+                    "id": 805.0, 
+                    "name": "Zeckendorf Towers"
+                }, 
+                {
+                    "osm_id": 247862763.0, 
+                    "type": "yes", 
+                    "id": 11578.0, 
+                    "name": "Strip House"
+                }, 
+                {
+                    "osm_id": 247862829.0, 
+                    "type": "yes", 
+                    "id": 11706.0, 
+                    "name": "Benjamin N. Cardozo School of Law"
+                }, 
+                {
+                    "osm_id": 249657690.0, 
+                    "type": "yes", 
+                    "id": 34714.0, 
+                    "name": "Consolidated Edison Company Building"
+                }, 
+                {
+                    "osm_id": 249663131.0, 
+                    "type": "yes", 
+                    "id": 35002.0, 
+                    "name": "Hospital for Joint Diseases"
+                }, 
+                {
+                    "osm_id": 249664014.0, 
+                    "type": "yes", 
+                    "id": 35077.0, 
+                    "name": "Jefferson Market Library"
+                }, 
+                {
+                    "osm_id": 250072646.0, 
+                    "type": "church", 
+                    "id": 41406.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 264752147.0, 
+                    "type": "church", 
+                    "id": 86500.0, 
+                    "name": "St. George's Church"
+                }, 
+                {
+                    "osm_id": 264752162.0, 
+                    "type": "apartments", 
+                    "id": 86542.0, 
+                    "name": "Rutherford Place"
+                }, 
+                {
+                    "osm_id": 403895976.0, 
+                    "type": "yes", 
+                    "id": 136174.0, 
+                    "name": "Cast-Iron Lofts"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Old New York @sweetleaflic  #brookyln #nyccoffee #eastcoastcoffeeculture #coffeeculture @\u2026 https://t.co/plvLObssMY", 
+                "created_at": "2016-05-17T18:11:44", 
+                "retweet_count": 0, 
+                "id": "732634721855909888", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.964717, 
+                    40.716064
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3359448.0, 
+                    "type": "yes", 
+                    "id": 124.0, 
+                    "name": "Criminal Courts Building"
+                }, 
+                {
+                    "osm_id": 250267995.0, 
+                    "type": "school", 
+                    "id": 57505.0, 
+                    "name": "Intermediate School 131"
+                }, 
+                {
+                    "osm_id": 250268236.0, 
+                    "type": "school", 
+                    "id": 57626.0, 
+                    "name": "Public School 42"
+                }, 
+                {
+                    "osm_id": 250268367.0, 
+                    "type": "church", 
+                    "id": 57731.0, 
+                    "name": "St. Mary's Church"
+                }, 
+                {
+                    "osm_id": 250269506.0, 
+                    "type": "yes", 
+                    "id": 57853.0, 
+                    "name": "Clock Tower Building"
+                }, 
+                {
+                    "osm_id": 259766340.0, 
+                    "type": "yes", 
+                    "id": 83580.0, 
+                    "name": "101 Hudson Street"
+                }, 
+                {
+                    "osm_id": 259782474.0, 
+                    "type": "yes", 
+                    "id": 83590.0, 
+                    "name": "Jersey City Post Office"
+                }, 
+                {
+                    "osm_id": 277880569.0, 
+                    "type": "apartments", 
+                    "id": 98908.0, 
+                    "name": "Liberty Luxe"
+                }, 
+                {
+                    "osm_id": 310223954.0, 
+                    "type": "yes", 
+                    "id": 126063.0, 
+                    "name": "Coptic Orthodox Church of St. Mark"
+                }, 
+                {
+                    "osm_id": 328553920.0, 
+                    "type": "yes", 
+                    "id": 126264.0, 
+                    "name": "St. Peter's Preparatory School"
+                }, 
+                {
+                    "osm_id": 410622818.0, 
+                    "type": "hospital", 
+                    "id": 141994.0, 
+                    "name": "Wilzig Hospital"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Who wants coffee ? Let's hang out, vibe, and talk. Comment below \ud83d\udc47\ud83c\udffc and let's meet ! devocionusa\u2026 https://t.co/X9329ko1Cp", 
+                "created_at": "2016-05-13T18:29:53", 
+                "retweet_count": 0, 
+                "id": "731189738716188675", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9302054, 
+                    40.8084389
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Tranquil coffee vibes @filterednewyork in The Bronx. @ Filtered. Coffee shop https://t.co/uSt71QTsCg", 
+                "created_at": "2016-05-12T17:28:25", 
+                "retweet_count": 1, 
+                "id": "730811884803346432", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93465809, 
+                    40.79530511
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Stomping NYC in my @toms for the One Day #withoutshoes . TAG FRIENDS! / SHARE! @ Mahattan New\u2026 https://t.co/OlMMnmYZw8", 
+                "created_at": "2016-05-10T18:01:15", 
+                "retweet_count": 0, 
+                "id": "730095368508157953", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00202, 
+                    40.74524
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 182240449.0, 
+                    "type": "yes", 
+                    "id": 900.0, 
+                    "name": "Palmer Hall"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Swedish Coffee Culture \ud83c\uddf8\ud83c\uddea @fikanyc #eastcoastcoffeeCulture #coffeeculture #nyccoffee #FikaCoffee\u2026 https://t.co/7o3InJH8U0", 
+                "created_at": "2016-05-09T16:15:01", 
+                "retweet_count": 0, 
+                "id": "729706246903877632", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9302054, 
+                    40.8084389
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "NEW COFFEE SHOP \u2615\ufe0f IN THE BRONX ! by @filterednewyork. If you are looking for an edgy / modern\u2026 https://t.co/g98hegAazA", 
+                "created_at": "2016-05-04T16:45:38", 
+                "retweet_count": 0, 
+                "id": "727902013560774656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Add me on SnapChat! ( OU-ONLYU ) to get an exclusive look at my brand and lifestyle. \n\nSee y'all\u2026 https://t.co/UJPgdGyrmL", 
+                "created_at": "2015-04-22T17:24:12", 
+                "retweet_count": 0, 
+                "id": "590929107204104193", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.348902, 
+                    34.10492876
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Rocket Ship Pose \ud83d\ude4f \ud83d\ude80. Photo by : @tiffjcallahan #OUTravels @ Runyon Canyon Park https://t.co/TlEVWsrAPP", 
+                "created_at": "2015-04-07T20:25:38", 
+                "retweet_count": 0, 
+                "id": "585538946957971458", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.47374865, 
+                    33.98706177
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Good vibes from Venice, Ca. #OUTravels #Adventure @ Venice Beach Boardwalk https://t.co/dO8yZtVeLg", 
+                "created_at": "2015-04-06T22:47:07", 
+                "retweet_count": 0, 
+                "id": "585212163439992832", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.46667135, 
+                    33.99066787
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "After being dormant for 3 months #OU is back on the map. With that said, let's start with a nice Caf\u00e9\u2026 https://t.co/XcoolKi4ZB", 
+                "created_at": "2015-04-06T20:36:44", 
+                "retweet_count": 0, 
+                "id": "585179351328677889", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99843153, 
+                    40.7262393
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Enjoying my evening coffee ( Espresso Macchiato ) at @aromaespresso http://t.co/MOpRvjWxpF", 
+                "created_at": "2014-12-29T23:26:20", 
+                "retweet_count": 0, 
+                "id": "549708025200902144", 
+                "favorite_count": 2
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98482768, 
+                    40.76135893
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 164720439.0, 
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place"
+                }, 
+                {
+                    "osm_id": 265317886.0, 
+                    "type": "yes", 
+                    "id": 89363.0, 
+                    "name": "Hess"
+                }, 
+                {
+                    "osm_id": 265320897.0, 
+                    "type": "yes", 
+                    "id": 89692.0, 
+                    "name": "Hartley House"
+                }, 
+                {
+                    "osm_id": 265322610.0, 
+                    "type": "yes", 
+                    "id": 89743.0, 
+                    "name": "Congregation Ezrath Israel"
+                }, 
+                {
+                    "osm_id": 265357840.0, 
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier"
+                }, 
+                {
+                    "osm_id": 266151934.0, 
+                    "type": "yes", 
+                    "id": 93256.0, 
+                    "name": "Hilton Garden Inn"
+                }, 
+                {
+                    "osm_id": 266151908.0, 
+                    "type": "theatre", 
+                    "id": 93300.0, 
+                    "name": "Ambassador Theatre"
+                }, 
+                {
+                    "osm_id": 279410766.0, 
+                    "type": "yes", 
+                    "id": 102038.0, 
+                    "name": "NJ02 Savvis Data Center"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Public life vs Private life. \n\n- Denzel Washington -", 
+                "created_at": "2014-12-29T21:50:45", 
+                "retweet_count": 0, 
+                "id": "549683969508540417", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98355572, 
+                    40.68893947
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 32965412.0, 
+                    "type": "yes", 
+                    "id": 579.0, 
+                    "name": "Statue of Liberty"
+                }, 
+                {
+                    "osm_id": 241821243.0, 
+                    "type": "yes", 
+                    "id": 1753.0, 
+                    "name": "Brooklyn Detention Complex"
+                }, 
+                {
+                    "osm_id": 245132330.0, 
+                    "type": "yes", 
+                    "id": 9697.0, 
+                    "name": "CVS"
+                }, 
+                {
+                    "osm_id": 278396518.0, 
+                    "type": "yes", 
+                    "id": 101701.0, 
+                    "name": "Ligget Hall"
+                }, 
+                {
+                    "osm_id": 384213841.0, 
+                    "type": "yes", 
+                    "id": 126606.0, 
+                    "name": "Michael's"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Homeless man apologized and asked to be excused for his body odor to passengers on the train. Compelled, I gave him money. #nyc #mannerism", 
+                "created_at": "2014-12-12T04:33:31", 
+                "retweet_count": 0, 
+                "id": "543262345494290432", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pluviophile: A lover of rain; someone who finds joy and peace of mind during rainy days. #OU @ OU HQ http://t.co/gXSH2AefWp", 
+                "created_at": "2014-12-06T17:21:15", 
+                "retweet_count": 0, 
+                "id": "541281224875319296", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90220393, 
+                    40.8686887
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "@mrdavehill is dapper on the @midnight", 
+                "created_at": "2014-12-02T05:14:19", 
+                "retweet_count": 0, 
+                "id": "539648737938014208", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.86630918, 
+                    40.88783621
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Rejection is part of growth. #thecycleoflife", 
+                "created_at": "2014-11-15T03:16:16", 
+                "retweet_count": 0, 
+                "id": "533458435179020288", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.78870508, 
+                    40.90754751
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My god! drum lines just fuel the soul.", 
+                "created_at": "2014-11-15T03:06:59", 
+                "retweet_count": 0, 
+                "id": "533456096007319552", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9141732, 
+                    40.84503662
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Take every risk. Drop every fear.", 
+                "created_at": "2014-10-28T11:35:43", 
+                "retweet_count": 0, 
+                "id": "527061142083219456", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.89704716, 
+                    40.8674899
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "To me, style matters.", 
+                "created_at": "2014-10-11T11:24:45", 
+                "retweet_count": 0, 
+                "id": "520897787823943680", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.89758432, 
+                    40.86739417
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Master the visual arts.", 
+                "created_at": "2014-10-09T02:54:24", 
+                "retweet_count": 0, 
+                "id": "520044580277080065", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90228825, 
+                    40.86849949
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "tacos or chimi? hmmm #hoodfoodproblems", 
+                "created_at": "2014-10-04T03:09:18", 
+                "retweet_count": 0, 
+                "id": "518236389989965825", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.89693272, 
+                    40.86749924
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Virtue theories are interesting.", 
+                "created_at": "2014-10-02T04:32:15", 
+                "retweet_count": 0, 
+                "id": "517532488865181696", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90222957, 
+                    40.86863962
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Chinese and a movie", 
+                "created_at": "2014-09-28T00:19:26", 
+                "retweet_count": 0, 
+                "id": "516019314458390528", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Went to the shooting rage for monthly Army training and got inspired by all the left over brass.\u2026 http://t.co/hmxT11nkkn", 
+                "created_at": "2014-09-20T19:35:10", 
+                "retweet_count": 0, 
+                "id": "513411062503194628", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.92106161, 
+                    40.83570798
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "If you never break you will never learn how to put yourself back together #ouwisdom", 
+                "created_at": "2014-09-18T11:38:50", 
+                "retweet_count": 0, 
+                "id": "512566411907301376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94550769, 
+                    40.7782072
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just because summer is done doesn't mean you should stop working out. Keep your beach body in the fall and winter. #fitcreative #fitlife", 
+                "created_at": "2014-09-10T18:34:18", 
+                "retweet_count": 0, 
+                "id": "509771867285372928", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.90213038, 
+                    40.86863253
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm obsessed with being a creative. #creative #artist #free", 
+                "created_at": "2014-09-08T02:34:49", 
+                "retweet_count": 0, 
+                "id": "508805628698316800", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.7651528, 
+                    40.88123741
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Labor Day Weekend barbecue after yesterday's lightening storm. #ONLYU #WhoSaidSummerWasOver #FitSocial\u2026 http://t.co/Os5DIiYvs7", 
+                "created_at": "2014-09-01T15:54:17", 
+                "retweet_count": 0, 
+                "id": "506470105048690688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.89680137, 
+                    40.86730947
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Self-invested.", 
+                "created_at": "2014-08-31T03:02:32", 
+                "retweet_count": 0, 
+                "id": "505913500276101120", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.79642754, 
+                    40.75972989
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -1999493.0, 
+                    "type": "commercial", 
+                    "id": 3.0, 
+                    "name": "Lever House"
+                }, 
+                {
+                    "osm_id": 42496314.0, 
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building"
+                }, 
+                {
+                    "osm_id": 42496284.0, 
+                    "type": "commercial", 
+                    "id": 599.0, 
+                    "name": "Morgan Stanley Building"
+                }, 
+                {
+                    "osm_id": 143858914.0, 
+                    "type": "yes", 
+                    "id": 748.0, 
+                    "name": "The Hotel Edison NYC"
+                }, 
+                {
+                    "osm_id": 146031971.0, 
+                    "type": "commercial", 
+                    "id": 761.0, 
+                    "name": "Exxon Building"
+                }, 
+                {
+                    "osm_id": 159912559.0, 
+                    "type": "apartments", 
+                    "id": 817.0, 
+                    "name": "Manhattan Plaza Apartments II"
+                }, 
+                {
+                    "osm_id": 218348081.0, 
+                    "type": "commercial", 
+                    "id": 1038.0, 
+                    "name": "650 Fifth Avenue"
+                }, 
+                {
+                    "osm_id": 258619237.0, 
+                    "type": "apartments", 
+                    "id": 83554.0, 
+                    "name": "Platinum"
+                }, 
+                {
+                    "osm_id": 259740373.0, 
+                    "type": "yes", 
+                    "id": 83572.0, 
+                    "name": "75 Rockefeller Plaza"
+                }, 
+                {
+                    "osm_id": 260248033.0, 
+                    "type": "yes", 
+                    "id": 83600.0, 
+                    "name": "510 Madison"
+                }, 
+                {
+                    "osm_id": 265320243.0, 
+                    "type": "office", 
+                    "id": 89572.0, 
+                    "name": "Film Center"
+                }, 
+                {
+                    "osm_id": 265432783.0, 
+                    "type": "apartments", 
+                    "id": 91229.0, 
+                    "name": "The Excelsior"
+                }, 
+                {
+                    "osm_id": 266010257.0, 
+                    "type": "yes", 
+                    "id": 92886.0, 
+                    "name": "Du Mont Building"
+                }, 
+                {
+                    "osm_id": 266010260.0, 
+                    "type": "commercial", 
+                    "id": 93001.0, 
+                    "name": "Harper & Row Building"
+                }, 
+                {
+                    "osm_id": 266024854.0, 
+                    "type": "church", 
+                    "id": 93025.0, 
+                    "name": "St. Luke's Church"
+                }, 
+                {
+                    "osm_id": 266149312.0, 
+                    "type": "yes", 
+                    "id": 93197.0, 
+                    "name": "Paramount Hotel"
+                }, 
+                {
+                    "osm_id": 266170564.0, 
+                    "type": "yes", 
+                    "id": 93336.0, 
+                    "name": "Nine West"
+                }, 
+                {
+                    "osm_id": 266170774.0, 
+                    "type": "commercial", 
+                    "id": 93525.0, 
+                    "name": "640 5th Avenue"
+                }, 
+                {
+                    "osm_id": 266170808.0, 
+                    "type": "yes", 
+                    "id": 93554.0, 
+                    "name": "Radio City Music Hall"
+                }, 
+                {
+                    "osm_id": 266170837.0, 
+                    "type": "yes", 
+                    "id": 93568.0, 
+                    "name": "Associated Press Building"
+                }, 
+                {
+                    "osm_id": 266194611.0, 
+                    "type": "yes", 
+                    "id": 93648.0, 
+                    "name": "Permanent Mission of the Kingdom of Cambodia to the United Nations"
+                }, 
+                {
+                    "osm_id": 266233364.0, 
+                    "type": "yes", 
+                    "id": 93859.0, 
+                    "name": "Park 55"
+                }, 
+                {
+                    "osm_id": 266233432.0, 
+                    "type": "yes", 
+                    "id": 93894.0, 
+                    "name": "405 Park Avenue"
+                }, 
+                {
+                    "osm_id": 266233360.0, 
+                    "type": "synagogue", 
+                    "id": 93906.0, 
+                    "name": "Central Synagogue"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 279400689.0, 
+                    "type": "yes", 
+                    "id": 102067.0, 
+                    "name": "The Shops at Lincoln Harbor"
+                }, 
+                {
+                    "osm_id": 351824068.0, 
+                    "type": "roof", 
+                    "id": 126352.0, 
+                    "name": "Lukoil"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Took a trip out to Montauk, \nNew York aka The End. In love with the beach culture here. Summer is\u2026 http://t.co/ldMhN9InEn", 
+                "created_at": "2014-08-24T16:24:50", 
+                "retweet_count": 0, 
+                "id": "503578691197083648", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.81747874, 
+                    40.58261868
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm excited to announce that END OF THE A ( endofthea ) the one and only Rockaway Beach mobile\u2026 http://t.co/gXkaXoi0Wa", 
+                "created_at": "2014-08-22T17:59:18", 
+                "retweet_count": 0, 
+                "id": "502877686562586625", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.73713705, 
+                    40.95276361
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Exploring. #ONLYU #Bronx #OrchardBeach @ Life of OU http://t.co/qU4YMSkAmd", 
+                "created_at": "2014-08-20T21:09:22", 
+                "retweet_count": 0, 
+                "id": "502200745324601346", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Water Bracelet. #ou #orlandourena #nautical #ocean #sea #water #bracelet #orbit @ OU HQ http://t.co/PjUsS5zXXI", 
+                "created_at": "2014-08-20T20:16:06", 
+                "retweet_count": 0, 
+                "id": "502187340572688384", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.794117, 
+                    40.86719383
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "ALS ice bucket challenge. I was nominated by my best friend @sl33pinclass and my cousin mrurena1 . I\u2026 http://t.co/3kvmQTE0cY", 
+                "created_at": "2014-08-16T17:05:17", 
+                "retweet_count": 0, 
+                "id": "500689765717385216", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.79422975, 
+                    40.86887776
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Essentials of OU by the beach: Coffee, Vans and layers of nautical wrist wear. On left hand: Red\u2026 http://t.co/iW6LBX1hxl", 
+                "created_at": "2014-08-13T20:53:04", 
+                "retweet_count": 0, 
+                "id": "499659927779278848", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.73713705, 
+                    40.95276361
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Quality improves with age. #ou #brand @ Life of OU http://t.co/euMzpDXegB", 
+                "created_at": "2014-08-13T20:15:00", 
+                "retweet_count": 0, 
+                "id": "499650346512166912", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The love for nautical will never end, Water bracelet and Anchor bracelet. #ou #orlandourena #anchor\u2026 http://t.co/uZL4822Z1F", 
+                "created_at": "2014-08-12T17:27:44", 
+                "retweet_count": 0, 
+                "id": "499245865165287424", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98769754, 
+                    40.75097498
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138147416.0, 
+                    "type": "yes", 
+                    "id": 699.0, 
+                    "name": "One Penn Plaza"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 264656625.0, 
+                    "type": "yes", 
+                    "id": 85960.0, 
+                    "name": "Starrett-Lehigh Building"
+                }, 
+                {
+                    "osm_id": 264667030.0, 
+                    "type": "yes", 
+                    "id": 86092.0, 
+                    "name": "James Farley Post Office"
+                }, 
+                {
+                    "osm_id": 265302069.0, 
+                    "type": "yes", 
+                    "id": 89197.0, 
+                    "name": "Macy's Herald Square"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Enjoying Intelligentsia fresh roasted coffee. Loving their Tres Santos from Colombia brew. #ilovecoffee #NYC http://t.co/XljS4tAMQg", 
+                "created_at": "2014-08-06T20:56:23", 
+                "retweet_count": 0, 
+                "id": "497124048166744064", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.73713705, 
+                    40.95276361
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Move with a purpose. #ou #brand #purpose @ Life of OU http://t.co/2ZEa6SIYK1", 
+                "created_at": "2014-08-03T20:13:43", 
+                "retweet_count": 0, 
+                "id": "496026146530918401", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.73713705, 
+                    40.95276361
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Siblings of OU. #family #siblings #sister @ Life of OU http://t.co/Oq2X14rvIY", 
+                "created_at": "2014-07-30T21:07:24", 
+                "retweet_count": 0, 
+                "id": "494590102421921792", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97767115, 
+                    40.7499002
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 35938543.0, 
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 86337142.0, 
+                    "type": "yes", 
+                    "id": 643.0, 
+                    "name": "400 Fifth Avenue"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 264656590.0, 
+                    "type": "yes", 
+                    "id": 85935.0, 
+                    "name": "Chelsea Arts Tower"
+                }, 
+                {
+                    "osm_id": 264685192.0, 
+                    "type": "yes", 
+                    "id": 86323.0, 
+                    "name": "Hotel Pennsylvania"
+                }, 
+                {
+                    "osm_id": 265302073.0, 
+                    "type": "yes", 
+                    "id": 89252.0, 
+                    "name": "Kratter Building"
+                }, 
+                {
+                    "osm_id": 265424473.0, 
+                    "type": "yes", 
+                    "id": 91135.0, 
+                    "name": "232 Madison Ave"
+                }, 
+                {
+                    "osm_id": 265875646.0, 
+                    "type": "yes", 
+                    "id": 92737.0, 
+                    "name": "Madison Towers Hotel"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Keeping it cool at the Lincoln Memorial in Washington DC with cincin16 \u270c\ufe0f @ Lincoln Memorial\u2026 http://t.co/eZjaR8PoKR", 
+                "created_at": "2014-07-30T16:07:17", 
+                "retweet_count": 0, 
+                "id": "494514577384558592", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.79422975, 
+                    40.86887776
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fitness is part of my creative process. #ou #brand #bracelet #swimmer #fitness #igfit #fitartist photo\u2026 http://t.co/F7eZytLzwA", 
+                "created_at": "2014-07-23T17:24:44", 
+                "retweet_count": 0, 
+                "id": "491997353289601024", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99059857, 
+                    40.70116291
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 38868195.0, 
+                    "type": "yes", 
+                    "id": 590.0, 
+                    "name": "Staten Island Ferry Whitehall Terminal"
+                }, 
+                {
+                    "osm_id": 169362470.0, 
+                    "type": "yes", 
+                    "id": 889.0, 
+                    "name": "Battery Maritime Building"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "OU flag on the Brooklyn Bridge. #onlyu #ou #orlandourena #brand #blog #flag #fitness #fitartist photo\u2026 http://t.co/MFGeaPCy9H", 
+                "created_at": "2014-07-21T17:09:07", 
+                "retweet_count": 0, 
+                "id": "491268646811869185", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Make a statement with simplicity. The Minimalist bracelet, concept for a new collection. Want more\u2026 http://t.co/OeHrkncdGS", 
+                "created_at": "2014-07-10T19:56:45", 
+                "retweet_count": 0, 
+                "id": "487324565157056512", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99027778, 
+                    40.73472222
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 247862829.0, 
+                    "type": "yes", 
+                    "id": 11706.0, 
+                    "name": "Benjamin N. Cardozo School of Law"
+                }, 
+                {
+                    "osm_id": 249664014.0, 
+                    "type": "yes", 
+                    "id": 35077.0, 
+                    "name": "Jefferson Market Library"
+                }, 
+                {
+                    "osm_id": 250072646.0, 
+                    "type": "church", 
+                    "id": 41406.0, 
+                    "name": "First Presbyterian Church"
+                }, 
+                {
+                    "osm_id": 403895976.0, 
+                    "type": "yes", 
+                    "id": 136174.0, 
+                    "name": "Cast-Iron Lofts"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "NYC + World Cup. Let's go team USA! \ud83c\uddfa\ud83c\uddf8 @ 14th Street \u2013 Union Square (New York City Subway) http://t.co/AVKTSqtztR", 
+                "created_at": "2014-06-23T00:11:30", 
+                "retweet_count": 0, 
+                "id": "480865694964543488", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Anchor Collection is now available via the OU site. Start the summer right with nautical wrist\u2026 http://t.co/8hpKOjmhZi", 
+                "created_at": "2014-06-21T18:12:01", 
+                "retweet_count": 0, 
+                "id": "480412839660638208", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Coffee. Creative lighter fluid. \n- Floyd Maxwell - #ONLYU #BLOG #coffee #cafe #morning @ OU HQ http://t.co/MryeHAKTLm", 
+                "created_at": "2014-06-11T15:38:10", 
+                "retweet_count": 0, 
+                "id": "476750244676657153", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0064, 
+                    40.7142
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 75309463.0, 
+                    "type": "yes", 
+                    "id": 622.0, 
+                    "name": "75 Park Place"
+                }, 
+                {
+                    "osm_id": 75309475.0, 
+                    "type": "yes", 
+                    "id": 627.0, 
+                    "name": "Goldman Sachs Tower"
+                }, 
+                {
+                    "osm_id": 140391510.0, 
+                    "type": "yes", 
+                    "id": 720.0, 
+                    "name": "101 Barclay Street"
+                }, 
+                {
+                    "osm_id": 250568900.0, 
+                    "type": "yes", 
+                    "id": 82387.0, 
+                    "name": "300 Vesey Street"
+                }, 
+                {
+                    "osm_id": 259686627.0, 
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital"
+                }, 
+                {
+                    "osm_id": 277890504.0, 
+                    "type": "yes", 
+                    "id": 99102.0, 
+                    "name": "Verizon Building"
+                }, 
+                {
+                    "osm_id": 277919042.0, 
+                    "type": "yes", 
+                    "id": 99196.0, 
+                    "name": "250 Vesey Street"
+                }, 
+                {
+                    "osm_id": 278093236.0, 
+                    "type": "yes", 
+                    "id": 99715.0, 
+                    "name": "Tower 270"
+                }, 
+                {
+                    "osm_id": 376161227.0, 
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "ONLY U : A blog dedicated to inspiration, creativity, and lifestyle.     Inspired by my own initials.\u2026 http://t.co/RyJhuguX2r", 
+                "created_at": "2014-06-07T16:59:04", 
+                "retweet_count": 0, 
+                "id": "475321053967699968", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bohemian inspired anchor bracelets. #ou #orlandourena #anchor #summer #wristwear #uo @ OU HQ http://t.co/Msa7aUQ6J1", 
+                "created_at": "2014-06-05T18:26:53", 
+                "retweet_count": 0, 
+                "id": "474618374408777729", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.79276962, 
+                    40.86803709
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Perks of being a lifeguard at Orchard Beach. Jlo concert on the house. #nyclifeguards #oblg #jlo @jlo\u2026 http://t.co/RL1ZxkVFWq", 
+                "created_at": "2014-06-04T23:24:00", 
+                "retweet_count": 2, 
+                "id": "474330760741007360", 
+                "favorite_count": 18
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.87943352, 
+                    40.72470706
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -3340429.0, 
+                    "type": "yes", 
+                    "id": 47.0, 
+                    "name": "Gina Keatley, CDN"
+                }, 
+                {
+                    "osm_id": 27111278.0, 
+                    "type": "yes", 
+                    "id": 564.0, 
+                    "name": "Westin"
+                }, 
+                {
+                    "osm_id": 247844314.0, 
+                    "type": "yes", 
+                    "id": 10785.0, 
+                    "name": "Puck Building"
+                }, 
+                {
+                    "osm_id": 247850461.0, 
+                    "type": "yes", 
+                    "id": 11050.0, 
+                    "name": "La Mer 575 Broadway"
+                }, 
+                {
+                    "osm_id": 247865176.0, 
+                    "type": "yes", 
+                    "id": 11927.0, 
+                    "name": "Knoll International Design Center"
+                }, 
+                {
+                    "osm_id": 248156488.0, 
+                    "type": "apartments", 
+                    "id": 19052.0, 
+                    "name": "Avalon Bowery Place"
+                }, 
+                {
+                    "osm_id": 248266465.0, 
+                    "type": "school", 
+                    "id": 28125.0, 
+                    "name": "Public School 63"
+                }, 
+                {
+                    "osm_id": 249664448.0, 
+                    "type": "yes", 
+                    "id": 35341.0, 
+                    "name": "Chelsea Career & Techincal High School"
+                }, 
+                {
+                    "osm_id": 249666488.0, 
+                    "type": "yes", 
+                    "id": 36183.0, 
+                    "name": "Canal Park Playhouse"
+                }, 
+                {
+                    "osm_id": 280115171.0, 
+                    "type": "yes", 
+                    "id": 114680.0, 
+                    "name": "Amber Steak House"
+                }, 
+                {
+                    "osm_id": 280122289.0, 
+                    "type": "warehouse", 
+                    "id": 115139.0, 
+                    "name": "DEP"
+                }, 
+                {
+                    "osm_id": 297163345.0, 
+                    "type": "yes", 
+                    "id": 125795.0, 
+                    "name": "National Guard Armory"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fluorescent Architecture. #nyc #nyclifeguards #beach #summer @ Rockaway Beach 106 http://t.co/askewjyDtw", 
+                "created_at": "2014-06-03T15:55:34", 
+                "retweet_count": 0, 
+                "id": "473855521548959744", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Unofficial summer attire. Hooded long sleeve shirt and beach shorts both by americaneagle #mystyle\u2026 http://t.co/7HOhVMIyP1", 
+                "created_at": "2014-06-01T19:42:45", 
+                "retweet_count": 0, 
+                "id": "473187916324536321", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "No days off...In the OU lab designing and crafting a new series of bracelets. Hint: Popular Social\u2026 http://t.co/3ZXM6mIXjr", 
+                "created_at": "2014-05-30T18:56:42", 
+                "retweet_count": 0, 
+                "id": "472451551408058369", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Unofficial summer vibes. #ou #orlandourena #nyc #bracelet #accessories #wristwear #summer #metrocard\u2026 http://t.co/6hxcVjgGAk", 
+                "created_at": "2014-05-30T15:35:23", 
+                "retweet_count": 0, 
+                "id": "472400887550578688", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Mosaic Bracelet \n\nInspired by Byzantine mosaics. \n\nWhat's a Mosaic...??\n\nMosaic is the art of creating\u2026 http://t.co/j7D1ZG10fu", 
+                "created_at": "2014-05-29T19:30:05", 
+                "retweet_count": 0, 
+                "id": "472097566427865088", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.88827547, 
+                    40.85420316
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ The Bronx Beer Hall http://t.co/beoacv1RZQ", 
+                "created_at": "2014-05-27T18:20:47", 
+                "retweet_count": 0, 
+                "id": "471355349023604736", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.88827547, 
+                    40.85420316
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "These are the two custom, Chinese inspired, and one of a kind #OU bracelets that will be raffled off\u2026 http://t.co/FYoR7dPe5n", 
+                "created_at": "2014-05-27T18:13:57", 
+                "retweet_count": 0, 
+                "id": "471353629111095299", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.79276964, 
+                    40.86803724
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Circuit training with @sl33pinclass \ud83d\udcaa. #fitlife #orchardbeach #oblg #lifeguard #summer @ Orchard Beach\u2026 http://t.co/3Z9eAiklgk", 
+                "created_at": "2014-05-27T16:37:18", 
+                "retweet_count": 0, 
+                "id": "471329305910583296", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.79336457, 
+                    40.86823654
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Enjoying my afternoon in the Bronx. #summer #bronx #orchardbeach #ou @ Orchard Beach http://t.co/HXP2w0ojTz", 
+                "created_at": "2014-05-25T20:52:58", 
+                "retweet_count": 0, 
+                "id": "470668873306341376", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.88827547, 
+                    40.85420316
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Come support @projectbronx raise funds for The Marble Hill Exchange Program on Friday, May 30th. Two\u2026 http://t.co/xm4C95bJ5f", 
+                "created_at": "2014-05-24T18:12:05", 
+                "retweet_count": 0, 
+                "id": "470265996440518656", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.88827547, 
+                    40.85420316
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Come support @projectbronx and I on Friday, May 30th at the @bronxbeerhall to help raise finds for The\u2026 http://t.co/LNhNGba7EG", 
+                "created_at": "2014-05-24T17:53:26", 
+                "retweet_count": 0, 
+                "id": "470261304070897664", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.79106263, 
+                    40.86952121
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Summer vibes from OU. #ou #orlandourena #summer #beach @ Orchard Beach Bronx Lifeguards http://t.co/wwyBRvjuC8", 
+                "created_at": "2014-05-23T20:25:20", 
+                "retweet_count": 0, 
+                "id": "469937141032554496", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "OU Logistics. #orlandourena #ou #bracelet #brand @ OU HQ http://t.co/sfDUkq2Wxl", 
+                "created_at": "2014-05-20T18:25:23", 
+                "retweet_count": 0, 
+                "id": "468819792267595777", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "OUGQ #ou #orlandourena #fashion #accessories #wristwear #gq #bracelet #jewlery @ OU HQ http://t.co/d79iOZBv55", 
+                "created_at": "2014-05-19T19:07:12", 
+                "retweet_count": 0, 
+                "id": "468467927197286400", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ready to ship. Custom Sea Glass bracelet with anchor clasp. #ou #orlandourena #anchor #ocean #sea\u2026 http://t.co/fCftFpE7RG", 
+                "created_at": "2014-05-17T18:00:12", 
+                "retweet_count": 1, 
+                "id": "467726291769524224", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9439338, 
+                    40.77980071
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"When you do something that you know is authentic-embrace it, run with it, and trust yourself before\u2026 http://t.co/B02LB0EVKw", 
+                "created_at": "2014-05-12T15:56:02", 
+                "retweet_count": 0, 
+                "id": "465883103936790531", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.37296429, 
+                    33.91633281
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cruise crew!  #mexico #carnival #cruise @ Carnival Cruise Long Beach Cali http://t.co/GszmIquztZ", 
+                "created_at": "2014-04-21T19:17:11", 
+                "retweet_count": 0, 
+                "id": "458323580863152129", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.474735, 
+                    34.18928443
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "UCSB : The University of California, Santa Barbara. Should of went here for my undergraduate degree. A\u2026 http://t.co/hGRvteMsil", 
+                "created_at": "2014-04-18T19:13:29", 
+                "retweet_count": 0, 
+                "id": "457235487011651584", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.49815697, 
+                    34.00860786
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "This is life. Your story matter. California. #santamonica #california #westcoast #beach #pacific @\u2026 http://t.co/4vMZotYqix", 
+                "created_at": "2014-04-17T16:30:14", 
+                "retweet_count": 0, 
+                "id": "456832015690526720", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.49815697, 
+                    34.00860786
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Santa Monica Pacific Pier #santamonica #california #westcoast @ Santa Monica pacific peir http://t.co/G9xqXRPSTo", 
+                "created_at": "2014-04-16T21:18:18", 
+                "retweet_count": 0, 
+                "id": "456542119562182658", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3154125, 
+                    34.26004946
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "NYC dominican boys in California. Reunited with @kennyakadexstar ! Who showed me an amazing 30 mile\u2026 http://t.co/PtLmOEiCBk", 
+                "created_at": "2014-04-16T20:35:50", 
+                "retweet_count": 0, 
+                "id": "456531434811830274", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99092378, 
+                    40.73427976
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26808027.0, 
+                    "type": "yes", 
+                    "id": 547.0, 
+                    "name": "Hoboken Terminal"
+                }, 
+                {
+                    "osm_id": 247862763.0, 
+                    "type": "yes", 
+                    "id": 11578.0, 
+                    "name": "Strip House"
+                }, 
+                {
+                    "osm_id": 250072646.0, 
+                    "type": "church", 
+                    "id": 41406.0, 
+                    "name": "First Presbyterian Church"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Chocolate Friday \ud83d\ude0d cincin16 #chocolate #Naptime \ud83d\ude34 @ Max Brenner Chocolate http://t.co/aEKrLyMPTc", 
+                "created_at": "2014-03-21T22:32:03", 
+                "retweet_count": 0, 
+                "id": "447138596555079681", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.78454729, 
+                    44.04517589
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Every block of stone has a statue inside it and it is the task of the sculptor to discover\u2026 http://t.co/RH6j5e7SiJ", 
+                "created_at": "2013-11-07T13:40:58", 
+                "retweet_count": 0, 
+                "id": "398444970299768833", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.78266835, 
+                    44.04136945
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Military sustenance. M.R.E ( Meals Ready to Eat ) #military #army #food @ Fort Drum http://t.co/K9aoHsyg9h", 
+                "created_at": "2013-11-02T21:03:29", 
+                "retweet_count": 0, 
+                "id": "396744396395540480", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.78266835, 
+                    44.04136945
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Guard duty \ud83d\ude0b\ud83d\ude09\ud83c\uddfa\ud83c\uddf8. #military #army #stayingawake #america @ Fort Drum http://t.co/q33l19PniM", 
+                "created_at": "2013-10-30T05:33:06", 
+                "retweet_count": 0, 
+                "id": "395423092530761728", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.73899174, 
+                    44.037786
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Citizen soldier with a higher purpose. #soldier #sergeant #army #nyc #america #NotMyHalloweenCostume\u2026 http://t.co/nU5uaLrB1H", 
+                "created_at": "2013-10-27T11:22:13", 
+                "retweet_count": 0, 
+                "id": "394423787015655424", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

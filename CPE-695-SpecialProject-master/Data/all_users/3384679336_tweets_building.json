@@ -1,0 +1,313 @@
+{
+    "total_favorite_count": 89, 
+    "total_tweets": 8, 
+    "screen_name": "IllLewShaw", 
+    "friends_count": 41, 
+    "followers_count": 28, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9675, 
+                    40.7779
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gained 2.2 lb. more. Hard work. #chemo #cancer #weightgain Stalling before starting a new scene\u2026 https://t.co/5DASSVyNoB", 
+                "created_at": "2016-10-14T00:24:01", 
+                "retweet_count": 0, 
+                "id": "786724205811425280", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00944444, 
+                    40.70638889
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 129700432.0, 
+                    "type": "apartments", 
+                    "id": 688.0, 
+                    "name": "Millennium Tower Residences"
+                }, 
+                {
+                    "osm_id": 277924003.0, 
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza"
+                }, 
+                {
+                    "osm_id": 277924006.0, 
+                    "type": "yes", 
+                    "id": 99155.0, 
+                    "name": "Museum of Jewish Heritage"
+                }, 
+                {
+                    "osm_id": 278042241.0, 
+                    "type": "apartments", 
+                    "id": 99256.0, 
+                    "name": "45 Wall Street"
+                }, 
+                {
+                    "osm_id": 278053476.0, 
+                    "type": "yes", 
+                    "id": 99279.0, 
+                    "name": "Continental Bank Building"
+                }, 
+                {
+                    "osm_id": 278053497.0, 
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street"
+                }, 
+                {
+                    "osm_id": 278053487.0, 
+                    "type": "yes", 
+                    "id": 99325.0, 
+                    "name": "Harriman Building"
+                }, 
+                {
+                    "osm_id": 278053608.0, 
+                    "type": "yes", 
+                    "id": 99390.0, 
+                    "name": "52 Broadway"
+                }, 
+                {
+                    "osm_id": 278053607.0, 
+                    "type": "yes", 
+                    "id": 99391.0, 
+                    "name": "50 Broadway"
+                }, 
+                {
+                    "osm_id": 278067732.0, 
+                    "type": "yes", 
+                    "id": 99392.0, 
+                    "name": "P.S. - I.S. 276 Battery Park City School"
+                }, 
+                {
+                    "osm_id": 278053605.0, 
+                    "type": "yes", 
+                    "id": 99394.0, 
+                    "name": "45 Broadway Atrium"
+                }, 
+                {
+                    "osm_id": 278067734.0, 
+                    "type": "apartments", 
+                    "id": 99408.0, 
+                    "name": "Le Rivage"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Whatever gets me through #chemo #cancer #tallyofwords @ Wall Street https://t.co/LL3z2oICNd", 
+                "created_at": "2016-10-12T23:23:45", 
+                "retweet_count": 0, 
+                "id": "786346649836584960", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97404804, 
+                    40.74221502
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 26974144.0, 
+                    "type": "yes", 
+                    "id": 545.0, 
+                    "name": "Edwin A. Stevens Hall and DeBaun Auditorium"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 160963310.0, 
+                    "type": "yes", 
+                    "id": 831.0, 
+                    "name": "Merchandise Mart Building"
+                }, 
+                {
+                    "osm_id": 248827297.0, 
+                    "type": "apartments", 
+                    "id": 29107.0, 
+                    "name": "Chesapeake House"
+                }, 
+                {
+                    "osm_id": 264625640.0, 
+                    "type": "yes", 
+                    "id": 84177.0, 
+                    "name": "Dream Downtown"
+                }, 
+                {
+                    "osm_id": 264645872.0, 
+                    "type": "apartments", 
+                    "id": 85309.0, 
+                    "name": "The Caroline"
+                }, 
+                {
+                    "osm_id": 278326017.0, 
+                    "type": "apartments", 
+                    "id": 100911.0, 
+                    "name": "Kips Bay Tower South"
+                }, 
+                {
+                    "osm_id": 396126615.0, 
+                    "type": "yes", 
+                    "id": 127319.0, 
+                    "name": "Pershing Rinks"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "My next computer #cancer #writing @ NYU Langone Medical Center https://t.co/A0LQkJhleZ", 
+                "created_at": "2016-09-22T23:05:17", 
+                "retweet_count": 0, 
+                "id": "779094244845821952", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9385099, 
+                    40.83449
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A murder scene @ Morris-Jumel Mansion https://t.co/bXN3Qsasew", 
+                "created_at": "2016-09-17T22:03:36", 
+                "retweet_count": 0, 
+                "id": "777266783711535104", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00913795, 
+                    40.70993976
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 278033587.0, 
+                    "type": "yes", 
+                    "id": 99204.0, 
+                    "name": "Four World Trade Center"
+                }, 
+                {
+                    "osm_id": 278039422.0, 
+                    "type": "commercial", 
+                    "id": 99220.0, 
+                    "name": "Cleaning Exec Cleaning Services"
+                }, 
+                {
+                    "osm_id": 278033586.0, 
+                    "type": "yes", 
+                    "id": 99228.0, 
+                    "name": "Club Quarters, World Trade Center"
+                }, 
+                {
+                    "osm_id": 278033633.0, 
+                    "type": "yes", 
+                    "id": 99229.0, 
+                    "name": "90 West Street"
+                }, 
+                {
+                    "osm_id": 278039446.0, 
+                    "type": "yes", 
+                    "id": 99277.0, 
+                    "name": "One Liberty Plaza"
+                }, 
+                {
+                    "osm_id": 406698584.0, 
+                    "type": "yes", 
+                    "id": 136816.0, 
+                    "name": "Foundry Lofts"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Banana Flamb\u00e9. @ Les Halles Downtown https://t.co/4ZPCXRMXne", 
+                "created_at": "2016-04-22T23:25:42", 
+                "retweet_count": 0, 
+                "id": "723654038340964354", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93612876, 
+                    40.79804743
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ East Harlem El Barrio Nyc https://t.co/qK26Qyzjj1", 
+                "created_at": "2016-03-05T14:47:34", 
+                "retweet_count": 0, 
+                "id": "706129027996762113", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9385071, 
+                    40.8344917
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Morris-Jumel Mansion https://t.co/BMgfbHlO44", 
+                "created_at": "2016-02-05T12:24:53", 
+                "retweet_count": 0, 
+                "id": "695583875100250112", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9385071, 
+                    40.8344917
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Morris-Jumel Mansion https://t.co/qgKNJhHe8u", 
+                "created_at": "2016-02-05T12:14:00", 
+                "retweet_count": 0, 
+                "id": "695581133044584449", 
+                "favorite_count": 0
+            }
+        }
+    ]
+}

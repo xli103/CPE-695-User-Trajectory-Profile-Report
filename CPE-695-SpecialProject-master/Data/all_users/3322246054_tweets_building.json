@@ -1,0 +1,733 @@
+{
+    "total_favorite_count": 3275, 
+    "total_tweets": 18, 
+    "screen_name": "KaplanAzul", 
+    "friends_count": 553, 
+    "followers_count": 273, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98554053, 
+                    40.74853372
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 34633854.0, 
+                    "type": "office", 
+                    "id": 584.0, 
+                    "name": "\u5e1d\u570b\u5927\u5ec8"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 264668305.0, 
+                    "type": "yes", 
+                    "id": 86072.0, 
+                    "name": "Penn South Building 8"
+                }, 
+                {
+                    "osm_id": 264685148.0, 
+                    "type": "yes", 
+                    "id": 86317.0, 
+                    "name": "Saint Francis House"
+                }, 
+                {
+                    "osm_id": 264685194.0, 
+                    "type": "yes", 
+                    "id": 86328.0, 
+                    "name": "The Epic"
+                }, 
+                {
+                    "osm_id": 264685227.0, 
+                    "type": "yes", 
+                    "id": 86370.0, 
+                    "name": "Tower 111"
+                }, 
+                {
+                    "osm_id": 321790145.0, 
+                    "type": "yes", 
+                    "id": 126180.0, 
+                    "name": "Saint Francis Friary"
+                }, 
+                {
+                    "osm_id": 396820651.0, 
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf03 #empirestatebuilding @ Empire State Building Manhattan New York City https://t.co/xVeXPAWEy5", 
+                "created_at": "2016-10-29T15:07:36", 
+                "retweet_count": 0, 
+                "id": "792382383169294337", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.38704, 
+                    -34.61688
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "A mi lado siempre\u2764\ufe0f @ Salon Lepret https://t.co/p6WToU8gg5", 
+                "created_at": "2016-10-23T18:23:50", 
+                "retweet_count": 0, 
+                "id": "790257441258610689", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98885469, 
+                    40.75848799
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 263194427.0, 
+                    "type": "yes", 
+                    "id": 83624.0, 
+                    "name": "420 West 42nd Street"
+                }, 
+                {
+                    "osm_id": 266033995.0, 
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School"
+                }, 
+                {
+                    "osm_id": 266034045.0, 
+                    "type": "yes", 
+                    "id": 93147.0, 
+                    "name": "InterContinental New York Times Square"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }, 
+                {
+                    "osm_id": 279400339.0, 
+                    "type": "yes", 
+                    "id": 102026.0, 
+                    "name": "Sheraton"
+                }, 
+                {
+                    "osm_id": 281273726.0, 
+                    "type": "yes", 
+                    "id": 123633.0, 
+                    "name": "551 10th Avenue"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "One of the cities that i'll never forget\ud83d\udc9b @ 8th Avenue Manhattan NYC https://t.co/6jEOT4yaF3", 
+                "created_at": "2016-10-12T23:39:53", 
+                "retweet_count": 0, 
+                "id": "786350707607601152", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9923478, 
+                    40.7506734
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 264667030.0, 
+                    "type": "yes", 
+                    "id": 86092.0, 
+                    "name": "James Farley Post Office"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "De ese gran d\u00eda \n{10.09.16}\ud83c\udf41 #illuminatemsg @ Madison Square Garden https://t.co/dHDna4Tpt4", 
+                "created_at": "2016-10-06T23:57:02", 
+                "retweet_count": 0, 
+                "id": "784180697967661056", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9869499, 
+                    40.75604
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -1860567.0, 
+                    "type": "yes", 
+                    "id": 4.0, 
+                    "name": "The New York Times Building"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 266143344.0, 
+                    "type": "yes", 
+                    "id": 93160.0, 
+                    "name": "New Amsterdam Theatre"
+                }, 
+                {
+                    "osm_id": 266143308.0, 
+                    "type": "yes", 
+                    "id": 93170.0, 
+                    "name": "Candler Building"
+                }, 
+                {
+                    "osm_id": 266143361.0, 
+                    "type": "yes", 
+                    "id": 93179.0, 
+                    "name": "5 Times Square"
+                }, 
+                {
+                    "osm_id": 320480762.0, 
+                    "type": "roof", 
+                    "id": 126164.0, 
+                    "name": "BP"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Una de las noches m\u00e1s lindas\ud83c\udf19 @ NYC Times Square https://t.co/9fSDALbtll", 
+                "created_at": "2016-09-28T23:35:21", 
+                "retweet_count": 0, 
+                "id": "781276139826229248", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.42895, 
+                    -34.5951
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Xv de Celes\u2763\ufe0f @ Gran Cordoba Eventos https://t.co/ncV4PSHHnP", 
+                "created_at": "2016-09-24T17:16:23", 
+                "retweet_count": 0, 
+                "id": "779731216773832704", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99296575, 
+                    40.75444298
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 265272972.0, 
+                    "type": "yes", 
+                    "id": 88533.0, 
+                    "name": "National Comedy Theater"
+                }, 
+                {
+                    "osm_id": 266108507.0, 
+                    "type": "yes", 
+                    "id": 93129.0, 
+                    "name": "Homewood Suites"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cuando era Feliz\ud83c\udfd9 @ Homewood Suites by Hilton Midtown Manhattan Times Square South https://t.co/vSwI89hSl7", 
+                "created_at": "2016-09-21T00:41:49", 
+                "retweet_count": 0, 
+                "id": "778393761768476673", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99492622, 
+                    40.72683742
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 27110664.0, 
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall"
+                }, 
+                {
+                    "osm_id": 27110670.0, 
+                    "type": "yes", 
+                    "id": 559.0, 
+                    "name": "West Garage"
+                }, 
+                {
+                    "osm_id": 247848680.0, 
+                    "type": "yes", 
+                    "id": 10947.0, 
+                    "name": "Coles Sports and Recreation Center"
+                }, 
+                {
+                    "osm_id": 247848704.0, 
+                    "type": "yes", 
+                    "id": 10958.0, 
+                    "name": "University Towers Apartments II"
+                }, 
+                {
+                    "osm_id": 247848703.0, 
+                    "type": "yes", 
+                    "id": 10960.0, 
+                    "name": "University Towers Apartments I"
+                }, 
+                {
+                    "osm_id": 247850388.0, 
+                    "type": "yes", 
+                    "id": 10982.0, 
+                    "name": "Broadway Arches"
+                }, 
+                {
+                    "osm_id": 264854033.0, 
+                    "type": "yes", 
+                    "id": 87257.0, 
+                    "name": "Newport (Path)"
+                }, 
+                {
+                    "osm_id": 375874980.0, 
+                    "type": "school", 
+                    "id": 126498.0, 
+                    "name": "Dr. Ronald E. McNair Academic High School"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u26be\ufe0f @ Soho District, New York https://t.co/DkDGsdpVFJ", 
+                "created_at": "2016-09-16T23:01:08", 
+                "retweet_count": 0, 
+                "id": "776918873144688640", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99818544, 
+                    40.7070729
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 40010489.0, 
+                    "type": "yes", 
+                    "id": 591.0, 
+                    "name": "One Seaport Plaza"
+                }, 
+                {
+                    "osm_id": 109337830.0, 
+                    "type": "yes", 
+                    "id": 672.0, 
+                    "name": "Federal Hall National Memorial"
+                }, 
+                {
+                    "osm_id": 232065148.0, 
+                    "type": "yes", 
+                    "id": 1182.0, 
+                    "name": "Communipaw Terminal"
+                }, 
+                {
+                    "osm_id": 277924004.0, 
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch"
+                }, 
+                {
+                    "osm_id": 278053471.0, 
+                    "type": "yes", 
+                    "id": 99275.0, 
+                    "name": "Adams Express Building"
+                }, 
+                {
+                    "osm_id": 278042253.0, 
+                    "type": "yes", 
+                    "id": 99291.0, 
+                    "name": "Goldilox Towers"
+                }, 
+                {
+                    "osm_id": 278053530.0, 
+                    "type": "yes", 
+                    "id": 99330.0, 
+                    "name": "\u7d10\u7d04\u8b49\u5238\u4ea4\u6613\u6240"
+                }, 
+                {
+                    "osm_id": 278053531.0, 
+                    "type": "yes", 
+                    "id": 99331.0, 
+                    "name": "New York Stock Exchange"
+                }, 
+                {
+                    "osm_id": 278053485.0, 
+                    "type": "yes", 
+                    "id": 99371.0, 
+                    "name": "One Exchange Plaza"
+                }, 
+                {
+                    "osm_id": 278053600.0, 
+                    "type": "yes", 
+                    "id": 99387.0, 
+                    "name": "1 Wall Street"
+                }, 
+                {
+                    "osm_id": 278069550.0, 
+                    "type": "church", 
+                    "id": 99406.0, 
+                    "name": "Church of Our Lady of Victory"
+                }, 
+                {
+                    "osm_id": 278067736.0, 
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire"
+                }, 
+                {
+                    "osm_id": 278084743.0, 
+                    "type": "yes", 
+                    "id": 99556.0, 
+                    "name": "Brooklyn Bridge Sightseeing"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "-Sometimes you gotta burn some bridges just to create some distance- @ The Brooklyn Bridge New\u2026 https://t.co/0yqN7vluZ0", 
+                "created_at": "2016-09-13T20:14:44", 
+                "retweet_count": 0, 
+                "id": "775789835021873152", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99289351, 
+                    40.75051355
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": -5498815.0, 
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments"
+                }, 
+                {
+                    "osm_id": 37054313.0, 
+                    "type": "yes", 
+                    "id": 592.0, 
+                    "name": "The High Line"
+                }, 
+                {
+                    "osm_id": 138141251.0, 
+                    "type": "yes", 
+                    "id": 729.0, 
+                    "name": "\u9ea5\u8fea\u905c\u5ee3\u5834\u82b1\u5712"
+                }, 
+                {
+                    "osm_id": 287854622.0, 
+                    "type": "yes", 
+                    "id": 125719.0, 
+                    "name": "Morgan General Mail Facility"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"Maybe one day i\"ll be singing at Madison square Garden\"- @shawnmendes @ Madison Square Garden https://t.co/vTeIdiqKTm", 
+                "created_at": "2016-09-11T17:40:28", 
+                "retweet_count": 0, 
+                "id": "775026237483933700", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985131, 
+                    40.758895
+                ]
+            }, 
+            "buildings": [
+                {
+                    "osm_id": 159912554.0, 
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I"
+                }, 
+                {
+                    "osm_id": 163474780.0, 
+                    "type": "yes", 
+                    "id": 859.0, 
+                    "name": "New York Marriott Marquis"
+                }, 
+                {
+                    "osm_id": 243088863.0, 
+                    "type": "yes", 
+                    "id": 9403.0, 
+                    "name": "One MiMA Tower"
+                }, 
+                {
+                    "osm_id": 265299994.0, 
+                    "type": "yes", 
+                    "id": 88948.0, 
+                    "name": "Saint Raphael's Church"
+                }, 
+                {
+                    "osm_id": 266149330.0, 
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater"
+                }, 
+                {
+                    "osm_id": 266149329.0, 
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre"
+                }, 
+                {
+                    "osm_id": 266149365.0, 
+                    "type": "yes", 
+                    "id": 93346.0, 
+                    "name": "the Row Hotel"
+                }, 
+                {
+                    "osm_id": 278359278.0, 
+                    "type": "yes", 
+                    "id": 100979.0, 
+                    "name": "Pier 76"
+                }, 
+                {
+                    "osm_id": 278353371.0, 
+                    "type": "yes", 
+                    "id": 100988.0, 
+                    "name": "Jacob Javits Convention Center"
+                }, 
+                {
+                    "osm_id": 279400339.0, 
+                    "type": "yes", 
+                    "id": 102026.0, 
+                    "name": "Sheraton"
+                }, 
+                {
+                    "osm_id": 281273726.0, 
+                    "type": "yes", 
+                    "id": 123633.0, 
+                    "name": "551 10th Avenue"
+                }
+            ], 
+            "type": "Feature", 
+            "properties": {
+                "text": "No hay palabras para explicar lo que es esta ciudad\ud83d\uddfd @ Times Square, New York City https://t.co/kF5WoxOjZH", 
+                "created_at": "2016-09-10T13:31:11", 
+                "retweet_count": 0, 
+                "id": "774601113379151876", 
+                "favorite_count": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -68.8167, 
+                    -32.8833
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Not really sure how i feel about it something in the way you move \nMakes me fell like i can't\u2026 https://t.co/Jm9nVrAlG5", 
+                "created_at": "2016-07-15T23:43:30", 
+                "retweet_count": 0, 
+                "id": "754099100128337920", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -69.83984932, 
+                    -32.84206516
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Its in my head , darling i hope \nThat you'll be here when i need you the most \nSo don't let me ,\u2026 https://t.co/UJ70CSRA8R", 
+                "created_at": "2016-07-06T22:54:17", 
+                "retweet_count": 0, 
+                "id": "750825221972697090", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.39405737, 
+                    -34.60656016
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Misma foto misma emoci\u00f3n y el mismo amor que nos venimos teniendo desde que hacemos este deporte\u2026 https://t.co/xKWXFjB696", 
+                "created_at": "2016-07-02T22:39:17", 
+                "retweet_count": 0, 
+                "id": "749371895682826240", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -69.1833, 
+                    -32.95
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2744\ufe0f @ Potrerillos, Mendoza, Argentina https://t.co/m97psRojAr", 
+                "created_at": "2016-06-24T01:39:10", 
+                "retweet_count": 0, 
+                "id": "746155676255264768", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.45377006, 
+                    -34.56944509
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Volvamos a esos 4 d\u00edas de joda con vos ayluagui_ \ud83d\ude08\n(Mis rulos\u2639\ufe0f) @ \"Costa Galana\" Mar del Plata https://t.co/AsPzxtiWbw", 
+                "created_at": "2016-06-12T00:54:21", 
+                "retweet_count": 0, 
+                "id": "741795743216848898", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.467, 
+                    28.4752
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nas ganas de volver\ud83d\ude4f\ud83d\udc9b @ Universal Studios Florida https://t.co/h5FgER4Kpj", 
+                "created_at": "2016-06-07T00:51:30", 
+                "retweet_count": 0, 
+                "id": "739983084863541249", 
+                "favorite_count": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -56.67701916, 
+                    -36.69569198
+                ]
+            }, 
+            "buildings": [], 
+            "type": "Feature", 
+            "properties": {
+                "text": "Summer has Come and passed\nThe innocent can never last \nWake me Up when september ends\ud83d\udc9b @ Playa\u2026 https://t.co/TdqOtqlBRU", 
+                "created_at": "2016-03-25T16:46:14", 
+                "retweet_count": 0, 
+                "id": "713406652159029248", 
+                "favorite_count": 1
+            }
+        }
+    ]
+}

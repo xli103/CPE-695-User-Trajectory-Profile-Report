@@ -1,0 +1,1275 @@
+{
+    "total_favorite_count": 908, 
+    "followers_count": 140, 
+    "total_tweets": 28, 
+    "user_id": 18425768, 
+    "screen_name": "peterobbin", 
+    "friends_count": 603, 
+    "buildings": {
+        "school": 5, 
+        "industrial": 4, 
+        "office": 2, 
+        "theatre": 7, 
+        "apartments": 34, 
+        "university": 5, 
+        "commercial": 23, 
+        "dormitory": 3, 
+        "college": 3, 
+        "church": 6, 
+        "retail": 6, 
+        "motel": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 3527.0, 
+                    "name": "Tower 67", 
+                    "osm_id": 241826149.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98057.0, 
+                    "name": "The Copely", 
+                    "osm_id": 269224892.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126397.0, 
+                    "name": "Columbia Park Theaters", 
+                    "osm_id": 366521782.0
+                }
+            ], 
+            "text": "Eyes. #subway #nyc #newyork #ny @ Central Park West, Manhattan, New York https://t.co/OQO54Xbkry", 
+            "id": "786342444958879744", 
+            "favorite_count": 2, 
+            "created_at": "2016-10-12T23:07:03", 
+            "coordinates": [
+                -73.976733, 
+                40.7754227
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Tower 67", 
+                    "The Copely"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm", 
+                    "osm_id": 264656621.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 88213.0, 
+                    "name": "St. Michael's Church", 
+                    "osm_id": 265258280.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 129286.0, 
+                    "name": "The Shops & Restaurants at Hudson Yards", 
+                    "osm_id": 398440363.0
+                }
+            ], 
+            "text": "New Yorker #newyorker #newyork #nyc #ny @ B&amp;H Photo Video Pro Audio https://t.co/oD5dzUxIOA", 
+            "id": "785239943006257152", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-09T22:06:06", 
+            "coordinates": [
+                -73.9963, 
+                40.75308
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "St. Michael's Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "Hey Neighbor #lincolncenter #lincolnsquare #newyork #nyc #ny @ Lincoln Center https://t.co/jGCLrat3lA", 
+            "id": "784528371917131776", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-07T22:58:34", 
+            "coordinates": [
+                -73.98312556, 
+                40.77246141
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Beacon School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 901.0, 
+                    "name": "Castle Point Apartments", 
+                    "osm_id": 182240448.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 85646.0, 
+                    "name": "Coed Hall", 
+                    "osm_id": 264651216.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85675.0, 
+                    "name": "Marvin Feldman Center", 
+                    "osm_id": 264651244.0
+                }, 
+                {
+                    "type": "college", 
+                    "id": 85676.0, 
+                    "name": "Fred P. Pomerantz Art & Design Center", 
+                    "osm_id": 264651245.0
+                }, 
+                {
+                    "type": "dormitory", 
+                    "id": 85729.0, 
+                    "name": "Nagler Hall", 
+                    "osm_id": 264651212.0
+                }
+            ], 
+            "text": "Empire State of mind.#sunday #newyork #ny #nyc #midtown #empirestatebuilding @ Midtown Manhattan https://t.co/g7SO05dhu3", 
+            "id": "782778627461148673", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-03T03:05:42", 
+            "coordinates": [
+                -73.986, 
+                40.747
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "dormitory", 
+                "name": [
+                    "Coed Hall", 
+                    "Nagler Hall"
+                ]
+            }, 
+            "building_frequency": {
+                "dormitory": 3, 
+                "college": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 668.0, 
+                    "name": "International Building", 
+                    "osm_id": 109284807.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building", 
+                    "osm_id": 163465869.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93003.0, 
+                    "name": "Park Avenue Plaza", 
+                    "osm_id": 266010441.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93180.0, 
+                    "name": "Bernard B. Jacobs Theatre", 
+                    "osm_id": 266149298.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93221.0, 
+                    "name": "John Golden Theatre", 
+                    "osm_id": 266149325.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93249.0, 
+                    "name": "Music Box Theatre", 
+                    "osm_id": 266149329.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93643.0, 
+                    "name": "The Sovereign", 
+                    "osm_id": 266194645.0
+                }
+            ], 
+            "text": "An artist under the bridge. #flushing #flushingmainstreet #newyork #nyc #ny @ Red Chopsticks Bar\u2026 https://t.co/U5nma10zKF", 
+            "id": "777684586516152320", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-19T01:43:48", 
+            "coordinates": [
+                -73.82891589, 
+                40.75879726
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "International Building", 
+                    "399 Park Avenue", 
+                    "30 Rockefeller Plaza", 
+                    "News Corp. Building", 
+                    "Park Avenue Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 6, 
+                "theatre": 4, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 3527.0, 
+                    "name": "Tower 67", 
+                    "osm_id": 241826149.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98057.0, 
+                    "name": "The Copely", 
+                    "osm_id": 269224892.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126397.0, 
+                    "name": "Columbia Park Theaters", 
+                    "osm_id": 366521782.0
+                }
+            ], 
+            "text": "#hello #myfaceis #poster #mta #subway #newyork #nyc #ny #manhattan @ Central Park West,\u2026 https://t.co/iO8wAvRPm0", 
+            "id": "772998652197478400", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-06T03:23:34", 
+            "coordinates": [
+                -73.976733, 
+                40.7754227
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Tower 67", 
+                    "The Copely"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 667.0, 
+                    "name": "Time-Life Building", 
+                    "osm_id": 109284794.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 671.0, 
+                    "name": "1290 Avenue of the Americas", 
+                    "osm_id": 109284795.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 685.0, 
+                    "name": "666 Fifth Avenue", 
+                    "osm_id": 118476502.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 846.0, 
+                    "name": "Biltmore Tower", 
+                    "osm_id": 163480139.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 854.0, 
+                    "name": "31 West 52nd Street", 
+                    "osm_id": 162747896.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89310.0, 
+                    "name": "New Gotham", 
+                    "osm_id": 265312767.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93218.0, 
+                    "name": "Samuel J. Friedman Theatre", 
+                    "osm_id": 266149331.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93294.0, 
+                    "name": "Walter Kerr Theatre", 
+                    "osm_id": 266151926.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 93506.0, 
+                    "name": "Lehman Brothers Building", 
+                    "osm_id": 266170754.0
+                }
+            ], 
+            "text": "Reflection #5thave #mirror #facade #manhattan #newyork #nyc #ny @ 5th Ave. Manhattan https://t.co/zbO7gOOHfI", 
+            "id": "767103585733775360", 
+            "favorite_count": 3, 
+            "created_at": "2016-08-20T20:58:41", 
+            "coordinates": [
+                -73.97579848, 
+                40.76054966
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Time-Life Building", 
+                    "1290 Avenue of the Americas", 
+                    "666 Fifth Avenue", 
+                    "31 West 52nd Street", 
+                    "Lehman Brothers Building"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 6, 
+                "theatre": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Express train making local stops. #subway #mta #saturday #weekend #manhattan #newyork #nyc @ New\u2026 https://t.co/6dPFp7l6HQ", 
+            "id": "762095341554499584", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-07T01:17:43", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41", 
+                    "osm_id": 250474273.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126562.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377078046.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126566.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377077898.0
+                }
+            ], 
+            "text": "Men in black. #mib #unionsquare #subway #manhattan #newyork #nyc @ Union Square Park - 14st https://t.co/46YFR7xCb5", 
+            "id": "759657384352608256", 
+            "favorite_count": 4, 
+            "created_at": "2016-07-31T07:50:08", 
+            "coordinates": [
+                -73.990448, 
+                40.735616
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "The New School University Center", 
+                    "The New School University Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "university": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Rainy #canalstreet #manhattan #nyc #newyork @ New York, New York https://t.co/0HqoRovoYg", 
+            "id": "759653771572047872", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-31T07:35:47", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "A nice horse. @ New York, New York https://t.co/43Y2qtED61", 
+            "id": "759501449126670337", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-30T21:30:30", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "VW #volkswagen #volkswagenbus @ New York, New York https://t.co/fqoj3HBpiT", 
+            "id": "759477330561630208", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-30T19:54:40", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 98007.0, 
+                    "name": "Holy Trinity Lutheran Church", 
+                    "osm_id": 269219552.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98013.0, 
+                    "name": "The Park Ten", 
+                    "osm_id": 269219553.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98028.0, 
+                    "name": "Liberty Lofts", 
+                    "osm_id": 269212825.0
+                }
+            ], 
+            "text": "Hot day. @ Central Park in NYC https://t.co/LKM7osiZ1c", 
+            "id": "757823988265385985", 
+            "favorite_count": 2, 
+            "created_at": "2016-07-26T06:24:53", 
+            "coordinates": [
+                -73.97188376, 
+                40.77212461
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Park Ten", 
+                    "The Grand Tier", 
+                    "Liberty Lofts"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }
+            ], 
+            "text": "Post Office. Good place. @ Madison Square Garden https://t.co/Fq45SKa4wk", 
+            "id": "755224163325997060", 
+            "favorite_count": 8, 
+            "created_at": "2016-07-19T02:14:06", 
+            "coordinates": [
+                -73.99289351, 
+                40.75051355
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Ballpark Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "Midnight Diner #uws #nyc @ Westside Restaurant https://t.co/gZxa8X1tt6", 
+            "id": "750547269880020992", 
+            "favorite_count": 3, 
+            "created_at": "2016-07-06T04:29:48", 
+            "coordinates": [
+                -73.98186, 
+                40.77643
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Shop Rite"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 87837.0, 
+                    "name": "The Colonnade", 
+                    "osm_id": 265152145.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97892.0, 
+                    "name": "The Westport", 
+                    "osm_id": 269201860.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 97917.0, 
+                    "name": "Harborview Terrace II", 
+                    "osm_id": 269199818.0
+                }
+            ], 
+            "text": "Hand @ 59st Columbus Circle Subway https://t.co/UUGvWf2mIw", 
+            "id": "749710219329011712", 
+            "favorite_count": 3, 
+            "created_at": "2016-07-03T21:03:39", 
+            "coordinates": [
+                -73.98216905, 
+                40.76810897
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Colonnade", 
+                    "The Westport", 
+                    "Harborview Terrace II"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 98400.0, 
+                    "name": "Lincoln Guild", 
+                    "osm_id": 269233525.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 126398.0, 
+                    "name": "Shop Rite", 
+                    "osm_id": 366521822.0
+                }
+            ], 
+            "text": "Ready....! @ Pomodoro Rosso https://t.co/NntITHdXrk", 
+            "id": "749291424051499008", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-02T17:19:31", 
+            "coordinates": [
+                -73.97941589, 
+                40.77650228
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Shop Rite"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 81301.0, 
+                    "name": "Public School 41", 
+                    "osm_id": 250474273.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126562.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377078046.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 126566.0, 
+                    "name": "The New School University Center", 
+                    "osm_id": 377077898.0
+                }
+            ], 
+            "text": "Checkmate. @ Union Sqaure https://t.co/yPWyQjQpz7", 
+            "id": "748209158881746944", 
+            "favorite_count": 2, 
+            "created_at": "2016-06-29T17:38:59", 
+            "coordinates": [
+                -73.99063653, 
+                40.73553854
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "university", 
+                "name": [
+                    "The New School University Center", 
+                    "The New School University Center"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "university": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 99175.0, 
+                    "name": "Leadership and Public Service High School", 
+                    "osm_id": 278033603.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 99219.0, 
+                    "name": "John Street Church", 
+                    "osm_id": 278039438.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99527.0, 
+                    "name": "Five Nine John Lofts", 
+                    "osm_id": 278078952.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99533.0, 
+                    "name": "110 William Street", 
+                    "osm_id": 278078924.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 105440.0, 
+                    "name": "180 Scholes", 
+                    "osm_id": 279648251.0
+                }, 
+                {
+                    "type": "industrial", 
+                    "id": 109017.0, 
+                    "name": "American Plastic Bags Inc", 
+                    "osm_id": 279785006.0
+                }, 
+                {
+                    "type": "industrial", 
+                    "id": 109022.0, 
+                    "name": "Supreme Poly Products", 
+                    "osm_id": 279785012.0
+                }, 
+                {
+                    "type": "industrial", 
+                    "id": 125785.0, 
+                    "name": "Illuminations", 
+                    "osm_id": 295768281.0
+                }
+            ], 
+            "text": "Hello. @ Some Warehouse In Brooklyn https://t.co/j6Ibww7Ng2", 
+            "id": "746227525731246081", 
+            "favorite_count": 1, 
+            "created_at": "2016-06-24T06:24:41", 
+            "coordinates": [
+                -73.92584793, 
+                40.70898743
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "industrial", 
+                "name": [
+                    "American Plastic Bags Inc", 
+                    "Supreme Poly Products", 
+                    "Illuminations"
+                ]
+            }, 
+            "building_frequency": {
+                "industrial": 4, 
+                "school": 2, 
+                "apartments": 3, 
+                "office": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }
+            ], 
+            "text": "A good day. #manhattanhenge #flatiron #sunset @ Flatiron District, NYC https://t.co/wJgSwnknUX", 
+            "id": "746189703544635392", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-24T03:54:23", 
+            "coordinates": [
+                -73.98919643, 
+                40.74140575
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Grand Chelsea"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 692.0, 
+                    "name": "Paramount Plaza", 
+                    "osm_id": 137874157.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 697.0, 
+                    "name": "AXA Equitable Center", 
+                    "osm_id": 137707119.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 774.0, 
+                    "name": "Calyon Building", 
+                    "osm_id": 146028962.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 855.0, 
+                    "name": "Winter Garden Theatre", 
+                    "osm_id": 163502865.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89354.0, 
+                    "name": "Gotham West", 
+                    "osm_id": 265317863.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "Delicious chicken over rice. @ The Halal Guys https://t.co/56uHVz0yLd", 
+            "id": "745476473503416321", 
+            "favorite_count": 3, 
+            "created_at": "2016-06-22T04:40:16", 
+            "coordinates": [
+                -73.97903, 
+                40.76178
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Paramount Plaza", 
+                    "AXA Equitable Center", 
+                    "Calyon Building"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 4, 
+                "theatre": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "47 @ New York, New York https://t.co/V4S4OMMNiw", 
+            "id": "740210738732666880", 
+            "favorite_count": 1, 
+            "created_at": "2016-06-07T15:56:07", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 88213.0, 
+                    "name": "St. Michael's Church", 
+                    "osm_id": 265258280.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 129286.0, 
+                    "name": "The Shops & Restaurants at Hudson Yards", 
+                    "osm_id": 398440363.0
+                }
+            ], 
+            "text": "Yo captain. #mta #manhattan #nyc #ny #newyork #subway @ Bryant Park https://t.co/ExJVHcz6dW", 
+            "id": "738918785122467841", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-04T02:22:21", 
+            "coordinates": [
+                -73.98504, 
+                40.75355
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "The Shops & Restaurants at Hudson Yards"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99152.0, 
+                    "name": "Riverwatch", 
+                    "osm_id": 277924004.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99162.0, 
+                    "name": "Greenwich Club Residences", 
+                    "osm_id": 278033589.0
+                }
+            ], 
+            "text": "Irregular Regularities by me(Luobin Wang) #peterobbin at #bushwickcollective #brooklyn #newyork\u2026 https://t.co/amQOk72z4z", 
+            "id": "738915781728161792", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-04T02:10:25", 
+            "coordinates": [
+                -73.9218, 
+                40.70762
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Riverwatch", 
+                    "Greenwich Club Residences"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails", 
+                    "osm_id": 265355139.0
+                }
+            ], 
+            "text": "#subway #mta #honschar #chalkart #night #nyc @ Central Park https://t.co/LM5i0VU9wM", 
+            "id": "658503051251159041", 
+            "favorite_count": 0, 
+            "created_at": "2015-10-26T04:38:56", 
+            "coordinates": [
+                -73.97530669, 
+                40.76892437
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Bijou Nails"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 126341.0, 
+                    "name": "Hoboken Small Business Center", 
+                    "osm_id": 351322649.0
+                }
+            ], 
+            "text": "O_O @ Good Stuff Diner https://t.co/V29RbDbckD", 
+            "id": "570830007590920192", 
+            "favorite_count": 0, 
+            "created_at": "2015-02-26T06:17:33", 
+            "coordinates": [
+                -73.99734005, 
+                40.73767898
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Hoboken Small Business Center"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 126411.0, 
+                    "name": "Saint Demetrius", 
+                    "osm_id": 366536016.0
+                }
+            ], 
+            "text": "Safe and sound. @ Webster Hall http://t.co/UcKzN8atXw", 
+            "id": "528025547222175744", 
+            "favorite_count": 0, 
+            "created_at": "2014-10-31T03:27:55", 
+            "coordinates": [
+                -73.98912834, 
+                40.7317349
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Saint Demetrius"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 126399.0, 
+                    "name": "Unique", 
+                    "osm_id": 366522077.0
+                }, 
+                {
+                    "type": "motel", 
+                    "id": 126438.0, 
+                    "name": "Fountain Motel", 
+                    "osm_id": 371373555.0
+                }
+            ], 
+            "text": "Who is this apple genius waiting for? @ Apple Store, Upper West Side http://t.co/oXlvXlKWRM", 
+            "id": "517392913324466177", 
+            "favorite_count": 1, 
+            "created_at": "2014-10-01T19:17:37", 
+            "coordinates": [
+                -73.98208294, 
+                40.77472242
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "motel", 
+                "name": [
+                    "Fountain Motel"
+                ]
+            }, 
+            "building_frequency": {
+                "motel": 2, 
+                "retail": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

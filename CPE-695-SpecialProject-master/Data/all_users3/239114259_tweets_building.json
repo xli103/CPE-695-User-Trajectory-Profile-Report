@@ -1,0 +1,203 @@
+{
+    "total_favorite_count": 6489, 
+    "followers_count": 353, 
+    "total_tweets": 3, 
+    "user_id": 239114259, 
+    "screen_name": "bigdavew22", 
+    "friends_count": 1851, 
+    "buildings": {
+        "school": 2, 
+        "commercial": 4, 
+        "office": 2, 
+        "theatre": 9, 
+        "apartments": 5
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 594.0, 
+                    "name": "McGraw-Hill Building", 
+                    "osm_id": 42496314.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 757.0, 
+                    "name": "30 Rockefeller Plaza", 
+                    "osm_id": 145341302.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 814.0, 
+                    "name": "Manhattan Plaza Apartments I", 
+                    "osm_id": 159912554.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building", 
+                    "osm_id": 163465869.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 89485.0, 
+                    "name": "Al Hirschfeld Theatre", 
+                    "osm_id": 265320169.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93232.0, 
+                    "name": "Richard Rodgers Theater", 
+                    "osm_id": 266149330.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93288.0, 
+                    "name": "Lunt-Fontanne Theatre", 
+                    "osm_id": 266149327.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93316.0, 
+                    "name": "Cort Theatre", 
+                    "osm_id": 266170541.0
+                }
+            ], 
+            "text": "Top of the Rockefeller building. #NYC @ Top Of The Rock NYC https://t.co/ucNenkic6y", 
+            "id": "789188854376861696", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-20T19:37:39", 
+            "coordinates": [
+                -73.97936699, 
+                40.75906157
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Al Hirschfeld Theatre", 
+                    "Richard Rodgers Theater", 
+                    "Lunt-Fontanne Theatre", 
+                    "Cort Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 4, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 99144.0, 
+                    "name": "South Cove Plaza", 
+                    "osm_id": 277924003.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 99298.0, 
+                    "name": "20 Broad Street", 
+                    "osm_id": 278053497.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 99467.0, 
+                    "name": "The Visionaire", 
+                    "osm_id": 278067736.0
+                }
+            ], 
+            "text": "New York Stock Exchange with George Washington at the front. #NYC @\u2026 https://t.co/QrcFemNiSj", 
+            "id": "789185919534321664", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-20T19:26:00", 
+            "coordinates": [
+                -74.01102778, 
+                40.70683333
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "South Cove Plaza", 
+                    "The Visionaire"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 93057.0, 
+                    "name": "Holy Cross School", 
+                    "osm_id": 266033995.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower", 
+                    "osm_id": 266034023.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre", 
+                    "osm_id": 266149299.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre", 
+                    "osm_id": 266149300.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }
+            ], 
+            "text": "Devasted another amazing trip to the United States (and Canada) is\u2026 https://t.co/CnYys8kmQY", 
+            "id": "786337998212390913", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T22:49:22", 
+            "coordinates": [
+                -73.98644, 
+                40.75839
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Booth Theatre", 
+                    "Broadhurst Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "theatre": 5, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}

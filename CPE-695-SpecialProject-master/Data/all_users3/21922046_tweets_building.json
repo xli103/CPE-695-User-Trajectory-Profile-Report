@@ -1,0 +1,4610 @@
+{
+    "total_favorite_count": 192, 
+    "followers_count": 13806, 
+    "total_tweets": 96, 
+    "user_id": 21922046, 
+    "screen_name": "StevenRojas", 
+    "friends_count": 1314, 
+    "buildings": {
+        "hospital": 4, 
+        "school": 43, 
+        "theatre": 11, 
+        "office": 10, 
+        "apartments": 175, 
+        "residential": 2, 
+        "university": 24, 
+        "hotel": 5, 
+        "commercial": 47, 
+        "library": 3, 
+        "civic": 2, 
+        "church": 20, 
+        "tower": 3, 
+        "retail": 5, 
+        "museum": 2
+    }, 
+    "features": [
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 57085.0, 
+                    "name": "Public School 20", 
+                    "osm_id": 250266613.0
+                }
+            ], 
+            "text": "I'm at Kinfolk 90 - @waysandmeans in Brooklyn, NY https://t.co/tB69bPwY5M", 
+            "id": "797544241501245440", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T20:58:59", 
+            "coordinates": [
+                -73.95814222, 
+                40.721613
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Public School 20"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 9408.0, 
+                    "name": "Grove Pointe", 
+                    "osm_id": 244778951.0
+                }, 
+                {
+                    "type": "retail", 
+                    "id": 10052.0, 
+                    "name": "Dunkin' Donuts", 
+                    "osm_id": 245360107.0
+                }
+            ], 
+            "text": "I'm at The Randolph at Broome - @therandolphnyc in New York, NY https://t.co/m7aVRwIPFv", 
+            "id": "797280276418326528", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T03:30:05", 
+            "coordinates": [
+                -73.99493712, 
+                40.71977014
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Dunkin' Donuts"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 10116.0, 
+                    "name": "H&R Block", 
+                    "osm_id": 245352088.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 12126.0, 
+                    "name": "San Lorenzo Ruiz Chapel", 
+                    "osm_id": 247866912.0
+                }
+            ], 
+            "text": "I'm at Ludlow House - @sohohouse in New York, NY https://t.co/3dTg8salbJ", 
+            "id": "797254404470697984", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-12T01:47:16", 
+            "coordinates": [
+                -73.98824215, 
+                40.72054258
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "H&R Block"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/4q2jvgMw3J", 
+            "id": "796515303220015104", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-10T00:50:21", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "5th one! I couldn't have done it without the cheers from the people of #NYC, family, friends,\u2026 https://t.co/JDpy6cKIrl", 
+            "id": "795391116904370177", 
+            "favorite_count": 2, 
+            "created_at": "2016-11-06T22:23:14", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 692.0, 
+                    "name": "Paramount Plaza", 
+                    "osm_id": 137874157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89354.0, 
+                    "name": "Gotham West", 
+                    "osm_id": 265317863.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 90237.0, 
+                    "name": "One Worldwide Plaza", 
+                    "osm_id": 265338408.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "I'm at @Equinox West 50th Street in New York, NY https://t.co/hBcfz0vQYs", 
+            "id": "793403795212500992", 
+            "favorite_count": 0, 
+            "created_at": "2016-11-01T10:46:20", 
+            "coordinates": [
+                -73.984548, 
+                40.762177
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Paramount Plaza", 
+                    "One Worldwide Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 692.0, 
+                    "name": "Paramount Plaza", 
+                    "osm_id": 137874157.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89354.0, 
+                    "name": "Gotham West", 
+                    "osm_id": 265317863.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 90237.0, 
+                    "name": "One Worldwide Plaza", 
+                    "osm_id": 265338408.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "I'm (at @Equinox West 50th Street in New York, NY) https://t.co/0TVFCEKGPC", 
+            "id": "793038009927077888", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-31T10:32:50", 
+            "coordinates": [
+                -73.984548, 
+                40.762177
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Paramount Plaza", 
+                    "One Worldwide Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Shaking it out with a small run to keep me focused on what I love to do. See you next Sunday\u2026 https://t.co/PSDh6pSiZN", 
+            "id": "792824855993454592", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-30T20:25:50", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 608.0, 
+                    "name": "Aldi", 
+                    "osm_id": 55148081.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 123677.0, 
+                    "name": "Union Hill High School", 
+                    "osm_id": 280850918.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126437.0, 
+                    "name": "Holiday Inn Express", 
+                    "osm_id": 371372814.0
+                }
+            ], 
+            "text": "I'm at Film Society of Lincoln Center - @filmlinc in New York, NY https://t.co/JZuiCqIsA3", 
+            "id": "792819759318433792", 
+            "favorite_count": 1, 
+            "created_at": "2016-10-30T20:05:35", 
+            "coordinates": [
+                -73.98373604, 
+                40.77347313
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Union Hill High School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "retail": 2, 
+                "hotel": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "civic", 
+                    "id": 83151.0, 
+                    "name": "Barclays Center", 
+                    "osm_id": 250992428.0
+                }
+            ], 
+            "text": "I'm at @BarclaysCenter for @BrooklynNets @Pacers in Brooklyn, NY https://t.co/UOjgwUkZiu", 
+            "id": "792148137234276352", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-28T23:36:47", 
+            "coordinates": [
+                -73.97599244, 
+                40.68309571
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "civic", 
+                "name": [
+                    "Barclays Center"
+                ]
+            }, 
+            "building_frequency": {
+                "civic": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Morning marathon training with @workoutbean in @centralparknyc #nycmarathon #run #nyc\u2026 https://t.co/s7u56Itm3a", 
+            "id": "790887169015607296", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-25T12:06:09", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa", 
+                    "osm_id": 269219557.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "7am #NYCmarathon training with @workoutbean \ud83c\udfc3\ud83c\udffb\ud83c\udf32\ud83c\udfc3\ud83c\udffb\u200d\u2640\ufe0f#training #run #gothextramile\u2026 https://t.co/6ouAPhWTCD", 
+            "id": "789456223548665856", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-21T13:20:05", 
+            "coordinates": [
+                -73.972216, 
+                40.77274259
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Grand Tier", 
+                    "The Europa", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/CFwhH3YOZm", 
+            "id": "788493890059993088", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-18T21:36:07", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/Do6pxmBTAV", 
+            "id": "786896163869978624", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-14T11:47:19", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/dqRILBIl3k", 
+            "id": "786334099111829505", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-12T22:33:53", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building", 
+                    "osm_id": 264768896.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House", 
+                    "osm_id": 264768948.0
+                }
+            ], 
+            "text": "I'm at @NeueHouse in New York, NY https://t.co/hUgSRxmW7t", 
+            "id": "785968223569190912", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-11T22:20:01", 
+            "coordinates": [
+                -73.9850891, 
+                40.74116062
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "The Neue House"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/lvk5DPlH9J", 
+            "id": "784507971187408896", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-07T21:37:30", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/XxMS2Ocng5", 
+            "id": "783992961650585600", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-06T11:31:02", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/mWxwPnrvWu", 
+            "id": "783066016012201984", 
+            "favorite_count": 0, 
+            "created_at": "2016-10-03T22:07:41", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 83594.0, 
+                    "name": "Symphony House", 
+                    "osm_id": 259919482.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90777.0, 
+                    "name": "Archstone Clinton South Tower", 
+                    "osm_id": 265356059.0
+                }
+            ], 
+            "text": "I'm at @PetrossianNyc in New York, NY https://t.co/VfkL1IgkSX", 
+            "id": "781652404160823296", 
+            "favorite_count": 3, 
+            "created_at": "2016-09-30T00:30:30", 
+            "coordinates": [
+                -73.97972872, 
+                40.76599805
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Symphony House", 
+                    "Archstone Clinton South Tower"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84147.0, 
+                    "name": "The Thomas Eddy", 
+                    "osm_id": 264624913.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }
+            ], 
+            "text": "I'm at BFA in New York, NY https://t.co/NCPOWtQuAR", 
+            "id": "779062344957718528", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-22T20:58:31", 
+            "coordinates": [
+                -73.99214805, 
+                40.74053364
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Thomas Eddy", 
+                    "333 River Street Apartments"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 84566.0, 
+                    "name": "Grand Chelsea", 
+                    "osm_id": 264633440.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 87150.0, 
+                    "name": "Flatiron Building", 
+                    "osm_id": 264768896.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87192.0, 
+                    "name": "The Neue House", 
+                    "osm_id": 264768948.0
+                }
+            ], 
+            "text": "I'm at @NeueHouse in New York, NY https://t.co/PdgfEIDaqb", 
+            "id": "778734504231866369", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-21T23:15:48", 
+            "coordinates": [
+                -73.9850891, 
+                40.74116062
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "The Neue House"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Stay safe NYC \u2764\ufe0f\ud83d\udcaa\ud83c\udffd\ud83d\uddfd @ New York, New York https://t.co/PjCB3kGmzN", 
+            "id": "777346494835949569", 
+            "favorite_count": 3, 
+            "created_at": "2016-09-18T03:20:21", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 856.0, 
+                    "name": "1700 Broadway", 
+                    "osm_id": 164073289.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 87693.0, 
+                    "name": "Le Premier", 
+                    "osm_id": 265150601.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 87702.0, 
+                    "name": "New York City Center", 
+                    "osm_id": 265150597.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 87777.0, 
+                    "name": "Squibb Building", 
+                    "osm_id": 265149282.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93293.0, 
+                    "name": "888 8th Avenue", 
+                    "osm_id": 266155271.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 123620.0, 
+                    "name": "The Link", 
+                    "osm_id": 281324352.0
+                }
+            ], 
+            "text": "It's going down (@ Nobu Fifty Seven in New York, NY) https://t.co/7ocxtiC92O", 
+            "id": "776975451302526976", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-17T02:45:57", 
+            "coordinates": [
+                -73.97644043, 
+                40.76377126
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Le Premier", 
+                    "888 8th Avenue", 
+                    "The Link"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 3, 
+                "theatre": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "Chapter 1.\nHe adored New York City. He idolized it all out of proportion...no, make that: he -\u2026 https://t.co/VmkYQoC0wx", 
+            "id": "776956261019553792", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-17T01:29:42", 
+            "coordinates": [
+                -73.98312556, 
+                40.77246141
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Beacon School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "New York philharmonic playing Manhattan live as we watch it! (@ David Geffen Hall - @lincolncenter in New York, NY) https://t.co/NvvNsckVkn", 
+            "id": "776928924316135424", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-16T23:41:04", 
+            "coordinates": [
+                -73.98312449, 
+                40.77257938
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Beacon School"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 36206.0, 
+                    "name": "Truffles Tribeca", 
+                    "osm_id": 249666506.0
+                }
+            ], 
+            "text": "I'm at @JuiceGeneration in New York, NY https://t.co/WugsuSqdqs", 
+            "id": "776772521031073792", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-16T13:19:35", 
+            "coordinates": [
+                -73.99691105, 
+                40.72392515
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Truffles Tribeca"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "7am. Awake (at @S10Training in New York, NY) https://t.co/AV1XLA416I", 
+            "id": "776737229586763776", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-16T10:59:21", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Wait, hold on Doc, are you telling me that you built a time machine\u2026out of a Delorian? \ud83d\udd25\ud83d\udd25\ud83d\udd25 @ New\u2026 https://t.co/SdSThmVyZc", 
+            "id": "776251882188734464", 
+            "favorite_count": 3, 
+            "created_at": "2016-09-15T02:50:45", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83582.0, 
+                    "name": "30 Montgomery Street", 
+                    "osm_id": 259774432.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 83589.0, 
+                    "name": "Battery View Apartments", 
+                    "osm_id": 259782473.0
+                }
+            ], 
+            "text": "I'm at @TheOdeonNyc in New York, NY https://t.co/Nt2aXXY3zA", 
+            "id": "776224962243944448", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-15T01:03:47", 
+            "coordinates": [
+                -74.00810145, 
+                40.71700359
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "30 Montgomery Street"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/LibIdClJfR", 
+            "id": "776201252451549184", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-14T23:29:34", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/7ybG2cSyoE", 
+            "id": "775834215053156353", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-13T23:11:05", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 646.0, 
+                    "name": "The British Empire Building", 
+                    "osm_id": 91200880.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 681.0, 
+                    "name": "399 Park Avenue", 
+                    "osm_id": 118116810.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 755.0, 
+                    "name": "Seagram Building", 
+                    "osm_id": 145341258.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building", 
+                    "osm_id": 163465869.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 91629.0, 
+                    "name": "The Capri", 
+                    "osm_id": 265460318.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93180.0, 
+                    "name": "Bernard B. Jacobs Theatre", 
+                    "osm_id": 266149298.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93183.0, 
+                    "name": "Booth Theatre", 
+                    "osm_id": 266149299.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93186.0, 
+                    "name": "Gerald Schoenfeld Theatre", 
+                    "osm_id": 266149302.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93221.0, 
+                    "name": "John Golden Theatre", 
+                    "osm_id": 266149325.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93225.0, 
+                    "name": "Majestic Theatre", 
+                    "osm_id": 266149328.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 93445.0, 
+                    "name": "Church of Saint Mary the Virgin", 
+                    "osm_id": 266170537.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93643.0, 
+                    "name": "The Sovereign", 
+                    "osm_id": 266194645.0
+                }
+            ], 
+            "text": "I'm at @BasureroNy in Astoria, NY https://t.co/1UoDiBYzOj", 
+            "id": "774787185681760256", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-11T01:50:34", 
+            "coordinates": [
+                -73.91909557, 
+                40.7585389
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Bernard B. Jacobs Theatre", 
+                    "Booth Theatre", 
+                    "Gerald Schoenfeld Theatre", 
+                    "John Golden Theatre", 
+                    "Majestic Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 5, 
+                "theatre": 6, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 830.0, 
+                    "name": "Grand Central Plaza", 
+                    "osm_id": 161049888.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 91982.0, 
+                    "name": "Ford Foundation", 
+                    "osm_id": 265517922.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 126376.0, 
+                    "name": "Marriott Residence Tower", 
+                    "osm_id": 358438823.0
+                }
+            ], 
+            "text": "Sunset from the @usopen with @ticketmaster \ud83d\udd25 #usopen #sportstember #nyc #rojassunsets \ud83c\udfbe @ Arthur\u2026 https://t.co/a7TsZ7ieKv", 
+            "id": "771863376641265664", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-03T00:12:24", 
+            "coordinates": [
+                -73.84703333, 
+                40.74988611
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "tower", 
+                "name": [
+                    "Two Penn Plaza"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2, 
+                "hotel": 2, 
+                "commercial": 2, 
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 529.0, 
+                    "name": "Ballpark Apartments", 
+                    "osm_id": -5498815.0
+                }, 
+                {
+                    "type": "tower", 
+                    "id": 585.0, 
+                    "name": "Two Penn Plaza", 
+                    "osm_id": 35938543.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 830.0, 
+                    "name": "Grand Central Plaza", 
+                    "osm_id": 161049888.0
+                }, 
+                {
+                    "type": "office", 
+                    "id": 92700.0, 
+                    "name": "Lorillard Building", 
+                    "osm_id": 265869522.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 125756.0, 
+                    "name": "Holiday Inn Express", 
+                    "osm_id": 292840084.0
+                }, 
+                {
+                    "type": "hotel", 
+                    "id": 125767.0, 
+                    "name": "Hyatt Place", 
+                    "osm_id": 292840085.0
+                }
+            ], 
+            "text": "I'm at @USOpen Tennis Championships in Flushing, NY https://t.co/SueTrsFRr7", 
+            "id": "771842588047466497", 
+            "favorite_count": 2, 
+            "created_at": "2016-09-02T22:49:47", 
+            "coordinates": [
+                -73.84569976, 
+                40.75043194
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "hotel", 
+                "name": [
+                    "Holiday Inn Express", 
+                    "Hyatt Place"
+                ]
+            }, 
+            "building_frequency": {
+                "tower": 2, 
+                "hotel": 3, 
+                "office": 3, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "SoHo mornings \ud83d\udc26 #nyc #50mm #photography #SonyA7 @ New York, New York https://t.co/SoSRM6eWMb", 
+            "id": "771693299786711040", 
+            "favorite_count": 1, 
+            "created_at": "2016-09-02T12:56:34", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/WVJiTMrbCm", 
+            "id": "771661102052577280", 
+            "favorite_count": 0, 
+            "created_at": "2016-09-02T10:48:38", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/iOXi9wiSFA", 
+            "id": "771129373336408065", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-31T23:35:44", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/FAGapclWoA", 
+            "id": "768764179205480480", 
+            "favorite_count": 2, 
+            "created_at": "2016-08-25T10:57:17", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 98013.0, 
+                    "name": "The Park Ten", 
+                    "osm_id": 269219553.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98028.0, 
+                    "name": "Liberty Lofts", 
+                    "osm_id": 269212825.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "#ZeldaRojas is 1\ufe0f\u20e3 year old today \ud83c\udf89\ud83d\udc36\ud83c\udf88 @ Central Park in NYC https://t.co/8wrU4scAad", 
+            "id": "768597737306742784", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-24T23:55:55", 
+            "coordinates": [
+                -73.97233544, 
+                40.77227077
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Park Ten", 
+                    "The Grand Tier", 
+                    "Liberty Lofts", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 5
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa", 
+                    "osm_id": 269219557.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "Good morning  \ud83d\udcaf @ Central Park https://t.co/NM6eELpkLx", 
+            "id": "768034486944722944", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-23T10:37:45", 
+            "coordinates": [
+                -73.972216, 
+                40.77274259
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Grand Tier", 
+                    "The Europa", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/RmpjVAotyA", 
+            "id": "767853198778466304", 
+            "favorite_count": 3, 
+            "created_at": "2016-08-22T22:37:23", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 83622.0, 
+                    "name": "Coliseum Park Apartments South", 
+                    "osm_id": 262349420.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails", 
+                    "osm_id": 265355139.0
+                }
+            ], 
+            "text": "I'm at @JeanGeorges in New York, NY https://t.co/oytp72cXxZ", 
+            "id": "767164710806519809", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-21T01:01:34", 
+            "coordinates": [
+                -73.98141031, 
+                40.7688074
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Bijou Nails"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 697.0, 
+                    "name": "AXA Equitable Center", 
+                    "osm_id": 137707119.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 760.0, 
+                    "name": "UBS Building", 
+                    "osm_id": 146028965.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 774.0, 
+                    "name": "Calyon Building", 
+                    "osm_id": 146028962.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 855.0, 
+                    "name": "Winter Garden Theatre", 
+                    "osm_id": 163502865.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }, 
+                {
+                    "type": "museum", 
+                    "id": 100954.0, 
+                    "name": "Museum of Modern Art", 
+                    "osm_id": 278346578.0
+                }
+            ], 
+            "text": "I'm at The Polo Bar - @ralphlauren in New York, NY https://t.co/zyRamrJ0kq", 
+            "id": "766080397897793537", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-18T01:12:54", 
+            "coordinates": [
+                -73.97440837, 
+                40.76153164
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "AXA Equitable Center", 
+                    "UBS Building", 
+                    "Calyon Building"
+                ]
+            }, 
+            "building_frequency": {
+                "museum": 2, 
+                "church": 2, 
+                "commercial": 4, 
+                "theatre": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "I'm at @Equinox West 50th Street in New York, NY https://t.co/i7rLvcWoyn", 
+            "id": "766028036135383042", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-17T21:44:50", 
+            "coordinates": [
+                -73.984014, 
+                40.761488
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "One River Place", 
+                    "Atelier"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 670.0, 
+                    "name": "J.P. Stevens Company Tower", 
+                    "osm_id": 109284804.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 849.0, 
+                    "name": "News Corp. Building", 
+                    "osm_id": 163465869.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 93075.0, 
+                    "name": "Ivy Tower", 
+                    "osm_id": 266034023.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 93102.0, 
+                    "name": "Holy Cross Church", 
+                    "osm_id": 266033992.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93185.0, 
+                    "name": "Broadhurst Theatre", 
+                    "osm_id": 266149300.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93215.0, 
+                    "name": "Shubert Theatre", 
+                    "osm_id": 266149334.0
+                }, 
+                {
+                    "type": "theatre", 
+                    "id": 93216.0, 
+                    "name": "St. James Theatre", 
+                    "osm_id": 266149336.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 93445.0, 
+                    "name": "Church of Saint Mary the Virgin", 
+                    "osm_id": 266170537.0
+                }
+            ], 
+            "text": "I'm at Dr. Oren Rahmanan DDS in New York, NY https://t.co/EctW6hVycz", 
+            "id": "765527525737033728", 
+            "favorite_count": 2, 
+            "created_at": "2016-08-16T12:35:59", 
+            "coordinates": [
+                -73.97939011, 
+                40.75817128
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "theatre", 
+                "name": [
+                    "Broadhurst Theatre", 
+                    "Shubert Theatre", 
+                    "St. James Theatre"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 3, 
+                "commercial": 3, 
+                "theatre": 4, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/bTCV3nkrPg", 
+            "id": "765330471614111744", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-15T23:32:58", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Mornings at the Rojas house \ud83d\udcaf\ud83c\udf75\ud83c\udf34#cleaneating #matcha #smoothie @ New York, New York https://t.co/RbYzMJbD9O", 
+            "id": "764119834460352517", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-12T15:22:19", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 2
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "I'm at @Equinox West 50th Street in New York, NY https://t.co/w3yYgRUpXd", 
+            "id": "763134683907493889", 
+            "favorite_count": 1, 
+            "created_at": "2016-08-09T22:07:41", 
+            "coordinates": [
+                -73.984014, 
+                40.761488
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "One River Place", 
+                    "Atelier"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/Whz7eGIyWp", 
+            "id": "762792668460179457", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-08T23:28:38", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Chasing that heathy life this morning #houseofmatcha \ud83c\udf75 @ New York, New York https://t.co/tuL8RFv7JV", 
+            "id": "762643337325207552", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-08T13:35:15", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/GqlFsUcoRk", 
+            "id": "760966324524871680", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-03T22:31:24", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/yymJWXbdVs", 
+            "id": "760238917933232128", 
+            "favorite_count": 0, 
+            "created_at": "2016-08-01T22:20:57", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa", 
+                    "osm_id": 269219557.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "Good morning racers \ud83e\udd18\ud83c\udffc\ud83c\udfc3\ud83c\udffb\u26a1\ufe0f #NYRR #run @ Central Park https://t.co/5QKcO5IC4c", 
+            "id": "759365187015245824", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-30T12:29:03", 
+            "coordinates": [
+                -73.972216, 
+                40.77274259
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Grand Tier", 
+                    "The Europa", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 126344.0, 
+                    "name": "333 River Street Apartments", 
+                    "osm_id": 351317831.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126347.0, 
+                    "name": "Hudson Square North", 
+                    "osm_id": 351324370.0
+                }
+            ], 
+            "text": "I'm at @Tumblr HQ in New York, NY https://t.co/xKNjKuAR55 https://t.co/Tj1I7uVkSk", 
+            "id": "758393896540004352", 
+            "favorite_count": 2, 
+            "created_at": "2016-07-27T20:09:29", 
+            "coordinates": [
+                -73.98837757, 
+                40.73952201
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "333 River Street Apartments", 
+                    "Hudson Square North"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/WAOWzRRX49", 
+            "id": "757902992351846400", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-26T11:38:49", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "retail", 
+                    "id": 557.0, 
+                    "name": "Newport Mall", 
+                    "osm_id": 27110664.0
+                }
+            ], 
+            "text": "I'm at Raoul's Restaurant - @raoulssoho in New York, NY https://t.co/SprLdlbQ2O", 
+            "id": "755941188289568768", 
+            "favorite_count": 0, 
+            "created_at": "2016-07-21T01:43:18", 
+            "coordinates": [
+                -74.00208178, 
+                40.72635375
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "retail", 
+                "name": [
+                    "Newport Mall"
+                ]
+            }, 
+            "building_frequency": {
+                "retail": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "church", 
+                    "id": 98007.0, 
+                    "name": "Holy Trinity Lutheran Church", 
+                    "osm_id": 269219552.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98013.0, 
+                    "name": "The Park Ten", 
+                    "osm_id": 269219553.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98028.0, 
+                    "name": "Liberty Lofts", 
+                    "osm_id": 269212825.0
+                }
+            ], 
+            "text": "Back in #NYC with my favorite #ZeldaRojas \ud83d\uddfd\ud83d\udcaf\ud83d\udc36 @ Central Park in NYC https://t.co/EWG3nD3GZx", 
+            "id": "755520345537384448", 
+            "favorite_count": 2, 
+            "created_at": "2016-07-19T21:51:01", 
+            "coordinates": [
+                -73.97172776, 
+                40.77220685
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Park Ten", 
+                    "The Grand Tier", 
+                    "Liberty Lofts"
+                ]
+            }, 
+            "building_frequency": {
+                "apartments": 4, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/IJP1nSKA79", 
+            "id": "748486785316052992", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-30T12:02:10", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/gStXIAi0rx", 
+            "id": "746127985175040000", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-23T23:49:08", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "I'm at @Equinox West 50th Street in New York, NY https://t.co/UVyneiTNUz", 
+            "id": "745742571532591105", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-22T22:17:38", 
+            "coordinates": [
+                -73.984014, 
+                40.761488
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "One River Place", 
+                    "Atelier"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "I'm at @Equinox West 50th Street in New York, NY https://t.co/kC27VYS9ww", 
+            "id": "745417361709277184", 
+            "favorite_count": 2, 
+            "created_at": "2016-06-22T00:45:22", 
+            "coordinates": [
+                -73.984014, 
+                40.761488
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "One River Place", 
+                    "Atelier"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/6fjzC7zECT", 
+            "id": "745036085768617984", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-20T23:30:19", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "#ZeldaRojas and I on mashable today \ud83d\udc36\ud83c\udf7e\u2764\ufe0f thanks for the photo chantaladair \ud83d\udcaf\ud83e\udd18\ud83c\udffc\ud83d\udcf8 #puppies\u2026 https://t.co/E1aZSJflSv", 
+            "id": "743127054451900416", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-15T17:04:31", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 743.0, 
+                    "name": "Metropolis Towers II", 
+                    "osm_id": 140838264.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "university", 
+                    "id": 41332.0, 
+                    "name": "New York Law School", 
+                    "osm_id": 250052729.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/OHynRKQWF3", 
+            "id": "740685772077031424", 
+            "favorite_count": 0, 
+            "created_at": "2016-06-08T23:23:43", 
+            "coordinates": [
+                -74.00145627, 
+                40.71806595
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers II", 
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "university": 2, 
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/1609Xa9zIP", 
+            "id": "732903247665627137", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-18T11:58:45", 
+            "coordinates": [
+                -74.00137019, 
+                40.71824386
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "I'm at @Equinox West 50th Street in New York, NY https://t.co/3NILtqW8s5", 
+            "id": "729992354287980544", 
+            "favorite_count": 1, 
+            "created_at": "2016-05-10T11:11:54", 
+            "coordinates": [
+                -73.984014, 
+                40.761488
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "One River Place", 
+                    "Atelier"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 584.0, 
+                    "name": "\u5e1d\u570b\u5927\u5ec8", 
+                    "osm_id": 34633854.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 91058.0, 
+                    "name": "Church of the Incarnation", 
+                    "osm_id": 265419755.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 92662.0, 
+                    "name": "The Highpoint", 
+                    "osm_id": 265865006.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 127775.0, 
+                    "name": "Christa McAuliffe", 
+                    "osm_id": 396820651.0
+                }
+            ], 
+            "text": "I'm at The Cliffs at Long Island City in Long Island City, NY https://t.co/V0VHSepXUG", 
+            "id": "729103824082878465", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-08T00:21:12", 
+            "coordinates": [
+                -73.94867117, 
+                40.74838809
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "school", 
+                "name": [
+                    "Christa McAuliffe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 2, 
+                "office": 2, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "City never sleeps \ud83d\uddfd\ud83e\udd18\ud83c\udffd\ud83c\udf1a @ New York, New York https://t.co/EATPcXpC8h", 
+            "id": "728051372856360960", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-05T02:39:08", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/t9hntYqKoH", 
+            "id": "728002818607591424", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-04T23:26:12", 
+            "coordinates": [
+                -74.00137019, 
+                40.71824386
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/hpcaQ3Isxc", 
+            "id": "727271090662285318", 
+            "favorite_count": 0, 
+            "created_at": "2016-05-02T22:58:34", 
+            "coordinates": [
+                -74.00137019, 
+                40.71824386
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "school", 
+                    "id": 97978.0, 
+                    "name": "Beacon School", 
+                    "osm_id": 269211267.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98025.0, 
+                    "name": "The Grand Tier", 
+                    "osm_id": 269212824.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 98048.0, 
+                    "name": "The Europa", 
+                    "osm_id": 269219557.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 102040.0, 
+                    "name": "Rivers Edge At Port Imperial", 
+                    "osm_id": 279480829.0
+                }
+            ], 
+            "text": "The district sleeps alone tonight \ud83d\ude4f\ud83c\udffd\ud83d\uddfd\ud83c\udfb6\ud83d\udcf8\ud83d\udd2e #35mm #sonyA7 #NYC @centralparknyc @ Central Park https://t.co/IYJS6uCS0N", 
+            "id": "726246121249579008", 
+            "favorite_count": 2, 
+            "created_at": "2016-04-30T03:05:42", 
+            "coordinates": [
+                -73.972216, 
+                40.77274259
+            ], 
+            "weekday": 6, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "The Grand Tier", 
+                    "The Europa", 
+                    "Rivers Edge At Port Imperial"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83582.0, 
+                    "name": "30 Montgomery Street", 
+                    "osm_id": 259774432.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 83589.0, 
+                    "name": "Battery View Apartments", 
+                    "osm_id": 259782473.0
+                }
+            ], 
+            "text": "I'm at @TheOdeonNyc in New York, NY https://t.co/cGGnq4AUhY", 
+            "id": "726189786730487808", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-29T23:21:51", 
+            "coordinates": [
+                -74.00784373, 
+                40.71697687
+            ], 
+            "weekday": 5, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "30 Montgomery Street"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Oh good morning, now get off the table! #zeldarojas #home \u2764\ufe0f \ud83c\udf1e \ud83d\udc36 \ud83d\uddbc\ud83e\udd18\ud83c\udffc\ud83d\udecb \ud83d\uddfd @ New York, New York https://t.co/xJkeof0VI6", 
+            "id": "725668149274808321", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-28T12:49:03", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "I'm at @Equinox West 50th Street in New York, NY https://t.co/Y8XyGxtVxi", 
+            "id": "725634167514517504", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-28T10:34:01", 
+            "coordinates": [
+                -73.984014, 
+                40.761488
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "One River Place", 
+                    "Atelier"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/KO4AvkkJA0", 
+            "id": "725459899476496384", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-27T23:01:33", 
+            "coordinates": [
+                -74.00137019, 
+                40.71824386
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "This must be the place \ud83d\udc36\ud83c\udfb6\ud83e\udd18\ud83c\udffd\ud83d\udc9b #home #zeldarojas #sunday #talkingheads @ New York, New York https://t.co/ubQlVZmhEy", 
+            "id": "724424580274786304", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-25T02:27:33", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "Sore. (at @Equinox West 50th Street in New York, NY w/ @tamarmilly) https://t.co/wHS2i38wu5", 
+            "id": "723097184053432320", 
+            "favorite_count": 2, 
+            "created_at": "2016-04-21T10:32:57", 
+            "coordinates": [
+                -73.984014, 
+                40.761488
+            ], 
+            "weekday": 4, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "One River Place", 
+                    "Atelier"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 1
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/6CCisJAAwb", 
+            "id": "722915752643153921", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-20T22:32:01", 
+            "coordinates": [
+                -74.00137019, 
+                40.71824386
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 83570.0, 
+                    "name": "Barclays Capital", 
+                    "osm_id": 259686627.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 126551.0, 
+                    "name": "18 Park", 
+                    "osm_id": 376161227.0
+                }
+            ], 
+            "text": "Feeling the #Bern at 6am #vote #nyc #berniesanders \ud83d\udce5\ud83c\uddfa\ud83c\uddf8\ud83d\udcee @ New York, New York https://t.co/wRFJlV5fek", 
+            "id": "722375978803163136", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-19T10:47:09", 
+            "coordinates": [
+                -74.0064, 
+                40.7142
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Barclays Capital"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99376.0, 
+                    "name": "1 Whitehall Street", 
+                    "osm_id": 278053579.0
+                }
+            ], 
+            "text": "Sunday's \ud83e\udd18\ud83c\udffd @ DUMBO Boulders Powered by The Cliffs https://t.co/fREhRONULB", 
+            "id": "721764969704988672", 
+            "favorite_count": 3, 
+            "created_at": "2016-04-17T18:19:13", 
+            "coordinates": [
+                -73.98926, 
+                40.70396
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "1 Whitehall Street"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 99376.0, 
+                    "name": "1 Whitehall Street", 
+                    "osm_id": 278053579.0
+                }
+            ], 
+            "text": "Bouldering in Dumbo under the Manhattan bridge \ud83e\udd18\ud83c\udffc\ud83d\uddfd\ud83d\ude0e @ DUMBO Boulders Powered by The Cliffs https://t.co/GfvptA5PKK", 
+            "id": "721715824839553024", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-17T15:03:56", 
+            "coordinates": [
+                -73.98926, 
+                40.70396
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "office", 
+                "name": [
+                    "1 Whitehall Street"
+                ]
+            }, 
+            "building_frequency": {
+                "office": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/M00Tv9hTxt", 
+            "id": "720389083202097152", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-13T23:11:56", 
+            "coordinates": [
+                -74.00137019, 
+                40.71824386
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 2, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/pNE8WX3lCv", 
+            "id": "719855338418278400", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-12T11:51:01", 
+            "coordinates": [
+                -74.00137019, 
+                40.71824386
+            ], 
+            "weekday": 2, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/PSw512E6Ab", 
+            "id": "719669430654013440", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-11T23:32:17", 
+            "coordinates": [
+                -74.00137019, 
+                40.71824386
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 692.0, 
+                    "name": "Paramount Plaza", 
+                    "osm_id": 137874157.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 697.0, 
+                    "name": "AXA Equitable Center", 
+                    "osm_id": 137707119.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 774.0, 
+                    "name": "Calyon Building", 
+                    "osm_id": 146028962.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 87588.0, 
+                    "name": "Fifth Avenue Presbyterian Church", 
+                    "osm_id": 265149191.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 89354.0, 
+                    "name": "Gotham West", 
+                    "osm_id": 265317863.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 90237.0, 
+                    "name": "One Worldwide Plaza", 
+                    "osm_id": 265338408.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 90303.0, 
+                    "name": "590 Madison Avenue", 
+                    "osm_id": 265345393.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 100955.0, 
+                    "name": "Financial Times Building", 
+                    "osm_id": 278346582.0
+                }, 
+                {
+                    "type": "residential", 
+                    "id": 137323.0, 
+                    "name": "New Split Residential/Commercial (Under Construction)", 
+                    "osm_id": 409389970.0
+                }
+            ], 
+            "text": "I'm at @SanfordsAstoria in Astoria, NY https://t.co/cwoftTuxf0", 
+            "id": "719222324126486530", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-10T17:55:39", 
+            "coordinates": [
+                -73.92562303, 
+                40.76210442
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Paramount Plaza", 
+                    "AXA Equitable Center", 
+                    "Calyon Building", 
+                    "One Worldwide Plaza", 
+                    "590 Madison Avenue", 
+                    "Financial Times Building"
+                ]
+            }, 
+            "building_frequency": {
+                "residential": 2, 
+                "apartments": 3, 
+                "commercial": 7, 
+                "church": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "office", 
+                    "id": 837.0, 
+                    "name": "450 Lexington Avenue", 
+                    "osm_id": 162669905.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm", 
+                    "osm_id": 264656621.0
+                }, 
+                {
+                    "type": "library", 
+                    "id": 89209.0, 
+                    "name": "\u7d10\u7d04\u5716\u66f8\u9928", 
+                    "osm_id": 265302076.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92848.0, 
+                    "name": "Graybar Building", 
+                    "osm_id": 265947361.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 126369.0, 
+                    "name": "Holy Family Catholic Church", 
+                    "osm_id": 354612946.0
+                }
+            ], 
+            "text": "Sunday @bkboulders #adventure #rockclimbing @ Brooklyn Boulders Queensbridge https://t.co/Hjq9zgCm7a", 
+            "id": "719203024074383360", 
+            "favorite_count": 3, 
+            "created_at": "2016-04-10T16:38:57", 
+            "coordinates": [
+                -73.9404755, 
+                40.7528267
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "church", 
+                "name": [
+                    "Holy Family Catholic Church"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 2, 
+                "library": 2, 
+                "office": 2, 
+                "apartments": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 3, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 661.0, 
+                    "name": "Trump World Tower", 
+                    "osm_id": 104071486.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 85932.0, 
+                    "name": "The Ohm", 
+                    "osm_id": 264656621.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 88215.0, 
+                    "name": "The Olivia", 
+                    "osm_id": 265258294.0
+                }, 
+                {
+                    "type": "library", 
+                    "id": 89209.0, 
+                    "name": "\u7d10\u7d04\u5716\u66f8\u9928", 
+                    "osm_id": 265302076.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 92848.0, 
+                    "name": "Graybar Building", 
+                    "osm_id": 265947361.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 126369.0, 
+                    "name": "Holy Family Catholic Church", 
+                    "osm_id": 354612946.0
+                }
+            ], 
+            "text": "I'm at Brooklyn Boulders Queensbridge in Queens, NY https://t.co/puJyTIZuwt", 
+            "id": "719177265934938114", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-10T14:56:36", 
+            "coordinates": [
+                -73.94006647, 
+                40.75265407
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Trump World Tower", 
+                    "The Ohm", 
+                    "The Olivia"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "commercial": 2, 
+                "library": 2, 
+                "apartments": 4
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "commercial", 
+                    "id": 126341.0, 
+                    "name": "Hoboken Small Business Center", 
+                    "osm_id": 351322649.0
+                }
+            ], 
+            "text": "I'm at The Beatrice Inn in New York, NY https://t.co/bzrBEm7Xlt", 
+            "id": "718963164461867008", 
+            "favorite_count": 4, 
+            "created_at": "2016-04-10T00:45:50", 
+            "coordinates": [
+                -74.004035, 
+                40.73763257
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "commercial", 
+                "name": [
+                    "Hoboken Small Business Center"
+                ]
+            }, 
+            "building_frequency": {
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/Q5Z1I3Ecbc", 
+            "id": "717854234331455488", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-06T23:19:21", 
+            "coordinates": [
+                -74.00137019, 
+                40.71824386
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 1, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "I'm at @Equinox West 50th Street in New York, NY https://t.co/KhBEKmVFqH", 
+            "id": "717511780973551616", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-06T00:38:33", 
+            "coordinates": [
+                -73.984014, 
+                40.761488
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "One River Place", 
+                    "Atelier"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 773.0, 
+                    "name": "Metropolis Towers I", 
+                    "osm_id": 140838263.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 82386.0, 
+                    "name": "Tribeca Pointe", 
+                    "osm_id": 250568902.0
+                }, 
+                {
+                    "type": "school", 
+                    "id": 82432.0, 
+                    "name": "Stuyvesant High School", 
+                    "osm_id": 250568901.0
+                }
+            ], 
+            "text": "I'm at @S10Training in New York, NY https://t.co/sUxozJtEX7", 
+            "id": "717117986574888960", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-04T22:33:46", 
+            "coordinates": [
+                -74.00137019, 
+                40.71824386
+            ], 
+            "weekday": 1, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "Metropolis Towers I", 
+                    "Tribeca Pointe"
+                ]
+            }, 
+            "building_frequency": {
+                "school": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "hospital", 
+                    "id": 90623.0, 
+                    "name": "Mount Sinai Roosevelt Hospital", 
+                    "osm_id": 265355142.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails", 
+                    "osm_id": 265355139.0
+                }
+            ], 
+            "text": "April and snowing \u2744\ufe0f\ud83c\udf32\ud83e\udd18\ud83c\udffc\ud83c\udfd4 #adventure #catskills #kaaterskillfalls @ Kaaterskill High Peak,\u2026 https://t.co/oU5y7DvRAP", 
+            "id": "716733075145826304", 
+            "favorite_count": 0, 
+            "created_at": "2016-04-03T21:04:16", 
+            "coordinates": [
+                -73.98493139, 
+                40.76915998
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "hospital", 
+                "name": [
+                    "Mount Sinai Roosevelt Hospital"
+                ]
+            }, 
+            "building_frequency": {
+                "hospital": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "hospital", 
+                    "id": 90623.0, 
+                    "name": "Mount Sinai Roosevelt Hospital", 
+                    "osm_id": 265355142.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails", 
+                    "osm_id": 265355139.0
+                }
+            ], 
+            "text": "The only maniacs willing to wake up at 7am on Sunday to go hike #kaaterskillfalls #catskills\u2026 https://t.co/Fszp6iI7LS", 
+            "id": "716721023123656704", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-03T20:16:22", 
+            "coordinates": [
+                -73.98493139, 
+                40.76915998
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "hospital", 
+                "name": [
+                    "Mount Sinai Roosevelt Hospital"
+                ]
+            }, 
+            "building_frequency": {
+                "hospital": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "hospital", 
+                    "id": 90623.0, 
+                    "name": "Mount Sinai Roosevelt Hospital", 
+                    "osm_id": 265355142.0
+                }, 
+                {
+                    "type": "commercial", 
+                    "id": 90648.0, 
+                    "name": "Bijou Nails", 
+                    "osm_id": 265355139.0
+                }
+            ], 
+            "text": "#ZeldaRojas the adventure puppy #catskills #kaaterskillfalls \u2744\ufe0f\ud83e\udd18\ud83c\udffc\ud83d\udc36 @ Kaaterskill High Peak,\u2026 https://t.co/el78rxY98q", 
+            "id": "716719526264627201", 
+            "favorite_count": 1, 
+            "created_at": "2016-04-03T20:10:25", 
+            "coordinates": [
+                -73.98493139, 
+                40.76915998
+            ], 
+            "weekday": 7, 
+            "most_common_building": {
+                "type": "hospital", 
+                "name": [
+                    "Mount Sinai Roosevelt Hospital"
+                ]
+            }, 
+            "building_frequency": {
+                "hospital": 2, 
+                "commercial": 2
+            }, 
+            "retweet_count": 0
+        }, 
+        {
+            "time_interval": 4, 
+            "buildings": [
+                {
+                    "type": "apartments", 
+                    "id": 864.0, 
+                    "name": "One River Place", 
+                    "osm_id": 164720439.0
+                }, 
+                {
+                    "type": "church", 
+                    "id": 89727.0, 
+                    "name": "Saint Clement's Church", 
+                    "osm_id": 265320987.0
+                }, 
+                {
+                    "type": "apartments", 
+                    "id": 90767.0, 
+                    "name": "Atelier", 
+                    "osm_id": 265357840.0
+                }
+            ], 
+            "text": "I'm at @Equinox West 50th Street in New York, NY https://t.co/frXovtXz3E", 
+            "id": "715307116651798528", 
+            "favorite_count": 2, 
+            "created_at": "2016-03-30T22:38:01", 
+            "coordinates": [
+                -73.984014, 
+                40.761488
+            ], 
+            "weekday": 3, 
+            "most_common_building": {
+                "type": "apartments", 
+                "name": [
+                    "One River Place", 
+                    "Atelier"
+                ]
+            }, 
+            "building_frequency": {
+                "church": 2, 
+                "apartments": 3
+            }, 
+            "retweet_count": 0
+        }
+    ]
+}
